@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sat Oct 22 22:31:55 2022"
+  rime_version: 1.5.3
+patch:
+  "style/color_scheme": ps4
+  "style/color_scheme3": ps4
+  "style/font_face": "孤鹜 筑紫明朝"
+  "style/font_point": 16

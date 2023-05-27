@@ -1,0 +1,35 @@
+var:
+  last_build_time: 1683985159
+  option:
+    extended_charset: true
+    full_shape: false
+    simplification: false
+  previously_selected_schema: "sadfes3-0"
+  schema_access_time:
+    3dgx: 1676805659
+    bopomofo_tw: 1669516862
+    bsoc: 1671538287
+    cangjie5: 1682129191
+    cangjie5_express: 1677503101
+    "cangjie6-1": 1673592575
+    "cangjie7-1": 1679132915
+    "cangjie7-2": 1669522987
+    cangjie8: 1668698469
+    emoji: 1671674668
+    english: 1678455613
+    hirakana: 1679127470
+    ipa2: 1676121201
+    ipa_yunlong: 1668783409
+    kana: 1668941530
+    katakana: 1679068379
+    luna_pinyin: 1679830767
+    mscc: 1669514043
+    nonKanji: 1678983316
+    "sadfes2.4-b": 1675840515
+    "sadfes3-0": 1682518321
+    sadfesKzaVassuk: 1677161925
+    sadfesKzaVassukU: 1677161915
+    sfqg2.0: 1669515995
+    sol_pinyin: 1669387443
+    terra_pinyin: 1668696002
+    zyenpheng: 1678979865

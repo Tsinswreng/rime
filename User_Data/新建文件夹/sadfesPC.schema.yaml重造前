@@ -1,0 +1,175 @@
+# Rime schema
+# encoding: utf-8
+
+#schema:
+  #schema_id: tupa
+  #name: 切韻拼音
+  #version: "2022.05.21"
+  #author:
+    #- Ayaka Mikazuki <ayaka@mail.shn.hk>
+  #description: |-
+    #切韻拼音
+  
+
+    
+schema:
+  schema_id: sadfesPC
+  name: sadfesPC
+  version: "2022.07.20"
+  author:
+    - 
+  description: |-
+    
+
+    https://zhuanlan.zhihu.com/p/478751152
+  dependencies:
+    - luna_pinyin
+    - jyut6ping3
+    - tupa_unspaced
+
+#switches:
+  #- name: ascii_mode
+    #reset: 0
+    #states: [ 中文, 西文 ]
+  #- name: full_shape
+    #states: [ 半角, 全角 ]
+  #- name: simplification
+    #states: [ 漢字, 汉字 ]
+  #- name: ascii_punct
+    #states: [ 。，, ．， ]
+
+switches:
+  - name: ascii_mode
+    states: [ 中, A ]
+  - name: full_shape
+    states: [ ●, ◑ ]
+  - name: simplification
+    states: [ 漢, 汉 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  #- name:  _hide_key_hint
+    #states: [ 有, 無助记 ]  
+  - name: _hide_comment
+    states: [ ■, □ ]  #有無註釋
+    #reset: 1
+  #- name: extended_charset
+    #states: [ 常, 廣 ]
+   
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    #- affix_segmentor@jyut6ping3
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+    #- script_translator@jyut6ping3
+    - table_translator
+    #- reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+    #- reverse_lookup_filter@tupa_reverse_lookup
+    - reverse_lookup_filter@sadfes
+#speller:
+  #alphabet: zyxwvutsrqponmlkjihgfedcba
+  #delimiter: " '"
+  #algebra:
+    #- "xform/'//"
+    #- abbrev/^([a-z]).+$/$1/
+    #- abbrev/^([^aeiouyw]+).+$/$1/
+    #- abbrev/[qh]$// # 聲調
+    
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_?`;⇂₊/@"!'()+-/:<=>?[\\]^|~" 
+  delimiter: " '"
+  algebra:
+    - "xform/'//"
+    - abbrev/^([a-z]).+$/$1/
+    #- abbrev/^([ptkgc]h).+$/$1/
+    #- abbrev/^(zs).+$/$1/
+    #- abbrev/^(ng).+$/$1/
+    #- abbrev/^([czs][hs]?j).+$/$1/
+    #- abbrev/^ph.+$/f/
+    #- abbrev/^th.+$/r/
+    #- abbrev/^kh.+$/x/
+    #- abbrev/^ch.+$/v/
+    #- abbrev/^ng.+$/w/
+
+#translator:
+  #dictionary: tupa
+  #spelling_hints: 8
+  #comment_format:
+    #- "xform/$/\u200b/" # 永遠顯示拼音
+    
+translator:
+  dictionary: sadfesPC
+  
+  
+#abc_segmentor:
+  #extra_tags:
+    #- reverse_lookup  # 與（反查碼）混打
+    
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: ";"
+  #suffix: ""
+  tips: 〔普通話〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+#jyut6ping3:
+  #tag: jyut6ping3
+  #dictionary: jyut6ping3
+  #prefix: ""
+  #suffix: ";"
+  #tips: 〔粵語〕
+
+#tupa_reverse_lookup:
+  #tags: [ luna_pinyin, jyut6ping3 ]
+  #overwrite_comment: false
+  #dictionary: sadfes #tupa_unspaced
+  #comment_format:
+    #- xform/=/ /
+    
+sadfes:
+  dictionary: sadfesPC
+  prefix: "`"
+  suffix: "'"
+  overwrite_comment: true
+  tags: 〔倉頡〕
+  #dictionary: emoji
+  #prefix: "₊"
+  #suffix: "'"
+  #tips: 〔表情〕
+  
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "^;[a-z]*;?$"
+    jyut6ping3: "^f[a-z]*;?$"

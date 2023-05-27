@@ -1,0 +1,530 @@
+#22.11.20-1554
+# Rime schema
+# encoding: utf-8
+
+    
+schema:
+  schema_id: kana
+  name: kana
+  version: ""
+  author: Tsinswreng Gw'ang
+  #description: |-
+    
+
+    
+  #dependencies:
+
+switches:
+  - name: ascii_mode
+    states: [ 中, A ]
+  - name: full_shape
+    states: [ ●, ◑ ]
+  - name: simplification
+    states: [ 漢, 汉 ]
+  - name: extended_charset
+    states: [ 常, 廣 ]
+    reset: 0
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  #- name:  _hide_key_hint
+    #states: [ 有, 無助记 ]  
+  - name: _hide_comment
+    states: [ ■, □ ]  #有無註釋
+    #reset: 1
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+    #- lua_translator@time_translator
+#对输入引擎配制进行配制
+  # __merge:
+  #   engine:
+  #     translators/+:                  
+  #       - lua_translator@time_translator
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@terra_pinyin
+    #- affix_segmentor@luna_pinyin
+    # - affix_segmentor@cangjie7
+    #- affix_segmentor@kana
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    #- script_translator@luna_pinyin
+    #- script_translator@jyut6ping3
+    - script_translator@terra_pinyin
+    # - script_translator@cangjie7
+    #- script_translator@kana
+    - table_translator
+    - lua_translator@time_translator
+    - history_translator@history
+    #- reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@sadfespz
+    - reverse_lookup_filter@dkzp
+    - reverse_lookup_filter@starostin
+    - reverse_lookup_filter@mscc
+    - reverse_lookup_filter@msmc
+    #- single_char_filter # 從倉頡五、開啟後會重複首選?
+    - cjk_minifier
+    
+speller:
+  alphabet: 1890.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_?`;/@,.!'()+/"\:<>?[\\]^|~[\t[\.][\[\]]1890{}"
+  #use_Tab: true
+  #delimiter: Tab
+  #delimiter: "]"
+  delimiter: "7"
+  #auto_select: true
+  #auto_select_unique_candidate: true  #唯一字自动提交
+  #auto_select:_pattern: ^
+  
+  algebra:
+
+    - "derive/y/[/"
+
+    - "abbrev/([.]|[a-zA-Z0-9]).+/$1/"
+    # - "abbrev/([).+/$1/"
+    # - "abbrev/(]).+/$1/"
+    - "abbrev/(;).+/$1/"
+    
+    # - "abbrev/(').+/$1/"
+    - "abbrev/(,).+/$1/"
+    - "abbrev/(.).+/$1/"
+
+    # - "abbrev (/).+ $1"
+    
+    #- xform/([a-z]{3})/$1]]]]]]/
+    #- "derive/([a-zA-Z]).+/$1/"
+    #- "derive/([a-zA-Z]{3}).+/$1]/"
+    #- derive/`/;/
+    #- derive/y/[/
+    
+    #- derive/`/y/
+    #- "abbrev/([).+/$1/"
+
+
+    #- xlit/~//
+    #- erase/~/
+   
+
+  #comment_format:
+    #- "xform/$/\u200b/" # 永遠顯示拼音
+    
+translator:
+  dictionary: kana #luna_pinyin
+  prism: kana
+  #user_dict: 用戶詞
+  spelling_hints: 8
+  enable_completion: true #提前顯示尚未輸入完整碼的字〔僅table_translator有效〕
+  enable_commit_history: false #是否對已上屛詞自動成詞〔僅table_translator有效〕
+  enable_sentence: false #是否開啓自動造句
+  enable_user_dict: true #是否開啓用戶詞典〔用戶詞典記錄動態字詞頻、用戶詞〕
+  enable_encoder: false #是否開啓自動造詞〔僅table_translator有效〕
+  max_phrase_length: 0 #最大自動成詞詞長〔僅table_translator有效〕
+  sentence_over_completion: false #在無全碼對應字而僅有逐鍵提示時也開啓智能組句〔僅table_translator有效〕
+  enable_charset_filter: true
+  encode_commit_history: true
+  preedit_format:
+
+    - xform/7/|/
+
+
+    
+    #- xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+
+
+
+    #- xlit/.//
+    #- "xform/$/\u200b/" # 永遠顯示拼音
+    #- "derive 苦 x"
+    #- "derive / x"
+    #- xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+
+
+  comment_format:
+    # - xform/\[/y/
+    - xform/7/|/
+
+
+    
+    - xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+
+
+
+    #- xlit/.//
+    #- "xform/$/\u200b/" # 永遠顯示拼音
+
+history:
+  input: "]]"
+  size: 9
+  initial_quality: 0 #設定此翻譯器出字優先級
+
+    
+    
+#abc_segmentor:
+  #extra_tags:
+    #- reverse_lookup  # 與（反查碼）混打
+    
+    
+# kanapz:
+#   tag: kanapz
+#   dictionary: cangjie5
+#   prefix: "/"
+#   suffix: ""
+#   tips: 〔倉頡7-1〕
+  
+kana:
+  tag: kana
+  dictionary: kana
+  prefix: ""
+  suffix: ""
+  #tips: 
+
+
+
+terra_pinyin:
+  tag: terra_pinyin
+  dictionary: terra_pinyin
+  prefix: '>'
+  #suffix: ""
+  tips: 〔普通話〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    
+# luna_pinyin:
+#   tag: luna_pinyin
+#   dictionary: luna_pinyin
+#   prefix: "]"
+#   #suffix: ""
+#   tips: 〔普通話〕
+#   preedit_format:
+#     - xform/([nl])v/$1ü/
+#     - xform/([nl])ue/$1üe/
+#     - xform/([jqxy])v/$1u/
+
+
+
+#tupa_reverse_lookup:
+  #tags: [ luna_pinyin, jyut6ping3 ]
+  #overwrite_comment: false
+  #dictionary: sadfes2.0 #tupa_unspaced
+  #comment_format:
+    #- xform/=/ /
+
+
+msmc:
+  #dictionary: msmc
+  prefix: "`"
+  suffix: "'"
+  #overwrite_comment: true
+  comment_format:
+    - xform/ɯ/ï/
+    - xform/ʌ/ə/
+    - xform/ɑo/a/
+    - xform/ɜu/ɔ/
+    - xform/ou/U/
+    - xform/u([ˀʰ])/w$1/
+    - xform/u$/w/
+    - xform/u/ʉ/
+    - xform/U/u/
+    - xform/ʴ/r/
+    - xform/tʃ/tɕ/
+    - xform/tʃʰ/tɕʰ/
+    - xform/dʒ/dʑ/
+    - xform/ʒ/ʑ/
+    - xform/ʃ/ɕ/
+
+
+
+mscc:
+  dictionary: mscc
+  prefix: "`"
+  suffix: "'"
+  #overwrite_comment: true
+  comment_format:
+    - xform/h$/ʰ/
+    - xform/h(\s)/ʰ$1/
+    - xform/ʔ$/ˀ/
+    - xform/ʔ(\s)/ˀ$1/
+    - xform/ɛ/e/
+    - xform/ɔ/o/
+    - xform/ɹ/r/
+    - xform/ʴ/ʳ/
+    - xform/θ/ç/
+    
+    
+    - xform/ˁa/ˁā/
+    - xform/ˁe/ˁē/
+    - xform/ˁi/ˁī/
+    - xform/ˁo/ˁō/
+    - xform/ˁu/ˁū/
+    - xform/ˁ/'/
+    #- xform/ˁə/ə̄/
+     
+    
+
+    - xform/(\[)//
+    - xform/(\])//
+
+
+
+starostin:
+  #dictionary: starostin
+  prefix: "`"
+  suffix: "'"
+  #overwrite_comment: true
+  comment_format:
+    - xform/aː/ā/
+    - xform/eː/ē/
+    - xform/iː/ī/
+    - xform/oː/ō/
+    - xform/uː/ū/
+    - xform/ʔ$/ˀ/
+    - xform/h$/ʰ/
+
+
+    
+dkzp:
+  #dictionary: dkzp
+  prefix: "`"
+  suffix: "'"
+  #overwrite_comment: true
+  comment_format:
+    # - xform/aa(|[ '])/aː/
+    # - xform/ee(|[ '])/eː/
+    # - xform/ii(|[ '])/iː/
+    # - xform/oo(|[ '])/oː/
+    # - xform/uu(|[ '])/uː/
+    # - xform/vv(|[ '])/ɯː/
+    # - xform/vc(|[ '])/ɯ'/
+    # - xform/v(|[ '])/ɯ/
+
+    
+    
+
+
+
+    - xform/aa(|[ '])/ˁɑ/
+    - xform/ee(|[ '])/ˁɛ/
+    - xform/ii(|[ '])/ˁɪ/
+    - xform/oo(|[ '])/ˁɔ/
+    - xform/uu(|[ '])/う/
+    - xform/vv(|[ '])/ˁə/
+    - xform/vc(|[ '])/ɯ'/
+    - xform/v(|[ '])/ɯ/
+
+    #- xform/u(|[ '])/ʉ/
+    - xform/う/ˁʊ/
+
+    - xform/ar(|[ '])/aʀ/
+    - "xlit|;|·|"
+    - xform/ph(|[ '])/pʰ/
+    - xform/th(|[ '])/tʰ/
+    - xform/kh(|[ '])/kʰ/
+    - xform/qh(|[ '])/qʰ/
+    - xform/mh(|[ '])/m̥ʰ/
+    - xform/nh(|[ '])/n̥ʰ/
+    - xform/yh(|[ '])/ŋ̥ʰ/
+    - xform/lh(|[ '])/l̥ʰ/
+    - xform/rh(|[ '])/r̥ʰ/
+    - xform/lc(|[ '])/l'/
+    - xform/rc(|[ '])/r'/
+    - xform/g(|[ '])/ɡ/
+    - xform/y(|[ '])/ŋ/
+    - xform/c(|[ '])/ɢ/
+    - xform/x(|[ '])/ʔ/
+    - xform/f(|[ '])/ɦ/
+    - xform/ʔ$/ˀ/
+
+
+sadfespz:
+  #dictionary: zyenpheng #sadfes2.4-b #sadfes2.0
+  #prefix: "`"
+  #suffix: "'"
+  overwrite_comment: false
+  initial_quality: 100 #設定此翻譯器出字優先
+  comment_format:
+    - xform/uo(n|t)/O$1/
+    - xform/o(m|n|ng|p|t|k|i)/ə$1/
+
+    - xform/jyung/jʉong/
+    - xform/jung/jʉng/
+    - xform/jyuk/jʉok/
+    - xform/juk/jʉk/
+    - xform/yung/ʉong/
+    - xform/iung/ʉng/
+    #- xform/uung/
+    - xform/yuk/ʉok/
+    - xform/iuk/ʉok/
+    - xform/yk/wrɨk/
+    - xform/uu/ɔ/
+
+    - xform/ng/ŋ/
+    - xform/chj/chjj/
+    - xform/cj/cjj/
+    - xform/zsj/zsjj/
+    - xform/zj/zjj/
+    - xform/sj/sjj/
+
+
+
+    #- xform/([ɑaeiouəʉ])i/$1j/
+    - xform/ai/əj/
+    - xform/uai/oj/
+    - xform/uəi/oj/
+    - xform/rai/rəj/
+    - xform/ruai/rʷəj/
+
+    #- xform/^jy(.+)/ɥ$1/
+    - xform/iu/ʉ/
+    - xform/ju/jʉ/
+    - xform/y($|[\s]|x|h)/iW$1/
+    - xform/yo($|[\s]|x|h)/ʉo$1/
+    - xform/yo(n|t)/ʉ$1/
+    - xform/yə($|[\s]|x|h)/ʉo$1/
+    - xform/yə(n|t)/ʉ$1/
+    - xform/ya/ʉa/
+    - xform/(^| )ye/$1ʉe/
+
+    - xform/ʉa(n|t|m|p)/ʉɐ$1/
+    - xform/ia(n|t|m|p)/ɨɐ$1/
+
+    # - xform/jung/jʉong/
+    # - xform/jum/ʉng/
+    # - xform/juk/jʉok/
+    # - xform/jup/jʉk/
+    # - xform/iung/ʉong/
+    # - xform/ium/ʉng/
+    # - xform/um/uung/
+    # - xform/iuk/ʉok/
+    # - xform/iup/iuk/
+    # - xform/up/ʉok/
+    
+
+
+    - xform/iəi/ɨj/
+    - xform/yəi/ʉj/
+    - xform/iə(n|t)/ɨ$1/
+    - xform/(p|ph|b|m|k|kh|g|q)i(e|n|t|m|p)/$1ri$2/
+    - xform/(^|[\s])hi(e|n|t|m|p)/$1hri$2/
+    - xform/(p|ph|b|m|q)i(h|x|ih|ix)/$1ri$2/
+    - xform/(p|ph|b|m|q)i(i|$|[\s])/$1ri$2/
+    - xform/(p|ph|b|m|q)i($|[\s])/$1ri$2/
+    - xform/ii/I/
+    - xform/yi/YI/
+    - xform/i($|[ŋkhx])/ɨ$1/
+    - xform/i($|[\s])/ɨ$1/
+    - xform/io/ɨo/
+    - xform/ia(ŋ|k)/ɨa$1/
+
+    - xform/x/ˀ/
+    - xform/h($|[\s])/ʰ$1/
+
+    - xform/d\z/ʝ/
+    - xform/d(\s)/ʝ$1/
+    - xform/([ɑaeio])u/$1W/
+    - xform/([ɑaeiouəʉ])i/$1j/
+
+    - xform/u([ɑaəe])/w$1/
+    - xform/w/ʷ/
+
+    - xform/chj/tɕʰj/
+    - xform/cj/tɕj/
+    - xform/zsj/ʑj/
+    - xform/zj/dʑj/
+    - xform/sj/ɕj/
+    - xform/nj/ɲ/
+
+    - xform/(ɕʰ|ɕ|ʑ)j/$1/
+    - xform/(ɕʰ|ɕ|ʑ)j/$1/
+    - xform/(ɕʰ|ɕ|ʑ)j/$1/ 
+
+    - xform/(zs)/ざ/
+    - xform/z/dz/
+    - xform/ch/tsʰ/
+    - xform/ざ/zʰ/
+    - xform/c/ts/
+    - xform/(\w)h/$1ʰ/
+
+
+    - xform/ng/ŋ/
+    - xform/q/ʔ/
+    - xform/g/ɡ/
+
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)a/$1A/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)e/$1E/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)i/$1I/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)ɨ/$1い/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)o/$1O/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)u/$1U/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)ə/$1えだ/
+    - xlit/aeou/āēōū/
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - xform/い/ɨ/
+    - xform/えだ/ə/
+    
+
+    - xform/^ʰʉ/hʉ/
+    - xform/ʷəj/ōj/
+
+    # - xform/ɨ/ï/
+    # - xform/ʉ/ü/
+    
+    #- xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+  #tags: 〔倉頡〕
+  #dictionary: emoji
+  #prefix: "₊"
+  #suffix: "'"
+  #tips: 〔表情〕
+
+# kana:
+#   tag: kana
+#   dictionary: kana
+#   prefix: ":"
+#   suffix: ""
+#   tips: 〔倉頡〕
+#   initial_quality: 0 #設定此翻譯器出字優先級
+  
+
+punctuator:
+  import_preset: blaGam1.0 #symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    #punct: "^,,$"
+    punct: "^/([0-9]0?|[a-z]+.*,*)$/"
+    #punct: "^([^-][^=][a-zA-Z][,.;])$"
+    #luna_pinyin: "^'[a-z]*$"
+    #jyut6ping3: "^f[a-z]*;?$"
+    terra_pinyin: "^>[a-z]*.+[^-=0-9]$"
+    kana: "^>[a-z]*.+[^-=0-9]$"
+    #kanapz: "^/[a-z]*[^-=0-9]$"
+    #sadfespz: "^[^:][a-z].*$"
+    #kana: "^:[a-z]*.+[^-=0-9]$"
+    
+
+
+#-中古音標
+
+
+#-

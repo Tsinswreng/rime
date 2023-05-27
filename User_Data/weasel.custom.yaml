@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sat Dec 24 21:32:05 2022"
+  rime_version: 1.5.3
+patch:
+  #style/horizontal: true # 候选横排
+  #style/inline_preedit: true # 内嵌编码（仅支持TSF）
+  style/display_tray_icon: true # 显示托盘图标
+  "style/color_scheme": ps4
+  "style/color_scheme3": ps4
+  "style/font_face": "孤鹜 筑紫明朝"
+  "style/font_point": 16
+  #"style/label/number/format": "{index}"

@@ -1,0 +1,4 @@
+*.bin
+/既廢
+build/
+*.log

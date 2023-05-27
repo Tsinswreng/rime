@@ -1,0 +1,304 @@
+#22.11.20-1845
+# encoding: utf-8
+---
+name: "kana"
+version: ""
+sort: by_weight
+use_preset_vocabulary: false
+max_phrase_length: 999 #max_phrase_length: 配合use_preset_vocabulary:，設定導入詞條最大詞長
+min_phrase_weight: 1 #min_phrase_weight: 配合use_preset_vocabulary:，設定導入詞條最小詞頻
+#import_tables: 加載其它外部碼表
+columns:
+  - text
+  - code
+  #- weight
+# encoder:
+  # exclude_patterns:
+    # - '^x.*$'
+    # - '^z.*$'
+  # rules:
+    # - length_equal: 2
+      # formula: "AaAzBaBbBz"
+    # - length_equal: 3
+      # formula: "AaAzBaBzCz"
+    # - length_in_range: [4, 10]
+      # formula: "AaBzCaYzZz"
+  # tail_anchor: "'"
+...
+ァ	XA
+ぁ	XA
+あ	A
+ア	YA
+ィ	XI
+ぃ	XI
+い	I
+イ	YI
+ゥ	XU
+ぅ	XU
+う	U
+ウ	YU
+ヴ	VU
+ゔ	VU
+は	VA
+ハ	YVA
+
+ェ	XE
+ぇ	XE
+え	E
+エ	YE
+ォ	XO
+ぉ	XO
+オ	YO
+お	O
+ヵ	XKA
+ゕ	XKA
+か	KA
+カ	YKA
+が	GA
+ガ	YGA
+き	KI
+キ	YKI
+ぎ	GI
+ギ	YGI
+キャ	YKJA
+きゃ	KJA
+ギャ	YGJA
+ぎゃ	GJA
+
+キュ	YKJU
+きゅ	KJU
+ギュ	YGJU
+ぎゅ	GJU
+
+キョ	YKJO
+きょ	KJO
+ギョ	YGJO
+ぎょ	GJO
+ク	YKU
+く	KU
+グ	YGU
+ぐ	GU
+
+ヶ	XKE
+ゖ	XKE
+ケ	YKE
+け	KE
+ゲ	YGE
+げ	GE
+コ	YKO
+こ	KO
+ゴ	YGO
+ご	GO
+サ	YSA
+さ	SA
+ザ	YZA
+ざ	ZA
+シ	YSI
+し	SI
+ジ	YZI
+じ	ZI
+シャ	YSJA
+しゃ	SJA
+ジャ	YZJA
+じゃ	ZJA
+
+シュ	YSJU
+しゅ	SJU
+ジュ	YZJU
+じゅ	ZJU
+
+ショ	YSJO
+しょ	SJO
+ジョ	YZJO
+じょ	ZJO
+ス	YSU
+す	SU
+ズ	YZU
+ず	ZU
+セ	YSE
+せ	SE
+ゼ	YZE
+ぜ	ZE
+ソ	YSO
+そ	SO
+ゾ	YZO
+ぞ	ZO
+タ	YTA
+た	TA
+ダ	YDA
+だ	DA
+チ	YTI
+ち	TI
+ヂ	YDI
+ぢ	DI
+チャ	YTJA
+ちゃ	TJA
+ヂャ	YDJA
+ぢゃ	DJA
+
+チュ	YTJU
+ちゅ	TJU
+ヂュ	YDJU
+ぢゅ	DJU
+
+チョ	YTJO
+ちょ	TJO
+ヂョ	YDJO
+ぢょ	DJO
+
+ツ	YTU
+つ	TU
+ヅ	YDU
+づ	DU
+
+テ	YTE
+て	TE
+デ	YDE
+で	DE
+ト	YTO
+と	TO
+ド	YDO
+ど	DO
+
+ナ	YNA
+な	NA
+ニ	YNI
+に	NI
+ニャ	YNJA
+にゃ	NJA
+
+ニュ	YNJU
+にゅ	NJU
+
+ニョ	YNJO
+にょ	NJO
+ヌ	YNU
+ぬ	NU
+ネ	YNE
+ね	NE
+ノ	YNO
+の	NO
+ハ	YHA
+は	HA
+バ	YYBA
+ば	BA
+パ	YPA
+ぱ	PA
+ヒ	YHI
+ひ	HI
+ビ	YBI
+び	BI
+ピ	YPI
+ぴ	PI
+ヒャ	YHJA
+ひゃ	HJA
+ビャ	YBJA
+びゃ	BJA
+ピャ	YPJA
+ぴゃ	PJA
+
+ヒュ	YHJU
+ひゅ	HJU
+ビュ	YBJU
+びゅ	BJU
+ピュ	YPJU
+ぴゅ	PJU
+
+ヒョ	YHJO
+ひょ	HJO
+ビョ	YBJO
+びょ	BJO
+ピョ	YPJO
+ぴょ	PJO
+フ	YHU
+ふ	HU
+ブ	YBU
+ぶ	BU
+プ	YPU
+ぷ	PU
+ファ	YFA
+フィ	YFI
+フェ	YFE
+フォ	YFO
+ヘ	YHE
+へ	HE
+ベ	YBE
+べ	BE
+ペ	YPE
+ぺ	PE
+ホ	YHO
+ほ	HO
+ボ	YBO
+ぼ	BO
+ポ	YPO
+ぽ	PO
+マ	YMA
+ま	MA
+ミ	YMI
+み	MI
+ミャ	YMJA
+みゃ	MJA
+
+ミュ	YMJU
+みゅ	MJU
+
+ミョ	YMJO
+みょ	MJO
+ム	YMU
+む	MU
+メ	YME
+め	ME
+モ	YMO
+も	MO
+ャ	XJA
+ゃ	XJA
+ヤ	YJA
+や	JA
+ュ	XJU
+ゅ	XJU
+ユ	YJU
+ゆ	JU
+ョ	XJO
+ょ	XJO
+ヨ	YJO
+よ	JO
+ラ	YRA
+ら	RA
+リ	YRI
+り	RI
+リャ	YRJA
+りゃ	RJA
+
+リュ	YRJU
+りゅ	RJU
+
+リョ	YRJO
+りょ	RJO
+ル	YRU
+る	RU
+レ	YRE
+れ	RE
+ロ	YRO
+ろ	RO
+ヮ	XWA
+ゎ	XWA
+ワ	YWA
+わ	WA
+ヷ	YVA
+ヰ	YWI
+ゐ	WI
+ヸ	YVI
+ヱ	YWE
+ゑ	WE
+ヹ	YVE
+ヲ	YWO
+を	WO
+ヺ	YVO
+ン	YNN
+ん	NN
+ー	L
+は	VA 
+ハ	YVA
+っ	Q
+ッ	YQ
+

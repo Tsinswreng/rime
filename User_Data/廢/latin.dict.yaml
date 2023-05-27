@@ -1,0 +1,21 @@
+---
+name: latin
+version: "22.08.02"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+...
+
+Ā	a=
+Ē	e=
+Ī	i=
+Ō	o=
+Ū	u=
+ā	a=
+ē	e=
+ī	i=
+ō	o=
+ū	u=

@@ -1,0 +1,8 @@
+2022/11/08-11:21:32.830000 5068 Log #3: 5 ops saved to Table #2402 OK
+2022/11/08-11:21:32.846000 5068 Archiving C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\luna_pinyin.userdb/000003.log: OK
+2022/11/08-11:21:32.861000 5068 Table #5: 9 entries OK
+2022/11/08-11:21:32.869000 5068 Table #196: 2 entries OK
+2022/11/08-11:21:32.885000 5068 Table #2401: 4 entries OK
+2022/11/08-11:21:32.885000 5068 Table #2402: 5 entries OK
+2022/11/08-11:21:32.932000 5068 Archiving C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\luna_pinyin.userdb/MANIFEST-000002: OK
+2022/11/08-11:21:32.963000 5068 **** Repaired leveldb C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\luna_pinyin.userdb; recovered 4 files; 968 bytes. Some data may have been lost. ****

@@ -1,0 +1,168 @@
+#23.02.14-0007
+    - xform/^cj'ap$/AAP/
+    - xform/^d'ruen$/DFF/
+    - xform/^chj'ai$/EAH/
+    - xform/^chj'aix$/EAY/
+    - xform/^chj'ren$/EDF/
+    - xform/^zj'e$/IEA/
+    - xform/^zj'op$/IOP/
+    - xform/^nj'aix$/NAY/
+    - xform/^nj'e$/NEA/
+    - xform/^nj'rat$/NZT/
+    - xform/^sj'amx$/OAE/
+    - xform/^thr'et$/REK/
+    - xform/^thr'eh$/REZ/
+    - xform/^tr'uaix$/TSY/
+    - xform/^t'rangx$/TZW/
+    - xform/^ch'ruad$/VXB/
+    - xform/^j'aix$/YAY/
+    - xform/^i'uaix$/YSY/
+    - xform/^z'ren$/ZDF/
+    - xform/^zr'uen$/ZRF/
+    - xform/^zr'ux$/ZUQ/
+    - xform/j([aeou])/ji$1/
+    - xform/iung/ium/
+    - xform/uung/um/
+    - xform/yung/iung/
+    - xform/iuk/iup/
+    - xform/uuk/up/
+    - xform/yuk/iuk/
+    - xform/^([jiy])/Y$1/
+    - xform/^ng/W/
+    - xform/^gh?/G/
+    - xform/^kh/X/
+    - xform/^zsj/U/
+    - xform/^sj/O/
+    - xform/^zj/I/
+    - xform/^chj/E/
+    - xform/^cj/A/
+    - xform/^zs/J/
+    - xform/^ch/V/
+    - xform/^th/R/
+    - xform/^ph/F/
+    - xform/^l/L/
+    - xform/^h/H/
+    - xform/^q/Q/
+    - xform/^z/Z/
+    - xform/^s/S/
+    - xform/^c/C/
+    - xform/^k/K/
+    - xform/^n/N/
+    - xform/^d/D/
+    - xform/^t/T/
+    - xform/^m/M/
+    - xform/^b/B/
+    - xform/^p/P/
+    - xform/k$/K/
+    - xform/t$/T/
+    - xform/p$/P/
+    - xform/d$/B/
+    - xform/iuh$/iuZ/
+    - xform/iux$/iuQ/
+    - xform/iu$/iuA/
+    - xform/([aei])uh$/$1M/
+    - xform/([aei])ux$/$1U/
+    - xform/([aei])u$/$1J/
+    - xform/([aioy])ih$/$1N/
+    - xform/([aioy])ix$/$1Y/
+    - xform/([aioy])i$/$1H/
+    - xform/ngh$/X/
+    - xform/ngx$/W/
+    - xform/ng$/S/
+    - xform/nh$/V/
+    - xform/nx$/R/
+    - xform/n$/F/
+    - xform/mh$/C/
+    - xform/mx$/E/
+    - xform/m$/D/
+    - xform/h$/Z/
+    - xform/x$/Q/
+    - xform/([a-z])$/$1A/
+    - xform/([jTRDCVZSJAEIOUL])ia/$1Q/
+    - xform/ia/W/
+    - xform/ya/B/
+    - xform/([jTRDCVZSJAEIOUL])ie/$1T/
+    - xform/ie/G/
+    - xform/([jTRDCVZSJAEIOUL])ye/$1C/
+    - xform/ye/V/
+    - xform/([jTRDCVZSJAEIOUL])iu/$1N/
+    - xform/iu/M/
+    - xform/([jTRDCVZSJAEIOUL])io/$1H/
+    - xform/io/J/
+    - xform/([jTRDCVZSJAEIOUL])yo/$1P/
+    - xform/yo/L/
+    - xform/rua/X/
+    - xform/ra/Z/
+    - xform/rue/F/
+    - xform/re/D/
+    - xform/ru/J/
+    - xform/ua/S/
+    - xform/a/A/
+    - xform/ue/R/
+    - xform/e/E/
+    - xform/uo/P/
+    - xform/o/O/
+    - xform/u/U/
+    - xform/([jTRDCVZSJAEIOUL])i/$1I/
+    - xform/i/K/
+    - xform/([jTRDCVZSJAEIOUL])y/$1Y/
+    - xform/y([AQZ])/Y$1/	#幽韻不分AB
+    - xform/y/H/
+    - xform/[jr]//
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - abbrev/^([a-z]).+$/$1/
+
+
+    - xform/([a-z])hk/$1kk/
+
+    - xform/([a-z])l([yhnrfvt])/$1ʉ$2/
+    - xform/([a-z])a([yhn])/$1ə$2/
+    - xform/([a-z])o([wsxkedcprfvt])/$1ə$2/
+    - xform/([a-z])s([yhn])/$1o$2/
+    - xform/([a-z])p([rfvt])/$1o$2/
+    - xform/([a-z])n([wsxk])/$1y$2/
+    - xform/([a-z])m([wsxk])/$1h$2/
+
+    - xform/([a-z][nm])e/$1w/
+    - xform/([a-z][nm])d/$1s/
+    - xform/([a-z][nm])c/$1x/
+    - xform/([a-z][nm])p/$1k/
+
+
+
+
+    - xform/([a-z])ue/$1ow/
+    - xform/([a-z])ud/$1os/
+    - xform/([a-z])uc/$1ox/
+    - xform/([a-z])up/$1ok/
+
+
+    - xform/ə/l/
+    - xform/ʉ/m/
+
+    - xform/([a-z])yq/$1iu/
+    - xform/([a-z])ya/$1ij/
+    - xform/([a-z])yz/$1im/
+
+#  #刪詞與空行
+#     - xform/[^\x00-\xff]{2,}.*// 
+#    # - xform/^.*\r\n$// #此式會刪空行ᵗ上一行內容
+#     - xform/^\r\n$//
+#右式`空旹致空指針!!!`
+
+
+
+
+
+
+    # - xform/([a-z])hk/$1kk/
+    # - xform/o([rfvt])/ə$1/
+    # - xform/p([rfvt])/u$1/
+    # - xform/m([edcp])/<rʉ>$1/
+    # - xform/n([edcp])/<ʉ>$1/
+    # - xform/m([wsxk])/l$1/
+    # - xform/<rʉ>/m/
+    # - xform/<ʉ>/n/
+    # - xform///
+    # - xform///
+    # - xform///

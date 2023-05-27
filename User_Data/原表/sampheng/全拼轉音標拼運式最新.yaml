@@ -1,0 +1,136 @@
+    #23.02.08-1618
+    - xform/uo(n|t)/O$1/
+    - xform/o(m|n|ng|p|t|k|i)/ə$1/
+
+    - xform/jyung/jʉong/
+    - xform/jung/jʉng/
+    - xform/jyuk/jʉok/
+    - xform/juk/jʉk/
+    - xform/yung/ʉong/
+    - xform/iung/ʉng/
+    #- xform/uung/
+    - xform/yuk/ʉok/
+    - xform/iuk/ʉk/
+    - xform/yk/wrɨk/
+    - xform/uu/ɔ/
+
+    - xform/ng/ŋ/
+    - xform/chj/chjj/
+    - xform/cj/cjj/
+    - xform/zsj/zsjj/
+    - xform/zj/zjj/
+    - xform/sj/sjj/
+
+
+
+    #- xform/([ɑaeiouəʉ])i/$1j/
+    - xform/ai/əj/
+    - xform/uai/oj/
+    - xform/uəi/oj/
+    - xform/rai/rəj/
+    - xform/ruai/rʷəj/
+
+    #- xform/^jy(.+)/ɥ$1/
+    - xform/iu/ʉ/
+    - xform/ju/jʉ/
+    - xform/y($|[\s]|x|h)/iW$1/
+    - xform/yo($|[\s]|x|h)/ʉo$1/
+    - xform/yo(n|t)/ʉ$1/
+    - xform/yə($|[\s]|x|h)/ʉo$1/
+    - xform/yə(n|t)/ʉ$1/
+    - xform/ya/ʉa/
+    - xform/(^| )ye/$1ʉe/
+
+    - xform/ʉa(n|t|m|p)/ʉɐ$1/
+    - xform/ia(n|t|m|p)/ɨɐ$1/
+
+    # - xform/jung/jʉong/
+    # - xform/jum/ʉng/
+    # - xform/juk/jʉok/
+    # - xform/jup/jʉk/
+    # - xform/iung/ʉong/
+    # - xform/ium/ʉng/
+    # - xform/um/uung/
+    # - xform/iuk/ʉok/
+    # - xform/iup/iuk/
+    # - xform/up/ʉok/
+    
+
+
+    - xform/iəi/ɨj/
+    - xform/yəi/ʉj/
+    - xform/iə(n|t)/ɨ$1/
+    - xform/(p|ph|b|m|k|kh|g|q)i(e|n|t|m|p|i)/$1ri$2/ #23.04.20-1815
+    - xform/(^|[\s])hi(e|n|t|m|p)/$1hri$2/
+    - xform/(p|ph|b|m|q)i(h|x|ih|ix)/$1ri$2/
+    - xform/(p|ph|b|m|q)i(i|$|[\s])/$1ri$2/
+    - xform/(p|ph|b|m|q)i($|[\s])/$1ri$2/
+    - xform/ii/I/
+    - xform/yi/YI/
+    - xform/i($|[ŋkhx])/ɨ$1/
+    - xform/i($|[\s])/ɨ$1/
+    - xform/io/ɨo/
+    - xform/ia(ŋ|k)/ɨa$1/
+
+    - xform/x/ˀ/
+    - xform/h($|[\s])/ʰ$1/
+
+    - xform/d\z/ʝ/
+    - xform/d(\s)/ʝ$1/
+    - xform/([ɑaeio])u/$1W/
+    - xform/([ɑaeiouəʉ])i/$1j/
+
+    - xform/u([ɑaəe])/w$1/
+    - xform/w/ʷ/
+
+    - xform/chj/tɕʰj/
+    - xform/cj/tɕj/
+    - xform/zsj/ʑj/
+    - xform/zj/dʑj/
+    - xform/sj/ɕj/
+    - xform/nj/ɲ/
+
+    - xform/(ɕʰ|ɕ|ʑ)j/$1/
+    - xform/(ɕʰ|ɕ|ʑ)j/$1/
+    - xform/(ɕʰ|ɕ|ʑ)j/$1/ 
+
+    - xform/(zs)/ざ/
+    - xform/z/dz/
+    - xform/ch/tsʰ/
+    - xform/ざ/zʰ/
+    - xform/c/ts/
+    - xform/(\w)h/$1ʰ/
+
+    - xform/sr/ʂ/
+    - xform/zr/ʐ/
+
+    - xform/ng/ŋ/
+    - xform/q/ʔ/
+    - xform/g/ɡ/
+
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)a/$1A/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)e/$1E/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)i/$1I/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)ɨ/$1い/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)o/$1O/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)u/$1U/
+    - xform/(ɨ|ʉ|i|j|y|ɕ|ɕʰ|ʑ|ɲ)ə/$1えだ/
+    - xlit/aeou/āēōū/
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - xform/い/ɨ/
+    - xform/えだ/ə/
+    
+
+    - xform/^ʰʉ/hʉ/
+    - xform/ʷəj/ōj/
+
+    # - xform/ɨ/ï/
+    # - xform/ʉ/ü/
+    
+    #- xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+    # - xform/ɨ/ï/
+    # - xform/ʉ/ü/
+    
+    #- xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+ 

@@ -1,0 +1,302 @@
+#22.12.15-2331
+# encoding: utf-8
+---
+name: "hirakana"
+version: ""
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 999 #max_phrase_length: 配合use_preset_vocabulary:，設定導入詞條最大詞長
+min_phrase_weight: 1 #min_phrase_weight: 配合use_preset_vocabulary:，設定導入詞條最小詞頻
+#import_tables: 加載其它外部碼表
+columns:
+  - text
+  - code
+  #- weight
+# encoder:
+  # exclude_patterns:
+    # - '^x.*$'
+    # - '^z.*$'
+  # rules:
+    # - length_equal: 2
+      # formula: "AaAzBaBbBz"
+    # - length_equal: 3
+      # formula: "AaAzBaBzCz"
+    # - length_in_range: [4, 10]
+      # formula: "AaBzCaYzZz"
+  # tail_anchor: "'"
+...
+ァ	xa
+ぁ	xa
+あ	a
+
+ィ	xi
+ぃ	xi
+い	i
+
+ゥ	xu
+ぅ	xu
+う	u
+
+ヴ	vu
+ゔ	vu
+は	va
+
+
+ェ	xe
+ぇ	xe
+え	e
+
+ォ	xo
+ぉ	xo
+
+お	o
+ヵ	xka
+ゕ	xka
+か	ka
+
+が	ga
+
+き	ki
+
+ぎ	gi
+
+
+きゃ	kja
+
+ぎゃ	gja
+
+
+きゅ	kju
+
+ぎゅ	gju
+
+
+きょ	kjo
+
+ぎょ	gjo
+
+く	ku
+
+ぐ	gu
+
+ヶ	xke
+ゖ	xke
+
+け	ke
+
+げ	ge
+
+こ	ko
+
+ご	go
+
+さ	sa
+
+ざ	za
+
+し	si
+
+じ	zi
+
+しゃ	sja
+
+じゃ	zja
+
+
+しゅ	sju
+
+じゅ	zju
+
+
+しょ	sjo
+
+じょ	zjo
+
+す	su
+
+ず	zu
+
+せ	se
+
+ぜ	ze
+
+そ	so
+
+ぞ	zo
+
+た	ta
+
+だ	da
+
+ち	ti
+
+ぢ	di
+
+ちゃ	tja
+
+ぢゃ	dja
+
+
+ちゅ	tju
+
+ぢゅ	dju
+
+
+ちょ	tjo
+
+ぢょ	djo
+
+
+つ	tu
+
+づ	du
+
+
+て	te
+
+で	de
+
+と	to
+
+ど	do
+
+
+な	na
+
+に	ni
+
+にゃ	nja
+
+
+にゅ	nju
+
+
+にょ	njo
+
+ぬ	nu
+
+ね	ne
+
+の	no
+
+は	ha
+
+ば	ba
+
+ぱ	pa
+
+ひ	hi
+
+び	bi
+
+ぴ	pi
+
+ひゃ	hja
+
+びゃ	bja
+
+ぴゃ	pja
+
+
+ひゅ	hju
+
+びゅ	bju
+
+ぴゅ	pju
+
+
+ひょ	hjo
+
+びょ	bjo
+
+ぴょ	pjo
+
+ふ	hu
+
+ぶ	bu
+
+ぷ	pu
+
+
+
+
+
+へ	he
+
+べ	be
+
+ぺ	pe
+
+ほ	ho
+
+ぼ	bo
+
+ぽ	po
+
+ま	ma
+
+み	mi
+
+みゃ	mja
+
+
+みゅ	mju
+
+
+みょ	mjo
+
+む	mu
+
+め	me
+
+も	mo
+ャ	xja
+ゃ	xja
+
+や	ja
+ュ	xju
+ゅ	xju
+
+ゆ	ju
+ョ	xjo
+ょ	xjo
+
+よ	jo
+
+ら	ra
+
+り	ri
+
+りゃ	rja
+
+
+りゅ	rju
+
+
+りょ	rjo
+
+る	ru
+
+れ	re
+
+ろ	ro
+ヮ	xwa
+ゎ	xwa
+
+わ	wa
+
+
+ゐ	wi
+
+
+ゑ	we
+
+
+を	wo
+
+
+ん	nn
+ー	l
+は	va 
+
+っ	q

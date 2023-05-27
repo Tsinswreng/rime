@@ -1,0 +1,12 @@
+2023/03/20-07:58:00.205000 14596 Log #20: 0 ops saved to Table #23 OK
+2023/03/20-07:58:00.208000 14596 Archiving C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/000020.log: OK
+2023/03/20-07:58:00.208000 14596 Log #22: ignoring conversion error: IO error: C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/000022.log: 另一个程序正在使用此文件，进程无法访问。
+2023/03/20-07:58:00.209000 14596 Archiving C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/000022.log: IO error: C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/000022.log: 另一个程序正在使用此文件，进程无法访问。
+
+2023/03/20-07:58:00.210000 14596 Table #5: 57 entries OK
+2023/03/20-07:58:00.214000 14596 Table #8: 202 entries OK
+2023/03/20-07:58:00.215000 14596 Table #13: 2 entries OK
+2023/03/20-07:58:00.218000 14596 Archiving C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/MANIFEST-000019: OK
+2023/03/20-07:58:00.219000 14596 Archiving C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/MANIFEST-000021: IO error: C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb/MANIFEST-000021: 另一个程序正在使用此文件，进程无法访问。
+
+2023/03/20-07:58:00.241000 14596 **** Repaired leveldb C:\Users\Tsinswreng Gw'ang\AppData\Roaming\Rime\sadfes3-0.userdb; recovered 3 files; 6079 bytes. Some data may have been lost. ****

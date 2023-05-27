@@ -1,0 +1,147 @@
+#22.12.15-2332
+# encoding: utf-8
+---
+name: "katakana"
+version: ""
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 999 #max_phrase_length: 配合use_preset_vocabulary:，設定導入詞條最大詞長
+min_phrase_weight: 1 #min_phrase_weight: 配合use_preset_vocabulary:，設定導入詞條最小詞頻
+#import_tables: 加載其它外部碼表
+columns:
+  - text
+  - code
+  #- weight
+# encoder:
+  # exclude_patterns:
+    # - '^x.*$'
+    # - '^z.*$'
+  # rules:
+    # - length_equal: 2
+      # formula: "AaAzBaBbBz"
+    # - length_equal: 3
+      # formula: "AaAzBaBzCz"
+    # - length_in_range: [4, 10]
+      # formula: "AaBzCaYzZz"
+  # tail_anchor: "'"
+...
+ア	A
+イ	I
+ウ	U
+ハ	VA
+エ	E
+オ	O
+カ	KA
+ガ	GA
+キ	KI
+ギ	GI
+キャ	KJA
+ギャ	GJA
+キュ	KJU
+ギュ	GJU
+キョ	KJO
+ギョ	GJO
+ク	KU
+グ	GU
+ケ	KE
+ゲ	GE
+コ	KO
+ゴ	GO
+サ	SA
+ザ	ZA
+シ	SI
+ジ	ZI
+シャ	SJA
+ジャ	ZJA
+シュ	SJU
+ジュ	ZJU
+ショ	SJO
+ジョ	ZJO
+ス	SU
+ズ	ZU
+セ	SE
+ゼ	ZE
+ソ	SO
+ゾ	ZO
+タ	TA
+ダ	DA
+チ	TI
+ヂ	DI
+チャ	TJA
+ヂャ	DJA
+チュ	TJU
+ヂュ	DJU
+チョ	TJO
+ヂョ	DJO
+ツ	TU
+ヅ	DU
+テ	TE
+デ	DE
+ト	TO
+ド	DO
+ナ	NA
+ニ	NI
+ニャ	NJA
+ニュ	NJU
+ニョ	NJO
+ヌ	NU
+ネ	NE
+ノ	NO
+ハ	HA
+バ	YBA
+パ	PA
+ヒ	HI
+ビ	BI
+ピ	PI
+ヒャ	HJA
+ビャ	BJA
+ピャ	PJA
+ヒュ	HJU
+ビュ	BJU
+ピュ	PJU
+ヒョ	HJO
+ビョ	BJO
+ピョ	PJO
+フ	HU
+ブ	BU
+プ	PU
+ファ	FA
+フィ	FI
+フェ	FE
+フォ	FO
+ヘ	HE
+ベ	BE
+ペ	PE
+ホ	HO
+ボ	BO
+ポ	PO
+マ	MA
+ミ	MI
+ミャ	MJA
+ミュ	MJU
+ミョ	MJO
+ム	MU
+メ	ME
+モ	MO
+ヤ	JA
+ユ	JU
+ヨ	JO
+ラ	RA
+リ	RI
+リャ	RJA
+リュ	RJU
+リョ	RJO
+ル	RU
+レ	RE
+ロ	RO
+ワ	WA
+ヷ	VA
+ヰ	WI
+ヸ	VI
+ヱ	WE
+ヹ	VE
+ヲ	WO
+ヺ	VO
+ン	NN
+ハ	VA
+ッ	Q

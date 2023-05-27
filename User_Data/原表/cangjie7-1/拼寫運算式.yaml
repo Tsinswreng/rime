@@ -1,0 +1,174 @@
+#23.01.23-2043
+# [23.01.17-2041,]{
+#   新增˪罒頭
+# }
+
+  #非漢字: [\x00-\xff]
+
+
+      #于原版cangjie5、恰好昰三之長度者、予末碼轉大寫
+        #{
+    # - "xform/([a-zA-Z])([a-zA-Z])a/$1$2A/"
+    # - "xform/([a-zA-Z])([a-zA-Z])b/$1$2B/"
+    # - "xform/([a-zA-Z])([a-zA-Z])c/$1$2C/"
+    # - "xform/([a-zA-Z])([a-zA-Z])d/$1$2D/"
+    # - "xform/([a-zA-Z])([a-zA-Z])e/$1$2E/"
+    # - "xform/([a-zA-Z])([a-zA-Z])f/$1$2F/"
+    # - "xform/([a-zA-Z])([a-zA-Z])g/$1$2G/"
+    # - "xform/([a-zA-Z])([a-zA-Z])h/$1$2H/"
+    # - "xform/([a-zA-Z])([a-zA-Z])i/$1$2I/"
+    # - "xform/([a-zA-Z])([a-zA-Z])j/$1$2J/"
+    # - "xform/([a-zA-Z])([a-zA-Z])k/$1$2K/"
+    # - "xform/([a-zA-Z])([a-zA-Z])l/$1$2L/"
+    # - "xform/([a-zA-Z])([a-zA-Z])m/$1$2M/"
+    # - "xform/([a-zA-Z])([a-zA-Z])n/$1$2N/"
+    # - "xform/([a-zA-Z])([a-zA-Z])o/$1$2O/"
+    # - "xform/([a-zA-Z])([a-zA-Z])p/$1$2P/"
+    # - "xform/([a-zA-Z])([a-zA-Z])q/$1$2Q/"
+    # - "xform/([a-zA-Z])([a-zA-Z])r/$1$2R/"
+    # - "xform/([a-zA-Z])([a-zA-Z])s/$1$2S/"
+    # - "xform/([a-zA-Z])([a-zA-Z])t/$1$2T/"
+    # - "xform/([a-zA-Z])([a-zA-Z])u/$1$2U/"
+    # - "xform/([a-zA-Z])([a-zA-Z])v/$1$2V/"
+    # - "xform/([a-zA-Z])([a-zA-Z])w/$1$2W/"
+    # - "xform/([a-zA-Z])([a-zA-Z])x/$1$2X/"
+    # - "xform/([a-zA-Z])([a-zA-Z])y/$1$2Y/"
+    # - "xform/([a-zA-Z])([a-zA-Z])z/$1$2Z/"
+
+        #}
+
+
+    #- "xform///"
+    # - "xform/門/an/"
+    # - "xform/目/bu/"
+    # - "xform/米/fd/"
+    # - "xform/走/go/"
+    # - "xform/禾/hd/"
+    # - "xform/魚/nf/"
+    # - "xform/彳/ho/"
+    # - "xform/舟/hy/"
+    # - "xform/車/jj/"
+    # - "xform/犭/kh/"
+    # - "xform/虫/li/"
+    # - "xform/雨/mb/"
+    # - "xform/王/mg/"
+    # - "xform/石/mr/"
+    # - "xform/酉/mw/"
+    # - "xform/阝/nl/"
+    # - "xform/飠/oi/"
+    # - "xform/足/rm/"
+    # - "xform/馬/sf/"
+    # - "xform/髟/sh/"
+    # - "xform/革/tj/"
+    # #- "xform/糹/vf/"
+    # - "xform/糹/0/"
+    # - "xform/訁/1/"
+    # - "xform/齒/yu/"
+    # - "xform/辛/yj/"
+    # - "xform/冫/im/"
+    # - "xform/巾/lb/"
+    # - "xform/貝/bc/"
+    # - "xform/方/ys/"
+    # - "xform/氣/on/"
+    # - "xform/辶/y/"
+
+
+
+    # - "xform/門/a/"
+    # - "xform/目/b/"
+    # - "xform/米/f/"
+    # - "xform/走/g/"
+    # - "xform/禾/h/"
+    # - "xform/魚/n/"
+    
+    # - "xform/舟/h/"
+    # - "xform/車/j/"
+    # - "xform/犭/k/"
+    # - "xform/虫/l/"
+    # - "xform/雨/m/"
+    # - "xform/王/m/"
+    # - "xform/石/m/"
+    # - "xform/酉/m/"
+    # - "xform/阝/n/"
+    # - "xform/飠/o/"
+    # - "xform/足/r/"
+    # - "xform/馬/s/"
+    # - "xform/髟/s/"
+    # - "xform/革/t/"
+    # #- "xform/糹/v/"
+    
+    # - "xform/齒/y/"
+    # - "xform/辛/y/"
+    # #- "xform/冫/i/"
+    # - "xform/巾/l/"
+    # - "xform/貝/b/"
+    # - "xform/方/y/"
+    # - "xform/氣/o/"
+
+    - "xform/冫/im/"
+    - "xform/門/A/"
+    - "xform/目/B/"
+    - "xform/米/F/"
+    - "xform/走/G/"
+    - "xform/禾/H/"
+    - "xform/魚/N/"
+    
+    - "xform/舟/H/"
+    - "xform/車/J/"
+    - "xform/犭/K/"
+    - "xform/虫/L/"
+    - "xform/雨/M/"
+    - "xform/王/M/"
+    - "xform/石/M/"
+    - "xform/酉/M/"
+    - "xform/阝/N/"
+    - "xform/飠/O/"
+    - "xform/足/R/"
+    - "xform/馬/S/"
+    - "xform/髟/S/"
+    - "xform/革/T/"
+    #- "xform/糹/V/"
+    
+    - "xform/齒/Y/"
+    - "xform/辛/Y/"
+    #- "xform/冫/I/"
+    - "xform/巾/L/"
+    - "xform/貝/B/"
+    - "xform/方/Y/"
+    - "xform/罒/W/"
+    - "xform/多/n/" #23.01.23-2043
+    - "xform/氣/O/"
+
+    
+    - "xform/辶/z/"
+    - "xform/彳/3/"
+    - "xform/糹/4/"
+    - "xform/訁/x/"
+    - "xform/也/5/"
+    - "xform/非/6/"
+    - "xform/3/,/"
+    - "xform/4/./"
+    - "xform/5/,/"
+    - "xform/6/./"
+    # - "xform/^([a-zA-Z0-9])([a-zA-Z0-9])([a-zA-Z0-9])([a-zA-Z0-9])([a-zA-Z0-9])$/$1$2$5/"
+    # - "xform/^([a-zA-Z0-9])([a-zA-Z0-9])([a-zA-Z0-9])([a-zA-Z0-9])$/$1$2$4/"
+    # - "xform/^([a-zA-Z0-9])([a-zA-Z0-9])$/$1$2;/"
+    # - "xform/^([a-zA-Z0-9])$/$1;;/"
+
+
+    #全ˇ改三碼
+    #{
+    - "xform/^(.)(.)(.)(.)(.)$/$1$2$5/"
+    - "xform/^(.)(.)(.)(.)$/$1$2$4/"
+
+    - "xform/^(.)(.)$/$1$2;/"
+    - "xform/^(.)$/$1;;/"
+    - "xform/;;/;/"
+    #}
+
+    
+
+
+    #- abbrev/([a-zA-Z0-9;,\.\[\{]).+/$1/ #簡拼
+    # - "derive/y/[/"
+    # - "derive/Y/{/" #改y

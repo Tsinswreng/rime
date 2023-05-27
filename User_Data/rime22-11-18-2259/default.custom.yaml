@@ -1,0 +1,13 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Fri Nov 18 22:49:55 2022"
+  rime_version: 1.5.3
+patch:
+  schema_list:
+    - {schema: luna_pinyin}
+    - {schema: "cangjie7-1"}
+    - {schema: zyenpheng}
+    - {schema: cangjie5}
+    - {schema: ipa_yunlong}

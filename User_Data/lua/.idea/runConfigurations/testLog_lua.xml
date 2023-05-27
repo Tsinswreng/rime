@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="testLog.lua" type="lua.app" factoryName="Lua Application">
+    <option name="program" value="lua.exe" />
+    <option name="file" value="$PROJECT_DIR$/testLog.lua" />
+    <option name="workingDir" value="D:\Program Files\Rime\User_Data\lua" />
+    <option name="debuggerType" value="2" />
+    <option name="params" value="" />
+    <option name="charset" value="UTF-8" />
+    <option name="showConsole" value="true" />
+    <method v="2" />
+  </configuration>
+</component>

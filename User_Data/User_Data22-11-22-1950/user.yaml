@@ -1,0 +1,20 @@
+var:
+  last_build_time: 1669099568
+  option:
+    extended_charset: false
+    full_shape: false
+    simplification: false
+  previously_selected_schema: "cangjie7-1"
+  schema_access_time:
+    cangjie5: 1668943563
+    cangjie5_express: 1668788299
+    "cangjie7-1": 1669085760
+    cangjie8: 1668698469
+    ipa_yunlong: 1668783409
+    kana: 1668941530
+    luna_pinyin: 1668990608
+    "sadfes2.4-b": 1668993051
+    sfqg2.0: 1668703717
+    sol_pinyin: 1668999907
+    terra_pinyin: 1668696002
+    zyenpheng: 1668775933

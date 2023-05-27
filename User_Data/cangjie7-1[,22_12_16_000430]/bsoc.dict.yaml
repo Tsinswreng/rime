@@ -1,0 +1,5475 @@
+#22.12.02-1757
+# Rime dictionary
+# vim: set ts=8 sw=8 noet:
+# encoding: utf-8
+#
+#
+# Author:
+#
+#  - Tsinswreng Gw'ang
+#
+
+---
+name: "bsoc"
+version: ""
+sort: by_weight
+#sort: original
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+columns:
+  - text
+  - code
+  #- stem
+...
+zi	OC(B-S_2014)
+矣	*qəʔ (atonic)
+意	*ʔ(r)ək-s 
+億	*ʔ(r)ək 
+憶	*ʔ(r)ək 
+抑	*[ʔ](r)ik 
+抑	*[ʔ]ik 
+臆	*ʔ(r)ək 
+疑	*[ŋ](r)ə (< uvular)
+擬	*[ŋ](r)əʔ (< uvular)
+薿	
+嶷	
+熙	*qʰ(r)ə 
+熹	*qʰ(r)ə 
+喜	*qʰ(r)əʔ 
+奭	*[qʰ](r)ək 
+丌	*[g]ə 
+其	*gə 
+其	*gə 
+旗	*[g](r)ə 
+期	*[g](r)ə 
+棋	*[g](r)ə 
+淇	
+祺	
+綦	*[g](r)ə 
+綦	*[g](r)ə 
+騏	*[g](r)ə 
+忌	*m-k(r)ək-s 
+綦	*[g](r)ə-s 
+極	*[g](r)ək 
+基	*k(r)ə 
+姬	*[k](r)ə 
+箕	*k(r)ə 
+己	*k(r)əʔ 
+己	*k(r)əʔ 
+紀	*k(r)əʔ 
+記	*C.k(r)ə(ʔ)-s 
+亟	*k(r)ək 
+朸	*krək 
+棘	*krək 
+襋	
+僛	
+欺	*kʰ(r)ə 
+屺	
+杞	
+芑	
+起	*C.qʰ(r)əʔ 
+亟	*kʰ(r)ək-s 
+台	*lə 
+怡	*lə 
+詒	*lə 
+貽	*lə 
+頤	*[ɢ](r)ə 
+飴	
+𦣞	*[ɢ](r)ə 
+㠯	*ləʔ 
+以	*ləʔ 
+已	*ɢ(r)əʔ 
+苡	*ləʔ 
+异	*ɢ(r)ək-s 
+異	*ɢ(r)ək-s 
+弋	*lək 
+翊	*ɢʷrəp (dialect: *-p > *-k)
+翌	*ɢʷrəp (dialect: *-p > *-k)
+翌	*ɢʷrəp (dialect: *-p > *-k) 
+翼	*ɢʷrəp (dialect: *-p > *-k)
+劾	*[g]ˤək 
+黑	*m̥ˤək (dialect *m̥ˤ- > xˤ-)
+克	*kʰˤək 
+刻	*[kʰ]ˤək 
+阸	*qˤ<r>[i]k-s 
+隘	*qˤ<r>[i]k-s 
+厄	*qˤ<r>[i]k 
+戹	*qˤ<r>[i]k 
+搤	*qˤ<r>[i]k 
+軛	*qˤ<r>[i]k 
+阨	*qˤ<r>[i]k 
+阸	
+隘	*qˤ<r>[i]k 
+厓	*ŋˤrar 
+崖	*ŋˤrar 
+涯	*ŋˤrar 
+鞋	*[g]ˤre (no pre-Qín exx.)
+鞵	*[g]ˤre (no pre-Qín exx.)
+蟹	*m-kˤreʔ 
+解	*N-kˤreʔ 
+解	*N-kˤreʔ 
+邂	*[g]ˤre-s 
+核	*[g]ˤ<r>ək 
+覈	*[g]ˤr[ə]k (or *[g]ˤrewk?)
+佳	*[k]ˤre 
+街	*[k]ˤre 
+解	*kˤreʔ 
+隔	*[k]ˤrek 
+革	*kˤrək 
+革	*kˤrək 
+鬲	*C.qˤ<r>ik 
+鶂	
+鷁	*m-ɢˤek 
+鷊	
+鬩	*[ŋ̊]ˤek 
+擊	*kˤik 
+激	*[k]ˤewk 
+椅	
+猗	
+倚	*Cə.q(r)ajʔ 
+椅	*Cə.q(r)ajʔ 
+儀	*ŋ(r)aj 
+宜	*ŋ(r)aj 
+宜	*ŋ(r)aj 
+蛾	*m-qʰ(r)ajʔ 
+螘	*m-qʰ(r)ajʔ 
+蟻	*m-qʰ(r)ajʔ 
+錡	*m.ɢ(r)ajʔ 
+義	*ŋ(r)aj-s 
+議	*ŋ(r)aj-s 
+䖒	*ŋ̊(r)ar 
+犧	*ŋ̊(r)a[j] 
+羲	*ŋ̊(r)aj 
+戲	*ŋ̊(r)ar-s 
+奇	*N-k(r)aj 
+錡	*C.ɢ(r)aj 
+騎	*C.g(r)aj (~ *[Cə.g](r)aj)
+伎	*[g]reʔ 
+技	*[g]reʔ 
+踦	*[g](r)ajʔ 
+芰	*[g]re-s 
+騎	*[g](r)aj-s 
+奇	*[k](r)aj 
+羈	*kraj 
+掎	
+寄	*C.[k](r)aj-s 
+綺	*[k]ʰ(r)a[j]ʔ 
+匜	*laj 
+移	*laj 
+蛇	*laj 
+迻	*laj 
+胣	*lajʔ 
+易	*lek-s 
+縊	*q[i]k-s 
+歧	*N-ke (dialect: no palatalization)
+疧	
+祇	*[k.d]e (dialect: *k.d- > *g.d- > *g-, no palatalization)
+企	*kʰeʔ 
+企	*kʰeʔ-s 
+阿	*qˤa[j] 
+阿	*ʔˤa (< *qˤaj)
+俄	
+峩	
+莪	
+蛾	*ŋˤaj 
+鵝	*ŋˤa[r] 
+我	*ŋˤajʔ 
+餓	*ŋˤaj-s 
+何	*[g]ˤaj 
+河	*[C.g]ˤaj 
+荷	*[g]ˤaj 
+荷	*[g]ˤajʔ 
+賀	*m-kˤaj-s 
+呵	*qʰˤaj 
+訶	*qʰˤaj 
+柯	*[k]ˤar 
+歌	*[k]ˤaj 
+个	*kˤa[r]-s 
+個	*kˤa[r]-s 
+箇	*kˤa[r]-s 
+可	*[k]ʰˤa[j]ʔ 
+鴉	*qˤra 
+啞	*ʔˤraʔ 
+亞	*ʔˤrak-s 
+牙	*m-ɢˤ<r>a 
+芽	*m-ɢˤ<r>a 
+庌	*[N]-qʰˤraʔ 
+雅	*N-ɢˤraʔ 
+雅	*[N-ɢ]ˤraʔ 
+迓	*ŋˤ<r>ak-s 
+額	*C.ŋˤrak (no pre-Qín exx?)
+瑕	*[g]ˤra 
+蝦	*[g]ˤra 
+蝦	*[g]ˤra 
+遐	*[g]ˤra 
+騢	*[g]ˤra 
+下	*gˤraʔ 
+厦	*[g]ˤraʔ 
+夏	*[ɢ]ˤraʔ 
+廈	*[g]ˤraʔ 
+下	*m-gˤraʔ-s 
+夏	*[g]ˤraʔ (~ *[g]ˤraʔ-s)
+暇	*[g]ˤra-s 
+芐	*[g]ˤra-s 
+襾	*qʰˤraʔ 
+嚇	*qʰˤ<r>ak-s 
+嚇	*qʰˤ<r>ak 
+赫	*qʰˤrak 
+加	*kˤraj 
+嘉	*kˤ<r>aj 
+家	*kˤra 
+珈	
+葭	
+豭	*kˤra 
+假	*Cə.kˤraʔ 
+假	*kˤraʔ 
+叚	*Cə.kˤraʔ 
+嘏	
+斝	*[k]ˤraʔ 
+價	*C.qˤ<r>aʔ-s (or *mə.qˤ<r>aʔ-s?)
+嫁	*kˤra-s 
+嫁	*s-kˤra-s 
+稼	*kˤra-s 
+賈	*C.qˤ<r>aʔ-s (or *mə.qˤ<r>aʔ-s?)
+駕	*kˤraj-s 
+格	*kˤrak 
+𢓜	*kˤrak 
+客	*kʰˤrak 
+屰	*ŋrak 
+逆	*ŋrak 
+虩	*qʰrak 
+屐	*Cə.[g]rek 
+丮	*[k]rak 
+戟	*[k]rak 
+綌	*[k]ʰrak 
+郤	*[k]ʰrak 
+隙	*[k]ʰrak 
+𡭴	*[k]ʰrak 
+邪	*ɢ(r)A 
+邪	*[ɢ](r)A 
+也	*lAjʔ 
+埜	*lAʔ 
+野	*lAʔ 
+𡐨	*lAʔ 
+夜	*[ɢ]Ak-s 
+亦	*[ɢ](r)Ak 
+亦	*ɢ(r)Ak 
+奕	*[ɢ](r)Ak 
+弈	*[ɢ](r)Ak 
+懌	
+掖	*[ɢ](r)Ak 
+斁	
+易	*lek 
+液	*ɢrAk 
+繹	
+腋	*[ɢ](r)Ak 
+蜴	*lek 
+譯	*lAk 
+驛	*lAk 
+嗌	*q[i]k (dialect: *-ik > *-ek)
+益	*q[i]k (dialect: *-ik > *-ek)
+膉	*q[i]k 
+狸	*[r]ə 
+狸	*p.rə 
+貍	*p.rə 
+釐	*[r]ə 
+李	*C.rəʔ 
+理	*m(ə).rəʔ 
+理	*m(ə).rəʔ 
+裏	*m.rəʔ 
+里	*(mə.)rəʔ 
+鯉	*mə-rəʔ 
+吏	*[r]əʔ-s 
+力	*k.rək 
+俟	*s-[ɢ]rəʔ 
+俟	*s.[ɢ]rəʔ 
+涘	
+使	*s-rəʔ 
+史	*s-rəʔ 
+使	*s-rəʔ-s 
+嗇	*s.rək 
+穡	*s.rək 
+色	*s.rək 
+仕	*[m-s-]rəʔ 
+士	*[m-s-]rəʔ 
+事	*[m-s-]rəʔ-s 
+緇	*[ts]rə 
+仄	*[ts]rək 
+側	*[ts]rək 
+夨	*[ts]rək 
+昃	*[ts]rək 
+𠨮	*[ts]rək 
+𣅔	*[ts]rək 
+𣅛	*[ts]rək 
+廁	*[tsʰ]rək-s 
+測	*[tsʰ]rək 
+畟	*Nə-[tsʰ]rək 
+祠	*sə.lə 
+詞	*sə.lə 
+辭	*sə.lə 
+似	*sə.ləʔ 
+巳	*s-[ɢ]əʔ 
+汜	
+祀	*s-[ɢ]əʔ 
+禩	*s.ɢəʔ 
+耜	*sə-ləʔ 
+鈶	*sə.ləʔ 
+嗣	*sə.lə-s 
+寺	*s-[d]əʔ-s 
+食	*s-m-lək-s 
+飤	*s-m-lək-s 
+飼	*s-m-lək-s 
+司	*s-lə 
+思	*[s]ə 
+絲	*[s]ə 
+枲	*s.ləʔ 
+息	*sək 
+息	*sək 
+熄	*sək 
+慈	*[N-ts]ə 
+字	*mə-dzə(ʔ)-s 
+兹	
+滋	*[ts]ə 
+茲	
+鼒	
+子	*[ts]əʔ 
+子	*tsəʔ 
+梓	*[ts]əʔ 
+耔	
+即	*[ts]ik 
+即	*[ts]ik 
+稷	*[ts]ək 
+勒	*[r]ˤək 
+勒	*[r]ˤək 
+肋	*[r]ˤək 
+塞	*[s]ˤək 
+賊	*k.dzˤək 
+則	*[ts]ˤək 
+則	*[ts]ˤək 
+洒	*Cə.s<r>ərʔ 
+灑	*Cə.s<r>ərʔ (MC srj- > sr-)
+纚	*sreʔ (MC srj- > sr-)
+曬	*sre-s 
+灑	*Cə.s<r>ərʔ-s (MC srj- > sr-)
+柴	*[C.dz]ˤre(j) 
+祡	*[C.dz]ˤre(j) 
+債	*s-tˤrek-s 
+責	*s-tˤrek-s 
+簀	
+責	*s-tˤrek 
+責	*s-tˤrek 
+差	*[tsʰ]raj 
+册	*[tsʰ](ˤ)rek 
+栅	*[tsʰ]ˤrek 
+策	*[tsʰ](ˤ)rek 
+䟏	*[r]ˤewk 
+䰜	*k.rˤek 
+曆	*[r]ˤek 
+櫟	*[r]ˤewk 
+歷	*[r]ˤek 
+礫	*[r]ˤewk 
+轢	*[r]ˤewk 
+鬲	*k.rˤek 
+𩰲	*k.rˤek 
+晳	*[s]ˤek 
+析	*[s]ˤek 
+皙	
+錫	*s-lˤek 
+錫	*s.lˤek 
+寂	*s-[d]ˤiwk 
+績	*[ts]ˤek 
+績	*[ts]ˤek 
+慼	*s-tʰˤiwk 
+戚	*s.tʰˤiwk 
+戚	*s.tʰˤiwk 
+戚	*s.tʰˤiwk 
+戚	*s.tʰˤiwk 
+鏚	*s.tʰˤiwk 
+縭	
+纚	*[r]e 
+罹	*[r]aj 
+離	*[r]aj 
+離	*[r]aj 
+詈	*C.raj-s 
+離	*raj-s 
+釃	*Cə.sre 
+灑	*Cə.s<r>ərʔ 
+纚	*sreʔ 
+灑	*Cə.s<r>ərʔ-s 
+差	*tsʰraj 
+斯	*[s]e 
+斯	*[s]e 
+斯	*se 
+虒	*s.le 
+𩆵	*s[e]r 
+徙	*[s]ajʔ 
+璽	*s.[n]e[r]ʔ 
+賜	*s-lek-s 
+胔	
+柴	
+訾	*s-N-tse(j) 
+訿	
+雌	
+此	*[tsʰ]e(j)ʔ 
+泚	*[tsʰ]e(j)ʔ 
+刺	*[tsʰ]ek-s 
+朿	*[tsʰ]ek-s 
+籮	*C.rˤaj (no pre-Qín exx.)
+羅	*rˤaj 
+蘿	
+娑	*[s]ˤa[j] 
+獻	*s-ŋˤar 
+瘥	
+鹺	*N-[ts]ˤaj 
+左	*tsˤa[j]ʔ 
+左	*tsˤa[j]ʔ 
+佐	*tsˤarʔ-s (dialect: *-r > *-j)
+左	*tsˤarʔ-s 
+傞	
+差	*[tsʰ]ˤaj 
+磋	*[tsʰ]ˤaj 
+瑳	*tsʰˤarʔ 
+沙	*sˤraj 
+鯊	
+槎	*[dz]ˤraj 
+槎	*[dz]ˤrajʔ 
+乍	*[dz]ˤrak-s 
+柤	*tsˤra 
+詐	*[ts]ˤrak-s 
+柞	*[ts]ˤrak 
+差	*tsʰraj 
+邪	*sə.ɢA 
+謝	*sə-lAk-s 
+夕	*s-ɢAk 
+席	*s-m-tAk 
+蓆	
+寫	*s-qʰAʔ 
+寫	*s-qʰAʔ 
+瀉	*s-qʰAʔ 
+卸	*s-qʰA(ʔ)-s 
+惜	*[s]Ak 
+昔	*[s]Ak 
+潟	*s-qʰAk 
+舄	*s.qʰAk 
+藉	*[dz]Ak-s 
+藉	*[dz]Ak-s 
+籍	*[dz]Ak 
+藉	*[dz]Ak 
+嗟	*tsAj 
+罝	
+借	*[ts]Ak-s 
+借	*[ts]Ak 
+積	*[ts]ek 
+脊	*[ts]ek 
+跡	*[ts]ek 
+蹐	
+蹟	*[ts]ek 
+迹	*[ts]ek 
+𨒪	*[ts]ek 
+且	*[tsʰ]Aʔ 
+刺	*[tsʰ]ek 
+踖	
+而	*nə 
+耳	*C.nəʔ 
+耳	*nəʔ 
+餌	*[C.]nə(ʔ)-s 
+蝕	*mə-lək 
+食	*mə-lək 
+詩	*s.tə 
+始	*l̥əʔ 
+弒	*l̥ək-s 
+試	*l̥ək-s 
+式	*l̥ək 
+式	*l̥ək 
+拭	*l̥ək 
+識	*s-tək 
+飾	*l̥ək 
+塒	
+時	*[d]ə (~ *[d]əʔ)
+市	*C.[d]əʔ 
+恃	*[d]əʔ 
+侍	*[d]əʔ-s 
+埴	*[d]ək 
+植	*m-tək 
+殖	*N-tək 
+殖	*m-tək 
+之	*tə 
+之	*tə 
+止	*təʔ 
+沚	
+茝	*t-qəʔ 
+趾	*təʔ 
+志	*tə-s 
+誌	*tək-s 
+識	*tək-s 
+戠	*tək 
+樴	*tək 
+織	*tək 
+職	*tək 
+蚩	
+齒	*t-[k]ʰə(ŋ)ʔ (or *t.ŋ̊əʔ)
+熾	*tʰək-s 
+饎	
+兒	*ŋe 
+尔	*n[ə][r]ʔ 
+爾	*n[ə][r]ʔ 
+爾	*n[ə][r]ʔ 
+邇	*n[ə][r]ʔ 
+舐	*Cə.leʔ 
+舓	*Cə.leʔ 
+施	*l̥aj 
+弛	*l̥ajʔ 
+豕	*l̥ajʔ 
+翅	*s-kʰe-s 
+是	*[d]eʔ 
+氏	*k.deʔ 
+支	*ke 
+支	*ke 
+枝	*ke 
+肢	*ke 
+胑	*ke 
+觶	*tar 
+咫	*keʔ 
+紙	*k.teʔ 
+寘	*ke-s 
+示	*ke-s 
+侈	*t-l̥ajʔ 
+哆	*[t-l̥]ajʔ 
+蛇	*Cə.lAj 
+射	*Cə.lAk-s 
+射	*Cə.lAk 
+奢	*s.tʰA 
+賒	*l̥A 
+賖	*l̥A 
+捨	*l̥Aʔ 
+舍	*l̥Aʔ 
+舍	*[l̥]Ak-s (W dialect: *l̥- > *x-, palatalizing)
+赦	*[l̥]Ak-s 
+奭	*[qʰ](r)Ak 
+檡	*l̥Ak 
+螫	*[l̥]Ak 
+襫	*[qʰ](r)Ak 
+適	*s-tek 
+適	*s-tek 
+釋	*l̥Ak 
+𥼶	*l̥Ak 
+社	*m-tʰAʔ 
+石	*dAk 
+碩	*[d]Ak 
+遮	*tA 
+者	*tAʔ 
+赭	*tAʔ 
+柘	*tAk-s 
+炙	*tAk-s 
+蔗	*tAk-s 
+摭	*tAk 
+炙	*tAk 
+適	*tek 
+隻	*tek 
+車	*[t.qʰ](r)A 
+哆	*[t-l̥]Ajʔ 
+㡿	*t-qʰAk 
+厈	*tʰAk 
+尺	*tʰAk 
+斥	*tʰAk 
+赤	*[t-qʰ](r)Ak 
+匿	*nr[ə]k 
+持	*[d]rə 
+治	*C.lrə 
+值	*m-t<r>ək-s 
+植	*N-t<r>ək-s 
+植	*m-t<r>ək-s 
+治	*lrə-s 
+直	*N-t<r>ək 
+置	*trək-s 
+稙	*trək 
+陟	*trək 
+恥	*n̥rəʔ 
+祉	*[tʰ]rəʔ 
+勅	*(m-)r̥ək 
+敕	
+飭	
+特	*[d]ˤək 
+犆	*[d]ˤək 
+螣	
+得	*tˤək 
+德	*tˤək 
+忒	*l̥ˤək 
+慝	*n̥ˤək 
+眲	*nˤrək 
+廌	*[d]ˤreʔ 
+豸	*[d]ˤreʔ 
+謫	*m-tˤrek 
+適	
+摘	*tˤrek 
+謫	*C.tˤrek 
+讁	
+溺	*nˤewk 
+敵	*[d]ˤek 
+滌	*lˤiwk 
+狄	*lˤek 
+篴	*lˤiwk 
+糴	*lˤewk 
+翟	*lˤewk 
+迪	
+嫡	*tˤek 
+弔	*tˤ[i]wk 
+的	*[t-l]ˤewk 
+蹢	*tˤek 
+剔	*l̥ˤek 
+惕	*l̥ˤek 
+池	*Cə.lraj 
+篪	*lre 
+踟	*[d]re 
+馳	*[l]raj 
+豸	*[d]reʔ 
+知	*tre 
+蜘	*tre 
+智	*tre-s 
+离	*r̥aj 
+螭	*r̥aj (E dialect: *r̥- > trh-)
+魑	*r̥aj 
+儺	*nˤar 
+儺	*nˤar 
+那	*nˤar 
+儺	*nˤarʔ 
+佗	
+沱	*lˤaj 
+紽	*lˤaj 
+驒	*[d]ˤar 
+鼉	*[d]ˤar 
+舵	*lˤajʔ  (~ *C.lˤajʔ)
+大	*lˤat-s (MC F!)
+多	*[t.l]ˤaj 
+他	*l̥ˤaj (E dialect: *l̥ˤ- > MC th-) 
+佗	*l̥ˤaj 
+它	*l̥ˤaj 
+扡	
+拖	*l̥ˤaj 
+拏	*nˤra 
+挐	*nˤra 
+秅	*[d]ˤra 
+荼	*lˤra 
+宅	*m-tˤ<r>ak 
+澤	*lˤrak 
+乇	*tˤrak 
+詫	*tʰˤrak-s 
+坼	*Nə-qʰˤ<r>ak (W dialect: *qʰˤr- > *r̥ˤ- > trh-)
+拆	*qʰˤ<r>ak (dialect: *qʰˤr- > *r̥ˤ- > trh-)
+躑	*[d]rek 
+偪	*prək 
+幅	*p<r>ək 
+逼	*prək 
+副	*pʰrək 
+墨	*C.mˤək 
+匐	*[b]ˤək (< *[b]ˤuk ?)
+北	*pˤək 
+買	*mˤrajʔ 
+賣	*mˤrajʔ-s 
+脈	*C.mˤ<r>[i]k 
+脉	*C.mˤ<r>[i]k 
+麥	*m-rˤək (dialect: *m-rˤ > *mˤr-)
+簰	*Cə.[b]ˤre 
+罷	*[b]ˤrajʔ 
+稗	*C.[b]ˤre-s 
+粺	
+擘	*pˤrek (~ *mə-pˤrek)
+𠠦	*pˤrək 
+冪	*mˤ[e]k 
+幦	*mˤ[e]k 
+汨	*m.nˤik 
+簚	*mˤ[e]k 
+甓	*[b]ˤek 
+辟	*[b]ˤek 
+壁	*C.pˤek 
+糜	*C.m(r)aj 
+靡	*m(r)aj 
+靡	*m(r)ajʔ 
+靡	*m(r)ajʔ 
+靡	*m(r)ajʔ 
+靡	*m(r)ajʔ 
+疲	*[b](r)aj 
+皮	*m-[p](r)aj 
+罷	*[b]raj 
+被	*m-pʰ(r)ajʔ 
+被	*m-pʰ(r)ajʔ-s 
+碑	*pre 
+羆	*praj 
+陂	*p(r)a[j] 
+彼	*pajʔ 
+賁	*por-s 
+披	*pʰ(r)aj 
+被	*mə-pʰ(r)aj 
+被	*pʰ(r)aj-s 
+冞	*m.ner 
+彌	*m-nə[r] 
+瀰	*m.ner 
+𦊮	*m.ner 
+弭	*[m-ŋ]e(j)ʔ 
+彌	*m-nə[r]ʔ 
+敉	*me[j]ʔ 
+瀰	*m.nerʔ 
+脾	*m-[p]e 
+婢	*[b]eʔ 
+庳	*N-peʔ 
+辟	
+避	*[b]ek-s 
+卑	*pe 
+卑	*pe 
+髀	*peʔ 
+臂	*pek-s 
+諀	*pʰeʔ 
+譬	*pʰek-s 
+磨	*mˤaj 
+塺	*mˤaj-s 
+磨	*mˤaj-s 
+婆	*[b]ˤa[j] 
+皤	*[b]ˤar 
+蟠	*[b]ˤar 
+鄱	*[b]ˤar 
+波	*pˤaj 
+番	*pˤar 
+簸	*pˤajʔ 
+跛	*pˤajʔ 
+播	*pˤar-s 
+簸	*pˤajʔ-s 
+頗	*pʰˤa[j] 
+破	*pʰˤaj-s 
+麻	*C.mˤraj 
+馬	*mˤraʔ 
+罵	*C.mˤra-s 
+貉	*mˤrak 
+貊	
+陌	*[m]ˤrak 
+爬	*[b]ˤra 
+耙	*[b]ˤra 
+帛	*[b]ˤrak 
+白	*bˤrak 
+巴	*pˤra 
+巴	*pˤra 
+豝	*pˤra 
+把	*pˤraʔ 
+霸	*pˤrak-s 
+伯	*pˤrak 
+柏	*pˤrak 
+百	*pˤrak 
+迫	*Cə.pˤrak 
+拍	*mə-pʰˤrak 
+霸	*[pʰˤ]rak 
+魄	*pʰˤrak 
+碧	*prak 
+擗	*[b]ek 
+辟	*[N]-pek 
+璧	*pek 
+辟	*pek 
+僻	*pʰek 
+辟	
+域	*[ɢ]ʷrək 
+或	*[ɢ]ʷrək 
+緎	*[ɢ]ʷrək 
+蜮	
+侐	*m̥(r)ik 
+洫	*m̥(r)ik 
+淢	*m̥(r)ik 
+緎	*qʷʰrək 
+惑	*[ɢ]ʷˤək 
+或	*[ɢ]ʷˤək 
+國	*[C.q]ʷˤək 
+蛙	*qʷˤre 
+鼃	*qʷˤre 
+鼃	*m-qʷˤre 
+畫	*C-gʷˤrek-s 
+繣	*m-qʷʰˤrek-s 
+劃	*gʷˤrek 
+獲	*m-qʷˤrak 
+畫	*gʷˤrek 
+蒦	*m-qʷˤrak 
+繣	*qʷʰˤrek 
+卦	*[k]ʷˤre-s 
+挂	*[k]ʷˤre-s 
+絓	*[k]ʷˤre-s 
+馘	*C.qʷˤ<r>ək 
+狊	*kʷˤek 
+鵙	*kʷˤek 
+鶪	*kʷˤek 
+闃	*[k-m̥]ˤik (dialect: *-ik > *-ek) 
+為	*ɢʷ(r)aj 
+爲	
+為	*ɢʷ(r)aj-s 
+爲	
+委	*q(r)oj 
+萎	
+委	*q(r)ojʔ 
+委	*q(r)ojʔ 
+委	*q(r)orʔ 
+骫	*qʷ(r)arʔ 
+危	*[ŋ](r)[o]j 
+偽	*N-ɢʷ(r)aj-s 
+偽	*m-ɢʷ(r)aj-s 
+僞	
+毀	*[m̥](r)ajʔ 
+烜	*qʷʰarʔ (dialect: *-r > *-j)
+燬	
+跪	*[g](r)ojʔ 
+媯	*C.qʷ(r)aj 
+嬀	
+詭	*[k](r)ojʔ 
+虧	*[k]ʷʰ(r)aj 
+墮	*l̥oj (W. dialect: *l̥- > x-)
+觿	*qʷʰe 
+隳	*l̥oj 
+隋	*l̥oj-s (W. dialect: *l̥- > x-)
+規	*kʷe 
+窺	*kʷʰe 
+吪	*m-qʷʰˤaj 
+訛	*m-qʷʰˤaj 
+譌	*[m]-qʷʰˤaj 
+臥	*[ŋ]ˤ[o]j-s 
+和	*[ɢ]ˤoj 
+禾	*[ɢ]ˤoj 
+夥	*[gʷˤ]ajʔ 
+禍	*[g]ʷˤajʔ 
+和	*[ɢ]ˤoj-s 
+火	*[qʷʰ]ˤəjʔ 
+貨	*qʷʰˤaj-s 
+戈	*kʷˤaj 
+過	*Cə.kʷˤaj 
+過	*kʷˤaj 
+果	*[k]ˤo[r]ʔ 
+蜾	*kˤorʔ (*kˤorʔ.rˤorʔ, redup. infixation < *kˤorʔ ?)
+裹	*s.[k]ˤo[r]ʔ 
+過	*kʷˤaj-s 
+薖	*kʷʰˤaj 
+汙	*qʷˤra 
+污	*qʷˤra 
+鼃	*qʷˤre (MC -ae for -ea)
+擭	*qʷˤrak 
+瓦	*C.ŋʷˤra[j]ʔ 
+划	*C.[g]ʷˤraj (?)
+華	*N-qʷʰˤra 
+鼃	*m-qʷˤre (MC -ae for -ea)
+踝	*m-kˤ<r>o[r]ʔ 
+輠	*[g]ˤ<r>orʔ (dialect: *-r  > *-j)
+擭	*m-qʷˤrak-s 
+華	*[ɢ]ʷˤra-s 
+花	*qʷʰˤra 
+華	*qʷʰˤra 
+譁	*qʷʰˤra 
+化	*qʷʰˤ<r>aj-s 
+瓜	*kʷˤra 
+蝸	*k.rˤoj (dialect: *k.rˤ- > *kˤr-)
+騧	*[k]ˤroj 
+冎	*kʷˤrajʔ 
+咼	*kʷˤrajʔ 
+寡	*[C.k]ʷˤraʔ 
+虢	*[k]ʷˤrak 
+夸	*[kʷʰ]ˤra 
+誇	*[kʷʰ]ˤra 
+役	*ɢʷek 
+疫	*ɢʷek 
+累	*[r]oj 
+羸	*[r]o[j] 
+羸	*[r]o[j] 
+累	*[r]ojʔ 
+衰	*[tsʰ]roj 
+揣	*s-tʰ<r>orʔ 
+隋	*sə.loj 
+隨	*sə.loj 
+髓	*s-lojʔ 
+瀡	*s-loj-s 
+隋	*s-loj-s 
+觜	*[ts]ojʔ 
+腡	*k.rˤoj (swa 螺  < lwa < *k.rˤoj ‘spiral’)
+螺	*k.rˤoj 
+倮	*[r]ˤo[r]ʔ 
+卵	*k.rˤorʔ (dialect: *-r > *-j)
+臝	*rˤorʔ (*kˤorʔ.rˤorʔ, redup. infixed form from *kˤorʔ ‘fruit’ ?)
+蠃	*rˤorʔ (*kˤorʔ.rˤorʔ, redup. infixation < *kˤorʔ ?)
+裸	*[r]ˤo[r]ʔ 
+蓑	*[s]ˤoj 
+瑣	*[s]ˤojʔ 
+瑣	*[s]ˤojʔ 
+鎖	*[s]ˤojʔ 
+鏁	*[s]ˤojʔ 
+坐	*[dz]ˤo[j]ʔ 
+坐	*m-[dz]ˤo[j]ʔ 
+坐	*[dz]ˤo[j]ʔ-s 
+座	*[dz]ˤo[j]ʔ-s 
+脞	*tsʰˤojʔ 
+剉	*[tsʰ]ˤoj-s 
+髽	*[ts]ˤroj 
+垂	*[d]o[j] 
+瑞	*[d]or-s 
+睡	*[d]o[j]-s 
+捶	*tojʔ 
+吹	*tʰo[r] 
+吹	*tʰo[r]-s 
+諉	*nroj-s 
+錘	*m-t<r>oj 
+墮	*lˤojʔ 
+惰	*lˤojʔ 
+隋	*lˤojʔ 
+隋	*lˤojʔ 
+隓	*lˤojʔ 
+妥	*n̥ˤojʔ 
+橢	*l̥ˤojʔ 
+隋	*l̥ˤojʔ 
+應	*[q](r)əŋ 
+膺	*[q](r)əŋ 
+鷹	*[q](r)əŋ 
+凝	*[ŋ](r)əŋ (< uvular?)
+興	*qʰ(r)əŋ 
+兢	*k(r)əŋ 
+矜	*k-riŋ (dialect: *k-r- > k-, *-iŋ > MC -ing)
+矜	*k-riŋ 
+蠅	*m-rəŋ 
+孕	*l[i]ŋ-s 
+恆	*[g]ˤəŋ 
+恒	
+亙	*[k]ˤəŋ-s 
+肯	*kʰˤəŋʔ 
+嚶	
+罃	*[ʔ]ˤreŋ 
+罌	*[ʔ]ˤreŋ 
+牼	*m-kʰˤ<r>eŋ 
+莖	*m-k-lˤ<r>eŋ 
+幸	*[g]ˤreŋʔ 
+耕	*kˤ<r>eŋ 
+耿	*[k]ˤreŋʔ 
+牼	*kʰˤ<r>eŋ 
+刑	*[ɢ]ˤeŋ 
+刑	*[ɢ]ˤeŋ 
+形	*[ɢ]ˤeŋ 
+硎	*[ɢ]ˤeŋ 
+邢	*[g]ˤeŋ 
+陘	*[g]ˤeŋ 
+脛	*m-kʰˤeŋ-s 
+馨	*qʰˤeŋ 
+巠	*k.lˤeŋ 
+涇	
+經	*k-lˤeŋ 
+剄	*[k]ˤeŋʔ 
+徑	*[k]ˤeŋ-s 
+謦	*[C.qʰ]ˤeŋʔ 
+殸	*[C.qʰ]ˤeŋ-s 
+磬	*[C.qʰ]ˤeŋ-s 
+罄	*[kʰ]ˤeŋ-s 
+𥥻	*[k]ʰˤeŋ-s 
+桁	*[g]ˤraŋ 
+珩	
+行	*Cə.[g]ˤraŋ 
+衡	*[g]ˤraŋ 
+杏	*C.[g]ˤraŋʔ 
+荇	*[g]ˤraŋʔ 
+行	*[g]ˤraŋ-s 
+亨	*qʰˤraŋ 
+享	*[qʰ]ˤraŋ (W dialect)
+庚	*kˤraŋ 
+更	*kˤraŋ 
+羹	*kˤraŋ 
+梗	*kˤraŋʔ 
+更	*kˤraŋ-s 
+英	*ʔ<r>aŋ 
+影	*qraŋʔ 
+迎	*ŋ<r>aŋ 
+迎	*ŋ<r>aŋ-s 
+鯨	*[g]raŋ 
+競	*m-kraŋʔ-s (~ C-kraŋʔ-s)
+京	*[k]raŋ 
+荊	*[k]reŋ 
+驚	*kreŋ 
+境	*[k]raŋʔ 
+景	*C.qraŋʔ 
+景	*[C.q]raŋʔ 
+警	*kreŋʔ 
+敬	*kreŋ(ʔ)-s 
+竟	*[k]raŋʔ-s 
+鏡	*C.qraŋʔ-s 
+卿	*C.qʰraŋ 
+慶	*[kʰ]raŋ-s 
+楹	*leŋ 
+盈	*leŋ (< *liŋ?)
+贏	*[ɢ]eŋ 
+郢	*leŋʔ 
+嬰	*ʔeŋ 
+嬰	*ʔeŋ 
+纓	*ʔeŋ 
+纓	*ʔeŋ 
+頸	*m-[k]eŋ  (no palatalization before *-eŋ?)
+頸	*[k]eŋʔ (no palatalization before *-eŋ?)
+勁	*keŋ-s (no palatalization before *-eŋ?)
+輕	*[kʰ]eŋ (no palatalization before *-eŋ?)
+凌	*[r]əŋ 
+凌	*p.rəŋ 
+夌	*[r]əŋ 
+陵	*[r]əŋ 
+繒	*[dz]əŋ 
+甑	*S-təŋ-s 
+層	*N-s-tˤəŋ 
+層	*m-s-tˤəŋ 
+曾	*[dz]ˤəŋ 
+贈	*[dz]ˤəŋ-s 
+增	*s-tˤəŋ 
+憎	*[ts]ˤəŋ 
+曾	*[ts]ˤəŋ 
+峥	
+崢	*[dz]ˤreŋ 
+争	
+爭	*[ts]ˤreŋ (~ *m-tsˤreŋ or *mə-tsˤreŋ)
+令	*[r]ˤiŋ 
+苓	
+零	*[r]ˤiŋ 
+靈	*[r]ˤeŋ 
+星	*s-tsʰˤeŋ 
+醒	
+醒	*s-tsʰˤeŋʔ 
+青	*[s.r̥]ˤeŋ 
+生	*sreŋ (MC srj- > sr-; or *s.reŋ ?)
+生	*sreŋ 
+生	*sreŋ (or *s.reŋ ?)
+甥	*s.reŋ 
+笙	
+令	*riŋ 
+領	*[r]eŋʔ 
+令	*riŋ-s 
+省	*[s]eŋʔ 
+姓	*seŋ-s 
+性	*seŋ-s 
+情	*[dz]eŋ 
+晴	*N-tsʰeŋ 
+請	*m-tsʰeŋ 
+浄	
+淨	*N-tseŋ-s 
+淨	*m-tseŋ-s 
+旌	*[ts]eŋ 
+晶	*tseŋ 
+精	*tseŋ 
+菁	
+丼	*C.tseŋʔ 
+井	*C.tseŋʔ 
+清	*tsʰeŋ 
+請	*[tsʰ]eŋʔ 
+凊	*[tsʰ]eŋ-s 
+仍	*nəŋ 
+陾	
+乘	*Cə.ləŋ 
+塍	*m.ləŋ (~ *mə.ləŋ)
+繩	*Cə-m.rəŋ 
+乘	*Cə.ləŋ-s 
+乘	*Cə.ləŋ-s 
+剩	*Cə.ləŋ-s 
+勝	*l̥əŋ 
+升	*s-təŋ 
+升	*s-təŋ 
+陞	*s-təŋ 
+勝	*l̥əŋ-s 
+丞	*m-təŋ 
+承	*[m-t]əŋ 
+烝	*təŋ 
+脀	*təŋ 
+蒸	*təŋ 
+抍	*təŋʔ 
+拯	*təŋʔ 
+撜	*təŋʔ 
+證	*təŋ-s 
+稱	*tʰəŋ 
+稱	*mə-tʰəŋ-s 
+聲	*[l̥]eŋ 
+聖	*l̥eŋ-s 
+城	*[d]eŋ 
+成	*[d]eŋ 
+成	*m-[d]eŋ 
+盛	*[d]eŋ 
+誠	*[d]eŋ 
+盛	*[d]eŋ-s 
+征	*teŋ 
+正	*C.teŋ 
+整	*teŋʔ 
+政	*teŋ-s 
+正	*teŋ-s 
+証	*teŋ-s 
+懲	*m-trəŋ 
+澄	*[d]rəŋ 
+徵	*trəŋ 
+能	*nˤə(ŋ) 
+能	*nˤə(ʔ) (~ *nˤəŋ)
+滕	
+縢	*lˤəŋ 
+騰	*lˤəŋ 
+燈	*k-tˤəŋ 
+登	*k-tˤəŋ 
+登	*tˤəŋ 
+豋	*tˤəŋ 
+鐙	*k-tˤəŋ 
+等	*tˤəŋʔ 
+橙	*[d]ˤrəŋ 
+丁	*tˤreŋ 
+寧	*nˤeŋ 
+甯	*nˤeŋ 
+佞	*nˤiŋ-s 
+甯	*nˤ[e]ŋ-s 
+亭	*m-tˤeŋ 
+停	*Cə.[d]ˤeŋ (~ *C.[d]ˤeŋ)
+庭	
+廷	*lˤeŋ 
+霆	
+定	*N-tˤeŋ-s 
+定	*m-tˤeŋ-s 
+丁	*tˤeŋ 
+丁	*tˤeŋ 
+釘	*tˤeŋ 
+頂	*tˤeŋʔ 
+鼎	*tˤeŋʔ 
+定	*tˤeŋ-s 
+釘	*tˤeŋ-s 
+汀	*tʰˤeŋ 
+聽	*l̥ˤeŋ 
+挺	*l̥ˤeŋʔ 
+町	*tʰˤeŋʔ 
+𡈼	*l̥ˤeŋʔ 
+聽	*l̥ˤeŋ-s 
+棖	*m-tˤ<r>aŋ 
+𣥺	*m-tˤ<r>aŋ 
+瞠	*tʰˤraŋ 
+呈	*lreŋ 
+程	*(C.)lreŋ 
+程	*l<r>eŋ 
+鄭	*[d]reŋ-s 
+楨	
+貞	*treŋ 
+貞	*treŋ 
+䞓	*t-kʰreŋ 
+赬	*[t.kʰ]reŋ 
+逞	*[l̥]reŋʔ 
+騁	*[r̥]eŋʔ 
+憑	*[b]rəŋ 
+馮	*[b]rəŋ 
+馮	*[b]rəŋ 
+冫	*p.rəŋ (dialect: *p.r- > *pr-)
+冰	*p.rəŋ (dialect: *p.r- > *pr-)
+掤	
+朋	*[b]ˤəŋ 
+崩	*Cə.pˤəŋ 
+堋	*pˤəŋ-s 
+氓	*mˤr[i]ŋ 
+黽	*mˤrəŋʔ 
+繃	*pˤrəŋ 
+迸	*pˤreŋ-s 
+冥	*mˤeŋ 
+鄍	*mˤeŋ 
+銘	*mˤeŋ 
+屏	*[b]ˤeŋ 
+瓶	*[b]ˤeŋ 
+缾	*[b]ˤeŋ 
+苹	*[b]ˤeŋ 
+並	*[b]ˤeŋʔ 
+甹	*[p.l̥]ˤeŋ 
+䖟	*mˤraŋ 
+盲	*mˤ<r>aŋ 
+虻	
+蝱	
+孟	*mˤraŋ-s 
+彭	*C.[b]ˤraŋ 
+祊	*pˤraŋ 
+榜	*pˤraŋ-s 
+亨	*[p.qʰ]ˤraŋ 
+烹	*[p.qʰ]ˤraŋ 
+明	*mraŋ 
+盟	*mraŋ 
+鳴	*m.reŋ 
+皿	*mraŋʔ 
+命	*m-riŋ-s (dialect: *m-r- > *mr-, *-iŋ> *-eŋ)
+平	*breŋ 
+平	*m-breŋ 
+病	*[b]raŋ-s 
+兵	*praŋ 
+丙	*praŋʔ 
+怲	
+秉	*praŋʔ 
+邴	*praŋʔ 
+枋	*[p]raŋʔ-s 
+柄	*[p]raŋʔ-s 
+棅	*[p]raŋʔ-s 
+名	*C.meŋ 
+并	*peŋ 
+餅	*peŋʔ 
+并	*peŋ-s 
+聘	*p.leŋ-s 
+娉	*p.[r̥]eŋ-s 
+弘	*[ɢ]ʷˤəŋ 
+薨	*m̥ˤəŋ 
+肱	*[k]ʷˤəŋ 
+𠃋	*[k]ʷˤəŋ 
+宏	*[g]ʷˤ<r>əŋ 
+嶸	*[ɢ]ʷˤreŋ 
+瑩	
+熒	*[N]-qʷˤeŋ 
+螢	*m-qʷˤeŋ 
+坰	*kʷˤeŋ 
+扃	*kʷˤeŋ 
+熲	
+褧	*kʷʰˤeŋʔ 
+喤	
+橫	*C.gʷˤraŋ 
+觥	*[k]ʷˤraŋ 
+嶸	*[ɢ]ʷreŋ 
+榮	*[N-qʷ]reŋ 
+榮	*[N-qʷ]reŋ 
+永	*[ɢ]ʷraŋʔ 
+咏	*[ɢ]ʷraŋ-s 
+泳	*[ɢ]ʷraŋ(ʔ)-s 
+詠	*[ɢ]ʷraŋ-s 
+兄	*m̥raŋ 
+囧	*k-mraŋʔ (dialect: *k.mr- > *kʷr-)
+營	*[ɢ]ʷeŋ 
+穎	*[ɢ]ʷeŋʔ 
+縈	
+睘	
+瞏	*[g]ʷeŋ 
+傾	*[k]ʷʰeŋ 
+頃	*[k]ʷʰeŋʔ 
+於	*[ʔ]a 
+䱷	*[ŋ](r)a 
+漁	*[ŋ](r)a 
+鋙	*ŋ(r)a 
+魚	*[r.ŋ]a 
+圄	*m-qʰ<r>aʔ 
+圉	*m-qʰ<r>aʔ 
+御	*m-[qʰ](r)aʔ 
+禦	*m-qʰ(r)aʔ 
+語	*ŋ(r)aʔ 
+鋙	*ŋ(r)aʔ 
+御	*[ŋ](r)a-s 
+語	*ŋ(r)aʔ-s 
+馭	*[ŋ](r)a-s 
+虛	*qʰ(r)a 
+所	*qʰaʔ 
+許	*qʰ(r)aʔ 
+許	*qʰ(r)aʔ 
+渠	*[g](r)a 
+秬	
+粔	*[N]-k(r)aʔ 
+虡	
+遽	*[g](r)a(k)-s 
+醵	*[g](r)ak-s 
+居	*k(r)a 
+居	*ka 
+据	
+琚	
+車	*C.q(r)a 
+筥	*[k]raʔ 
+舉	*C.q(r)aʔ 
+舉	*[k](r)aʔ 
+莒	*k.raʔ (dialect: *k.r- > > kr-)
+居	*k(r)a-s (based on rhyme evidence)
+據	*k(r)a(k)-s 
+鋸	*k(r)a-s 
+墟	*C.qʰ(r)a 
+椐	
+祛	
+虚	
+虛	*C.qʰ(r)a 
+去	*[kʰ](r)aʔ 
+去	*[k]ʰ(r)ap-s 
+予	*laʔ 
+余	*la 
+旟	
+譽	*m-q(r)a 
+輿	*m-q(r)a 
+餘	*la 
+与	*m-q(r)aʔ 
+予	*laʔ 
+舁	*m-q(r)aʔ 
+與	*m-q(r)aʔ 
+藇	
+與	*ɢ(r)aʔ-s 
+譽	*[ɢ](r)a-s 
+譽	*m-q(r)a-s 
+豫	*laʔ-s 
+豫	*laʔ-s 
+鸒	*m-q(r)a-s 
+廬	*[r]a 
+藘	*[r]a 
+儢	*[r]aʔ 
+吕	
+呂	*[r]aʔ 
+旅	*[r]aʔ 
+慮	*[r]a-s 
+梳	*sra 
+疋	*sra 
+疎	*sra 
+疏	*sra 
+蔬	*sra 
+所	*s-qʰ<r>aʔ 
+鉏	*s-[l]<r>a 
+鋤	*s-[l]<r>a 
+鋤	*s-[l]<r>a 
+助	*[dz]ra-s 
+菹	
+阻	*[ts]raʔ 
+初	*[ts]ʰra 
+楚	*[s.r̥]aʔ 
+楚	*s.r̥aʔ 
+楚	*s.r̥aʔ 
+徐	*sə.la 
+邪	*sə.la 
+叙	
+序	*[sə.l]aʔ 
+敘	*s-m-taʔ 
+緒	*s-m-taʔ 
+緖	
+鱮	
+胥	
+湑	*s-raʔ (dialect: *s-r- > MC s-)
+絮	*s-na-s 
+沮	*[dz]aʔ 
+且	*tsa 
+沮	
+岨	*[tsʰ]a 
+砠	*[tsʰ]a 
+苴	
+雎	*[tsʰ]a 
+鴡	*[tsʰ]a 
+如	*na 
+如	*na 
+洳	*na 
+汝	*naʔ 
+茹	*naʔ 
+洳	*na-s 
+茹	*na-s 
+茹	*naʔ-s 
+抒	*Cə-laʔ 
+紓	*Cə.laʔ 
+書	*s-ta 
+紓	*l̥a 
+舒	*l̥a 
+暑	*s-tʰaʔ 
+癙	*[l̥]aʔ 
+黍	*s-tʰaʔ 
+鼠	*[l̥]aʔ 
+庶	*s-tak-s 
+恕	*n̥a-s 
+署	*m-taʔ-s 
+諸	*ta 
+諸	*ta 
+䰞	*[t]aʔ 
+渚	*taʔ 
+煑	*[t]aʔ 
+煮	*[t]aʔ 
+陼	*taʔ 
+杵	*t.qʰaʔ 
+處	*t.qʰaʔ 
+處	*t.qʰaʔ-s 
+女	*nraʔ 
+籹	*nraʔ 
+女	*nraʔ-s 
+除	*[l]<r>a 
+竚	*m-[t]raʔ 
+紵	*mə-draʔ 
+羜	
+箸	*[d]<r>ak-s 
+除	*lra-s 
+豬	*tra 
+褚	*traʔ 
+著	*t<r>ak-s 
+攄	*r̥a 
+樗	
+模	*mˤa 
+謨	*mˤ[a] 
+募	*mˤak-s 
+墓	*C.mˤak-s 
+慕	*(C.)mˤak-s 
+莫	
+匍	*[b]ˤa 
+蒲	*[b]ˤa 
+簿	*[b]ˤaʔ 
+哺	*[b]ˤa-s 
+步	*mə-bˤa-s 
+補	*[Cə]-pˤaʔ 
+圃	
+布	*pˤa-s 
+布	*pˤa-s 
+痡	*pʰˤa 
+鋪	*pʰˤa 
+浦	*pʰˤaʔ 
+巫	*C.m(r)[o] 
+无	*ma 
+毋	*mo 
+無	*ma 
+無	*ma 
+無	*mo 
+蕪	*m(r)a 
+誣	*[m](r)[o] 
+譕	*m(r)a 
+侮	*m(r)oʔ 
+儛	*k.m(r)aʔ 
+武	*m(r)aʔ 
+舞	*k.m(r)aʔ 
+務	*m(r)o-s 
+霧	*kə.m(r)[o]k-s 
+夫	*[b]a 
+夫	*ba 
+扶	*m-[p](r)a 
+扶	*m-[p](r)a 
+符	*[b](r)o 
+父	*[N-p](r)aʔ 
+腐	*[b](r)oʔ 
+輔	*[b](r)aʔ 
+釜	
+傅	*[b](r)[a]-s 
+附	*N-p(r)oʔ-s 
+幞	*[b](r)ok 
+夫	*p(r)a 
+膚	*pra 
+府	*p(r)oʔ 
+斧	*p(r)aʔ 
+父	*p(r)aʔ 
+甫	*p(r)aʔ 
+甫	*praʔ 
+簠	*p(r)aʔ 
+脯	*p(r)aʔ 
+鈇	*p(r)aʔ 
+黼	
+付	*p(r)o-s 
+傅	*p(r)a(ʔ)-s 
+搏	*p(r)ak-s 
+賦	*p(r)a-s 
+賦	*p(r)a-s 
+敷	*pʰ(r)a 
+痡	*pʰ(r)a 
+鋪	*pʰ(r)a 
+撫	*[pʰ](r)aʔ 
+仆	*pʰ(r)ok-s 
+赴	*pʰ(r)ok-s 
+圩	*qʷˤa 
+於	*[ʔ]ˤa 
+洿	*qʷˤa 
+烏	*[ʔ]ˤa 
+烏	*qˤa 
+烏	*ʔˤa 
+惡	*ʔˤak-s 
+吳	*ŋʷˤa 
+吾	*ŋˤa 
+五	*C.ŋˤaʔ 
+伍	*C.ŋˤaʔ 
+午	*[m].qʰˤaʔ 
+午	*m-qʰˤaʔ 
+啎	*ŋˤak-s 
+寤	*ŋˤa-s 
+悟	*ŋˤa-s 
+晤	*ŋˤak-s 
+誤	*ŋʷˤa-s 
+遻	*ŋˤak-s 
+乎	*ɢˤa 
+乎	*ɢˤa 
+壺	*[g](ʷ)ˤa 
+弧	*[g]ʷˤa 
+湖	*[g]ˤa 
+狐	*[g]ʷˤa 
+糊	*Cə.[g]ˤa (~ *C.[g]ˤa; no pre-Qín exx.)
+胡	*[g]ˤa 
+葫	*[g]ˤa 
+岵	
+戶	*m-qˤaʔ 
+戶	*m-qˤaʔ 
+扈	*m-qˤaʔ 
+祜	*[g]ˤaʔ 
+鳸	*m-qʷˤaʔ 
+互	*m-qˤaʔ-s 
+冱	
+枑	*m-qˤaʔ-s 
+沍	*N-qˤaʔ-s 
+瓠	*[ɢ]ʷˤa-s 
+護	*[ɢ]ʷˤak-s 
+呼	*qʰˤa 
+幠	*m̥ˤa 
+虍	*qʰˤra (dialect *qˤʰr- >r̥ˤ- > x-)
+滸	*qʰˤaʔ 
+滸	*qʰˤaʔ 
+虎	*qʰˤraʔ (W dialect: *qˤʰr- >r̥ˤ- > x-)
+許	*qʰˤaʔ 
+呼	*qʰˤa-s 
+呱	*kʷˤa 
+姑	*kˤa 
+孤	*kʷˤa 
+罛	*kʷˤa 
+菇	*mə.kˤa 
+辜	
+酤	
+古	*kˤaʔ 
+牯	*Cə.kʷˤaʔ 
+盬	
+瞽	*[k]ˤaʔ 
+罟	
+羖	*Cə.kʷˤaʔ 
+股	*kʷˤaʔ 
+蠱	*[k]ˤaʔ 
+賈	*C.qˤaʔ 
+鼓	*[k]ˤaʔ 
+鼔	*[k]ˤaʔ 
+固	*[k]ˤa-s 
+故	*kˤa(ʔ)-s 
+故	*kˤaʔ-s 
+痼	*[k]ˤa-s 
+錮	*[k]ˤaʔ-s 
+雇	*[C.q]ʷˤa(ʔ)-s 
+顧	*[k]ʷˤaʔ-s (~ *[k]ʷˤaʔ)
+枯	*kʰˤa 
+苦	*kʰˤaʔ 
+庫	*[k]ʰˤa-s 
+袴	*[kʷʰ]ˤa-s 
+于	*ɢʷ(r)a 
+于	*ɦʷa (< *ɢʷ(r)a)
+盂	*[ɢ]ʷ(r)a 
+竽	*[ɢ]ʷ(r)a 
+迂	*[ɢ]ʷ(r)a 
+雩	*[ɢ]ʷ(r)a 
+宇	*[ɢ]ʷ(r)aʔ 
+禹	*[ɢ]ʷ(r)aʔ 
+羽	*[ɢ]ʷ(r)aʔ 
+雨	*C.ɢʷ(r)aʔ 
+芋	*[ɢ]ʷ(r)a-s 
+雨	*[ɢ]ʷ(r)aʔ-s 
+紆	*qʷ(r)a 
+迂	*qʷ(r)a 
+傴	*q(r)oʔ 
+饇	
+娛	*ŋʷ(r)a 
+愚	
+虞	*[ŋ]ʷ(r)a 
+虞	*[ŋ]ʷ(r)a 
+隅	*ŋ(r)o 
+噳	
+麌	
+寓	*ŋ(r)o-s 
+遇	*ŋ(r)o-s 
+獄	*[ŋ]rok 
+玉	*[ŋ](r)ok (< uvular?) 
+吁	*qʷʰ(r)a 
+盱	
+荂	*qʷʰ(r)a 
+訏	*qʷʰ(r)a 
+冔	
+栩	
+頊	*qʰ(r)ok 
+劬	*[g](r)o 
+瞿	*[g]ʷ(r)a 
+絇	*[g](r)o 
+具	*[g](r)o-s 
+懼	*[g]ʷ(r)a(k)-s 
+局	*N-kʰ(r)ok 
+局	*[g](r)ok 
+俱	*k(r)o 
+駒	
+枸	*[k](r)oʔ 
+矩	*[k]ʷ(r)aʔ 
+踽	
+䀠	*[k]ʷ(r)a-s 
+句	*[k](r)o-s 
+屨	*k-ro-s (dialect: *k-r- > *kr-)
+瞿	
+鞻	*k-ro-s (dialect: *k-r- > *kr-)
+驅	*[k]ʰ(r)o 
+曲	*kʰ(r)ok 
+俞	*lo 
+愉	*lo 
+揄	
+榆	*lo 
+渝	*lo 
+臾	*[ɢ](r)o 
+諛	*[ɢ](r)o 
+踰	*lo 
+逾	*lo 
+庾	*[ɢ](r)oʔ 
+愈	*loʔ 
+楰	
+瘉	
+喻	*lo-s 
+欲	*ɢ(r)ok 
+爐	*[r]ˤa 
+蘆	*C.rˤa 
+鑪	*[r]ˤa 
+𧆨	*[r]ˤa 
+櫓	*[r]ˤaʔ 
+虜	*C.rˤaʔ 
+魯	*[r]ˤaʔ 
+魯	*r.ŋˤaʔ (dialect > *rŋˤ- > *rˤ- > MC l-)
+鹵	*[r]ˤaʔ 
+鹵	*[r]ˤaʔ 
+賂	*[r]ˤak-s 
+路	*Cə.rˤak-s 
+露	*p.rˤak-s 
+穌	*s.ŋˤa 
+蘇	*s-ŋˤa 
+㴑	*s-ŋˤak-s 
+愬	*s-ŋˤak-s 
+泝	*s-ŋˤak-s 
+素	*[s]ˤak-s 
+訴	*s-ŋˤak-s 
+遡	*s-ŋˤak-s 
+𧪜	*s-ŋˤak-s 
+徂	*[dz]ˤa 
+胙	*[dz]ˤak-s 
+租	
+祖	*[ts]ˤaʔ 
+組	
+作	*[ts]ˤak-s 
+粗	*Nə-s.r̥ˤa 
+措	*[tsʰ]ˤak-s 
+婁	*[r]o 
+蔞	
+縷	*[r]oʔ 
+屢	*[r]o(ʔ)-s 
+綠	*pə.rok 
+緑	
+菉	*[r]ok 
+錄	*[r]ok 
+録	
+數	*s-roʔ 
+數	*s-roʔ-s 
+芻	*[tsʰ]ro 
+趨	*[ts]ʰro 
+蝓	*Cə.lo 
+俗	*s-[ɢ]ok 
+續	*sə.lok 
+藚	*sə.lok 
+需	*s-no 
+須	*C-[s.n]o 
+須	*[s]o 
+鬚	*C-[s.n]o 
+粟	*[s]ok 
+聚	*m-tsʰoʔ 
+聚	*m-tsʰoʔ-s 
+娵	*[ts]o 
+掫	*tso 
+諏	*[ts]o 
+足	*[ts]ok-s 
+足	*[ts]ok 
+足	*[ts]ok 
+取	*tsʰoʔ 
+取	*[ts]ʰoʔ-s 
+娶	*[ts]ʰoʔ-s 
+趣	*[tsʰ]oʔ-s 
+趣	*[tsʰ]ok 
+濡	*no 
+襦	*no 
+乳	*noʔ 
+醹	
+孺	*no-s 
+縟	*nok 
+蓐	*nok 
+辱	*nok 
+贖	*Cə.lok 
+輸	*l̥o 
+戍	*[n̥]o-s 
+束	*s-tʰok 
+殊	*[d]o 
+殳	*[d]o 
+樹	*m-toʔ 
+豎	*[d]oʔ 
+尌	*m-toʔ-s 
+樹	*m-toʔ-s 
+屬	*N-tok 
+蜀	*[d]ok 
+侏	*to 
+朱	*to 
+朱	*to 
+主	*toʔ 
+斗	*toʔ 
+鑄	*tu-s (MC F!)
+馵	*to(k)-s 
+屬	*tok 
+燭	*tok 
+蠋	
+姝	
+樞	*t.qʰ(r)o 
+觸	*tʰok 
+奴	*nˤa 
+孥	
+弩	*C.nˤaʔ 
+怒	*C.nˤaʔ 
+怒	*C.nˤaʔ-s 
+圖	*[d]ˤa 
+塗	*lˤa 
+塗	*lˤa 
+屠	*[d]ˤa 
+徒	*[d]ˤa 
+涂	*lˤa 
+瘏	*[d]ˤa 
+途	*lˤa 
+杜	
+肚	*m-tˤaʔ 
+度	*[d]ˤak-s 
+渡	*[d]ˤak-s 
+都	*tˤa 
+闍	
+堵	*tˤaʔ 
+堵	*tˤaʔ 
+睹	*tˤaʔ 
+肚	*tˤaʔ 
+賭	*mə.tˤaʔ 
+妒	*tˤak-s 
+妬	*tˤak-s 
+蠹	*tˤak-s 
+稌	*l̥ˤa 
+吐	*tʰˤaʔ 
+土	*tʰˤaʔ 
+稌	
+兔	*l̥ˤa-s 
+吐	*tʰˤaʔ-s 
+廚	*[d]ro 
+躕	*[d]ro 
+柱	*m-t<r>oʔ 
+住	*dro(ʔ)-s 
+躅	*[d]rok 
+株	*tro 
+蛛	*tro 
+誅	*tro 
+邾	*tro 
+拄	*t<r>oʔ 
+壴	*t<r>oʔ-s 
+注	*tro(ʔ)-s 
+瘃	*[t]rok 
+豖	*tʰrok 
+區	*qˤ(r)o 
+樞	*qˤ(r)o 
+嘔	*qˤ(r)oʔ 
+屋	*qˤok (or *ʔˤok ?)
+偶	*ŋˤ(r)oʔ 
+耦	*ŋˤ(r)oʔ 
+藕	*C.ŋˤ(r)oʔ 
+侯	*[g]ˤ(r)o 
+喉	*[g]ˤ(r)o 
+猴	*mə-gˤ(r)o 
+鍭	*[g]ˤ(r)o 
+餱	
+厚	*Cə.[g]ˤ(r)oʔ 
+后	*ɢˤ(r)oʔ 
+後	*[ɢ]ˤ(r)oʔ 
+候	*[g]ˤ(r)o-s 
+後	*[ɢ]ˤ(r)oʔ-s 
+逅	*[g]ˤro-s 
+鍭	*[g]ˤ(r)o-s 
+訽	*qʰˤ(r)o-s 
+句	*[k]ˤ(r)o 
+溝	*[k]ˤ(r)o 
+篝	*[k]ˤ(r)o 
+鉤	*[kˤ](r)o 
+垢	
+狗	*Cə.kˤroʔ 
+笱	
+耇	
+苟	*[k]ˤ(r)oʔ 
+冓	*kˤ(r)o-s 
+句	*[k]ˤ(r)ok-s 
+媾	*kˤ(r)o-s 
+彀	*[k]ˤ(r)ok-s 
+覯	*kˤ(r)o-s 
+購	*kˤ(r)o-s 
+穀	*[k]ˤok 
+谷	*C.qˤok 
+轂	*[k]ˤok 
+口	*kʰˤ(r)oʔ 
+叩	*kʰˤ(r)oʔ 
+叩	*kʰˤ(r)oʔ-s 
+寇	*[k]ʰˤ(r)o-s 
+哭	*[kʰ]ˤok 
+尤	*[ɢ]ʷə 
+訧	*[ɢ]ʷə 
+郵	
+友	*[ɢ]ʷəʔ 
+右	*[ɢ]ʷəʔ 
+有	*[ɢ]ʷəʔ 
+祐	*[ɢ]ʷəʔ 
+佑	*[ɢ]ʷəʔ-s 
+侑	
+又	*[ɢ]ʷəʔ-s 
+右	*[ɢ]ʷəʔ-s (~ *m-qʷəʔ)
+囿	*[ɢ]ʷək-s 
+祐	*[ɢ]ʷəʔ-s 
+囿	*[ɢ]ʷək 
+優	*ʔ(r)u 
+憂	*ʔ(r)u 
+懮	
+奧	*ʔ(r)uk 
+彧	*qʷək 
+燠	
+薁	*ʔ(r)uk 
+郁	*qʷək 
+牛	*[ŋ]ʷə (< uvular?)
+休	*qʰ(r)u 
+休	*qʰ(r)u 
+鵂	*qʰ(r)u 
+朽	*qʰ(r)uʔ 
+嗅	*qʰu(ʔ)-s 
+畜	*qʰuk-s 
+臭	*qʰu(ʔ)-s 
+慉	*qʰuk 
+畜	*qʰuk 
+稸	*qʰuk 
+蓄	*qʰuk 
+仇	*[g](r)u 
+俅	
+求	*[g](r)u 
+球	*[g](r)[u] 
+絿	
+裘	*[g]ʷə 
+觩	
+逑	*g(r)u 
+銶	
+咎	*[g](r)uʔ 
+臼	*C.[g]ʷəʔ 
+舅	*[g](r)uʔ 
+柩	*[g]ʷə-s 
+舊	*N-kʷəʔ-s 
+鳩	*[k](r)u 
+龜	*[k]ʷə 
+久	*[k]ʷəʔ 
+九	*[k]uʔ 
+灸	*[k]ʷəʔ 
+玖	
+韭	*s.[k](r)uʔ 
+㝌	*[k]ʷə(ʔ)-s 
+廄	*[k]ʷu(ʔ)-s 
+救	*s.k(r)u-s 
+疚	
+究	*[k](r)u(ʔ)-s 
+匊	
+鞠	
+鞫	*k(r)uk 
+丘	*[k]ʷʰə 
+蚯	*[k]ʷʰə 
+悠	*liw 
+攸	*liw 
+斿	*[N.]ru 
+油	*[l][u] 
+浟	
+游	*[N-]ru 
+游	*[N-]ru 
+滺	
+猶	*[ɢ(r)]u 
+猶	*[ɢ(r)]u 
+由	*l[u] 
+舀	
+遊	*[N-]ru 
+槱	
+牖	*[l]uʔ 
+莠	*[l]uʔ 
+誘	*luʔ 
+酉	*N-ruʔ 
+酉	*N-ruʔ 
+酉	*N-ruʔ 
+儥	*[l][iw]k 
+昱	*ɢʷrəp (dialect: *-əp > *-up > *-uk) 
+毓	*m-quk 
+煜	*ɢʷrəp 
+育	*m-quk 
+鬻	*m-quk 
+𧶠	*luk 
+幽	*[ʔ](r)iw 
+幼	*[ʔ](r)iw-s 
+丩	*k-riw (dialect: *k-r- > *kr-)
+摎	*k-riw (dialect: *k-r- > *kr-)
+樛	*k-riw (dialect: *k-r- > *kr-)
+樛	*k-riw (dialect: > *k-r- > *kr-)
+糾	*k<r>iwʔ 
+沃	
+寉	
+隺	*[g]ˤawk 
+鵠	
+告	*kˤuk 
+郜	*kˤuk 
+酷	*kʰˤuk 
+幺	*ʔˤ[i]w 
+窈	*ʔˤ[e]wʔ 
+堯	*[ŋ]ˤew 
+曉	*qʰˤewʔ 
+徼	*[k]ˤew 
+僥	*[k]ˤewʔ 
+皎	
+叫	*kˤewk-s 
+徼	*[k]ˤew(k)-s 
+竅	*[k]ʰˤewk-s 
+媪	
+媼	*ʔˤuʔ 
+奧	*ʔˤuk-s 
+澳	*ʔˤuk-s 
+堊	*ʔˤak 
+惡	*ʔˤak 
+嗷	
+嗸	*ŋˤaw 
+囂	*[ŋ]ˤaw 
+敖	*[ŋ]ˤaw 
+敖	*ŋˤaw 
+熬	*ŋˤaw 
+咢	*[ŋ]ˤak 
+愕	*N-qʰˤak 
+諤	*ŋˤak 
+遌	*ŋˤak 
+毫	*[g]ˤaw 
+號	*[C.g]ˤaw 
+豪	*[g]ˤaw 
+昊	
+浩	*[g]ˤuʔ 
+皓	
+号	*[g]ˤaw-s 
+號	*Cə.[g]ˤaw-s 
+貉	
+鶴	*[g]ˤawk 
+茠	*qʰˤu 
+蒿	*qʰˤaw 
+薅	*qʰˤu 
+好	*qʰˤuʔ 
+好	*qʰˤuʔ-s 
+藃	*qʰˤaw(k)-s 
+壑	*qʰˤak 
+熇	
+櫜	
+皋	*[k]ˤu 
+膏	*Cə.kˤaw 
+高	*Cə.[k]ˤaw 
+鼛	*[k]ˤu 
+稿	*Cə.[k]ˤawʔ 
+告	*kˤuk-s 
+膏	*[k]ˤaw-s 
+誥	*kˤuk-s 
+各	*kˤak 
+胳	*[C.q]ˤak 
+閣	*C.kˤak 
+尻	*[k]ʰˤu 
+丂	*C.qʰˤuʔ (Shuōwén; no pre-Qín exx.)
+栲	
+考	*k-r̥ˤuʔ 
+犒	*[kʰ]ˤaw-s 
+恪	
+渥	*qˤrok (or *ʔˤrok ?)
+葯	*[q]ˤrewk 
+鷽	*qˤruk 
+岳	*[ŋ]ˤrok 
+嶽	*[ŋ]ˤrok 
+樂	*[ŋ]ˤrawk-s 
+樂	*[ŋ]ˤrawk 
+殽	
+爻	*N-kˤraw 
+爻	*N-kˤraw 
+肴	*[g]ˤraw 
+傚	
+效	*m-[k]ˤraw-s 
+斆	*m-kˤruk-s 
+學	*m-kˤruk 
+翯	*[g]ˤrawk 
+鶴	*[g]ˤrawk 
+鷽	*m-qˤruk 
+孝	*qʰˤ<r>uʔ-s 
+交	*[k]ˤraw 
+敎	
+教	*s.[k]ˤraw 
+膠	*[k]ˤriw 
+茭	*[k]ˤr[a]w 
+郊	*[k]ˤraw 
+攪	*kˤruʔ 
+絞	*k-rˤ[i]wʔ (dialect: *k.rˤ- > *kˤr-) 
+膠	*[k]ˤriwʔ 
+鉸	*mə-[k]ˤr[a]wʔ 
+敎	
+教	*s.kˤraw-s 
+窖	*kˤruk-s 
+覺	*kˤruk-s 
+玨	*[k]ˤrok 
+珏	
+覺	*kˤruk 
+角	*C.[k]ˤrok 
+較	
+磽	*[C.q]ʰˤrew 
+骹	*[kʰ]ˤr[a]w 
+巧	*[kʰ]ˤruʔ 
+殼	*[kʰ]ˤrok 
+確	*[k]ʰˤrawk 
+鴞	*[ɢ]ʷ(r)aw 
+夭	*[ʔ](r)aw 
+約	*[q](r)ewk 
+葯	*[q]ˤrewk 
+虐	*[ŋ](r)awk 
+囂	
+謔	*ŋ̊(r)awk 
+喬	*[N-k](r)aw 
+橋	*[g](r)aw 
+蕎	*[g](r)aw (no pre-Qín exx.)
+臄	
+蹻	*[g](r)awk 
+𧮫	*[g]ak 
+驕	
+鷮	
+矯	*[k](r)[a]wʔ 
+蹻	*k(r)awʔ 
+脚	*[k]ak 
+腳	*[k]ak 
+却	*[k]ʰak 
+卻	*[k]ʰak 
+䍃	*law 
+傜	*law 
+媱	*law 
+徭	*law 
+搖	*law 
+摇	
+瑤	
+瑶	
+窰	*law 
+謠	*law 
+謡	
+遙	
+曜	*lewk-s 
+燿	*lewk-s 
+耀	*lewk-s 
+籥	*lewk 
+藥	*m-r[e]wk 
+躍	*lewk 
+龠	*lewk 
+腰	*ʔew 
+葽	
+要	
+約	*[q]ewk-s 
+要	*[q]ew(k)-s 
+翹	*[g]ew (failure to palatalize is unexplained)
+翹	*[g]ew (failure to palatalize is unexplained)
+荍	
+漏	*[Nə-r]ˤok-s 
+鏤	*[r]ˤo-s 
+陋	*[r]ˤo-s 
+㯟	*[r]ˤok 
+彔	*pə.rˤok 
+录	
+琭	*[r]ˤok 
+盝	*[r]ˤok 
+睩	*[r]ˤok 
+祿	*[r]ˤok 
+禄	
+鹿	*mə-rˤok 
+傁	*s-ruʔ 
+叜	*s-ruʔ 
+叟	*s-ruʔ (dialect: > *sruʔ > MC srjuwX > sruwX > suwX)
+嗽	*[s]ˤok-s 
+樕	
+速	*[s]ˤok 
+速	*[s]ˤok 
+族	*[dz]ˤok 
+走	*[ts]ˤoʔ 
+奏	*tsˤo(ʔ)-s 
+鏃	*[ts]ˤok 
+鏃	*[ts]ˤok 
+取	*tsʰˤoʔ 
+劉	*mə-ru 
+摎	*[r]iw 
+旒	*[r]u 
+流	*ru 
+留	*C.ru 
+鏐	*[r]iw 
+鏐	*[r]iw 
+懰	
+柳	*([m]ə.)ruʔ 
+罶	
+翏	*[r]iw-s 
+六	*k.ruk 
+戮	*[r]iwk 
+穋	
+陸	*[r]uk 
+搜	*sru 
+漱	*[s]rok-s 
+瘦	*sru-s 
+縮	*[s]ruk 
+愁	*[dz]riw 
+騶	*m-[ts]ˤro(k)-s 
+驟	*N-tsˤroʔ-s 
+掫	*tsˤro 
+騶	*[ts]ˤro 
+掫	*tsˤroʔ 
+皺	*[ts]ˤro-s 
+縐	*[ts]ˤro-s 
+囚	*sə.lu 
+泅	*[s-N].ru 
+袖	*sə.[l]u-s 
+褎	
+修	*s-liw 
+羞	*s-nu 
+脩	*s-liw 
+宿	*[s]uk-s 
+秀	*[s-l]u(ʔ)-s 
+繡	*[s]iw(k)-s 
+夙	*[s]uk 
+宿	*[s]uk 
+肅	*siwk 
+肅	*siwk 
+肅	*siwk 
+肅	*siwk 
+肅	*siwk 
+蝤	*[dz]u 
+酋	*m-tsu 
+就	*[dz]u[k]-s 
+酒	*tsuʔ 
+蹙	
+秋	*tsʰiw 
+緧	*[tsʰ]u 
+遒	*tsu 
+濼	*[r]ˤawk 
+裻	*[s]ˤuk 
+鑿	*[dz]ˤawk 
+僚	*[r]ˤew 
+聊	*[r]ˤiw 
+膋	
+繚	
+蓼	
+料	*[r]ˤew-s 
+捎	*[s]ˤew 
+瀟	
+簫	*sˤiw 
+翛	
+蕭	*sˤiw 
+蕭	*sˤiw 
+嘯	*sˤiw(k)-s 
+歗	
+椒	*s.tˤiw 
+勞	*[r]ˤaw 
+牢	
+潦	
+老	*C.rˤuʔ 
+勞	*[r]ˤaw-s 
+樂	*[r]ˤawk 
+樂	*[r]ˤawk 
+落	*kə.rˤak 
+轢	*[r]ˤawk 
+雒	
+駱	*[r]ˤak 
+𤻲	*[r]ˤawk 
+搔	*s-[ts]ˤu 
+臊	*[m.s]ˤaw 
+騷	*[s]ˤu 
+鱢	*[m.s]ˤaw 
+埽	
+燥	*C.sˤawʔ 
+燥	*C.sˤawʔ-s 
+譟	*C.sˤaw-s 
+索	*[s]ˤak 
+索	*[s]ˤak 
+曹	*N-tsˤu 
+漕	
+皁	*[dz]ˤuʔ 
+造	*[dzˤ]uʔ 
+昨	*[dz]ˤak 
+酢	
+鑿	*[dz]ˤawk 
+糟	*[ts]ˤu 
+遭	*tsˤu 
+早	*Nə.tsˤuʔ 
+棗	*[ts]ˤuʔ 
+澡	*mə-tsˤawʔ 
+繰	*mə-tsˤawʔ 
+藻	*[ts]ˤawʔ 
+蚤	*tsˤuʔ 
+竈	*[ts]ˤuk-s 
+作	*[ts]ˤak 
+糳	*[ts]ˤawk 
+慅	
+懆	
+操	*[tsʰ]ˤawʔ 
+草	*[tsʰ]ˤuʔ 
+草	*[tsʰ]ˤuʔ 
+操	*[tsʰ]ˤawʔ-s 
+造	*(mə-)tsʰˤuʔ-s 
+錯	*[tsʰ]ˤak 
+筲	*[s](ˤ)rew 
+削	*[sˤ]rewk-s 
+稍	*[s](ˤ)rew-s 
+數	*s-rok 
+朔	*s-ŋrak 
+巢	*[dz]ˤraw 
+抓	*[ts](ˤ)ru 
+㕚	*[ts]ˤ<r>uʔ 
+抓	*tsˤ<r>uʔ 
+爪	*[ts]ˤ<r>uʔ 
+捉	*[ts](ˤ)rok 
+斮	*[ts]rak 
+炒	*[tsʰ](ˤ)r[e]wʔ 
+燎	
+尞	*[r][a]w-s 
+略	*[r]ak 
+斮	*[ts]rak 
+宵	*[s]ew 
+消	*[s]ew 
+肖	*[s]ew 
+逍	*[s]ew 
+霄	*[s]ew 
+小	*[s]ewʔ 
+削	*[s]ewk-s 
+笑	*[s-l]aw-s 
+肖	*[s]ew-s 
+削	*[s]ewk 
+譙	
+噍	*[dz]ewk-s 
+椒	*S.tew 
+焦	*S.tew 
+焦	*S.tew 
+剿	*[ts]awʔ 
+爵	*[ts]ewk 
+雀	*[ts]ewk 
+悄	
+舄	*s.qʰak (dialect: *s.qʰ> MC tsh-, *-ak > -jak)
+鵲	*[tsʰ]ak 
+柔	*nu 
+蹂	
+肉	*k.nuk 
+收	*s-kiw 
+守	*s-tuʔ 
+手	*n̥uʔ 
+首	*l̥uʔ 
+守	*s.tuʔ-s 
+狩	*s.tuʔ-s 
+獸	*s.tʰu(ʔ)-s 
+首	*l̥uʔ-s 
+叔	*s-tiwk 
+叔	*s-tiwk 
+尗	*s.tuk 
+菽	*s-t(ʰ)uk 
+讎	*[d]u 
+醻	
+魗	
+受	*[d]uʔ 
+壽	*[N-t]uʔ 
+售	
+壽	*[N-t]uʔ-s 
+授	*[d]uʔ-s 
+倏	*liwk 
+孰	*[d]uk 
+淑	*[d]iwk 
+熟	*[d]uk 
+周	*tiw 
+周	*tiw 
+州	*tu 
+洲	*tu 
+舟	*tu 
+帚	*[t.p]əʔ 
+箒	*[t.p]əʔ 
+祝	*[t]uk-s 
+祝	*[t]uk 
+祝	*tuk 
+粥	*t-quk 
+鬻	*t-quk 
+醜	*t.qʰuʔ 
+醜	*t.qʰuʔ 
+臭	*t-qʰu(ʔ)-s 
+俶	*tʰuk 
+橈	*[ŋ]ew  (< uvular?)
+蕘	
+襓	*[ŋ]ew (< uvular?)
+饒	*[ŋ]ew (< uvular?)
+繞	*[ŋ]ewʔ (< uvular?)
+繞	*[ŋ]ewʔ-s (< uvular?)
+弱	*newk 
+若	*nak 
+若	*nak 
+燒	*[ŋ̊]ew 
+少	*[s.t]ewʔ 
+少	*[s-t]ewʔ-s 
+䟏	*r̥ewk (W dialect: *r̥- > *x-, palatalizing)
+爍	*r̥ewk (W dialect: *r̥- > *x-, palatalizing)
+爍	*r̥ewk (W dialect: *r̥- > *x-, palatalizing)
+鑠	*r̥ewk (W dialect: *r̥- > *x-, palatalizing)
+召	*[d]awʔ 
+紹	
+召	
+邵	*[d]aw-s 
+勺	*m-tewk 
+杓	*m-tewk 
+昭	*taw 
+沼	*tawʔ 
+炤	*taw-s 
+照	*taw-s 
+詔	*taw-s 
+勺	*tewk 
+斫	*tak 
+繳	*[t]ewk 
+酌	*tewk 
+綽	*tʰawk 
+槈	*nˤok-s 
+耨	*nˤok-s 
+投	*[d]ˤo 
+歈	*lˤo 
+頭	*[m-t]ˤo 
+竇	*lˤok-s 
+脰	*kə.dˤok-s 
+豆	*[N.t]ˤo-s 
+豆	*[d]ˤok-s 
+櫝	*lˤok 
+牘	*lˤok 
+犢	*lˤok 
+獨	*[d]ˤok 
+讀	*C.lˤok 
+兜	*tˤo 
+斗	*tˤoʔ 
+鬥	*tˤok-s 
+鬬	
+鬭	*tˤok-s 
+偷	*l̥ˤo 
+禿	*[tʰ]ˤok 
+狃	*Cə.n<r>uʔ 
+紐	*n<r>uʔ 
+疇	*[d]ru 
+疇	*[d]ru 
+稠	*[d]riw 
+綢	*[d]riw 
+裯	
+𠃬	*[d]ru 
+𢏚	*[d]ru 
+紂	*[d]ruʔ 
+酎	*[d]ruʔ 
+冑	*[l]ru-s 
+蓫	
+軸	*lruk 
+逐	*[l]riwk 
+輈	
+疛	*[t]ruʔ 
+肘	*t-[k]<r>uʔ 
+咮	*tˤ<r>ok-s 
+晝	*truk-s 
+竹	*truk 
+築	*truk 
+妯	
+抽	*l̥ru 
+瘳	*r̥iw 
+丑	*[n̥]ruʔ 
+杻	*n̥<r>uʔ 
+杽	*n̥<r>uʔ 
+畜	*qʰ<r>uk-s 
+滀	*qʰ<r>uk 
+畜	*qʰ<r>uk 
+稸	*qʰ<r>uk 
+蓄	*qʰ<r>uk 
+毒	*[d]ˤuk 
+毒	*m-[d]ˤuk-s 
+纛	*dˤuk 
+篤	*tˤuk 
+裻	*tˤuk 
+尿	*kə.nˤewk-s 
+溺	*kə.nˤewk-s 
+條	*[l]ˤiw 
+條	*lˤiw 
+苕	
+蜩	
+調	*[d]ˤiw 
+跳	*lˤew 
+挑	*lˤewʔ 
+窕	*lˤ[e]wʔ 
+凋	*tˤiw 
+彫	*tˤiw 
+雕	*tˤiw 
+鳥	*tˤiwʔ 
+弔	*tˤ[e]wk-s 
+釣	*[t]ˤewk-s 
+挑	*l̥ˤew 
+祧	
+眺	*l̥ˤew-s 
+夒	*nˤu 
+猱	*nˤu 
+獶	*nˤu 
+獿	
+腦	*nˤ[u]ʔ 
+諾	*nˤak 
+匋	*[l]ˤu 
+桃	*C.lˤaw 
+綯	
+翿	
+逃	*lˤaw 
+陶	
+鞀	*[d]ˤaw 
+稻	*[l]ˤuʔ 
+道	*[kə.l]ˤuʔ 
+導	*lˤuʔ-s 
+悼	*[d]ˤawk-s 
+盜	*[d]ˤaw(k)-s 
+纛	*[d]ˤuk-s 
+道	*lˤuʔ-s 
+度	*[d]ˤak 
+鐸	*lˤak 
+刀	*C.tˤaw 
+忉	
+倒	*tˤawʔ 
+島	*tˤuʔ 
+擣	*tˤuʔ 
+禱	*[t]ˤuʔ 
+倒	*tˤawʔ-s 
+到	*tˤaw[k]-s 
+慆	
+滔	*l̥ˤu 
+饕	*[tʰ]ˤaw 
+討	*[t]ʰˤuʔ 
+橐	*tʰˤak 
+蘀	
+託	*tʰˤak 
+鐃	*[n]ˤrew 
+撓	*m-[q]ʰˤrewʔ 
+撓	*nˤ<r>[a]wʔ 
+呶	
+怓	
+橈	*[n]ˤrew-s 
+櫂	*lˤrewk-s 
+濯	*lˤrewk-s 
+擢	*lˤrewk 
+濁	*[N-tˤ]rok 
+濯	*lˤrewk 
+啁	*tˤriw 
+罩	*tˤrawk-s 
+卓	*tˤrawk 
+啄	*mə-tˤ<r>ok 
+斲	*Cə.tˤrok 
+桌	*tˤrawk (no pre-Qín exx.)
+朝	*m-t<r>aw 
+潮	*[N]-t<r>aw 
+兆	*lr[a]wʔ 
+旐	
+趙	*[d]rewʔ 
+召	*[d]raw-s 
+著	*m-t<r>ak 
+朝	*t<r>aw 
+著	*t<r>ak 
+超	*tʰr[a]w 
+躇	*tʰrak 
+姆	*məʔ 
+某	*məʔ 
+母	*məʔ (? or *mˤoʔ) 
+牡	*m(r)uʔ 
+畝	*məʔ (< *mˤoʔ ?)
+畮	*məʔ (< mˤoʔ ?)
+戊	*m(r)uʔ-s (~ *m(r)uʔ)
+茂	
+貿	*mru-s 
+木	*C.mˤok 
+沐	
+霂	
+裒	
+部	*[b]ˤ(r)oʔ 
+僕	*[b]ˤok 
+暴	*m-pˤawk 
+曝	*m-pˤawk 
+瀑	*[b]ˤawk 
+卜	*pˤok 
+濮	*pˤok 
+剖	*pʰˤ(r)oʔ 
+仆	*pʰˤ(r)ok-s 
+撲	*pʰˤok 
+矛	*m(r)u 
+謀	*mə 
+牧	*mək 
+目	*C.m(r)[u]k 
+睦	*mr[uk] 
+穆	*m(r)iwk 
+𡍬	*mr[uk] 
+枹	*[b](r)u 
+浮	*m.b(r)u 
+罦	
+蜉	*[b](r)u 
+婦	*mə.bəʔ (or *tsə.-? see Min)
+服	*[b]əʔ 
+負	*[b]əʔ 
+阜	*[b](r)uʔ 
+伏	*[b]ək-s 
+復	*[N]-pruk-s 
+伏	*[b]ək 
+匐	*[b]ək 
+复	*m-p(r)uk 
+復	*m-p(r)uk 
+服	*[b]ək 
+服	*[b]ək 
+服	*[b]ək 
+畐	*[b]ək 
+箙	*[b]ək 
+輹	*m-p(r)uk 
+𠬝	*[b]ək 
+不	*pə 
+不	*pə 
+否	*pəʔ 
+缶	*p(r)uʔ 
+富	*pək-s 
+幅	*pək 
+幅	*pək 
+福	*pək 
+腹	*p(r)uk 
+葍	
+複	*p(r)uk 
+輻	*pək 
+孚	
+紑	
+仆	*pʰok-s 
+副	*pʰək-s 
+覆	*pʰ(r)uk-s 
+覆	*pʰ(r)uk 
+謬	*m-riw-s (dialect: *m-r- > *mr-)
+髟	*p(r)iw 
+襮	*pˤawk 
+飄	
+嘌	
+摽	*pʰˤew 
+漂	
+旄	*mˤaw 
+毛	*C.mˤaw 
+髦	
+冒	*mˤuk-s 
+冒	*mˤuk-s 
+媢	*mˤuk-s 
+帽	*mˤuk-s 
+耄	
+芼	*mˤaw(k)-s 
+幕	*mˤak 
+莫	*mˤak 
+莫	*mˤak 
+袍	*m.[p]ˤu 
+抱	*[m-p]ˤuʔ 
+暴	*[b]ˤawk-s 
+泊	*[b]ˤak 
+薄	*[b]ˤak 
+褒	*pˤu 
+保	*pˤuʔ 
+寶	*pˤuʔ 
+鴇	
+報	*pˤuk-s 
+博	*pˤak 
+搏	*pˤak 
+胉	*pʰˤak 
+膊	*pʰˤak 
+茅	*C.mˤru 
+貓	*C.mˤraw 
+卯	*mˤruʔ 
+昴	*mˤruʔ 
+茆	*mˤruʔ 
+貌	*mˤrawk-s 
+瞀	*mˤ<r>uk 
+藐	
+邈	*mˤrawk 
+匏	*[b]ˤru 
+炮	
+雹	*C.[b]ˤruk 
+包	*pˤ<r>u 
+胞	*pˤ<r>u 
+苞	*pˤ<r>u 
+飽	*pˤruʔ 
+爆	*pˤrawk-s 
+豹	*pˤr[e]wk-s 
+剝	*[p]ˤrok (~ *mə-pˤrok)
+剥	
+駁	*pˤrawk 
+摽	*pʰˤrew 
+樸	*pʰˤrok 
+苗	*m(r)aw 
+廟	*[m]raw-s 
+縛	*bak 
+儦	
+瀌	
+鑣	
+麃	
+表	*p(r)awʔ 
+杪	*[m]ewʔ 
+渺	*[m]ewʔ 
+眇	*[m]ewʔ 
+妙	*[m]ew(ʔ)-s 
+瓢	*(Cə.)[b]ew 
+薸	*m-[p]ew 
+摽	*[b]ewʔ 
+票	*pʰew 
+濩	
+穫	*m-qʷˤak 
+藿	
+槨	*kʷˤak 
+郭	*kʷˤak 
+廓	*kʷʰˤak 
+擴	*kʷʰˤak 
+鞹	
+攫	*C.qʷ(r)ak 
+矍	*C.qʷ(r)ak 
+翁	*qˤoŋ 
+瓮	*qˤoŋ-s 
+甕	*qˤoŋ-s 
+紅	*gˤoŋ 
+虹	*m-kˤoŋ 
+訌	
+鴻	*[g]ˤoŋ 
+鬨	*[g]ˤoŋ-s 
+公	*C.qˤoŋ 
+公	*C.qˤoŋ 
+功	*kˤoŋ 
+工	*kˤoŋ 
+工	*kˤoŋ 
+攻	*kˤoŋ 
+貢	*[k]ˤom-s ( < *[k]ˤom-s)
+贛	*[k]ˤom-s (dialect: *-om > *-oŋ)
+空	*kʰˤoŋ 
+孔	*[k]ʰˤoŋʔ 
+空	*kʰˤoŋʔ 
+控	*kʰˤoŋ-s 
+熊	*C.[ɢ]ʷ(r)əm 
+雄	*[ɢ]ʷəŋ 
+窮	*[g](r)uŋ 
+窮	*m-[g](r)uŋ 
+宮	*k(r)uŋ 
+弓	*kʷəŋ 
+躬	*k(r)uŋ 
+躳	*k(r)uŋ 
+䑣	*m.rum (dialect: > *-um > *-uŋ)
+彡	*m.rum (dialect: *-um > *-uŋ)
+肜	*m.rum (dialect: *-um > *-uŋ)
+融	*luŋ (? < *lum)
+癰	*q(r)oŋ 
+邕	*[q](r)oŋ (< *[q](r)om)
+雝	
+顒	
+凶	*qʰ(r)oŋ 
+訩	*qʰ(r)oŋ 
+邛	
+共	*N-k(r)oŋʔ-s 
+供	*k<r>oŋ 
+恭	*k<r>oŋ 
+龏	*k<r>oŋ 
+龔	*k<r>oŋ 
+共	
+巩	
+廾	*k(r)oŋʔ 
+拱	*k(r)oŋʔ 
+拲	*k(r)oŋʔ 
+鞏	*k(r)oŋʔ 
+𠬞	*k(r)oŋʔ 
+𢀜	*k(r)oŋʔ 
+恐	*kʰ(r)oŋʔ 
+㝐	*[ɢ](r)oŋ 
+傭	*loŋ 
+墉	
+容	*[ɢ](r)oŋ 
+容	*[ɢ](r)oŋ 
+庸	*loŋ 
+鏞	
+頌	*[ɢ](r)oŋ 
+俑	*loŋʔ 
+勇	*loŋʔ 
+踊	*loŋʔ 
+用	*loŋ-s 
+夅	*m-kˤru[ŋ]  (? < *-[u]m)
+降	*m-kˤru[ŋ]  (? < *-[u]m)
+項	*[g]ˤroŋʔ 
+巷	*C.[g]ˤroŋ-s 
+江	*kˤroŋ 
+講	*kˤroŋʔ 
+虹	*kˤroŋ-s 
+降	*kˤruŋ-s (? < *-[u]m-s)
+㼜	*ʔˤaŋ-s 
+卬	*[k.ŋ]ˤaŋ 
+卬	*ŋˤaŋ 
+杭	*[m]-[g]ˤaŋ 
+行	*[g]ˤaŋ 
+頏	
+亢	*k-ŋˤaŋ 
+剛	*kˤaŋ 
+岡	
+綱	*kˤaŋ 
+鋼	*C.kˤaŋ 
+康	*[kʰ]ˤaŋ 
+康	*k-r̥ˤaŋ 
+抗	*kʰˤaŋ-s 
+央	*ʔaŋ 
+央	*ʔaŋ 
+殃	*ʔaŋ 
+鴦	*ʔaŋ 
+仰	*C.ŋaŋʔ 
+皀	*qʰaŋ 
+膷	*[qʰ]aŋ 
+薌	*qʰaŋ 
+鄉	*qʰaŋ 
+香	*qʰaŋ 
+亨	*[qʰ]aŋʔ 
+享	*[qʰ]aŋʔ 
+曏	*n̥aŋʔ (W dialect: *n̥- > MC x-)
+鄉	*qʰaŋʔ 
+響	*qʰaŋʔ 
+饗	*qʰaŋʔ 
+向	*n̥aŋ-s 
+嚮	*qʰaŋ-s 
+曏	*n̥aŋʔ-s (W dialect: *n̥- > MC x-)
+鄉	*qʰaŋ-s 
+强	*N-kaŋ 
+彊	*N-kaŋ 
+强	*m-kaŋʔ 
+姜	*C.qaŋ 
+畺	*kaŋ 
+疆	*kaŋ 
+薑	*[k]aŋ 
+羌	*C.qʰaŋ 
+揚	*laŋ 
+昜	*laŋ 
+楊	*laŋ 
+洋	*ɢ(r)aŋ 
+痒	*[ɢ](r)aŋ 
+瘍	*[l]aŋ 
+羊	*ɢaŋ 
+鍚	*laŋ 
+陽	*laŋ 
+颺	*laŋ 
+痒	
+癢	*Cə.ɢaŋʔ 
+養	*[ɢ](r)aŋʔ 
+養	*[ɢ]aŋʔ 
+羕	*[ɢ](r)aŋʔ-s 
+籠	*k.rˤoŋ 
+聾	*C.rˤoŋ 
+籠	*k.rˤoŋʔ 
+弄	*[r]ˤoŋ-s 
+送	*[s]ˤoŋ-s 
+叢	*dzˤoŋ 
+揔	*[ts]ˤoŋ 
+稯	*[ts]ˤoŋ 
+緫	*[ts]ˤoŋ 
+緵	*[ts]ˤoŋ 
+總	*[ts]ˤoŋ 
+豵	*[ts]ˤoŋ 
+揔	*[ts]ˤoŋʔ 
+緫	*[ts]ˤoŋʔ 
+總	*[ts]ˤoŋ 
+聰	*s-l̥ˤoŋ 
+蔥	*[ts]ʰˤoŋ 
+隆	*[r]uŋ 
+隆	*[r]uŋ (< * -[u]m)
+崇	*[dz]<r>uŋ 
+崧	*[s]uŋ 
+嵩	*[s]uŋ 
+宋	*[s]ˤuŋ-s 
+潨	*[N-s-t]ˤuŋ 
+宗	*[ts]ˤuŋ 
+綜	*[s-t]ˤuŋ-s 
+龍	*[mə]-roŋ 
+隴	*[r]oŋʔ 
+松	*sə.ɢoŋ 
+訟	
+訟	*s.[ɢ]oŋ-s 
+誦	*sə-[l]oŋ-s 
+頌	*s-[ɢ]oŋ-s 
+竦	
+從	*[dz]oŋ 
+從	*[dz]oŋ-s 
+從	*tsoŋ 
+縱	*[ts]oŋ-s 
+樅	
+雙	*[s]roŋ 
+䆫	*s-l̥ˤ<r>oŋ 
+窗	*s-l̥ˤ<r>oŋ 
+窻	*s-l̥ˤ<r>oŋ 
+廊	*[r]ˤaŋ 
+浪	*[r]ˤaŋ 
+狼	*[r]ˤaŋ 
+琅	*[r]ˤaŋ 
+琅	*[r]ˤaŋ 
+稂	*[r]ˤaŋ 
+郎	*C.rˤaŋ 
+郎	*rˤaŋ 
+朗	*k.rˤaŋʔ 
+喪	*s-mˤaŋ 
+桑	*[s]ˤaŋ 
+顙	*[s]ˤaŋʔ 
+喪	*s-mˤaŋ-s 
+藏	*m-tsʰˤaŋ 
+藏	*m-tsʰˤaŋ-s 
+牂	
+臧	*[ts]ˤaŋ 
+贓	*[ts]ˤaŋ 
+葬	*[ts]ˤaŋ-s 
+倉	*[s.r̥]ˤaŋ 
+倉	*tsʰˤaŋ 
+凔	*[tsʰ]ˤaŋ 
+蒼	*[tsʰ]ˤaŋ 
+鶬	
+俍	*[r]aŋ 
+梁	*raŋ 
+涼	*C.raŋ 
+粱	*[r]aŋ 
+糧	*[r]aŋ 
+良	*[r]aŋ 
+量	*[r]aŋ 
+兩	*p.raŋʔ 
+亮	*[r]aŋ-s 
+諒	*[r]aŋ-s 
+量	*[r]aŋ-s 
+霜	*[s]raŋ 
+爽	
+牀	*k.dzraŋ 
+狀	*[dz]raŋ-s 
+妝	*[ts]raŋ 
+莊	*[ts]raŋ 
+壯	*[ts]<r>aŋ-s 
+創	*[tsʰ]raŋ 
+瘡	*[tsʰ]raŋ 
+創	*[tsʰ]raŋ-s 
+庠	*s-[ɢ]aŋ 
+痒	*s.[ɢ]aŋ 
+祥	*s.ɢaŋ 
+翔	*s.[ɢ]aŋ 
+詳	*s.[ɢ]aŋ 
+像	*s.[d]aŋʔ 
+橡	*s-[d]aŋʔ 
+象	*s.[d]aŋʔ 
+相	*[s]aŋ 
+箱	*C.[s]aŋ 
+纕	*s-naŋ 
+襄	*s-naŋ 
+襄	*s-naŋ 
+想	*[s]aŋʔ 
+相	*[s]aŋ-s 
+戕	
+牆	
+匠	*s.baŋ-s 
+將	*[ts]aŋ 
+漿	*[ts]aŋ 
+奬	*[ts]aŋʔ 
+獎	
+將	*[ts]aŋ-s 
+醬	*[ts]aŋ-s 
+瑲	
+蹌	
+鏘	
+戎	*nuŋ 
+戎	*nuŋ 
+茙	*nuŋ (< *num?)
+潨	*tuŋ 
+終	*tuŋ 
+螽	*tuŋ 
+眾	*tuŋ-s 
+衆	
+充	*tʰuŋ 
+憃	*s.toŋ 
+舂	*s-toŋ 
+尰	
+妐	*t-qoŋ 
+鍾	*toŋ 
+鍾	*toŋ 
+鐘	*toŋ 
+種	*k.toŋʔ 
+腫	*toŋʔ 
+種	*(mə-)toŋʔ-s 
+罿	
+衝	*tʰoŋ 
+攘	*naŋ 
+攘	*naŋ 
+瀼	
+穰	
+壤	*naŋʔ 
+攘	*naŋʔ 
+讓	*naŋ-s 
+傷	*l̥aŋ 
+商	*s-taŋ 
+商	*s-taŋ 
+商	*s-taŋ 
+愓	*l̥aŋ 
+湯	*l̥aŋ 
+觴	*l̥aŋ 
+饟	*n̥aŋ 
+曏	*n̥aŋʔ 
+賞	*s-taŋʔ 
+饟	*n̥aŋʔ 
+曏	*n̥aŋ-s 
+餉	*n̥aŋ(ʔ)-s 
+饟	*n̥aŋ(ʔ)-s 
+嘗	*Cə.daŋ 
+尚	
+常	*[d]aŋ 
+裳	*daŋ 
+上	*Cə-daŋʔ 
+上	*m-daŋʔ 
+上	*daŋʔ-s 
+尚	*[d]aŋ-s 
+尚	*[d]aŋ-s 
+獐	*taŋ 
+璋	*taŋ 
+章	*taŋ 
+掌	*[k.t]aŋʔ 
+昌	
+惝	*tʰaŋʔ 
+敞	*tʰaŋʔ 
+倡	*mə-tʰaŋ-s 
+唱	*mə-tʰaŋ-s 
+僮	
+同	*lˤoŋ 
+童	*[d]ˤoŋ 
+筒	*lˤoŋ 
+詷	
+銅	*[l]ˤoŋ 
+動	*[Cə-m-]tˤoŋʔ 
+慟	*[d]ˤoŋʔ-s 
+東	*tˤoŋ (< *tˤoŋʔ ?)
+凍	*tˤoŋ-s 
+恫	
+通	*l̥ˤoŋ 
+桶	*l̥ˤoŋʔ 
+痛	*l̥ˤoŋ-s 
+沖	*[d]ruŋ 
+蟲	*C.lruŋ 
+仲	*N-truŋ-s 
+中	*truŋ 
+忠	*truŋ 
+中	*truŋ-s 
+忡	*tʰruŋ 
+膿	*C.nˤuŋ 
+農	*nˤ[o]ŋ 
+彤	*N-rˤu[m] (dialect: *-um > *-uŋ)
+冬	*tˤuŋ 
+濃	*n<r>oŋ 
+重	*[m]-troŋ 
+重	*N-t<r>oŋʔ 
+重	*N-t<r>oŋʔ-s 
+冢	*[t]roŋʔ (or *[t]<r>oŋʔ ?)
+寵	*r̥oŋʔ 
+幢	*[d]ˤroŋ 
+撞	*[N-t]ˤ<r>oŋ 
+撞	*N-tˤ<r>oŋ-s 
+憃	*[q]ʰˤ<r>oŋ 
+囊	*nˤaŋ 
+曩	*nˤaŋʔ 
+唐	*[N-]rˤaŋ 
+唐	*[N].rˤaŋ 
+堂	*[d]ˤaŋ 
+塘	*m.rˤaŋ (~ *mə.rˤaŋ)
+棠	*[N.]rˤaŋ 
+糖	*C.lˤaŋ (no pre-Qín exx)
+螗	
+餳	*C.lˤaŋ (no pre-Qín exx)
+愓	*lˤaŋʔ 
+蕩	*N.rˤaŋʔ 
+碭	*lˤaŋ-s 
+蕩	*lˤaŋ-s 
+當	*tˤaŋ 
+黨	*tˤaŋʔ 
+當	*tˤaŋ-s 
+唐	*r̥ˤaŋ 
+康	*r̥ˤaŋ 
+湯	*l̥ˤaŋ 
+湯	*r̥ˤaŋ 
+鏜	*tʰˤaŋ 
+儻	*tʰˤaŋʔ 
+攩	*tʰˤaŋʔ 
+場	*[l]raŋ 
+腸	*lraŋ 
+長	*Cə-[N]-traŋ 
+丈	*[d]raŋʔ 
+張	*C.traŋ 
+粻	
+長	*traŋʔ 
+帳	*traŋ-s 
+悵	*tʰraŋ-s 
+鬯	*tʰraŋ-s 
+幪	
+濛	
+蒙	*mˤoŋ 
+篷	*C.bˤoŋ 
+芃	*[b]ˤ[o]m 
+蓬	
+逢	*bˤoŋ 
+唪	
+琫	*pˤoŋʔ 
+夢	*C.məŋ-s 
+汎	*[b](r)[u]m 
+馮	*[Cə.b]əŋ 
+風	*prəm 
+諷	*prəm-s 
+風	*prəm-s 
+豐	*pʰ(r)oŋ (MC F!)
+豐	*pʰ(r)oŋ 
+豐	*pʰ(r)oŋ 
+豐	*pʰ(r)oŋ 
+賵	*[pʰ](r)u[ŋ]-s 
+縫	*(mə-)[b](r)oŋ (~ *C.[b](r)oŋ)
+逢	*[C.b](r)oŋ 
+奉	*m-pʰ(r)oŋʔ 
+縫	*C.[b](r)oŋ-s 
+封	*p(r)oŋ 
+覂	*p(r)omʔ (dialect: *-om > *-oŋ)
+丰	
+葑	
+蜂	*pʰ(r)oŋ 
+鋒	*pʰ(r)oŋ 
+奉	*pʰ(r)oŋʔ 
+厖	*mˤroŋ 
+哤	*mˤroŋ 
+尨	*mˤroŋ 
+駹	*mˤroŋ 
+龍	*mˤroŋ 
+龐	*[b]ˤroŋ 
+蚌	*[b]ˤroŋʔ 
+蜯	*[b]ˤroŋʔ 
+邦	*pˤroŋ 
+忙	*mˤaŋ 
+芒	*mˤaŋ 
+傍	*[b]ˤaŋ 
+彷	*[b]ˤaŋ 
+徬	*[b]ˤaŋ 
+旁	*[b]ˤaŋ 
+蒡	*[b]ˤaŋ 
+傍	*[b]ˤaŋ-s 
+舫	*pˤaŋ-s 
+謗	*pˤaŋ-s 
+雱	*pʰˤaŋ 
+亡	*maŋ 
+忘	*maŋ 
+望	*maŋ 
+鋩	*maŋ 
+惘	*maŋʔ 
+網	*maŋʔ (or *C.maŋʔ ?)
+网	*maŋʔ (or *C.maŋʔ ?)
+罔	*maŋʔ (or *C.maŋʔ ?)
+妄	*maŋ-s 
+忘	*maŋ-s 
+望	*maŋ-s 
+坊	*[b]aŋ 
+房	*[Cə-N-]paŋ 
+防	*[m-p]aŋ 
+魴	*[b]aŋ 
+匚	*paŋ 
+方	*C-paŋ 
+方	*paŋ 
+方	*paŋ 
+放	*paŋʔ 
+旊	*paŋʔ 
+昉	*paŋʔ 
+瓬	*paŋʔ 
+放	*paŋ-s 
+舫	*paŋ-s 
+妨	*pʰaŋ 
+芳	*[pʰ]aŋ 
+紡	*pʰaŋʔ 
+髣	*pʰaŋʔ 
+訪	*pʰaŋ-s 
+尪	*qʷˤaŋ 
+汪	*qʷˤaŋ 
+徨	*[ɢ]ʷˤaŋ 
+煌	*[ɢ]ʷˤaŋ 
+煌	*[ɢ]ʷˤaŋ 
+皇	*[ɢ]ʷˤaŋ 
+皇	*[ɢ]ʷˤaŋ 
+簧	
+蝗	*[ɢ]ʷˤaŋ 
+遑	
+隍	*[ɢ]ʷˤaŋ 
+黃	*N-kʷˤaŋ 
+巟	*m̥ˤaŋ 
+荒	*m̥ˤaŋ 
+衁	*m̥ˤaŋ 
+詤	*m̥ˤaŋ 
+慌	*m̥ˤaŋʔ 
+芒	*m̥ˤaŋʔ 
+詤	*m̥ˤaŋʔ 
+光	*kʷˤaŋ 
+洸	
+廣	*kʷˤaŋʔ 
+廣	*kʷˤaŋʔ-s 
+壙	*kʷʰˤaŋ-s 
+曠	*[k-m̥]ˤaŋ-s 
+曠	*kʷʰˤaŋ-s 
+纊	*kʷʰˤaŋ-s 
+王	*ɢʷaŋ 
+往	*ɢʷaŋʔ 
+迋	*[ɢ]ʷaŋʔ 
+王	*ɢʷaŋ-s 
+迋	*ɢʷaŋʔ-s 
+枉	*qʷaŋʔ 
+況	*[m̥]aŋ-s 
+況	*[m̥]aŋ-s 
+貺	
+狂	*[k-ɢʷ]aŋ 
+匡	*k-pʰaŋ 
+筐	*k-pʰaŋ 
+依	*ʔəj 
+衣	*ʔ(r)əj 
+偯	*ʔəjʔ 
+衣	*ʔ(r)əj-s 
+沂	*[ŋ]ər (< uvular)
+螘	*m-qʰəjʔ 
+毅	*[ŋ]ə[t]-s 
+藙	*[ŋ]ə[t]-s 
+豙	*[ŋ]ə[t]-s 
+仡	*[ŋ]ət 
+希	*qʰəj 
+晞	
+豨	*qʰəj 
+狶	*qʰəjʔ 
+豨	*qʰəjʔ 
+塈	*qʰ(<r>)ə[t]-s 
+塈	*qʰə[t]-s 
+愾	*qʰəp-s 
+氣	*qʰət-s 
+訖	*qʰə[t]-s 
+餼	*qʰ(r)ə[t]-s 
+旂	*C.[ɢ]ər 
+畿	*[g]ə[r] (dialect: *-r > *-j?)
+祈	*C.[ɢ]ər 
+蘄	*C.[ɢ]ər 
+蟣	*C.[g]əj (not in GSR)
+頎	
+幾	*kəj 
+機	*kəj 
+饑	*kə[j] 
+幾	*kəjʔ 
+既	*[k]ə[t]-s 
+豈	*C.qʰəjʔ 
+气	*C.qʰəp-s 
+氣	*C.qʰəp-s 
+乞	*C.qʰət 
+㦤	*q<r>i[t]-s 
+懿	*[ʔ]<r>ik-s 
+饐	*q<r>ik-s 
+乙	*qrət 
+劓	*[ŋ]rə[t]-s 
+塈	*qʰ(<r>)ə[t]-s 
+塈	*qʰ(r)ə[t]-s 
+塈	*qʰ<r>əp-s 
+祁	*[g]rij 
+祁	*[g]rə[j] 
+耆	*[g]rij 
+鰭	*[g]rij 
+暨	*[m-k-]rəp-s 
+佶	*[g]ri[t] 
+肌	*krə[j] 
+飢	*Cə.k<r>ə[j] 
+几	*C.kr[ə]jʔ 
+机	*krəjʔ 
+冀	*[k]rə[t]-s (dial. < *[k]rək-s ?)
+器	*[kʰ]r[ə][t]-s 
+夷	*ləj 
+夷	*ləj 
+姨	
+寅	*[ɢ](r)ər 
+彝	*[l][ə]j 
+桋	
+肄	
+佾	*[N.]r[i]t 
+溢	*N-q(r)ik 
+逸	*[l]i[t] 
+鎰	*[ɢ](r)ik 
+伊	*ʔij 
+吚	*[ʔ]ij 
+咿	*[ʔ]ij 
+一	*ʔi[t] 
+壹	*ʔi[t] 
+屎	
+屎	*[qʰ]ij (dialect: *qʰ- > *x-, no palatalization)
+吉	*C.qi[t] (*C.q- > *k-, escaping palatalization)
+弃	*[kʰ]i[t]-s 
+棄	*[kʰ]i[t]-s 
+詰	*[kʰ]i[t] 
+哀	*ʔˤəj 
+埃	*qˤə 
+僾	*qˤəp-s 
+愛	*[q]ˤə[p]-s 
+孩	*[g]ˤə 
+亥	*[g]ˤəʔ 
+劾	*[g]ˤək-s 
+齕	*m-[q]ˤət 
+海	*m̥ˤəʔ (dialect *m̥ˤ- > x-)
+該	*[k]ˤə 
+改	*C.qˤəʔ 
+攺	*C.qˤəʔ 
+概	*[k]ˤə[t]-s 
+溉	*[k]ˤə[t]-s 
+開	*Nə-[k]ʰˤəj 
+開	*[k]ʰˤəj 
+凱	*C.qʰˤəjʔ 
+塏	*C.qʰˤəjʔ 
+愷	*C.qʰˤəjʔ 
+豈	*C.qʰˤəjʔ 
+鎧	*C.qʰˤəjʔ 
+咳	*kʰˤək-s 
+嘅	*C.qʰˤəp-s 
+慨	*[kʰ]ˤə[t]-s 
+欬	*kʰˤək-s 
+鎧	*C.qʰˤəjʔ-s 
+謁	*qat 
+乂	*ŋa[t]-s 
+乂	*ŋa[t]-s 
+刈	*ŋa[t]-s 
+艾	
+歇	*qʰat 
+揭	*m-[k]at 
+竭	*N-[k](r)at 
+揭	*[k]at 
+揠	*ʔˤr[e]t 
+軋	*qˤrət 
+湝	*[g]ˤrəj 
+骸	*[g]ˤrə 
+駭	*[g]ˤrəʔ 
+械	*[m-k]ˤrək-s 
+黠	*[g]ˤri[t] 
+偕	*kˤrij 
+喈	*kˤrəj 
+皆	*kˤrij 
+階	*kˤrij 
+介	*kˤr[e]p-s 
+屆	*kˤr[i][t]-s 
+戒	*kˤrək-s (~ kˤrək)
+界	*kˤr[e][t]-s 
+疥	*C.kˤr[e][p]-s 
+芥	*kˤr[e][t]-s 
+誡	*kˤrək-s 
+戛	*kˤrik 
+秸	*kˤri[t] 
+袺	*kˤ<r>i[t] 
+㓞	*[k]ʰˤret 
+鷖	*ʔˤij 
+曀	
+殪	
+縊	*qˤ[i]k-s 
+噎	*qˤik 
+倪	*ŋˤe 
+羿	*[ŋ]ˤer-s 
+詣	*[ŋ]ˤij-s 
+槷	*ŋˤet 
+闑	*ŋˤet 
+齧	*[ŋ]ˤet 
+兮	*gˤe 
+奚	*[g]ˤe (dial. for 何 *[g]ˤaj?)
+奚	*[g]ˤe 
+蹊	*[g]ˤe 
+騱	*gˤe 
+系	*[m]-kˤek-s 
+繫	*m-kˤek-s 
+擷	*m-[k]ˤi[t] 
+襭	
+枅	*[k]ˤer (dialect: *-r > *-j)
+稽	*kˤij 
+稽	*kˤij 
+稽	*kˤij 
+笄	*[k]ˤer  (dialect: *-r > *-j)
+雞	*kˤe 
+鷄	*kˤe 
+𥝌	*kˤij 
+係	*kˤek-s 
+繫	*Cə.kˤe-s 
+繼	*[k]ˤ[e]-s 
+計	*kˤij-s 
+髻	*kˤi[t]-s 
+拮	*kˤi[t] 
+潔	*[k]ˤet 
+結	*kˤi[t] 
+袺	*kˤi[t] 
+溪	*kʰˤe 
+谿	*kʰˤe 
+䭫	*kʰˤijʔ 
+启	*kʰˤijʔ 
+稽	*[kʰ]ˤijʔ 
+契	*[kʰ]ˤet-s 
+契	*kʰˤet 
+契	*kʰˤet 
+鍥	*kʰˤet 
+瘞	*q(r)[e]p-s 
+㓷	*ŋ<r>[a][t]-s 
+孼	*ŋ(r)at 
+櫱	*ŋ(r)at 
+讞	*ŋ(r)at 
+闑	*ŋr[e]t 
+偈	
+傑	*N-[k]<r>at 
+揭	*m-[k]<r>at 
+桀	*N-[k]<r>at 
+桀	*m-[k]<r>at 
+竭	*N-[k](r)at 
+猘	*k<r>e[t]-s 
+罽	*[k](r)[a][t]-s 
+桀	*[k]<r>at 
+愒	
+憩	*C.qʰ<r>a[t]-s 
+揭	*[k]ʰ<r>at-s 
+愒	*C.qʰ<r>at 
+揭	*[k]ʰ<r>at 
+朅	
+勩	*l[a][p]-s 
+泄	*lat-s 
+裔	*l[a][t]-s 
+抴	*l[a]t 
+埶	*ŋet-s (MC I!)
+蓺	*ŋet-s (MC I!)
+藝	*ŋet-s (MC I!)
+瘈	*ke[t]-s (dialect: no palatalization)
+藹	*qˤa[t]-s 
+遏	*qˤat 
+閼	*qˤat 
+頞	*ʔˤat 
+艾	*C.ŋˤa[t]-s 
+害	*N-kˤat-s 
+害	*m-kˤat-s 
+曷	*[g]ˤat 
+褐	*[ɢ]ˤat 
+丐	
+匃	*[k]ˤat-s 
+蓋	*[k]ˤap-s 
+割	*Cə-kˤat 
+匃	*[k]ˤat 
+葛	*[k]ˤat 
+渴	*Nə-[k]ʰˤat 
+舝	*[g]ˤrat 
+轄	*[g]ˤrat 
+鎋	
+犗	*[k]ˤ<r>at-s 
+棃	*C.r[ə][j] 
+犁	*[r][i]j 
+犂	
+履	*[r]ijʔ 
+利	*C.ri[t]-s 
+慄	
+栗	*[r]i[t] 
+師	*srij 
+師	*srij 
+瑟	*[s.m]ri[t] 
+蝨	*srik 
+蟋	*srit 
+柿	*[dz]rijʔ (? or *S.ɢrijʔ)
+楖	*[ts]rik 
+櫛	
+兕	*[s.ɢ]ijʔ 
+私	*[s]əj 
+死	*sijʔ 
+四	*s.li[j]-s 
+肆	*s-ləp-s 
+駟	*s.li[j]-s 
+悉	*[s]i[t] 
+膝	*s-tsik 
+茨	
+餈	*dzij 
+自	*s.[b]i[t]-s 
+自	*s.[b]i[t]-s 
+疾	*[dz]i[t] 
+咨	*[ts]ij 
+粢	*[ts]ij 
+諮	*[ts]ij 
+資	*[ts]ij 
+齍	*[ts]ij 
+姊	*[ts][i]jʔ 
+秭	*[ts][i]jʔ 
+恣	*tsi[t]-s 
+堲	*tsik 
+佽	
+次	*[s-n̥]i[j]-s 
+次	*[s-n̥]i[j]-s 
+七	*[tsʰ]i[t] 
+桼	*[tsʰ]i[t] 
+漆	*[tsʰ]i[t] 
+來	*mə.rˤək (> *mə.rˤə)
+來	*mə.rˤək (> *rˤə)
+萊	
+𧳟	*[r]ˤə 
+賚	*[r]ˤək-s 
+塞	*[s]ˤək-s 
+塞	*[s]ˤək-s 
+才	*[dz]ˤə 
+材	*[dz]ˤə 
+裁	*[dz]ˤə 
+財	*[dz]ˤə 
+在	*[dz]ˤəʔ 
+載	*[m-ts]ˤəʔ-s 
+哉	*[ts]ˤə 
+哉	*[ts]ˤə 
+栽	*[ts]ˤə 
+災	*[ts]ˤə 
+灾	*[ts]ˤə 
+烖	*[ts]ˤə 
+𢦏	*[ts]ˤə 
+𢦒	*[ts]ˤə 
+宰	*[ts]ˤəʔ 
+載	*[ts]ˤəʔ 
+再	*[ts]ˤə(ʔ)-s 
+載	*[ts]ˤə[ʔ]-s 
+載	*[ts]ˤəʔ-s 
+偲	
+彩	*s.r̥ˤəʔ 
+採	*s.r̥ˤəʔ 
+采	*s.r̥ˤəʔ 
+采	*s.r̥ˤəʔ 
+菜	*s.r̥ˤəʔ-s 
+殺	*s<r>at-s 
+殺	*s<r>at 
+儕	*[dz]ˤ<r>əj 
+豺	*[dz]ˤrə 
+齋	*tsˤr[ə]j 
+瘵	*[ts](ˤ)re[t]-s 
+祭	*[ts](ˤ)re[t]-s 
+札	*s-qˤrət 
+差	*[tsʰ](ˤ)raj 
+察	*[tsʰ]ˤret 
+犁	*[r]ˤ[i]j 
+犂	
+黎	*[r]ˤij (Cf. 耆 0552l gij < *[g]rij ‘old’)
+黎	*[r]ˤij 
+禮	*[r]ˤijʔ 
+豊	*[r]ˤijʔ 
+醴	
+鱧	
+戾	*[r]ˤe[t]-s 
+荔	*[r]ˤep-s 
+隸	*[r]ˤə[p]-s 
+麗	*[r]ˤe-s 
+嘶	*[s]ˤe 
+屖	*s-lˤəj 
+栖	*s-nˤər 
+棲	*s-nˤər 
+犀	*s.lˤəj 
+西	*s-nˤər 
+西	*s-nˤər 
+姺	*[s]ˤərʔ 
+洒	*[s]ˤərʔ 
+洗	*[s]ˤərʔ 
+壻	*[s]ˤ[i][j]-s 
+細	*[s]ˤe(k)-s 
+屑	*s-lˤi[t] 
+楔	*s.qˤet 
+懠	*[dz]ˤ[i]j 
+臍	*[dz]ˤ[ə]j 
+薺	
+蠐	
+齊	*[dz]ˤəj 
+齊	*[dz]ˤəj 
+穧	
+薺	*dzˤ[ə]jʔ 
+懠	*[dz]ˤ[i]j-s 
+截	*[dz]ˤet 
+䪡	*[ts]ˤij 
+躋	*[ts]ˤəj 
+隮	*[ts]ˤəj 
+泲	*tsˤ[i]jʔ 
+濟	*[ts]ˤ[i]jʔ 
+濟	*[ts]ˤəjʔ 
+濟	*[ts]ˤəjʔ 
+濟	*[ts]ˤ[i]j(ʔ)-s 
+濟	*[ts]ˤ[i]j(ʔ)-s 
+卪	*tsˤik 
+節	*tsˤik 
+妻	*[tsʰ]ˤəj 
+淒	
+萋	*[tsʰ]ˤəj 
+泚	
+妻	*[tsʰ]ˤəj-s 
+切	*[tsʰ]ˤi[t] 
+竊	*[tsʰ]ˤet 
+厲	*[r]at-s 
+厲	*[r]at-s 
+厲	*[r]at-s 
+栵	
+礪	*[r]at-s 
+糲	*[r]at-s 
+蠣	*mə-rat-s 
+冽	*C.r[a]t 
+列	*[r][e]t 
+烈	*[r]at 
+裂	*[r]at 
+泄	*s-lat 
+絏	*s-l[a]t 
+薛	*s.ŋat 
+薛	*s.ŋat 
+褻	*s-ŋet 
+辥	*s.ŋat 
+祭	*[ts]et-s 
+穄	*[ts][a][t]-s 
+際	*[ts][a]p-s 
+瀨	*C.rˤa[t]-s 
+籟	*rˤa[t]-s 
+糲	*[r]ˤat-s 
+賴	*rˤa[t]-s 
+剌	*mə.rˤat (~ C.rˤat ?)
+糲	*[r]ˤat 
+辣	*mə.rˤat (~ C.rˤat ?)
+摋	*sˤat 
+蔡	*s.r̥̥ˤat-s 
+二	*ni[j]-s 
+貳	*ni[j]-s 
+日	*C.nik 
+衵	*nik 
+示	*s-gijʔ-s 
+實	*mə.li[t] 
+尸	*l̥̥[ə]j 
+屍	*l̥̥[ə]j 
+蓍	*s-kij 
+屎	*[qʰ]ijʔ 
+矢	*l̥i[j]ʔ 
+𦳊	*[qʰ]ijʔ 
+失	*l̥i[t] 
+室	*s.ti[t] 
+視	*gijʔ 
+嗜	*[g]ij-s 
+視	*gijʔ-s 
+祗	
+脂	*kij 
+指	*mə.kijʔ 
+旨	*kijʔ 
+砥	*tijʔ 
+摯	*[t]ip-s 
+至	*ti[t]-s 
+鷙	*[t]ip-s 
+質	*t-lit 
+鴟	*tʰij 
+熱	*C.nat (or *C.ŋet?)
+舌	*mə.lat 
+世	*l̥ap-s 
+勢	*ŋ̊et-s 
+埶	*ŋ̊et-s 
+貰	*[l̥][a]p-s 
+設	*ŋ̊et 
+噬	*[d]e[t]-s 
+筮	*[d][e][t]-s 
+誓	*[d][a]t-s 
+逝	*[d]at-s 
+折	*N-tet 
+制	*tet-s 
+晢	*t[a]t-s 
+狾	*ke[t]-s 
+瘈	*ke[t]-s 
+製	*tet-s 
+折	*tet 
+晢	*t[a]t 
+晣	
+尼	*nr[əj] 
+怩	*nr[əj] 
+秜	*nrəj 
+柅	*n<r>[ə]rʔ 
+柅	*n<r>[ə]rʔ-s 
+膩	*nri[j]-s 
+䵑	*n<r>ik 
+䵒	*n<r>ik 
+昵	*n<r>ik 
+暱	*n<r>ik 
+坻	*[d]rij 
+蚳	*[d]r[ij] 
+遟	*l<r>ə[j] 
+遲	*l<r>ə[j] 
+雉	*lr[i]jʔ 
+稚	*lrəj-s 
+稺	*lrəj-s 
+穉	
+秩	
+黹	*tr[i]jʔ 
+疐	*[t-l]ri[t]-s 
+致	*t<r>i[t]-s 
+質	*[t]<r>ip-s 
+挃	
+窒	*[t]ri[t] 
+絺	*qʰrəj (dialect: *qʰr- > *r̥- > trh-)
+辴	*tʰrər 
+地	*[l]ˤej-s 
+能	*nˤə 
+乃	*nˤə(ŋ)ʔ 
+乃	*nˤəʔ 
+廼	*nˤərʔ 
+迺	*nˤərʔ (MC irreg.)
+耐	*nˤə-s 
+臺	*lˤə 
+待	*[d]ˤəʔ 
+怠	*lˤəʔ 
+殆	*lˤəʔ 
+詒	*lˤəʔ 
+迨	*lˤəʔ 
+𨽿	*lˤəʔ 
+代	*lˤək-s 
+袋	*Cə.lˤək-s 
+逮	*m-rˤəp-s 
+隶	*m-rˤəp-s 
+戴	*Cə.tˤək-s 
+胎	*l̥ˤə 
+態	*n̥ˤə-s 
+貸	*l̥ˤək-s 
+泥	*C.nˤ[əj] 
+臡	*nˤer 
+尼	*nˤərʔ 
+濔	
+爾	*nˤ[ə][r]ʔ 
+禰	
+尼	*nˤərʔ-s 
+泥	*nˤər(ʔ)-s 
+啼	*C.lˤe 
+嗁	*C.lˤe 
+提	*[d]ˤe 
+荑	*lˤəj 
+娣	*lˤəjʔ 
+弟	*lˤəjʔ 
+遞	*lˤeʔ 
+折	*[d]ˤet-s 
+杕	*[d]ˤet-s 
+棣	*[N].rˤəp-s 
+睇	*lˤəj-s 
+第	*[l]ˤəjʔ-s 
+軑	*[l]ˤe[t]-s 
+鬄	
+垤	*[d]ˤi[t] 
+墆	*[d]ˤet 
+瓞	
+耋	
+跌	*lˤi[t] 
+迭	*lˤi[t] 
+氐	*tˤij 
+底	*tˤijʔ 
+抵	*tˤijʔ 
+氐	*tˤijʔ 
+嚏	*[t]ˤi[t]-s (< *t.lˤ-?)
+帝	*tˤek-s 
+梯	*l̥ˤ[ə]j 
+睇	*l̥ˤ[ə]j (~ *l̥ˤ[ə]jʔ)
+涕	*[l̥]ˤ[ə]jʔ 
+體	*r̥ˤijʔ 
+剔	*l̥ˤek-s 
+揥	
+替	*n̥ˤi[t]-s 
+洟	*[l̥]ˤ[ə]j-s 
+涕	*[l̥]ˤ[ə]jʔ-s 
+薙	*l̥ˤij-s 
+鐵	*l̥ˤik 
+餮	*[tʰ]ˤət 
+彘	*[l]r[a][t]-s 
+滯	*[d]r[a][t]-s 
+徹	*m-[tʰ]ret 
+徹	*m-tʰret 
+撤	*m-tʰret 
+澈	*[d]ret 
+轍	*[d]ret 
+哲	*tr[e]t 
+悊	*tr[e]t 
+徹	*tʰret 
+徹	*tʰret 
+撤	*tʰret 
+奈	*nˤa[t]-s 
+大	*lˤa[t]-s 
+汰	*lˤa[t]-s 
+達	*[l]ˤat 
+帶	*C.tˤa[t]-s 
+怛	*tˤat 
+太	*l̥ˤa[t]-s 
+泰	*l̥ˤa[t]-s 
+獺	*r̥ˤat 
+羍	
+闥	
+𦍒	*l̥ˤat 
+蠆	*mə-r̥ˤa[t]-s 
+獺	*[m-r̥]ˤat 
+微	*məj 
+薇	
+亹	*mərʔ 
+尾	*[m]əjʔ 
+味	*m[ə]t-s 
+未	*m[ə]t-s 
+未	*m[ə]t-s 
+勿	*mut 
+勿	*mut 
+物	*C.mut 
+肥	*[b][ə]r 
+腓	
+怫	*[b][u]t-s 
+佛	*[b][u]t 
+咈	*[m-p][u]t 
+怫	*[b][u]t 
+扉	*pə[j] 
+誹	*pə[j] 
+非	*pəj 
+飛	*Cə.pə[r] (dialect: *-r > *-j)
+匪	*pəjʔ 
+匪	*pəjʔ 
+蜚	*pəjʔ 
+沸	*Nə.p[u][t]-s 
+疿	*pu[t]-s 
+弗	*p[u]t 
+弗	*put 
+弗	*put 
+紱	*put 
+茀	*p[u]t 
+妃	*pʰ[ə][j] 
+霏	
+騑	
+朏	*pʰ[ə]jʔ 
+菲	
+昲	*pʰ[u]t-s 
+費	*pʰ[u]t-s 
+刜	*pʰ[u]t 
+彿	*pʰ[u]t 
+拂	*pʰ[u]t 
+祓	*pʰut 
+艴	*pʰ[u]t 
+茀	*pʰ[u]t 
+湄	
+眉	*mr[ə][r] 
+郿	
+麋	*mr[i]j 
+美	*[m]rəjʔ 
+媚	*mrəjʔ-s 
+魅	*mr[ə][t]-s 
+密	*mri[t] 
+邳	*[b]rə 
+𧳏	*[b]rə 
+備	*[b]rək-s 
+邲	*[b]ri[t] 
+悲	*prəj 
+鄙	*prəʔ 
+毖	*pri[t]-s 
+閟	*pri[t]-s 
+柲	*pri[t] 
+筆	*p.[r]ut (borrowed as *prut from Qín dialect)
+丕	*pʰrə 
+伾	
+秠	
+駓	
+轡	*pr[i][t]-s 
+寐	*mi[t]-s 
+蜜	*mit 
+謐	*mi[t] 
+𥁑	*mi[t] 
+毗	*[b]ij 
+貔	*[b]ij 
+牝	*[b]irʔ (dialect: *-r > *-j)
+比	
+鼻	*Cə-bi[t]-s 
+鼻	*m-bi[t]-s 
+怭	
+邲	*[b]i[t] 
+庇	*pij 
+匕	*pijʔ 
+匕	*pijʔ 
+妣	*pijʔ 
+比	*C.pijʔ 
+秕	*pijʔ 
+妣	*pijʔ-s 
+庇	*pij-s 
+比	*pij-s 
+畀	*pi[t]-s 
+彃	*pi[t] 
+必	*pi[t] 
+珌	
+畢	*pi[t] 
+畢	*pi[t] 
+畢	*pi[t] 
+篳	*pi[t] 
+蹕	*pi[t] 
+韠	*pi[t] 
+紕	
+匹	*pʰi[t] 
+媒	*C.mˤə 
+枚	*mˤəj 
+梅	*C.mˤə 
+煤	*mˤə 
+鋂	
+每	*mˤəʔ 
+浼	*mˤ[u]rʔ 
+浼	*mˤərʔ 
+妹	*C.mˤə[t]-s 
+昧	*mˤ[u][t]-s 
+痗	
+歾	*mˤut 
+歿	*mˤut 
+殁	
+沒	*mˤut 
+𠬛	*mˤut 
+倍	*[b]ˤəʔ 
+佩	*[b]ˤək-s 
+偝	*m-pˤək-s 
+孛	*[b]ˤ[u]t-s 
+悖	*[b]ˤut-s 
+焙	*[b]ˤə-s 
+背	*m-pˤək-s 
+誖	*[b]ˤut-s 
+勃	*[b]ˤut 
+孛	*[b]ˤ[u]t 
+悖	*[b]ˤut 
+艴	*[b]ˤ[u]t 
+誖	*[b]ˤut 
+杯	*pˤə 
+背	*pˤək-s 
+配	*pʰˤ[ə][j]-s 
+韈	*C.m[a]t 
+吠	*Cə.bo[t]-s 
+伐	*m-pat 
+罰	*[b][a]t 
+廢	*[p-k]ap-s 
+廢	*pat-s 
+祓	*po[t]-s 
+發	*Cə.pat 
+髮	*pot 
+肺	*pʰo[t]-s 
+埋	*m.rˤə 
+薶	*m.rˤə 
+霾	*mˤrə 
+𩎟	*mˤr[ə][t]-s 
+排	*[b]ˤrəj 
+拔	*bˤ<r>ot 
+拜	*C.pˤro[t]-s 
+八	*pˤret 
+迷	*mˤij 
+麑	*m-ŋˤe 
+麛	*m-ŋˤe 
+瀰	*m.nˤerʔ 
+米	*(C.)mˤ[e]jʔ 
+幭	*mˤ[e]k 
+蔑	*mˤet 
+鼙	*[b]ˤe 
+髀	*m-pˤeʔ 
+苾	*[b]ˤi[t] 
+嬖	*pˤek-s 
+閉	*pˤi[t]-s 
+媲	
+淠	*pʰˤi[t]-s 
+別	*N-pret 
+別	*pret 
+袂	*k.met-s 
+滅	*[m]et 
+幣	*[b]e[t]-s 
+敝	*[b]e[t]-s 
+斃	*[b]e[t]-s 
+蔽	*pe[t]-s 
+鱉	*pet 
+末	*mˤat 
+沫	*mˤat 
+秣	
+拔	*bˤot-s 
+旆	
+茷	*[b]ˤ[a][t]-s 
+茇	*m-pˤ[a]t 
+軷	*[b]ˤ[a]t 
+芾	
+貝	*pˤa[t]-s 
+撥	*pˤat 
+筏	
+胈	*pˤot 
+茇	*pˤ[a]t 
+肺	*pʰˤ[a][t]-s 
+邁	*mˤrat-s 
+敗	*N-pˤra[t]-s 
+敗	*pˤra[t]-s 
+圍	*[ɢ]ʷə[j] 
+違	*[ɢ]ʷə[j] 
+韋	*[ɢ]ʷə[j] 
+韋	*[ɢ]ʷə[j] 
+煒	*[ɢ]ʷə[j]ʔ 
+葦	
+韡	*[ɢ]ʷə[j]ʔ 
+渭	
+胃	*[ɢ]ʷə[t]-s 
+蝟	*[ɢ]ʷə[t]-s 
+謂	*[ɢ]ʷə[t]-s 
+威	*ʔuj 
+㷉	*ʔut-s 
+尉	
+慰	*ʔut-s 
+畏	*ʔuj-s 
+蔚	*ʔut-s 
+蔚	*ʔut 
+鬱	*qut 
+巍	*N-qʰuj 
+魏	*N-qʰuj 
+魏	*N-qʰuj-s 
+徽	*m̥əj 
+揮	*qʷʰər 
+暉	*qʷʰər 
+楎	*qʷʰər 
+煇	*qʷʰər 
+輝	*qʷʰər 
+虺	*[r̥]u[j]ʔ (W dialect: *r̥- > MC x-)
+虺	*r̥u[j]ʔ (W dialect: *r̥- > MC x-)
+𤈦	*m̥əjʔ 
+倔	*[g]ut 
+掘	*[g]ut 
+歸	*[k]ʷəj 
+鬼	*k-ʔujʔ 
+貴	*kuj-s 
+屈	*Nə-[kʰ]ut 
+屈	*[kʰ]ut 
+帷	*ɢʷrij 
+洧	*[ɢ]ʷrəʔ 
+鮪	*[ɢ]ʷrəʔ 
+位	*[ɢ]ʷrəp-s (< *ɢʷəʔ-rəp-s ?)
+汩	*[ɢʷ]rət 
+戣	*[g]ʷrij 
+逵	*[g]ʷru 
+頄	*[g]ʷru 
+頯	*[g]ʷru 
+馗	*[g]ʷru 
+騤	
+㬰	*[g]ruj-s 
+匱	*[g]ruj-s 
+櫃	*[g]ruj-s 
+臾	
+蕢	*[g]ruj-s 
+餽	*[g]ruj-s 
+饋	*[g]ruj-s 
+龜	*[k]ʷrə 
+簋	*kʷruʔ 
+軌	*kʷruʔ 
+愧	*[k]ruj-s 
+喟	*[k]ʷʰrə[t]-s 
+唯	*ɢʷij (< *ɢʷuj?)
+壝	*[ɢ](r)uj 
+惟	*ɢʷij 
+維	*ɢʷij (? < *ɢʷuj)
+遺	*[ɢ](r)uj 
+唯	
+遺	*[ɢ](r)uj-s 
+繘	*N.qʷi[t] 
+聿	*[N.]rut 
+聿	*[m-]rut 
+遹	*ɢʷi[t] 
+侐	*m̥ik-s 
+葵	*gʷij 
+揆	*[g]ʷijʔ 
+悸	*[g]ʷi[t]-s 
+癸	*kʷijʔ 
+季	*kʷi[t]-s 
+橘	*[s.k]ʷi[t] 
+繘	*C.qʷi[t] 
+隈	*[ʔ]ˤuj 
+嵬	*N-qʰˤuj 
+嵬	*N-qʰˤujʔ 
+兀	*[ŋ]ˤut 
+回	*[ɢ]ʷˤəj 
+槐	*[g]ˤuj 
+迴	*[ɢ]ʷˤəj 
+壞	*N-[k]ˤujʔ 
+壞	*m-[k]ˤujʔ 
+輠	*[g]ˤurʔ 
+潰	*[gʷ]ˤ[ə]j-s 
+搰	*[g]ˤut 
+灰	*m̥ˤə 
+虺	*[r̥]ˤu[j] (W dialect: *r̥- > MC x-)
+悔	*m̥ˤəʔ 
+賄	*qʷʰˤəʔ 
+晦	*m̥ˤək-s 
+誨	*m̥ˤə(ʔ)-s 
+靧	*qʰˤuj-s 
+忽	*m̥ˤut 
+惚	*m̥ˤut 
+芴	*m̥ˤut 
+瑰	*[k]ˤuj 
+汩	*[kʷ]ˤ[ə]t 
+骨	*kˤut 
+魁	*[kʰ]ˤuj 
+魁	*[kʰ]ˤuj 
+魁	*[kʰ]ˤuj 
+塊	*[kʰ]ˤuj-s 
+堀	*[kʰ]ˤut 
+窟	*[kʰ]ˤut 
+戉	*[ɢ]ʷat 
+曰	*[ɢ]ʷat 
+粵	*[ɢ]ʷat 
+越	*[ɢ]ʷat 
+鉞	*[ɢ]ʷat 
+穢	*qʷat-s 
+月	*[ŋ]ʷat 
+喙	*l̥o[rʔ]-s (W dialect: *l̥- > MC x-) 
+顪	*qʷʰa[t]-s 
+掘	*[g]ot 
+蹷	*[g]ʷat 
+厥	*kot 
+蕨	*Cə.kot 
+蹶	*kʷat 
+闕	*kʷʰat 
+崴	*[ʔ]ˤruj 
+聵	*[ŋ]ˤruj-s 
+懷	*[g]ˤruj 
+槐	*[g]ˤ<r>uj 
+淮	*[ɢ]ʷˤrij 
+壞	*N-[k]ˤ<r>uj-s 
+壞	*m-[k]ˤ<r>uj-s 
+滑	*Nə-gˤrut 
+猾	*[g]ˤrut 
+猾	*[g]ˤrut 
+乖	*kʷˤrəj 
+怪	*[k]ʷˤrə-s 
+劀	*[k]ʷˤri[t] 
+喟	*[k]ʷʰˤrə[t]-s 
+塊	*[kʰ]ˤ<r>uj-s 
+壞	*[k]ʷˤ<r>ujʔ-s 
+簣	*kʰˤruj-s 
+蒯	*kʰˤru[t]-s 
+攜	
+叀	*ɢʷˤ[i]j-s 
+惠	*[ɢ]ʷˤi[j]-s 
+慧	*[ɢ]ʷˤe[t]-s 
+穴	*[ɢ]ʷˤi[t] 
+嘒	*qʷʰˤi[t]-s 
+暳	
+血	*m̥ˤik 
+圭	*[k]ʷˤe 
+決	*[k]ʷˤet 
+決	*[k]ʷˤet 
+袂	*k.mˤet (dialect: *k.m- > MC kw-)
+訣	*[k]ʷˤet 
+譎	*[C.q]ʷˤi[t] 
+睽	*kʷʰˤij 
+缺	*Nə-[k]ʷʰˤet 
+闋	*kʷʰˤi[t] 
+衛	*[ɢ]ʷ(r)a[t]-s 
+衞	
+劌	*[C.qʷ](r)a[t]-s 
+撅	*k(r)[o][t]-s 
+蹶	
+蹷	*kʷ(r)a[t]-s 
+鋭	*lot-s 
+悅	
+悦	*lot 
+蜕	*lot 
+説	*lot 
+閲	*lot 
+閲	*lot 
+烕	*m̥et 
+薈	
+外	*[ŋ]ʷˤa[t]-s 
+會	*m-kˤop-s 
+會	*ɦʷˤajs (< *m-kˤop-s)
+佸	
+活	*[g]ʷˤat 
+噦	
+濊	
+翽	*qʷʰˤat-s 
+濊	*qʷʰˤat 
+巜	*[k]ˤop-s 
+會	*kˤop-s 
+檜	*[k]ˤ[o][p]-s 
+澮	*[k]ˤop-s 
+膾	*C.[k]ˤ[o][p]-s 
+襘	*kˤop-s 
+鬠	*[k]ˤop-s 
+栝	
+括	
+𠯑	*[k]ʷˤat (Shuōwén; no pre-Qín exx.)
+闊	*[k]ʰˤot 
+闊	*[k]ʷʰˤat 
+刖	*[ŋ]ʷˤ<r>at 
+話	*[g]ʷˤrat-s 
+夬	*[k]ʷˤret-s 
+刮	*[kʷˤ]r[a]t 
+噲	*kʰr[o][p]-s 
+快	*[k]ʷʰˤret-s 
+纍	*[r]uj 
+壘	*[r]ujʔ 
+蘲	
+誄	*[r]ujʔ 
+淚	*[r][ə]p-s 
+率	*[r]ut-s 
+類	*[r]u[t]-s 
+律	*[r]ut 
+律	*[r]ut 
+率	*[r]ut 
+衰	*sruj 
+帥	*s-rut-s 
+率	*s-rut-s 
+率	*s-rut 
+蟀	*srut 
+檖	*sə.lu[t]-s 
+穗	*s.[ɢ]ʷi[t]-s 
+穟	*s.[ɢ]ʷi[t]-s 
+遂	*sə-lu[t]-s 
+隧	*sə-lu[t]-s 
+𥝩	*s.[ɢ]ʷi[t]-s 
+綏	*s.nuj 
+雖	*s-qʷij 
+祟	*s-lut-s 
+誶	*s-tsu[t]-s 
+恤	*s-[m]i[t] 
+戌	*s.mi[t] 
+訹	*s-lut 
+瘁	
+萃	*[dz][u]p-s 
+誶	*m-tsut 
+醉	*Cə.tsu[t]-s 
+卒	*[ts]ut 
+罍	*[r]ˤuj 
+雷	*C.rˤuj 
+靁	*C.rˤuj 
+儽	*[r]ˤuj-s 
+碎	*[s-tsʰ]ˤu[t]-s 
+崔	*[dz]ˤuj 
+摧	
+罪	*[dz]ˤujʔ 
+䘒	*[ts]ˤu[r] 
+朘	*[ts]ˤu[r] 
+卒	*[ts]ˤut 
+催	*s-tʰˤuj 
+縗	*s.r̥ˤuj 
+衰	*[s.r̥]ˤruj 
+倅	*[tsʰ]ˤu[t]-s 
+啐	*[tsʰ]ˤu[t]-s 
+淬	*[tsʰ]ˤu[t]-s 
+焠	*[tsʰ]ˤu[t]-s 
+茁	*s-[k]rot (tsrj- > tsr-)
+刷	*[s]r[o]t (dialect: retains MC srj-)
+茁	*s-[k]rot 
+㯔	*[tsʰ]<r>op-s 
+毳	*[tsʰ]<r>op-s 
+彗	*s-[ɢ]ʷe[t]-s 
+歲	*s-qʷʰat-s 
+雪	*[s]ot 
+絕	*[dz]ot 
+䄟	*tsʰop-s 
+毳	*[tsʰ]op-s 
+脃	*[tsʰ]o[t]-s 
+脆	*[tsʰ]o[t]-s 
+膬	*[tsʰ]ot 
+捋	*[r]ˤot 
+最	*[ts]ˤot-s 
+撮	*[tsʰ]ˤot 
+刷	*[s]r[o]t 
+嘬	*[tsʰ](ˤ)ro[t]-s 
+嘬	*[tsʰ](ˤ)ro[t]-s 
+緌	*nuj 
+朮	*m.lut (~ *mə.lut)
+术	
+秫	*m.lut (~ *mə.lut)
+術	*Cə-lut 
+述	*Cə-lut 
+鉥	*Cə-lut 
+水	*s.turʔ (E dialect: *-r > *-j)
+誰	*[d]uj 
+隹	*tur 
+沝	*turʔ 
+出	*t-kʰut-s 
+出	*t-kʰut 
+吶	*not 
+呐	
+焫	*not 
+爇	*not 
+帨	*l̥ot-s 
+税	*l̥ot-s 
+説	*l̥ot-s 
+説	*l̥ot 
+拙	*[t]ot 
+喙	*t-l̥o[rʔ]-s 
+帨	*s.l̥ot-s 
+啜	*tʰot 
+歠	*tʰot 
+椎	*k.druj 
+墜	*m.lru[t]-s 
+懟	*[d]r[u][p]-s 
+隊	*m.lru[t]-s 
+追	*truj 
+轛	*[t]<r>u[t]-s 
+黜	*t.kʰ<r>ut 
+餒	*nˤujʔ 
+內	*nˤ[u]p-s 
+訥	*nˤut 
+隤	*N-rˤuj 
+頹	
+錞	
+隊	*lˤut-s 
+突	*m-tʰˤut 
+腯	*lˤut 
+堆	*C.tˤuj 
+敦	*tˤur (dialect: *-r > *-j)
+𠂤	*C.tˤuj 
+對	*[t]ˤ[u]p-s 
+咄	*[t]ˤut 
+推	*tʰˤuj 
+焞	*tʰˤur 
+退	*n̥ˤ[u]p-s 
+突	*tʰˤut 
+叕	*trot-s 
+叕	*trot 
+惙	
+掇	*t<r>ot 
+綴	*trot 
+輟	*trot 
+兑	*lˤot-s 
+兑	*lˤot-s 
+脱	*lˤot-s 
+奪	*Cə.lˤot 
+敓	
+脱	*lˤot 
+説	
+祋	
+掇	*tˤot 
+蜕	*l̥ˤot-s 
+駾	
+捝	*l̥ˤot 
+脱	*mə-l̥ˤot 
+錣	*tˤrot 
+慇	*ʔə[r] 
+殷	*ʔə[r] 
+殷	*ʔə[r] 
+殷	*ʔər 
+隱	*[ʔ](r)ə[n]ʔ 
+隱	*[ʔ](r)ə[n]ʔ 
+隱	*ʔ(r)ə[r]ʔ-s 
+圻	*[ŋ]ər 
+垠	*[ŋ]ər 
+昕	*qʰər 
+欣	*qʰər 
+衅	*m̥rər-s 
+釁	*m̥rər-s 
+勤	*[g]ər 
+慬	*[g]ər 
+懃	*[g]ər 
+芹	*C.[ɢ]ər 
+近	*N-kərʔ 
+近	*s-N-kərʔ-s 
+斤	*[k]ər 
+筋	*C.[k]ə[n] 
+堇	*kə[r]ʔ 
+蓳	*kə[r]ʔ 
+謹	*kə[r]ʔ 
+蓳	*kə[r]-s 
+駰	*ʔ<r>i[n] 
+誾	*[ŋ]rə[n] (< uvular?)
+銀	*ŋrə[n] 
+堇	*[g]rə[r] 
+堇	*[g]rə[r] 
+矜	*griŋ 
+僅	*[g]rə[r]-s 
+墐	*[g]rə[r]-s 
+墐	*[g]rə[r]-s 
+殣	*[g]rə[r]-s 
+饉	*[g]rə[r]-s 
+巾	*krən 
+螼	*C-qʰrə[r]ʔ 
+螼	*C-qʰrə[r]ʔ-s 
+夤	*[ɢ[(r)ə[r] 
+寅	*[ɢ](r)ər 
+引	*li[n]ʔ 
+蚓	*[ɢ](r)ə[r]ʔ 
+螾	*[ɢ](r)ə[r]ʔ 
+引	*li[n]ʔ-s 
+朄	*li[n](ʔ)-s 
+胤	*[ɢ]ə[n]-s 
+因	*ʔi[n] 
+垔	*[q]i[n] 
+姻	
+禋	*[q]i[n] 
+陻	*[q]i[n] 
+印	*[ʔ]iŋ-s 
+緊	*C.qi[n]ʔ (I! no palatalization)
+恩	*ʔˤə[n] 
+眼	*ŋˤə[n]ʔ 
+恨	*[m-q]ˤə[n]-s 
+根	*[k]ˤə[r] 
+鄢	*[ʔ]a[n] 
+㫃	*qarʔ 
+偃	*ʔa[n]ʔ 
+偃	*ʔa[n]ʔ 
+鄢	*[ʔ]a[n]ʔ 
+甗	*ŋar 
+言	*ŋa[n] 
+言	*ŋa[n] 
+言	*ŋa[n] 
+言	*ŋa[r] 
+巘	*ŋ(r)ar(ʔ) 
+鬳	*ŋar-s 
+軒	*qʰa[r] 
+憲	*qʰar (~ *qʰar-s)
+獻	*ŋ̊ar-s 
+𩱡	*C.qa[n] 
+建	*[k]a[n]-s 
+殷	*ʔˤrə[r] 
+眼	*[ŋ]ˤ<r>ə[n]ʔ 
+瞯	
+瞷	*m-[k]ˤ<r>en 
+閑	*N-kˤre[n] 
+閑	*[g]ˤra[n] 
+閑	*[g]ˤra[n] 
+閑	*[g]ˤra[n] 
+間	*N-kˤre[n] 
+限	*[g]ˤrə[n]ʔ 
+囏	*kˤrə[r] 
+艱	*kˤrə[r] 
+蕑	*k.rˤan (dialect: *k.rˤ- > *kˤr-)
+蕑	*k.rˤe[n] (dialect: *k.rˤ- > kˤr-)
+閒	
+間	*kˤre[n] 
+間	*kˤre[n] 
+𡏳	*kˤrə[r] 
+揀	*kˤr[a]nʔ 
+柬	*kˤr[a]nʔ 
+簡	*kˤre[n]ʔ 
+簡	*kˤre[n]ʔ 
+咽	*ʔˤi[n] 
+烟	*[q]ˤi[n] 
+煙	*[q]ˤi[n] 
+咽	*ʔˤi[n]-s 
+宴	*ʔˤe[n]-s 
+晏	*ʔˤe[n]-s 
+燕	*ʔˤe[n]-s 
+燕	*ʔˤe[n]-s 
+妍	*[ŋ]ˤe[r] 
+研	*[ŋ]ˤe[r] 
+硏	*C.[ŋ]ˤe[r]-s (< uvular)
+硯	*C.[ŋ]ˤe[r]-s (< uvular)
+弦	*[ɢ]ˤi[n] 
+誸	*[ɢ]ˤi[n] 
+賢	*[g]ˤi[n] 
+俔	*N-[k]ˤenʔ 
+現	*N-[k]ˤen-s 
+見	*N-[k]ˤen-s 
+見	*m-[k]ˤen-s 
+天	*l̥ˤi[n] (W dialect: l̥ˤ- > Hàn-time *xˤ- > MC x-)
+顯	*qʰˤenʔ 
+堅	*kˤi[ŋ] 
+幵	*[k]ˤe[r] 
+枅	*[k]ˤer (W dialect)
+肩	*[k]ˤe[n] 
+豣	*[k]ˤe[n] 
+繭	*kˤ[e][n]ʔ 
+見	*[k]ˤen-s 
+牽	*[k]ʰˤi[n] 
+焉	*[ʔ]a[n] (atonic)
+焉	*ʔa[n] 
+鄢	*[ʔ](r)a[n] 
+巘	*ŋ(r)ar(ʔ) 
+彥	*ŋrar-s 
+彦	
+甗	*ŋrar-s 
+諺	*ŋra[n]-s 
+讞	*ŋ(r)ar-s 
+乾	*[g](r)ar 
+虔	*[g]ra[n] 
+件	*[g]r[a][n]ʔ (no pre-Qín exx?)
+𢵈	*krenʔ 
+愆	*C.qʰra[n] 
+褰	*kʰra[n] 
+延	*la[n] 
+筵	*la[n] 
+羨	*[ɢ]a[n] 
+演	*N-q(r)anʔ 
+衍	*N-q(r)anʔ 
+衍	
+遣	*[k]ʰe[n]ʔ 
+遣	*[k]ʰe[n]ʔ-s (*kʰ- doesn't palatalize)
+安	*[ʔ]ˤa[n] 
+安	*[ʔ]ˤa[n] 
+安	*[ʔ]ˤa[n] 
+鞌	*[ʔ]ˤa[n] 
+鞍	*[ʔ]ˤa[n] 
+按	*ʔˤa[n]-s 
+案	*ʔˤa[n]-s 
+岸	*[ŋ]ˤa[r]-s 
+豻	*m-[ɢ]ˤa[r]-s 
+寒	*Cə.[g]ˤa[n] 
+邯	*[g]ˤa[n] 
+韓	*[g]ˤar 
+旱	*[g]ˤa[r]ʔ 
+扞	*m-kˤa[r]-s 
+捍	*m-kˤa[r]-s 
+汗	*Cə.[g]ˤa[r]-s 
+翰	*[g]ˤar (MC implies *-s)
+翰	*[g]ˤar-s 
+翰	*[g]ˤar-s 
+翰	*m-kˤar-s 
+厂	*ŋ̊ˤarʔ 
+暵	*n̥ˤarʔ 
+罕	*qʰˤa[r]ʔ 
+罕	*qʰˤa[r]ʔ 
+厂	*ŋ̊ˤar(ʔ)-s 
+暵	*[qʰ]ˤarʔ-s 
+漢	*n̥ˤar-s (W dialect: *n̥- > MC x-, *-r > *-n)
+乾	*[k]ˤar 
+奸	*kˤa[r] 
+干	*[k]ˤar 
+干	*kˤa[r] 
+干	*kˤar 
+干	*kˤar 
+漧	*[k]ˤar 
+竿	*kˤar 
+肝	*s.kˤa[r] 
+飦	*C.qˤa[n] 
+秆	*kˤa[r]ʔ 
+笴	*kˤarʔ 
+簳	*kˤarʔ 
+倝	*[k]ˤar-s 
+幹	*[k]ˤar-s 
+看	*kʰˤa[r] 
+看	*[kʰ]ˤa[r]-s 
+衎	
+晏	*ʔˤ<r>a[n]-s 
+鴳	*ʔˤ<r>a[r]-s 
+顏	*C.ŋˤrar 
+顏	*C.ŋˤrar 
+顔	
+雁	*C.[ŋ]ˤrar-s 
+鴈	*C.[ŋ]ˤrar-s 
+僩	
+姦	*[k]ˤran 
+菅	
+澗	*[k]ˤra[n]-s (rhymes as if *[k]ˤra[n])
+諫	*kˤranʔ(-s) (~ *kˤranʔ)
+粦	*[r]ə[n] 
+粼	
+鄰	*(mə.)rə[n] 
+鱗	*C.r[ə][n] 
+吝	*mə.rə[n]-s 
+兟	*s<r>ər 
+莘	*sri[n] 
+詵	*srər 
+榛	*tsri[n] 
+溱	
+臻	
+蓁	*[ts]ri[n] 
+新	*s.tsʰi[n] 
+薪	*[s]i[n] 
+辛	*[s]i[n] 
+辛	*si[n] 
+信	*s-ni[ŋ]-s 
+囟	*[s]ə[r]-s 
+訊	*[s]i[n]-s 
+秦	*[dz]i[n] 
+盡	*m-tsi[n]ʔ 
+燼	*N-tsi[n]ʔ-s 
+津	*[ts]i[n] 
+盡	*tsi[n]ʔ 
+晉	*tsi[n]-s 
+進	*[ts][i][n]-s 
+親	*[tsʰ]i[n] 
+山	*s-ŋrar 
+潸	*[s]ra[n] 
+產	*s-ŋrarʔ 
+産	
+孱	*[dz]r[a][n] 
+棧	*[dz]r[a][n]ʔ 
+轏	*[dz]r[a][n]ʔ (dzrj- > dzr-)
+盞	*[ts]rarʔ 
+憐	*rˤiŋ 
+蓮	*k.[r]ˤe[n] (cf. 蕑 jiān < kean < *kˤre[n] (dial. *k.rˤ- > kˤr-) ‘lotus fruit (Ode 145.2)’)
+練	*[r]ˤen-s 
+鍊	*[r]ˤen-s 
+先	*sˤər 
+蹮	*sˤe[r] 
+洗	*sˤərʔ 
+先	*sˤər-s 
+霰	*sˤ[e]r-s 
+𩆵	*sˤ[e]r-s 
+前	*[dz]ˤen (~ *m-dzˤen)
+栫	*[dz]ˤə[n]-s 
+洊	*[N-ts]ˤə[n]-s 
+荐	*N-tsˤə[n]-s 
+荐	*[N-ts]ˤə[n]-s 
+薦	*Cə.tsˤə[r]-s 
+千	*s.n̥ˤi[ŋ] 
+阡	*[tsʰ]ˤi[n] 
+倩	
+漣	*[r]a[n] 
+連	*C.ra[n] 
+連	*[r]a[n] 
+輦	*[r][a][n]ʔ 
+僆	*k.r[a]n-s (no pre-Qín exx.)
+㳄	*s-N-qa[r] 
+㳄	*s-N-qa[r] 
+羨	*s-N-qa[r]-s 
+羨	*s-[ɢ]a[n]-s 
+仙	*[s]a[r] 
+僊	*[s]a[r] 
+鮮	*[s][a]r 
+鮮	*s[a]r 
+獮	*s.[n]e[r]ʔ 
+癬	*[s]arʔ 
+鮮	*[s][e]rʔ 
+𤣔	*s.[n]e[r]ʔ 
+錢	*N-ts[a][n] 
+俴	*[dz]e[n]ʔ 
+踐	*[dz]a[n]ʔ 
+賤	*[dz][a][n]-s 
+翦	*[ts][e][n]ʔ 
+濺	*[ts][a][n]-s 
+箭	*[ts]en-s 
+遷	*[tsʰ]ar 
+𠨧	*[tsʰ]ar 
+淺	*[tsʰ]e[n]ʔ 
+蘭	*k.rˤan 
+闌	*[r]ˤan 
+懶	*[N-kə.]rˤanʔ 
+瀾	*[r]ˤanʔ 
+爛	*[r]ˤan-s 
+爤	*[r]ˤan-s 
+傘	*[s]ˤarʔ 
+散	*[s]ˤa[n]ʔ 
+散	*mə-sˤa[n]ʔ-s 
+戔	*[dz]ˤa[n] 
+殘	*[dz]ˤa[n] 
+贊	*tsˤarʔ-s 
+餐	
+粲	*[tsʰ]ˤar-s 
+潸	*[s]ˤra[n] 
+汕	
+棧	*[dz]ˤr[a][n]ʔ 
+棧	*[dz]ˤr[a][n]-s 
+人	*ni[ŋ] 
+仁	*niŋ 
+忍	*nə[n]ʔ 
+忍	*nə[n]ʔ 
+刃	*nə[n]-s 
+認	*nə[n]-s 
+軔	*nər(ʔ)-s 
+晨	*sə-[d]ər 
+神	*Cə.li[n] 
+伸	*l̥i[n] 
+呻	*l̥i[n] 
+娠	*s-tər 
+申	*l̥i[n] 
+紳	*[l̥]i[n] 
+身	*n̥i[ŋ] 
+哂	*n̥ərʔ 
+晨	*[d]ər 
+臣	*[g]i[ŋ] 
+辰	*[d]ər 
+腎	*Cə.[g]i[n]ʔ 
+蜃	*[d]ərʔ 
+慎	*[d]i[n]-s 
+振	*tər 
+甄	*t.qi[n] 
+眞	
+真	*ti[n] 
+縝	*ti[n] 
+㐱	*t[ə][n]ʔ 
+畛	*tə[n]ʔ 
+稹	*ti[n]ʔ 
+袗	*tə[n]ʔ 
+診	*tə[n]ʔ 
+軫	*tə[n]ʔ 
+鬒	*ti[n]ʔ 
+娠	*tər-s 
+振	*tər-s 
+震	*tər-s 
+瞋	*tʰi[n] 
+㸐	*C.na[n] 
+然	*[n]a[n] 
+燃	*C.na[n] 
+熯	*narʔ 
+羴	*s.tan 
+羶	*s.tan 
+膻	*s.tan 
+扇	*[l̥][a][r]-s 
+單	*dar (< *[d]ar)
+蟬	*[d]a[r] 
+善	*[g]e[n]ʔ 
+墠	*[d]anʔ 
+壇	*[d]anʔ 
+擅	*[d]a[n]-s 
+禪	*[d]ar-s 
+繕	*[g]e[n]ʔ-s 
+旃	
+氈	*ta[n] 
+饘	*t-qa[n] 
+鸇	*ta[n] 
+饘	*t-qa[n]ʔ 
+戰	*tar-s 
+戰	*tar-s 
+餰	*t-qa[n] 
+幝	
+塵	*[d]rə[n] 
+陳	*lri[n] 
+診	*m-t<r>ə[n]ʔ-s 
+陣	*lri[n]-s 
+陳	*lri[n]-s 
+珍	*trə[n] 
+鎮	*t<r>i[n]-s 
+辴	*tʰrərʔ 
+疹	*tʰrə[n]-s 
+吞	*l̥ˤən 
+年	*C.nˤi[ŋ] 
+填	*[d]ˤi[n] 
+田	*lˤiŋ 
+畋	*lˤiŋ 
+闐	
+殄	*[d]ˤə[n]ʔ 
+佃	*lˤiŋ-s 
+奠	*N-tˤe[n]-s 
+奠	*m-tˤe[n]-s 
+殿	*[N-t]ˤə[n]-s 
+甸	*lˤiŋ-s 
+畋	*lˤiŋ-s 
+電	*lˤi[n]-s 
+巓	
+巔	
+顚	
+顛	*tˤi[n] 
+驒	*tˤer 
+典	*tˤə[r]ʔ 
+殿	*tˤə[n]-s 
+殿	*tˤə[n]-s 
+吞	*l̥ˤən 
+天	*l̥ˤi[n] 
+腆	*tʰˤə[n]ʔ 
+蹍	*[n]r[a][n]ʔ 
+廛	*[d]ra[n] 
+纏	*[d]ra[n] 
+躔	*[d]ra[n] 
+鱣	*tra[n] 
+展	*trenʔ 
+搌	*trenʔ 
+襢	*tra[n]ʔ 
+襢	*tra[n]ʔ 
+輾	*tre[n]ʔ 
+展	*tra[n]-s 
+襢	*tra[n]ʔ-s 
+梴	
+難	*nˤar 
+難	*nˤar-s 
+壇	*[d]ˤan 
+彈	*Cə.dˤar 
+彈	*[d]ˤar 
+檀	
+鼉	*[d]ˤar 
+但	*[d]ˤa[n]ʔ 
+彈	*[d]ˤar-s 
+丹	*tˤan 
+單	*Cə.tˤar 
+鄲	*tˤa[r] 
+亶	*tˤanʔ 
+癉	*tˤanʔ 
+𤺺	*tˤanʔ 
+旦	*tˤan-s 
+嘽	*tʰˤar 
+嘽	*tʰˤar 
+嘽	*tʰˤar 
+歎	*n̥ˤar 
+灘	*n̥ˤar (E dialect: *n̥ˤ- > MC th-)  
+坦	*[tʰ]ˤa[n]ʔ 
+嘆	*n̥ˤar-s 
+炭	*[tʰ]ˤa[n]-s 
+戁	*nˤrarʔ 
+文	*mə[n] 
+聞	*mu[n] 
+蚉	*C.mə[r] 
+蚊	*C.mə[r] 
+問	*C.mu[n]-s 
+焚	*[b]u[n] 
+賁	*[b]ur 
+憤	*[b]urʔ 
+分	*[m]-pə[n]-s 
+分	*pə[n] 
+饙	*pu[r] 
+𦐈	*(Cə.)pə[r] 
+粉	*mə.pənʔ 
+奮	*(Cə.)pə[r]-s (W dialect)
+糞	*p[u]r-s 
+芬	
+雰	
+旻	*mrə[n] 
+珉	*mr[ə][n] 
+痻	
+緡	*m-ru[n] (dialect: *m-r- > *mr-)
+緡	*m-run (dialect: *m-r- > *mr-)
+閩	*mrə[n] 
+憫	*mrə[n]ʔ 
+敏	*mrə[n]ʔ (~ *mrəʔ)
+閔	*mrə[n]ʔ 
+貧	*[b]rə[n] 
+豳	*prə[n] 
+民	*mi[ŋ] 
+泯	*mi[n] 
+蘋	
+頻	*[b]i[n] 
+頻	*[m-p]i[n] 
+牝	*[b]irʔ 
+濵	
+瀕	*pi[n] 
+賓	*pi[n] 
+賔	
+亹	*mˤər 
+捫	*[m]ˤ[ə][n] 
+汶	*mˤə[n] 
+璊	*mˤur 
+穈	*mˤur 
+門	*mˤə[r] 
+盆	*[b]ˤə[n] 
+奔	*pˤur 
+賁	*pˤur 
+本	*C.pˤə[n]ʔ 
+畚	*pˤu[n]ʔ 
+晚	*m[o][r]ʔ 
+曼	*ma[n]-s 
+萬	*C.ma[n]-s 
+蔓	*C.ma[n]-s 
+樊	
+煩	*[b]a[n] 
+燔	*[b]ar 
+繁	*[b]ar 
+蕃	*[b]ar 
+袢	
+飯	*bo[n]ʔ 
+飯	*bo[n]ʔ-s 
+蕃	*par 
+藩	*par 
+反	*Cə.panʔ 
+返	*Cə.panʔ 
+阪	*pa[n]ʔ 
+幡	
+番	*pʰar 
+反	*[b]ˤranʔ 
+辦	*[b]ˤren-s 
+釆	*[b]ˤre[n]-s 
+盼	
+眠	*mˤi[n] 
+眄	*mˤe[n]ʔ 
+蹁	*bˤe[r] 
+辮	*m-pˤe[r]ʔ 
+編	*pˤe[r] 
+邊	*pˤe[n] 
+扁	*pˤe[r]ʔ 
+徧	*pˤe[n]-s 
+片	*pʰˤe[n]-s 
+俛	*mr[a][n]ʔ 
+免	*mr[o][r]ʔ 
+冕	*mr[o][r]ʔ 
+勉	*mr[o][r]ʔ 
+辨	*[b]renʔ 
+辯	*[b]renʔ 
+卞	*[b]ro[n]-s 
+弁	*C.[b]ro[n]-s 
+笲	*[b]ro[n]-s 
+辡	*prenʔ 
+變	*pro[n]-s 
+宀	*me[ŋ] (no pre-Qín exx.)
+沔	*m.nerʔ 
+湎	*menʔ 
+面	*C.me[n]-s 
+便	*[b]e[n] 
+平	*[b]en 
+諞	*[m-pʰ]e[r] 
+諞	*[m-pʰ]e[r]ʔ 
+便	*[b]e[n]-s 
+籩	*pe[n] 
+編	*pe[r] (~ *mə-pe[r] in donor to HM)
+鞭	*pe[n] 
+𠓥	*pe[n] 
+偏	*pʰe[n] 
+篇	*pʰe[n] 
+翩	*pʰe[n] 
+騙	*phen(ʔ)-s 
+瞞	*mˤ[o][r] 
+懣	*mˤ[o][n]ʔ 
+滿	*mˤ[o][n]ʔ 
+幔	*mˤa[n]-s 
+曼	*mˤa[n]-s 
+漫	*mˤa[n]-s 
+盤	*[b]ˤan 
+蟠	*[b]ˤar 
+伴	*[C.b]ˤanʔ 
+畔	*m-pʰˤan-s 
+搬	*Cə.pˤan 
+半	*pˤan-s 
+判	*pʰˤan-s 
+泮	
+蠻	*mˤro[n] 
+慢	*mˤra[n]-s 
+扳	*pˤran 
+斑	*pˤran 
+朌	*pˤ<r>ə[n] (MC V!)
+班	*pˤ<r>an 
+頒	*pˤ<r>ə[n] (MC F!)
+板	*C.pˤranʔ 
+板	*pˤranʔ 
+攀	*pʰˤran 
+云	*[ɢ]ʷə[r] 
+員	*[ɢ]ʷə[n] 
+耘	
+芸	*[ɢ]ʷə[n] 
+雲	*[ɢ]ʷə[n] 
+運	*[ɢ]ʷər-s 
+藴	*ʔunʔ 
+愠	*ʔun-s 
+慍	
+藴	*ʔunʔ-s 
+熏	*qʰu[n] 
+葷	*qʰu[n] 
+薰	*qʰu[n] 
+薰	*qʷʰər 
+訓	*l̥u[n]-s (W dialect: *l̥- > x- )
+羣	*[g]ur 
+群	*[g]ur 
+裙	*[g]u[r] 
+郡	*[g]ur-s 
+君	*C.qur 
+軍	*[k]ʷər 
+筠	*[ɢ]ʷri[n] 
+隕	*[ɢ]ʷrə[n]ʔ 
+均	*[m-qʷ]<r>i[n]-s (no pre-Qín exx.)
+韵	*[m-qʷ]<r>i[n]-s (no pre-Qín exx.)
+韻	*[m-qʷ]<r>i[n]-s (no pre-Qín exx.)
+菌	*[g]runʔ 
+麇	*krun 
+麏	*krun 
+麕	*krun 
+囷	*kʰrun 
+匀	*[N-q]ʷi[n] 
+匀	*[ɢ]ʷi[ŋ] 
+允	*[l]u[r]ʔ 
+尹	*m-qurʔ 
+狁	*[l]u[r]ʔ 
+均	*C.qʷi[n] 
+鈞	*C.qʷi[n] 
+鈞	*C.qʷi[n] 
+昷	
+温	*ʔˤun 
+𥁕	*ʔˤun 
+楎	*[ɢ]ʷˤər 
+渾	*[g]ˤ[u]r 
+魂	*[m.]qʷˤə[n] 
+渾	*[g]ˤurʔ 
+婚	*m̥ˤu[n] 
+昏	*m̥ˤu[n] 
+昆	*[k]ˤu[n] 
+𥊽	*[k]ˤu[n] 
+坤	*[kʰ]ˤu[n] 
+壼	
+梱	*kʰˤunʔ 
+稇	*kʰˤunʔ 
+困	*kʰˤu[n]-s 
+園	*C.ɢʷa[n] 
+垣	*[ɢ]ʷar 
+媛	
+援	*[ɢ]ʷa[n] 
+爰	*ɢʷa[n] 
+猨	*[ɢ]ʷa[n] 
+袁	*[ɢ]ʷa[n] 
+轅	*[ɢ]ʷa[n] 
+遠	*C.ɢʷanʔ 
+怨	
+夗	*[ʔ]o[r]ʔ 
+婉	*[ʔ]o[n]ʔ 
+宛	*[ʔ]o[r]ʔ 
+苑	*[ʔ]o[r]ʔ 
+苑	*[ʔ]o[r]ʔ 
+怨	*[ʔ]o[r]-s 
+元	*[ŋ]o[r] (< nasal + uvular)
+原	*N-ɢʷar 
+原	*N-ɢʷar 
+嫄	
+源	*N-ɢʷar 
+願	*[ŋ]o[n]-s (< nasal + uvular?) 
+𩕾	*[ŋ]o[n]-s (< nasal + uvular?)
+吅	*qʷʰar 
+喧	*qʷʰar 
+塤	*qʰo[n] 
+壎	*qʰo[n] 
+諠	*qʷʰar 
+諼	*qʷʰa[r] 
+讙	*qʷʰar 
+貆	*qʷʰar 
+咺	*qʷʰarʔ 
+晅	*qʷʰarʔ 
+烜	*qʷʰarʔ 
+綣	
+勸	*C.qʷʰar-s 
+綸	*k.rˤu[n] (dialect: *k.rˤ- > *kˤr-)
+鰥	*[k]ʷˤrə[n] 
+鰥	*[k]ʷˤrə[n] 
+淵	*[ʔ]ʷˤi[ŋ] 
+肙	*qʷˤen 
+蜎	*qʷˤen 
+懸	*N-kʷˤe[n] (error in B&S 2014, should be *Cə.[g]ʷˤe[n] to account for Mǐn)
+玄	*[ɢ]ʷˤi[n] 
+縣	*[g]ʷˤe[n] 
+鞙	*[ɢ]ʷˤenʔ 
+縣	*Cə.[g]ʷˤe[n]-s 
+駽	*qʷʰˤen 
+絢	*qʷʰˤi[n]-s 
+駽	*qʷʰˤen-s 
+畎	*C.qʷˤ[i]nʔ 
+犬	*[k]ʷʰˤ[e][n]ʔ 
+員	*ɢʷ<r>en 
+圓	*ɢʷ<r>en 
+圜	*ɢʷ<r>en 
+媛	*[ɢ]ʷra[n]-s 
+院	*ɢʷra[n]-s 
+卷	*[g]ʷren 
+拳	*N-kro[n] 
+權	*[g]ʷrar 
+鬈	*[g]ʷren 
+圈	*[g](r)o[n]ʔ 
+卷	*[k](r)o[n]ʔ 
+眷	*[k]ro[n]-s 
+睠	*[k]ro[n]-s 
+捐	*[ɢ]ʷen 
+沿	*lon 
+緣	*lon 
+悁	*qʷen 
+蜎	*qʷenʔ 
+儇	*qʷʰen 
+翾	*qʷʰen 
+蜎	*[m-k-qʷ]enʔ 
+絹	*[k]ʷen-s 
+玩	*[ŋ]ˤo[n]-s 
+翫	*[ŋ]ˤo[n]-s 
+丸	*[ɢ]ʷˤar 
+丸	*ɦʷˤar (< *[ɢ]ʷˤar)
+亘	*[ɢ]ʷˤar 
+完	*[ɢ]ˤo[n] 
+桓	*[ɢ]ʷˤar 
+桓	*ɦʷˤar (< *[ɢ]ʷˤar)
+芄	*[ɢ]ʷˤa[r] 
+雈	*ɢʷˤar 
+浣	*[ɢ]ˤo[n]ʔ 
+緩	*[ɢ]ʷˤa[n]ʔ 
+輠	*[g]ˤorʔ 
+換	*[ɢ]ʷˤa[n]-s 
+懽	*qʷʰˤar 
+歡	*qʷʰˤar 
+貆	
+驩	*qʷʰˤar 
+驩	*qʷʰˤar 
+渙	*qʷʰˤa[n]-s 
+冠	*[k.ʔ]ˤor 
+官	*kʷˤa[n] 
+棺	*kʷˤa[n] 
+觀	*C.qʷˤar 
+貫	*kˤo[n] 
+痯	*kʷˤa[n]ʔ 
+筦	*[k]ˤo[n]ʔ 
+管	*[k]ˤo[n]ʔ 
+管	*kʷˤa[n]ʔ 
+管	*kʷˤa[n]ʔ 
+冠	*k.ʔˤor-s 
+灌	*[C.qʷ]ˤar-s 
+祼	*[k]ˤor(ʔ)-s 
+觀	*C.qʷˤar-s 
+觀	*C.qʷˤar-s 
+貫	*kˤon-s 
+雚	*C.qʷˤar-s 
+館	*[k]ˤo[n]ʔ-s 
+鸛	*C.qʷˤar-s 
+寬	*[k]ʷʰˤa[n] 
+環	*C.ɢʷˤ<r>en 
+睘	*[ɢ]ʷˤ<r>en 
+還	*[ɢ]ʷˤ<r>en 
+睅	*[ɢ]ʷˤra[r]ʔ 
+宦	*m-kʷˤ<r>a[n]-s 
+患	*[g]ˤro[n]-s 
+擐	*[ɢ]ʷˤren-s 
+關	*[k]ˤro[n] 
+關	*[k]ˤro[n] 
+關	*kˤro[n] 
+丱	
+串	*kˤro[n]-s 
+倌	*kʷˤra[n]-s 
+慣	*kˤro[n]-s 
+摜	*kˤro[n]-s 
+倫	*[r]u[n] 
+淪	
+綸	*k.ru[n] 
+論	*[r]u[n] 
+輪	*[r]u[n] 
+巡	*[sə.l]u[n] 
+循	*sə.lu[n] 
+旬	*s-N-qʷi[n] 
+紃	*s-du[n] 
+馴	*sə.lu[n] 
+徇	*s-[ɢ]ʷi[n]-s 
+殉	*s.[ɢ]ʷi[n]-s 
+洵	
+荀	*s.qʷi[n] 
+詢	
+筍	*s-qʷi[n]ʔ 
+隼	*[s]urʔ 
+濬	*s-[q]ʷi[n|ŋ]-s 
+遵	*[ts]u[n] 
+駿	*[ts]ur-s 
+夋	*[tsʰ]u[r] 
+論	*[r]ˤu[n] 
+論	*[r]ˤu[n]-s 
+孫	*[s]ˤu[n] 
+飧	*[s]ˤu[r] 
+損	*[s-q]ʷˤə[n]ʔ 
+存	*[dz]ˤə[n] 
+尊	*[ts]ˤu[n] 
+尊	*[ts]ˤu[n] 
+樽	*[ts]ˤu[n] 
+刌	*[tsʰ]ˤu[n]ʔ 
+忖	*[tsʰ]ˤu[n]ʔ 
+寸	*[tsʰ]ˤu[n]-s 
+孿	*[s.r]on-s 
+孌	*[r]onʔ 
+戀	*[r]on-s 
+孿	*[s.r]on-s 
+撰	*[dz]ro[n]ʔ 
+㘣	*s-[ɢ]ʷe[n] 
+旋	*s-ɢʷen 
+還	*s-ɢʷen 
+旋	*s-ɢʷen-s 
+亘	*s-[q]ʷar 
+亘	*swar (< *s-[q]ʷar)
+宣	*s-qʷar 
+選	*[s]o[n]ʔ 
+選	*[s]o[r]ʔ 
+選	*[s]o[n]ʔ-s 
+全	*[dz]o[n] 
+泉	*s-N-ɢʷar (MC I!)
+䜌	*mə.rˤo[n] 
+欒	*[m]ə.rˤon 
+欒	*[r]ˤo[n] 
+鑾	*[m]ə.rˤon 
+鸞	*[r]ˤon 
+	
+卵	*k.rˤorʔ 
+亂	*[r]ˤo[n]-s 
+𤔔	*[r]ˤo[n]-s 
+酸	*[s]ˤor 
+祘	*[s]ˤorʔ-s 
+算	*[s]ˤorʔ-s 
+蒜	*[s]ˤor-s 
+鑽	*[ts]ˤor 
+纂	*[ts]ˤo[n]ʔ 
+竄	*[tsʰ]ˤo[n]-s 
+犉	
+閏	*nu[n]-s 
+漘	*sə.dur 
+脣	*sə.dur 
+楯	*Cə.lu[n]ʔ 
+順	*Cə.lu[n]-s 
+舜	*[s.t]u[n]-s 
+淳	*[d]u[r] 
+淳	*[d]u[r] 
+淳	*[d]u[r] 
+純	*[d]u[n] 
+純	*[d]u[n] 
+鶉	*[d]ur 
+淳	*tur 
+淳	*turʔ 
+準	*turʔ 
+春	*tʰun 
+船	*Cə.lo[n] 
+輲	*[d]or 
+專	*ton 
+巛	*t.l̥u[n] (MC -jwen is irregular)
+川	*t.l̥u[n] (MC -jwen is irregular)
+穿	*tʰo[n] 
+喘	*[tʰ]orʔ 
+舛	*[tʰ]o[n]ʔ 
+屯	*trun 
+䡅	*[l̥]ru[n] 
+輴	*l̥ru[n] 
+屯	*[d]ˤun 
+臀	
+豚	*lˤu[n] 
+𡱂	*[d]ˤə[n] (dialect: *-ən > MC -won)
+𢄉	*lˤu[n] 
+盾	*lˤu[n]ʔ 
+豚	*lˤu[n]ʔ 
+遁	*lˤu[n]ʔ 
+遯	*lˤu[n]ʔ 
+遁	*lˤu[n]ʔ-s 
+遯	*lˤu[n]ʔ-s 
+敦	*tˤur 
+敦	*tˤur 
+啍	
+焞	*tʰˤur 
+焞	*tʰˤur 
+傳	*m-tron 
+椽	*lron 
+傳	*N-tron-s 
+轉	*mə-tronʔ 
+轉	*tronʔ 
+傳	*tron-s 
+團	*C.[d]ˤon 
+慱	
+摶	*[d]ˤon 
+漙	
+斷	*N-tˤo[n]ʔ 
+端	*tˤor 
+耑	*tˤor 
+斷	*tˤo[n]ʔ 
+短	*tˤorʔ 
+斷	*tˤo[n]ʔ-s 
+段	*tˤo[n]-s 
+鍛	
+湍	*tʰˤor 
+畽	*tʰˤonʔ 
+彖	*l̥ˤo[r]-s 
+浥	*q<r>ip 
+邑	*q(r)[ə]p 
+吸	*qʰ(r)əp 
+噏	*qʰ(r)[ə]p 
+歙	*qʰ(r)[ə]p 
+翕	*qʰ(r)[ə]p 
+翕	*qʰ(r)[ə]p 
+及	*[m-k-]rəp 
+急	*[k](r)əp 
+級	*k(r)əp 
+給	*[k](r)[ə]p 
+泣	*k-r̥əp 
+湆	*[kʰ](r)[ə]p 
+燁	*ɢʷ(r)[ə]p 
+爗	*ɢʷ(r)[ə]p 
+挹	*qip 
+挹	*qip 
+挹	*qip 
+揖	*qip 
+唈	*qˤ[ə]p 
+合	*m-kˤop 
+欱	*qʰˤ[ə]p 
+合	*kˤop 
+閤	*[k]ˤ[o]p 
+韐	*[k]ˤ[ə]p 
+鴿	*[k]ˤ[ə]p (no pre-Qín exx.)
+業	*[m-qʰ](r)[a]p 
+業	*[m-qʰ](r)[a]p 
+業	*[ŋ](r)[a]p 
+脅	*qʰ<r>ep 
+劫	*k(r)ap 
+跲	*[k](r)op 
+胠	*[kʰ]<r>ap 
+峽	*N-kˤ<r>ep 
+洽	*N-kˤ<r>[o]p 
+狹	*N-kˤ<r>ep 
+夾	*kˤ<r>ep 
+韐	*[k]ˤ<r>[ə]p 
+劦	*[ɢ]ˤep 
+協	*[ɢ]ˤep 
+挾	*m-kˤep (?)
+梜	*kˤep 
+匧	*[k]ʰˤep 
+燁	*[ɢ]ʷ(r)[a]p 
+爗	*[ɢ]ʷ(r)[a]p 
+枼	*lap 
+葉	*l[a]p 
+厭	*ʔep 
+盍	*m-[k]ˤap 
+蓋	*m-[k]ˤap 
+壓	*ʔˤrep 
+押	*ʔˤrep 
+匣	*[g]ˤr[a]p 
+柙	*[g]ˤr[a]p 
+狎	*[g]ˤr[a]p 
+梜	*C.kˤ<r>ep (MC -aep is irregular)
+甲	*[k]ˤr[a]p 
+立	*k.rəp 
+笠	*k.rəp 
+粒	*p.rəp 
+濈	*s.q<r>[i]p 
+輯	*ts<r>[u]p 
+習	*s-ɢʷəp (with root *ɢʷəp ‘wing’?)
+襲	*sə-l[ə]p 
+襲	*sə.l[ə]p 
+隰	*s-N-qip 
+輯	*[dz][u]p 
+集	*[dz][u]p 
+揖	*s.qrip (dialect: MC tsr- > ts-)
+緝	*[tsʰ][ə]p 
+拉	*[r]ˤəp 
+雜	*[dz]ˤ[u]p 
+噆	*tsˤ[ə]p 
+帀	*[ts]ˤ[ə]p 
+歃	*[s](ˤ)r[o]p 
+眨	*mə-[ts]ˤr[a]p (< *mə-S.pˤrap ?)
+扱	*s-qʰr[ə]p 
+插	*mə-[tsʰ]<r>op 
+臿	*[tsʰ]<r>op 
+屧	*s-lˤep 
+燮	*s.qʰˤ(r)ip 
+挾	*S-kˤep 
+獵	*r[a]p 
+躐	*r[a]p 
+歃	*[s]r[o]p 
+捷	*[dz][a]p 
+接	*[ts][a]p 
+椄	*[ts]ap 
+楫	*[ts]əp (MC V!)
+睫	*[ts][a]p 
+妾	*[tsʰ]ap 
+臘	*C.rˤap 
+蠟	*k.rˤap (no pre-Qín exx.)
+翣	*s(ˤ)r[a]p 
+入	*n[u]p 
+溼	*s-[qʰ][i]p 
+濕	*[qʰ]ip 
+什	*t.[g]əp 
+十	*t.[g]əp 
+拾	*[d][ə]p 
+執	*[t]ip 
+慹	*t-nip (dialect *t-n- > *t-)
+汁	*[t.k][ə]p 
+攝	*kə.n̥ep 
+韘	*l̥[a]p 
+涉	
+慹	*t-nep 
+懾	*[t.n][e]p 
+蟄	*[d]rip 
+縶	*t<r>ip 
+內	*nˤ[u]p 
+納	*nˤ[u]p 
+軜	
+沓	*m-rˤəp 
+眔	*m-rˤəp 
+遝	*m-rˤəp 
+答	*[t]ˤ[u]p 
+荅	*[t]ˤ[ə]p 
+慹	*nˤ[i]p 
+疊	*lˤ[i]p 
+蝶	*lˤep 
+墊	*[t]ˤip 
+輒	*t-nˤep 
+怗	*[tʰ]ˤep 
+貼	*[tʰ]ˤ[e]p 
+聶	*nrep 
+踂	*n<r>ep 
+躡	*nrep 
+耴	*t-nrep 
+輒	*[t]rep 
+蹋	*lˤap 
+乏	*[b](r)[o]p 
+法	*[p.k]ap 
+灋	*[p.k]ap 
+陰	*q(r)um 
+音	*[q](r)əm 
+飲	*q(r)[u]mʔ 
+蔭	*mə-q<r>[u]m-s 
+飲	*q(r)[ə]mʔ-s 
+吟	*m-qʰ(r)[ə]m 
+𠪚	*N-qʰˤ[ə]m 
+歆	*[qʰ](r)əm 
+擒	*C.ɢ(r)[ə]m 
+琴	*[C.ɢ](r)[ə]m 
+禽	*[C.ɢ](r)[ə]m 
+禽	*[C.ɢ](r)[ə]m 
+衿	*C.ɢ(r)[ə]m-s 
+䘳	*kr[ə]m 
+今	*[k]r[ə]m 
+襟	*kr[ə]m 
+金	*k(r)[ə]m 
+錦	*Cə.k(r)[ə]mʔ 
+禁	*kr[ə]m-s 
+欽	
+衾	*[k]ʰ(r)[ə]m 
+㸒	*[N.]r[ə]m 
+淫	*N.r[ə]m 
+愔	*[q]im 
+晻	*qˤ[o]mʔ 
+晻	*qˤ[o]m(ʔ)-s 
+暗	*qˤum-s 
+函	*Cə-m-kˤ[ə]m 
+含	*Cə-m-kˤ[ə]m 
+唅	*Cə-m-kˤ[ə]m 
+圅	*Cə-m-kˤ[ə]m 
+涵	*[g]ˤ[o]m 
+頷	*[ɢ]ˤ[ə]mʔ 
+含	*Cə-m-[k]ˤ[ə]m-s 
+憾	*N-kˤ[ə]mʔ-s 
+感	*kˤ[ə]mʔ 
+贛	*k[o]mʔ 
+贛	*[k]ˤom-s 
+堪	*[kʰ]ˤ[ə]m 
+戡	*[kʰ]ˤ[ə]m 
+坎	*[k]ʰˤomʔ 
+埳	*[k]ʰˤomʔ 
+欿	*[kʰ]ˤomʔ 
+欿	*[kʰ]ˤomʔ 
+欿	*[kʰ]ˤomʔ 
+竷	*[k]ʰomʔ 
+嚴	*ŋ(r)am 
+儼	*ŋ(r)[a]mʔ 
+險	*qʰr[a]mʔ 
+劍	*s.kr[a]m-s 
+欠	*[k]ʰ(r)om-s 
+咸	*[g]ˤr[ə]m 
+鹹	*Cə.[g]ˤr[o]m 
+減	*m-kˤr[ə]mʔ 
+臽	*[ɢ]ˤromʔ-s 
+陷	*[ɢ]ˤromʔ-s 
+黬	*[k]ˤr[ə]m 
+減	*kˤr[ə]mʔ 
+歉	*kʰˤremʔ-s 
+嫌	*N-kˤem 
+兼	*[k]ˤem 
+蒹	*[k]ˤem 
+謙	*k-r̥ˤem 
+炎	*[ɢ]ʷ(r)am 
+淹	*ʔ(r)om 
+奄	*ʔ(r)omʔ 
+饜	*ʔ<r>em-s 
+驗	*m-qʰr[a]m-s 
+險	*qʰr[a]mʔ 
+鉗	*C.[g]<r>[e]m 
+黔	*[g](r)[o]m 
+儉	*[g]r[a]mʔ 
+檢	*[k]r[a]mʔ 
+壛	*Cə.[ɢ]am 
+檐	*Cə.[ɢ]am 
+檐	*[ɢ][a]m 
+閻	*[ɢ][a]m 
+阽	*[l]em 
+鹽	*[ɢr][o]m 
+剡	*N-r[a]mʔ 
+覃	*N-r[a]mʔ 
+爓	*[ɢ]om-s 
+鹽	*[ɢr][o]m-s 
+厭	*ʔem 
+猒	*ʔem 
+猒	*ʔem-s 
+邯	*[g]ˤam 
+酣	*[g]ˤam 
+檻	*[g]ˤamʔ 
+甘	*[k]ˤ[a]m 
+敢	*[k]ˤamʔ 
+巖	*[ŋ]ˤr[a]m (< uvular?)
+銜	*[g]ˤr[a]m 
+檻	*[g]ˤramʔ 
+檻	*[g]ˤramʔ 
+監	*[k]ˤram 
+監	*kˤram-s 
+林	*[r]əm 
+淋	*r[ə]m 
+臨	*(p.)rum 
+凜	*[r][ə]mʔ 
+廩	*p.rimʔ 
+廩	*p.rimʔ 
+禀	*p.rimʔ 
+稟	*p.rimʔ 
+參	*srum (should be *s.rum)
+森	*s.rəm 
+罧	*s.r[ə]mʔ-s 
+簪	*tsr[ə]m 
+譖	*[ts]r[ə]m-s 
+參	*[tsʰr][u]m 
+槮	*s.r̥[ə]m 
+駸	*[tsʰ]r[i]m 
+尋	*sə-l[ə]m (< *-um ?)
+尋	*sə-l[ə]m 
+爓	*[sə-l][ə]m 
+鬵	*sə-l[ə]m 
+心	*səm 
+罧	*s.r[ə]mʔ 
+鬵	*sə-l[ə]m (irreg. dz- for z-; also read zim)
+侵	*[tsʰ][i]m 
+綅	
+駸	*[tsʰ][i]m 
+寢	*[tsʰ]imʔ 
+婪	*[r]ˤ[ə]m 
+蠶	*C.[dz]ˤ[ə]m 
+簪	*Cə.tsˤ[ə]m 
+參	
+驂	*m-sˤrum (should be *s.r̥ˤum)
+讒	
+斬	*[ts]ramʔ 
+僭	*tsˤ[i]m-s 
+廉	*(k-)rem 
+廉	*[r]em 
+磏	*[r]em 
+簾	*rem 
+蘞	*[r][a]m 
+鎌	*[r]em 
+斂	*[r][a]mʔ 
+斂	*[r][a]m-s 
+燂	*sə-lom 
+譣	*s.qʰ[a]m 
+潛	*[dz][o]m 
+潛	*[dz][o]m 
+漸	*[dz]amʔ 
+潛	*[dz][o]m-s 
+漸	*[ts]am 
+熸	*ts[o]m 
+䭕	*Cə.ts[a]mʔ 
+僉	*s.qʰ[a]m (dialect: *s.qʰ > MC tsh-)
+譣	*s.qʰ[a]m  (dialect: *s.qʰ- > MC tsh-)
+譣	*s.qʰ[a]mʔ (dialect: *s.qʰ- > MC tsh-)
+塹	*[tsʰ]am-s 
+籃	*k.rˤam 
+藍	*[N-k.]rˤam 
+濫	
+三	*s.rum (*s.r- > s-; infl. by 四 *s-?)
+參	*s.rum (*s.r- > s-; infl. by 四 *s-?)
+三	*s.r[u]m-s (*s.r- > *s-, infl. by 四 *s-?)
+慙	*[dz]ˤam 
+慚	*[dz]ˤam 
+暫	*[dz]ˤam-s 
+芟	*[s]ˤr[a]m 
+髟	*s(ˤ)ram 
+壬	*n[ə]m 
+紝	*n[ə]m 
+恁	*n[ə]mʔ 
+稔	*nimʔ 
+荏	*n[ə]mʔ (< *num?)
+衽	*n[ə]mʔ 
+飪	*n[ə]mʔ 
+任	*n[ə]m-s 
+衽	*n[ə]mʔ-s 
+葚	*sə-d[ə]mʔ 
+黮	
+深	*[l̥][ə]m 
+審	*s.tʰ[ə]mʔ 
+沈	*[s.t][ə]mʔ 
+諗	*n̥imʔ 
+深	*[l̥][ə]m-s 
+忱	*[t.ɢ][u]m 
+煁	*[d][ə]m 
+諶	*[t.ɢ][u]m 
+甚	*[t.ɢ][ə]mʔ 
+甚	*[t.ɢ][ə]mʔ-s 
+斟	*t.[q][ə]m 
+箴	*t.[k]əm 
+針	*t.[k]əm 
+鍼	*t.[k]əm 
+枕	*[t.k][ə]mʔ 
+枕	*[t.k][ə]mʔ-s 
+瀋	*tʰ[ə]mʔ 
+髯	*nam 
+染	*C.n[a]mʔ 
+苫	*s.tem 
+苫	*s-tem-s 
+贍	*[d]am-s 
+占	*tem 
+厃	*[t.q]am 
+噡	*[t]am 
+瞻	*[t.q]am 
+詹	*[t]am 
+幨	*[tʰ]am 
+襜	*[tʰ]am 
+幨	*[tʰ]am-s 
+紝	*n<r>[ə]m 
+沈	*C.[d]r[ə]m (~ *m-lr[ə]m)
+沈	*[d]r[ə]m (~ *m-lr[ə]m)
+沈	*[d]r[ə]m 
+朕	*lrəmʔ 
+沈	*[d]r[ə]m-s 
+酖	*[l]r[ə]m-s 
+鴆	*[l]r[ə]m-s 
+椹	*tr[ə]m 
+琛	
+南	*nˤ[ə]m 
+男	*nˤ[ə]m 
+潭	*[l]ˤ[ə]m 
+燂	*[l]ˤom 
+覃	*N.rˤ[o]m 
+禫	*[m.]rˤ[u]mʔ 
+窞	*rˤomʔ 
+萏	*rˤomʔ 
+湛	
+耽	*[t-q]ˤ[ə]m 
+探	*l̥ˤ[ə]m 
+貪	*r̥ˤ[ə]m 
+醓	*[l̥ˤ][ə]mʔ 
+念	*nˤim-s 
+簟	*[l]ˤimʔ 
+驔	*[l]ˤimʔ 
+㓠	*tˤemʔ 
+玷	*tˤemʔ 
+點	*tˤemʔ 
+㓠	*tˤemʔ-s 
+墊	*[t]ˤ[i]m-s 
+店	*tˤem-s 
+玷	*tˤemʔ-s 
+添	*l̥ˤ[i]m 
+忝	*l̥ˤ[i]mʔ 
+舔	*l̥ˤ[i]mʔ 
+忝	*l̥ˤ[i]mʔ-s 
+沾	*[t]rem 
+諂	*qʰromʔ 
+讇	*qʰromʔ 
+惔	
+談	*lˤ[o]m 
+餤	
+啖	*m-rˤamʔ 
+啗	*m-rˤamʔ 
+憺	*[l]ˤamʔ 
+淡	*[l]ˤamʔ 
+澹	*[l]ˤamʔ 
+啗	*m-rˤamʔ-s 
+儋	*[mə-t]ˤam 
+擔	*mə-tˤam 
+擔	*tˤam 
+膽	*[t]ˤamʔ 
+擔	*mə-tˤam-s 
+菼	
+禀	*p.rimʔ (dialect: *p.r- > *pr-)
+稟	*p.rimʔ (dialect: *p.r- > *pr-)
+稟	*p.rimʔ (dialect: > *p.r- > *pr-)
+品	*pʰr[ə]mʔ 
+凡	*[b]rom 
+範	*[b](r)omʔ 
+范	*[b](r)omʔ 
+范	*[m-pʰ](r)omʔ 
+泛	*pʰ(r)[o]m-s 
+貶	*p(r)[o]mʔ 
+貶	*pr[e]mʔ 
+窆	*pr[o]m-s 

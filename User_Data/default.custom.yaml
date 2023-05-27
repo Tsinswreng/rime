@@ -1,0 +1,44 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Apr 20 18:11:07 2023"
+  rime_version: 1.5.3
+engine:
+  "cangjie7-1":
+    "ascii_composer/punct": "。，、；？！：‘’“”〈〉《》「」『』【】［］（）〔〕｛｝〖〗〘〙〚〛"
+    "ascii_composer/switch_key": "`"
+    "menu/page_size": 9
+    type: "cangjie7-1"
+  luna_pinyin:
+    decoder: {keep_full_shape: true}
+    encoder: {keep_full_shape: true}
+    recognizer: {alphabet: 26}
+    speller: {enable: true}
+    translator: {dictionary: luna_pinyin, enable_sentence: true}
+  "sadfes3-0":
+    decoder: {keep_full_shape: true}
+    encoder: {keep_full_shape: true}
+    recognizer: {alphabet: 26, patterns: [{accept: [a, aa, e, i, o, u, y], length: 1, like: aiueoy}, {accept: [aa, ai, au, ui, oi, eu, eo, iu, ou, ui], length: 2, like: ""}, {accept: [aai, aau, eoi, maa, oi, ooi, eui, ieu], length: 3, like: ""}]}
+    translator: {dictionary: "sadfes3-0"}
+"menu/page_size": 9
+patch:
+  schema_list:
+    - {schema: "cangjie7-1"}
+    - {schema: luna_pinyin}
+    - {schema: "sadfes3-0"}
+    - {schema: cangjie5_express}
+    - {schema: cangjie5}
+    - {schema: english}
+    - {schema: zyenpheng}
+    - {schema: nonKanji}
+    - {schema: hirakana}
+    - {schema: katakana}
+    - {schema: zyenphengToIpa}
+switcher:
+  hotkeys:
+    - {"Control+grave": commit_code}
+  next:
+    - {condition: always, engine: "cangjie7-1"}
+    - {condition: full_shape, engine: luna_pinyin}
+    - {condition: always, engine: "sadfes3-0"}
