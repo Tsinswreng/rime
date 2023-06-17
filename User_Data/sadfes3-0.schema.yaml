@@ -2,7 +2,7 @@
 
 # Rime schema
 # encoding: utf-8
-
+# [23.06.16-2328,]<bug>{輸「mgsmmf<」旹、欲得「明紋」、肰輔助碼ˉ「<」ˋ不效。}
 schema:
   schema_id: sadfes3-0
   name: sadfes3-0
@@ -76,8 +76,9 @@ engine:
     #- affix_segmentor@nonKanji
     #- affix_segmentor@sadfesKzaVassuk
     - affix_segmentor@cangjie7-1
-    #- affix_segmentor@cangjie7-1ForLookUp
+    #- affix_segmentor@cangjie7-1ForLookUp 
     - affix_segmentor@emoji
+    #- affix_segmentor@nonKanji
     - abc_segmentor #標識常規的文字段落，加上abc這個tag
     #- affix_segmentor@global
     - punct_segmentor #標識句讀段落〔鍵入標點符號用〕加上punct這個tag
@@ -299,7 +300,7 @@ nonKanji:
   #suffix: "%"
   tips: 〔非漢字〕
   enable_completion: true
-  initial_quality: 99
+  initial_quality: 1
   preedit_format:
     - xform/%/|/
 
@@ -684,17 +685,20 @@ recognizer:
   #import_preset: default
   patterns:
     #unicode: "^U.*$"
+    #translator: "^[a-z]+$"
+    sadfesKzaVassuk: "^[a-zA-Z<>]*$"
     cangjie7-1: "^[a-z,\\.]+[1890;]*$" 
-    hirakana: "^'[a-z]*$" 
-    katakana: "^\"[a-zA-Z,\\.;\\[\\{]+[1890]*$" 
+    hirakana: "^'[a-z]+$" 
+    katakana: "^\"[a-zA-Z]+$" 
     emoji: "^@[a-zA-Z,\\.;\\[\\{]+[1890]*$"
     punct: "/([0-9]|[a-z])"
     terra_pinyin: "^:[a-z]*.+[^-=0-9]$"
+    #nonKanji: ""
     #expression: "^=.*$"
     #global: "^[a-zA-Z,/\\.\\\\;\\[\\]\\{\\}<>`!@%]+[1890]*$"
     
     #translator: "^[a-zA-Z,\\.;\\[\\{]+[1890]*$"
     #reverse_lookup: "[a-z]*'?$|[a-z]+'$"
-    sadfesKzaVassuk: "^[a-zA-Z<>]*$"
+    
     #punct: "^/([0-9]0?|[a-z]+.*,*)$/"
     #punct: "^([^-][^=][a-zA-Z][,.;])$"

@@ -1,5 +1,5 @@
 var:
-  last_build_time: 1683985159
+  last_build_time: 1687015373
   option:
     extended_charset: true
     full_shape: false
@@ -9,7 +9,7 @@ var:
     3dgx: 1676805659
     bopomofo_tw: 1669516862
     bsoc: 1671538287
-    cangjie5: 1682129191
+    cangjie5: 1686383036
     cangjie5_express: 1677503101
     "cangjie6-1": 1673592575
     "cangjie7-1": 1679132915
@@ -22,11 +22,11 @@ var:
     ipa_yunlong: 1668783409
     kana: 1668941530
     katakana: 1679068379
-    luna_pinyin: 1679830767
+    luna_pinyin: 1686383027
     mscc: 1669514043
     nonKanji: 1678983316
     "sadfes2.4-b": 1675840515
-    "sadfes3-0": 1682518321
+    "sadfes3-0": 1686456470
     sadfesKzaVassuk: 1677161925
     sadfesKzaVassukU: 1677161915
     sfqg2.0: 1669515995
