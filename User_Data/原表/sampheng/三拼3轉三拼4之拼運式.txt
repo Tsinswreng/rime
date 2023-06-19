@@ -1,0 +1,6 @@
+- xform/e$/R/
+- xform/d$/F/
+- xform/c$/V/
+- xform/r$/E/
+- xform/f$/D/
+- xform/v$/C/

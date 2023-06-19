@@ -2,3 +2,4 @@
 /既廢
 build/
 *.log
+*.userdb/

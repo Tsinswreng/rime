@@ -1,10 +1,10 @@
 var:
-  last_build_time: 1687015373
+  last_build_time: 1687057207
   option:
     extended_charset: true
     full_shape: false
     simplification: false
-  previously_selected_schema: "sadfes3-0"
+  previously_selected_schema: saffes
   schema_access_time:
     3dgx: 1676805659
     bopomofo_tw: 1669516862
@@ -29,6 +29,7 @@ var:
     "sadfes3-0": 1686456470
     sadfesKzaVassuk: 1677161925
     sadfesKzaVassukU: 1677161915
+    saffes: 1687070184
     sfqg2.0: 1669515995
     sol_pinyin: 1669387443
     terra_pinyin: 1668696002

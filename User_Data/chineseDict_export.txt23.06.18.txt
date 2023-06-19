@@ -1,0 +1,10380 @@
+# Rime user dictionary export
+#@/db_name	chineseDict.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	67325
+#@/user_id	56730ff0-27cf-4b75-93af-e031cab1c7c4
+！	!	37
+😨	!k	45
+😨可靠	!k xaq xam	4
+😠	!noz	1
+😡	!noz	2
+🥵	!ntt	3
+😂	!s	2
+😍	!s	8
+😍但是	!s dav itq	5
+😅了	!s leu	1
+♡	!sid	47
+♡遭	!sid caj	2
+♡屬性	!sid iyk stx	1
+♡從	!sid zys	8
+😭	!xuk	5
+“”	""	80
+々	''	4
+、	,,	1326
+、再	,, cln	1
+、而	,, nia	1
+、課	,, xsz	1
+。	..	1295
+。、	.. ,,	1
+。ɔ	.. \cd	1
+，	/	1005
+，，	/ /	1
+，，，，。	/ / / / ..	1
+∧	/aa	4
+┐	/nn	5
+∨	/oo	4
+《	<	4
+《》	< >	71
+《》	<>	3
+ɔ	\cd	1
+ə	\ed	4
+ᵗ	`	1
+˙	`.	3
+ᵈ	`d	48
+ᵈ掉	`d dem	1
+ᵉ	`e	8
+ʰ	`h	15
+ᶤ	`i	12
+ᶤ的	`i tek	1
+ᶦ	`ii	40
+ⱼ	`j	3
+ᵏ	`k	1
+˪	`l	62
+˪々世	`l '' otb	1
+ˡ	`ll	45
+ˡ余	`ll lqa	1
+ᒻ	`lq	2
+ᵐ	`m	3
+ˇ	`o	75
+ˇ我	`o waq	2
+ˌ	`oo	10
+ˌ々	`oo ''	1
+ʵ	`p	1
+ʴ	`rr	5
+ʃ	`ss	32
+ᐪ	`t	24
+ᐪ的	`t tek	1
+ᵘ	`u	7
+˥	`uu	4
+ˣ	`x	6
+ʸ	`y	9
+ʸᵗ	`y `	1
+ʏ	`yy	3
+ᙆ	`z	9
+專	acf	9
+磚	acf	0
+專制	acf atb	4
+專題	acf dea	2
+專屬	acf iyk	1
+專門	acf mof	5
+專心	acf sid	1
+專業	acf wwp	34
+專用	acf yyx	1
+拙劣	act lct	1
+諸	aha	24
+諸柘	aha aqz	1
+諸子	aha ciq	3
+諸侯	aha gua	3
+諸侯國	aha gua kpk	2
+諸君	aha kmf	7
+諸多	aha taa	2
+諸位	aha yhn	1
+煮	ahq	1
+煮飯	ahq bbr	1
+翥	ahz	1
+之	aia	243
+芝	aia	2
+之這是	aia aqz itq	2
+之戰	aia atv	2
+之際	aia ctb	1
+之地	aia din	1
+之處	aia ehz	1
+之唱片	aia eqx fev	1
+之後	aia guq	65
+之後	aia guz	12
+之屬	aia iyk	3
+之高血壓	aia kaj hrt qzp	1
+之間	aia kdf	13
+之故	aia koz	2
+之類	aia lyn	15
+之命	aia mgx	1
+之人	aia nif	2
+之深	aia oid	2
+之輸	aia opa	1
+之勢	aia otb	1
+之水	aia oyy	1
+之一	aia qit	4
+之心	aia sid	1
+之死	aia siy	1
+之所以	aia sjq yiq	1
+之中	aia tms	2
+之源	aia wbf	0
+之外	aia wsb	8
+之用	aia yyx	1
+之前	aia zef	41
+針	aid	2
+針對	aid ton	3
+真	aif	32
+真主黨	aif apq taw	1
+真正	aif atx	14
+真子集	aif ciq zip	2
+真跡	aif ctk	1
+真題	aif dea	5
+真是	aif itq	8
+真理	aif liq	7
+真命題	aif mgx dea	3
+真包含	aif pzj gld	1
+真相	aif sqs	1
+真想	aif sqw	1
+真多	aif taa	1
+真的	aif tek	18
+真實	aif uit	4
+真言	aif wwf	0
+真言推理	aif wwf roh liq	1
+真就	aif znz	3
+真就叫	aif znz kem	1
+脂	aih	2
+織	aik	9
+職	aik	1
+職稱	aik eis	1
+職業	aik wwp	16
+至	ain	26
+至正	ain atx	1
+至今	ain kkd	5
+至少	ain otm	18
+至多	ain taa	1
+至于	ain yla	6
+執	aip	5
+汁	aip	1
+執子	aip ciq	1
+執行	aip gas	29
+執法	aip pbp	1
+止	aiq	9
+止步	aiq boz	1
+蒸	ais	2
+蒸煮	ais ahq	1
+質	ait	2
+質量	ait lqs	1
+質的	ait tek	1
+振動	aiv duw	4
+震撼	aiv gle	1
+振幅	aiv pmk	2
+拯救者	aiw kmz aqq	7
+證	aix	6
+證據	aix kjz	1
+證明	aix mgs	8
+指	aiy	19
+指針	aiy aid	1
+指針正	aiy aid atx	1
+指正	aiy atx	3
+指導	aiy dam	1
+指定	aiy dex	1
+指着	aiy dwk	1
+指出	aiy eyt	1
+指出初	aiy eyt vja	1
+指揮	aiy hmh	2
+指個	aiy kaz	1
+指望	aiy mbs	3
+指標	aiy ptj	2
+指使	aiy skq	1
+指摘	aiy tdk	4
+指點	aiy tee	1
+指的是	aiy tek itq	2
+指示	aiy uin	1
+誌	aiz	15
+志願	aiz wbv	2
+志在	aiz zly	1
+周	ana	17
+週	ana	3
+周朝	ana dgj	4
+周代	ana dln	11
+周待	ana dly	1
+州長	ana dws	1
+週長	ana dws	1
+週末	ana mst	1
+週年	ana nef	1
+週二	ana nin	1
+週認	ana niv	1
+週身	ana oif	1
+週一	ana qit	2
+周天	ana ref	0
+周天子	ana ref ciq	1
+週三	ana sad	4
+周知	ana tga	1
+週五	ana woq	1
+周圍	ana ymh	4
+週圍	ana ymh	1
+周遊	ana yna	1
+周爲	ana yvz	1
+終	ans	20
+終止	ans aiq	7
+終指	ans aiy	1
+終究	ans kmz	2
+終南捷徑	ans nld ztp kex	1
+終身制	ans oif atb	1
+終端	ans tsf	4
+終于	ans yla	28
+衆	anx	3
+衆所	anx sjq	2
+咒	anz	1
+朱	apa	2
+珠	apa	1
+主	apq	5
+主題	apq dea	19
+主動	apq duw	1
+主頁	apq get	3
+主鍵	apq ggr	2
+主鍵請	apq ggr vtw	1
+主和絃	apq gsa gef	1
+主權	apq gvf	3
+主機	apq kjh	3
+主類	apq lyn	1
+主任	apq nid	1
+主人	apq nif	12
+主方案	apq pbs qav	1
+主板	apq pzr	2
+主尉氏	apq qmt itq	1
+主要	apq qtj	7
+主要	apq qtm	1
+主體	apq req	1
+主張	apq tws	4
+主張，	apq tws /	1
+主打	apq tzw	1
+主義	apq wgz	53
+註	apz	2
+注視	apz iin	1
+註解	apz kdq	4
+注入	apz nip	10
+註手推車	apz onq eyh kja	1
+註釋	apz otk	10
+注音	apz qkd	1
+注意	apz qkz	10
+注意力	apz qkz lik	1
+註冊	apz vdk	5
+諸	aqa	1
+遮	aqa	1
+繳	aqk	2
+者	aqq	111
+者文浩	aqq mmf gau	3
+章	aqs	1
+漳州市	aqs ana iiq	1
+章節	aqs cet	1
+彰顯	aqs her	1
+掌握	aqw qjk	6
+障	aqx	1
+這	aqz	216
+這周	aqz ana	2
+這週末	aqz ana mst	1
+這周事	aqz ana zkz	1
+這這麼	aqz aqz msa	1
+這只說	aqz atq oct	1
+這種	aqz ayw	106
+這種人	aqz ayw nif	3
+這種魚	aqz ayw wja	1
+這種又要	aqz ayw ymz qtj	1
+這題	aqz dea	1
+這條	aqz dej	5
+這段	aqz dsv	3
+這篇	aqz ftf	2
+這學鶴	aqz gjk gak	1
+這學期	aqz gjk gka	2
+這項	aqz gjw	2
+這期中	aqz gka tms	1
+這回	aqz goh	8
+這下	aqz gzq	1
+這下	aqz gzz	20
+這時候	aqz iia guz	2
+這是	aqz itq	52
+這個	aqz kaz	206
+這個號	aqz kaz gam	1
+這個了	aqz kaz leu	1
+這個字	aqz kaz ziz	2
+這句	aqz klz	3
+這句話	aqz klz gxb	1
+這家	aqz kza	1
+這裏	aqz liq	40
+這裏麼	aqz liq msa	1
+這裏有	aqz liq ymq	1
+這路上	aqz loz iqw	2
+這兩	aqz lqw	1
+這兩個	aqz lqw kaz	4
+這兩句	aqz lqw klz	1
+這類	aqz lyn	2
+這門	aqz mof	1
+這麼	aqz msa	33
+這麼多	aqz msa taa	2
+這人	aqz nif	2
+這邊	aqz pef	2
+這封	aqz phs	1
+這不准	aqz pma ayr	1
+這不是	aqz pma itq	2
+這番	aqz psa	1
+這番	aqz psz	1
+這一	aqz qit	19
+這一章	aqz qit aqs	1
+這一條	aqz qit dej	1
+這一掉	aqz qit dem	1
+這一段	aqz qit dsv	5
+這一處	aqz qit ehz	1
+這一頁	aqz qit get	1
+這一話	aqz qit gxb	2
+這一句	aqz qit klz	5
+這一類	aqz qit lyn	1
+這一點	aqz qit tee	1
+這一切	aqz qit vez	1
+這一塊	aqz qit xxn	3
+這些	aqz sqa	21
+這些我主人	aqz sqa waq apq nif	1
+這廂	aqz sqs	1
+這倒	aqz tau	1
+這點	aqz tee	4
+這得	aqz tlk	2
+這都	aqz toa	1
+這對	aqz ton	1
+這張	aqz tws	2
+這張圖	aqz tws doa	1
+這次	aqz vin	7
+這塊	aqz xxn	1
+這位	aqz yhn	1
+這也	aqz yqq	5
+這樣	aqz yqx	82
+這樣做	aqz yqx coz	1
+這自然是	aqz zin ntf itq	1
+這事	aqz zkz	1
+這纔能	aqz zlh nls	1
+這就	aqz znz	3
+這就是	aqz znz itq	20
+支	ata	4
+肢	ata	1
+支鐸	ata dak	1
+支持	ata dka	18
+支遲	ata dkh	1
+支出	ata eyt	1
+支配	ata fon	3
+支票	ata ftm	2
+支架	ata kzz	4
+支不支持	ata pma ata dka	1
+制	atb	23
+製	atb	3
+制服	atb bmk	1
+製作	atb cak	5
+制定	atb dex	4
+製圖	atb doa	1
+制度	atb doz	10
+製成	atb its	2
+製表	atb pgu	3
+製表符	atb pgu bla	1
+製版	atb pzr	1
+制裁	atb zlh	2
+招	atj	3
+招到	atj tam	1
+隻	atk	1
+適用於	atk yyx qja	0
+照	atm	7
+照片	atm fev	9
+照理	atm liq	1
+照抄	atm vzj	2
+照耀	atm ytm	1
+照用	atm yyx	1
+摺紙	atp atq	1
+只	atq	81
+紙	atq	4
+只裝	atq cws	1
+只怕是	atq fzk itq	1
+只和	atq gsa	1
+只會	atq gsb	18
+只好	atq hau	1
+只是	atq itq	41
+只見過	atq kev ksz	1
+紙巾	atq kkf	1
+只能	atq nls	26
+只能存	atq nls zof	1
+只說	atq oct	0
+只不過	atq pma ksz	1
+只把	atq pzq	0
+只把幕牆	atq pzq mak zqs	1
+只蔚	atq qmt	1
+只要	atq qtj	1
+只要	atq qtm	16
+只生	atq sgs	3
+只需	atq spa	3
+只需要	atq spa qtj	1
+只想	atq sqw	2
+只單	atq taf	1
+只佔有	atq ted ymq	1
+只看	atq xav	1
+只看過	atq xav ksz	1
+只有	atq ymq	60
+只有門	atq ymq mof	2
+只欲	atq yyk	1
+只用	atq yyx	3
+只存	atq zof	1
+征	ats	2
+征服	ats bmk	1
+征收	ats ona	1
+折	att	7
+折騰	att dls	9
+折磨	att msa	2
+戰	atv	11
+戰爭	atv cds	8
+戰爭爭	atv cds cds	1
+顫動	atv duw	1
+戰場	atv dws	1
+戰火	atv hsq	1
+戰時	atv iia	1
+戰歌	atv kaa	1
+戰略	atv lqk	1
+戰勝	atv ois	1
+戰勝	atv oix	1
+戰鬥	atv tuz	1
+戰神	atv uif	1
+戰事	atv zkz	1
+整	atw	15
+整行	atw gas	1
+整頁	atw get	1
+整活	atw gst	3
+整個	atw kaz	19
+整理	atw liq	1
+整門	atw mof	1
+整日	atw nit	2
+整體	atw req	1
+整數	atw slz	2
+整點	atw tee	1
+正	atx	17
+正則	atx clk	18
+正則表達式	atx clk pgu dat oik	19
+正曾	atx cls	1
+正大	atx dab	2
+正定	atx dex	1
+正直	atx dkk	1
+政治	atx dkz	27
+政治課	atx dkz xsa	1
+正宅	atx dzk	1
+政權	atx gvf	2
+正好	atx hau	2
+正視	atx iin	1
+正常	atx iqs	12
+正是	atx itq	5
+正斜槓	atx jqa kjx	2
+正像	atx jqw	3
+正經	atx kes	2
+正經書	atx kes oha	1
+政界	atx kzn	1
+正面	atx mtv	2
+正如	atx nha	3
+正式	atx oik	9
+政法	atx pbp	1
+政府	atx plq	14
+正版	atx pzr	1
+正統	atx rox	1
+正色	atx skk	1
+正數	atx slz	1
+正當	atx tas	1
+政策	atx vdk	5
+正義	atx wgz	3
+正確	atx xjk	16
+正確的	atx xjk tek	4
+正在	atx zly	5
+准	ayr	4
+準備	ayr bkn	7
+准不	ayr pma	2
+準確	ayr xjk	2
+鍾	ays	4
+鐘頭	ays dua	1
+鐘鼓	ays koq	1
+鐘樓區	ays lua qua	0
+種	ayw	12
+種地	ayw din	1
+種乎	ayw goa	1
+種族	ayw zuk	4
+種	ayx	1
+袍	baj	3
+薄	bak	2
+薄膜	bak mak	1
+薄物館	bak mmt ksv	1
+薄暮	bak moz	2
+暴	bam	1
+暴力	bam lik	7
+暴論	bam lov	1
+暴露	bam loz	1
+暴發	bam pbt	1
+旁	bas	4
+旁觀	bas ksf	1
+傍晚	bas mbr	2
+旁邊	bas pef	3
+抱	bau	2
+抱定	bau dex	1
+傍晚	bax mbr	4
+凡	bbd	4
+帆	bbd	1
+帆船	bbd ucf	1
+犯	bbe	5
+範式	bbe oik	1
+範圍	bbe ymh	4
+煩	bbf	9
+繁	bbf	5
+繁榮	bbf yvs	3
+縛	bbk	1
+乏	bbp	2
+房	bbs	3
+防	bbs	1
+防止	bbs aiq	5
+房價	bbs kzz	3
+防守	bbs onq	1
+房產	bbs sdr	1
+伐	bbt	2
+飯	bbv	7
+飯碗	bbv qsr	1
+飯菜	bbv vln	3
+罷	bdq	83
+罷了	bdq leu	4
+罷了乘車	bdq leu uis eqa	1
+拔尖	bdt ctd	1
+辦	bdv	10
+辦學	bdv gjk	1
+辦公	bdv kus	3
+辦法	bdv pbp	7
+駢	bef	2
+屏	bes	13
+瓶	bes	4
+屏幕	bes mak	17
+並	bew	50
+併	bew	11
+並行	bew gzs	1
+並給	bew kkp	0
+並給我	bew kkp waq	1
+並感	bew kle	2
+併發	bew pbt	1
+並不	bew pma	1
+並不會	bew pma gsb	1
+並不是	bew pma itq	1
+並非	bew pmh	2
+並且	bew vqq	23
+疲	bga	3
+皮	bga	2
+疲憊	bga bzn	2
+皮鼓	bga koq	1
+皮毛	bga maj	1
+皮膚	bga pla	2
+皮鞭	bga ptf	1
+辯	bgr	1
+辨別	bgr bgt	2
+辯論	bgr lov	1
+平	bgs	5
+評	bgs	2
+平臺	bgs dlh	4
+平衡	bgs gzs	1
+平時	bgs iia	3
+平時分	bgs iia pmf	1
+平常	bgs iqs	1
+平昆	bgs kof	1
+評估	bgs koq	2
+平果	bgs ksq	1
+苹果	bgs ksq	1
+平均	bgs kyf	7
+平均分	bgs kyf pmf	4
+平假名	bgs kzq mts	1
+評價	bgs kzz	9
+平樂	bgs lak	1
+評論	bgs lov	2
+評論區	bgs lov xla	2
+平民	bgs mif	2
+平方	bgs pbs	2
+平放	bgs pbx	1
+平分	bgs pmf	1
+評分	bgs pmf	1
+平板	bgs pzr	7
+平心	bgs sid	1
+平等	bgs tlw	4
+平靜	bgs ztw	1
+別	bgt	20
+別講	bgt kjw	0
+別講了	bgt kjw leu	1
+別急	bgt kkp	1
+別無二致	bgt mla nin tkn	1
+別人	bgt nif	27
+別人社會	bgt nif iqq gsb	1
+別的	bgt tek	25
+別看	bgt xaf	1
+別看	bgt xav	1
+別用	bgt yyx	3
+卞	bgv	1
+病毒	bgx dok	2
+病了	bgx leu	4
+被	bgz	142
+被子	bgz ciq	1
+被害	bgz gab	1
+被人	bgz nif	2
+被你	bgz nkq	1
+被博	bgz pak	1
+被迫	bgz pzk	2
+被我	bgz waq	1
+被砸	bgz zlp	1
+縫	bhs	1
+逢	bhs	1
+奉	bhw	1
+奉爲	bhw yva	1
+頻	bif	5
+頻率	bif lyt	1
+頻發	bif pbt	1
+鼻	bin	1
+鼻子	bin ciq	2
+棒	bjw	1
+貧	bkf	6
+貧困	bkf xov	6
+備	bkn	3
+備註	bkn apz	1
+備份	bkn bmv	9
+備受	bkn inq	1
+備份	bkn pkf	1
+夫	bla	1
+扶	bla	3
+符	bla	28
+符號	bla gam	24
+符合	bla glp	2
+符我	bla waq	1
+父	blq	9
+腐	blq	7
+輔	blq	3
+腐敗	blq bzb	3
+輔導員	blq dam ymf	5
+父母	blq muq	11
+父親	blq vif	1
+輔助	blq zjz	6
+輔助碼	blq zjz mzq	1
+鵬	bls	3
+朋友	bls ymq	5
+倍	bly	3
+倍增	bly cls	2
+倍速	bly suk	1
+附	blz	3
+附近	blz gjr	1
+附上	blz iqw	1
+附加	blz kza	2
+浮動	bma duw	2
+浮點數	bma tee slz	1
+浮起	bma xkq	1
+肥	bmh	2
+肥頭	bmh dua	1
+復	bmk	22
+服	bmk	3
+伏特計	bmk dlk kez	1
+復讀	bmk duk	1
+復讀生	bmk duk sgs	1
+復興	bmk hks	1
+復習	bmk jip	11
+服了	bmk leu	1
+復來	bmk llh	1
+服務	bmk mlz	5
+服務端	bmk mlz tsf	3
+服務器	bmk mlz xkn	37
+服釋	bmk otk	1
+伏安	bmk qaf	0
+伏安不	bmk qaf pma	1
+復原	bmk wbf	1
+復雜	bmk zlp	4
+負	bmq	9
+負責	bmq cdk	10
+負責任	bmq cdk nic	2
+婦子	bmq ciq	1
+負向	bmq hwx	1
+負面	bmq mtv	2
+婦女	bmq njq	2
+負數	bmq slz	5
+負冊	bmq vdk	1
+憤	bmr	1
+憤慨	bmr xln	1
+佛	bmt	2
+份	bmv	7
+分	bmv	6
+分配	bmv fon	0
+分配大一	bmv fon dab qit	1
+分佈於	bmv poz qja	1
+葡萄酒	boa daj cnq	1
+葡萄糖胺	boa daj das qav	2
+葡萄牙	boa daj wza	3
+葡萄牙語	boa daj wza wjq	1
+徘徊	boh goh	1
+培訓	boh hmv	1
+培訓班	boh hmv pzf	2
+陪我	boh waq	3
+背	bon	9
+佩服	bon bmk	3
+背詞	bon jia	1
+背單詞	bon taf jia	1
+部	boq	4
+部罷	boq bdq	2
+部份	boq bmv	1
+部分	boq bmv	13
+部署	boq ihz	1
+脖子	bot ciq	1
+步	boz	9
+步調	boz dej	1
+步行	boz gzs	1
+步態	boz rln	1
+步驟	boz zmz	2
+婆	bsa	1
+婆羅門	bsa laa mof	1
+盤	bsf	4
+爸	bsq	2
+伴	bsr	2
+畔	bsv	1
+弊	btb	5
+弊病	btb bgx	1
+便	btv	18
+便攜	btv gra	8
+便利	btv lin	1
+便能	btv nls	1
+便乘	btv uis	2
+便宜	btv wga	2
+便于	btv yla	2
+便有	btv ymq	1
+避	btz	5
+避免	btz mgr	3
+避開	btz xlh	4
+避孕套	btz yix ram	1
+爬	bza	1
+敗	bzb	1
+敗對	bzb ton	1
+排	bzh	2
+牌	bzh	2
+牌子	bzh ciq	1
+排序	bzh jhq	29
+排名	bzh mts	1
+排版	bzh pzr	1
+排線	bzh stv	1
+排到	bzh tam	3
+排中律	bzh tms lyt	1
+跑	bzj	52
+跑步	bzj boz	1
+跑步機	bzj boz kjh	1
+泡漩	bzj jcf	1
+跑不	bzj pma	1
+跑通	bzj rus	3
+白	bzk	14
+白洲梓	bzk ana ciq	1
+白白胖胖	bzk bzk bsf bsf	1
+白求恩	bzk gma qlf	10
+白求溫	bzk gma qof	1
+白話	bzk gxb	1
+白花	bzk hxa	1
+白骨	bzk kot	1
+白流	bzk lna	1
+白髮	bzk pbt	2
+白天	bzk ref	4
+白天出	bzk ref eyt	1
+白色	bzk skk	2
+白沙	bzk sza	1
+白菜	bzk vln	1
+白雲	bzk ymf	5
+槽	caj	1
+遭	caj	8
+糟糕	caj kaj	1
+遭到	caj tam	1
+作	cak	41
+作證	cak aix	2
+作品	cak fke	6
+作記	cak kkz	2
+作文	cak mmf	8
+作法	cak pbp	2
+作嘔	cak quq	1
+作業	cak wwp	20
+作業本	cak wwp por	0
+作爲	cak yva	35
+左	caq	4
+左側	caq ckk	2
+左邊	caq pef	2
+左右	caq ymq	5
+早	cau	14
+澡	cau	2
+早真	cau aif	2
+澡堂	cau das	1
+早期	cau gka	1
+早已	cau gkq	1
+早晨	cau iif	4
+早上	cau iqw	4
+早該	cau klh	1
+早報	cau pam	2
+早些	cau sqa	1
+早就	cau znz	7
+早就銳利	cau znz ycb lin	1
+讚賞	cav oqw	3
+贊比亞	cav piy qzz	1
+嘴	ccq	2
+嘴邊	ccq pef	1
+責	cdk	2
+責備	cdk bkn	10
+嘖嘖	cdk cdk	1
+責難	cdk naf	2
+責任	cdk nic	4
+掙	cds	2
+爭	cds	2
+爭做	cds coz	1
+爭論	cds lov	2
+爭鳴	cds mgs	1
+爭得	cds tlk	2
+爭取	cds vpq	5
+爭議	cds wgz	1
+爭氣	cds xjn	1
+掙	cdx	2
+擠子	cea ciq	1
+績	cek	6
+績沒	cek mot	1
+節	cet	10
+節本	cet por	1
+節約	cet qwk	3
+節選	cet scr	3
+節點	cet tee	15
+節課	cet xsa	1
+薦	cev	5
+滋	cia	1
+滋潤	cia nyv	1
+浸	cic	1
+資	cih	2
+咨嗟	cih cqa	1
+資金	cih kkd	2
+資料	cih lej	9
+資本	cih por	28
+資本主義	cih por apq wgz	5
+資本家	cih por kza	3
+資不	cih pot	1
+姿態	cih rln	1
+資產	cih sdr	1
+資產者	cih sdr aqq	12
+資產者之	cih sdr aqq aia	1
+資產者業	cih sdr aqq wwp	1
+資產階級	cih sdr kzh kkp	98
+資源	cih wbf	7
+即	cik	55
+即便	cik btf	1
+唧唧	cik cik	8
+即使	cik skq	5
+即使是	cik skq itq	1
+即答	cik tlp	3
+即可	cik xaq	3
+即有	cik ymq	1
+恣	cin	1
+仔	ciq	2
+子	ciq	41
+子樹	ciq ipz	3
+子類	ciq lyn	2
+子女	ciq njq	7
+子標題	ciq ptj dea	1
+子映射	ciq qgx uqz	1
+仔細	ciq sez	5
+子孫	ciq sof	1
+盡	cir	18
+盡歡	cir hsf	1
+儘管	cir ksr	3
+儘量	cir lqs	2
+儘快	cir xxb	2
+盡情	cir zts	1
+晉	civ	3
+進	civ	38
+進制	civ atb	3
+進步	civ boz	10
+進程	civ dgs	9
+進行	civ gas	12
+進行	civ gzx	1
+進軍	civ kmf	1
+進來	civ llh	4
+進而	civ nia	1
+進入	civ nip	6
+進不去	civ pma xjz	1
+進一	civ qit	0
+進一部	civ qit boq	1
+進一步	civ qit boz	1
+進展	civ tgr	1
+晉察冀	civ vdt kkn	1
+進去	civ xjz	8
+姊	ciy	2
+阻	cjq	3
+阻止	cjq aiq	1
+阻力	cjq lik	2
+阻塞	cjq slk	5
+阻擋	cjq taw	1
+詛咒	cjz anz	5
+怎	cke	2
+怎麼	cke msa	125
+怎麼辦	cke msa bdv	2
+怎麼做	cke msa coz	1
+怎麼樣	cke msa yqx	1
+怎樣	cke yqx	11
+側身	ckk oif	1
+側邊欄	ckk pef laf	2
+笫女	ckq njq	1
+哉	clh	3
+栽	clh	11
+栽門	clh mof	1
+災難	clh naf	2
+則	clk	116
+則是	clk itq	3
+再	cln	105
+載	cln	2
+再做	cln coz	1
+再見	cln gev	2
+再睡	cln icz	2
+再見	cln kev	2
+再來	cln llh	1
+再能	cln nls	1
+再說	cln oct	1
+再試	cln oiz	1
+再印歐	cln qiv qua	1
+再生	cln sgs	3
+再新加坡	cln sif kza fsa	1
+再寫	cln sqq	1
+再多	cln taa	1
+再點	cln tee	1
+再次	cln vin	1
+再看	cln xav	1
+再也	cln yqq	4
+增	cls	22
+曾	cls	2
+增長	cls dws	1
+增強	cls gws	1
+增殖	cls iik	4
+增殖階級	cls iik kzh kkp	1
+增高	cls kaj	1
+增減	cls kde	1
+增光	cls kss	3
+增加	cls kza	8
+憎惡	cls qak	4
+增多	cls taa	1
+增長	cls tww	3
+宰	cly	2
+載	cly	10
+鄒	cma	1
+蹙	cnk	1
+酒	cnq	5
+酒瓶	cnq bes	3
+酒後	cnq guz	1
+酒吧	cnq pza	2
+租	coa	2
+尊	cof	1
+祖	coq	2
+組	coq	10
+組織	coq aik	3
+組件	coq ggr	1
+祖上	coq iqw	1
+組成	coq its	3
+祖國	coq kpk	27
+組式	coq oik	3
+祖先	coq sef	1
+組員	coq ymf	1
+宗旨	cos aiy	8
+宗上	cos iqw	1
+宗教	cos kzm	11
+宗法	cos pbp	1
+卒	cot	9
+綜	cox	1
+綜合	cox glp	2
+做	coz	60
+做作業	coz cak wwp	2
+做盡	coz cir	1
+做大	coz dab	1
+作出	coz eyt	1
+做完	coz gsf	4
+做下來	coz gzq llh	1
+做好	coz ham	1
+做好	coz hau	1
+做成	coz its	1
+做官	coz ksf	6
+做過	coz ksz	1
+做了	coz leu	1
+做你	coz nkq	1
+做法	coz pbp	3
+做不	coz pma	1
+做不到	coz pma tam	1
+做到	coz tam	4
+做事	coz zkz	1
+嗟	cqa	2
+嗟乎	cqa goa	2
+嗟爾	cqa ntq	1
+嗟夫	cqa pla	1
+雀	cqk	2
+姐	cqq	4
+姐姐	cqq cqq	1
+姐妹	cqq mon	2
+將	cqs	42
+將遭	cqs caj	1
+將進酒	cqs civ cnq	2
+將進走	cqs civ cuq	1
+將出	cqs eyt	1
+將近	cqs gjr	3
+將是	cqs itq	2
+將軍	cqs kmf	13
+將軍英文	cqs kmf qgs mmf	1
+將來	cqs llh	7
+將於	cqs qja	1
+將使	cqs skq	0
+將我	cqs waq	1
+獎	cqw	1
+蔣	cqw	12
+獎金	cqw kkd	1
+蔣老師	cqw lau skh	1
+獎勵	cqw ltb	1
+獎賞	cqw oqw	3
+獎挹	cqw qip	1
+蔣哲濤	cqw tgt daj	12
+獎狀	cqw zwx	2
+將	cqx	1
+醬	cqx	2
+借入	cqz nip	2
+借此	cqz vtq	7
+借口	cqz xuq	2
+借位	cqz yhn	1
+最	csb	29
+最早	csb cau	2
+最大	csb dab	20
+最大值	csb dab dkk	1
+最浩	csb gau	1
+最近	csb gjr	11
+最後	csb guq	1
+最後	csb guz	23
+最好	csb hau	9
+最高	csb kaj	4
+最少	csb otm	2
+最先	csb sef	1
+最先	csb sev	7
+最先主義	csb sev apq wgz	1
+最新	csb sif	2
+最小	csb stu	5
+最多	csb taa	8
+最低	csb tea	3
+最初	csb vja	7
+最外道	csb wsb dau	1
+最開頭	csb xlh dua	2
+最快	csb xxb	3
+最爲	csb yva	2
+最前	csb zef	1
+際	ctb	4
+祭壇	ctb daf	2
+尖	ctd	5
+煎	ctf	1
+煎熬	ctf waj	1
+焦頭爛額	ctj dua lav wzk	1
+焦土	ctj roq	1
+借	ctk	1
+積	ctk	13
+積極	ctk gkk	2
+積累	ctk lcq	2
+脊肋	ctk llk	1
+積分	ctk pmf	11
+積聚	ctk zpq	2
+接	ctp	6
+接觸	ctp eyk	2
+接近	ctp gjr	3
+接後	ctp guz	1
+接下來	ctp gzz llh	1
+接受	ctp inq	1
+接收	ctp ona	4
+接口	ctp xuq	11
+接扣	ctp xuz	1
+接客	ctp xzk	2
+紫	ctq	2
+紫光	ctq kss	1
+精	cts	2
+精品	cts fke	1
+精甚	cts iie	1
+精靈	cts les	1
+精美	cts mky	1
+精英	cts qgs	1
+精益求精	cts qtk gma cts	2
+精到	cts tam	1
+精神	cts uif	21
+精測	cts vkk	1
+精確	cts xjk	4
+精于	cts yla	1
+濺	ctv	2
+箭頭	ctv dua	1
+井	ctw	1
+井號	ctw gam	1
+鏃	cuk	1
+走	cuq	36
+走之	cuq aia	1
+走罷	cuq bdq	3
+走進	cuq civ	1
+走頭	cuq dua	1
+走出	cuq eyt	1
+走近	cuq gjr	1
+走下	cuq gzz	1
+走向	cuq hwx	1
+走了	cuq kbt	1
+走過	cuq ksz	2
+走路	cuq loz	3
+走人	cuq nif	1
+走一步	cuq qit boz	1
+走散	cuq sav	1
+走私者	cuq sih aqq	1
+總	cuw	19
+總，	cuw /	1
+總之	cuw aia	7
+總則	cuw clk	2
+總共	cuw ghx	1
+總會	cuw gsb	1
+總是	cuw itq	18
+總是在	cuw itq zly	0
+總結	cuw ket	7
+總教務處	cuw kzm mlz ehq	2
+總理	cuw liq	0
+總來	cuw llh	2
+總量	cuw lqx	1
+總務	cuw mlz	1
+總而	cuw nia	1
+總人數	cuw nif slz	1
+總能	cuw nls	1
+總分	cuw pmf	1
+總算	cuw ssv	1
+總有	cuw ymq	2
+總集	cuw zip	6
+奏	cuz	2
+妝	cws	2
+裝	cws	23
+裝載	cws cln	1
+裝甚麼	cws iie msa	1
+裝上	cws iqw	2
+裝裹	cws ksz	2
+裝了	cws leu	1
+裝來	cws llh	1
+裝摸索出	cws mak sak eyt	1
+裝模作樣	cws moa cak yqx	1
+裝軟件	cws ncr ggr	1
+裝飾	cws oik	2
+莊嚴	cws wwd	3
+裝言	cws wwf	1
+壯	cwx	2
+壯志	cwx aiz	1
+壯大	cwx dab	1
+壯士	cwx zkq	3
+遵	cyf	1
+足	cyk	9
+足壇	cyk daf	0
+足球	cyk gma	1
+足夠	cyk kuz	1
+縱	cys	1
+俊傑	cyv ggt	1
+駿馬	cyv mzq	2
+縱	cyx	5
+抓	czj	1
+找	czu	40
+抓	czu	2
+抓住	czu dlz	1
+找出	czu eyt	3
+找來	czu llh	2
+找人	czu nif	1
+找不到	czu pma tam	3
+找不倒	czu pma tau	1
+找不啁	czu pma tma	2
+找到	czu tam	10
+找到沒	czu tam mot	1
+找我	czu waq	2
+池坊流	daa bbs lna	3
+駝峯	daa fhs	1
+駝色	daa skk	1
+大	dab	109
+大專	dab acf	1
+大屏幕	dab bes mak	2
+大病	dab bgx	4
+大部	dab boq	2
+大部分	dab boq bmv	1
+大道	dab dau	2
+大題	dab dea	3
+大地	dab din	3
+大度	dab doz	2
+大段	dab dsv	2
+大杖	dab dww	1
+大廠	dab eqw	2
+大型	dab ges	1
+大學	dab gjk	41
+大學物理實驗	dab gjk mmt liq uit wgc	1
+大學生	dab gjk sgs	3
+大會	dab gsb	2
+大歡喜	dab hsf hkq	1
+大貨車	dab hsz eqa	1
+大臣	dab iif	2
+大樹	dab ipz	1
+大城市	dab its iiq	2
+大象	dab jqw	1
+大哥	dab kaa	3
+大綱	dab kas	2
+大街	dab kda	1
+大概	dab kln	21
+大括	dab kst	3
+大括號	dab kst gaj	11
+大公	dab kus	3
+大工業	dab kus wwp	1
+大家	dab kza	15
+大家好	dab kza hau	1
+大牢	dab laj	1
+大佬	dab lau	692
+大佬ə	dab lau \ed	1
+大力	dab lik	1
+大陸	dab lnk	2
+大量	dab lqx	1
+大鐮刀	dab ltd taj	2
+大連灣	dab ltf qxf	1
+大忘	dab mbx	1
+大物	dab mmt	15
+大門	dab mof	1
+大二	dab nin	8
+大兒	dab nta	1
+大勢	dab otb	2
+大水	dab oyy	0
+大水蟲	dab oyy dms	2
+大賓	dab pif	2
+大巴	dab pza	1
+大把	dab pzq	1
+大英	dab qgs	1
+大一	dab qit	12
+大一統	dab qit rox	2
+大於	dab qja	1
+大衣	dab qjh	1
+大意	dab qkz	1
+大約	dab qwk	1
+大三	dab sad	2
+大先輩	dab sef pon	2
+大四	dab sin	2
+大肆	dab sin	3
+大師	dab skh	2
+大使館	dab skq ksv	1
+大賽	dab sln	1
+大寫	dab sqq	4
+大消	dab stj	1
+大笑	dab stm	13
+大小	dab stu	5
+大多數	dab taa slz	1
+大典	dab ter	1
+大致	dab tkn	2
+大爹	dab twa	1
+大餐	dab vaf	1
+大言	dab wwf	1
+大雅	dab wzq	4
+大考	dab xau	1
+大口	dab xuq	1
+大以	dab yiq	1
+大有	dab ymq	4
+淡	dac	1
+談	dad	5
+談及	dad gkp	3
+談論	dad lov	1
+談不上	dad pma iqw	1
+談到	dad tam	6
+談啁	dad tma	1
+淡	dae	1
+彈	daf	6
+彈掉	daf dem	1
+但是	daf itq	2
+彈過	daf ksz	1
+彈窗	daf vjs	1
+濤	daj	2
+淘寶	daj pau	2
+淘汰	daj rab	3
+淘氣	daj xjn	1
+導	dam	13
+導至	dam ain	1
+導正	dam atx	1
+導圖	dam doa	3
+導出	dam eyt	1
+導個	dam kaz	1
+導軌	dam khy	3
+導論	dam lov	1
+導入	dam nip	12
+導不出	dam pma eyt	1
+導不入	dam pma nip	1
+導包	dam pzj	13
+盜版	dam pzr	1
+導數	dam slz	1
+導致	dam tkn	2
+導草人	dam vau nif	1
+導員	dam yvf	1
+舵手	daq onq	1
+但	dar	1
+蛋	dar	1
+蛋糕	dar kaj	2
+誕生	dar sgs	2
+唐	das	4
+堂	das	4
+糖	das	5
+堂弟	das deq	1
+堂課	das xsa	0
+達	dat	4
+達到	dat tam	4
+道	dau	29
+道別	dau bgt	1
+道路	dau loz	1
+道貌岸然	dau mzm wav ntf	1
+道德	dau tlk	7
+稻草人	dau vau nif	1
+道歉	dau xdc	2
+但	dav	60
+但凡	dav bbd	1
+但是	dav itq	133
+但見	dav kev	1
+彈力	dav lik	1
+但你	dav nkq	1
+彈升	dav ois	1
+但他	dav raa	1
+但此時	dav vtq iia	2
+但我	dav waq	6
+但就	dav znz	1
+盪	daw	4
+賺	ddc	4
+賺過	ddc ksz	1
+賺錢	ddc ztf	1
+提	dea	5
+題	dea	54
+提倡	dea eqx	2
+提出	dea eyt	4
+提出來	dea eyt llh	1
+題型	dea ges	1
+提攜	dea gra	1
+提辭	dea jia	1
+提高	dea kaj	10
+提高好	dea kaj hau	1
+提綱	dea kas	1
+提供	dea khs	2
+提過	dea ksz	1
+提交	dea kzj	9
+題目	dea mmk	10
+提問	dea mmv	5
+提升	dea ois	1
+提筆	dea pkt	1
+提醒	dea ses	1
+提到	dea tam	5
+提示	dea uin	25
+提示詞	dea uin jia	1
+提前	dea zef	6
+題材	dea zlh	3
+甜	ded	1
+甜蜜	ded mit	3
+甜菜	ded vln	1
+甜情	ded zts	1
+填	def	1
+田	def	4
+填充	def ens	4
+田徑場	def kex dws	2
+填了	def leu	0
+田如是說必	def nha itq oct pit	1
+填入	def nip	1
+填空題	def xus dea	1
+條	dej	4
+調	dej	15
+跳	dej	4
+調整	dej atw	4
+調節	dej cet	2
+條件	dej ggr	24
+調和	dej gsa	1
+調戲	dej hgz	1
+跳過	dej ksz	3
+調教	dej kzm	3
+條例	dej ltb	1
+調試	dej oiz	15
+調包	dej pzj	1
+跳轉	dej tvr	6
+跳轉	dej tvv	1
+調侃	dej xav	1
+跳遠	dej ybr	1
+調用	dej yyx	6
+敵人	dek nif	6
+敵對	dek ton	1
+掉	dem	26
+調	dem	11
+掉詩	dem oia	1
+調音	dem qkd	2
+調用	dem yyx	19
+疊	dep	3
+疊加	dep kza	1
+弟子	deq ciq	3
+停	des	1
+庭	des	4
+挺	des	13
+停止	des aiq	3
+挺直	des dkk	1
+挺近	des gjr	1
+停下	des gzq	1
+挺好	des hau	1
+挺好框	des hau xbs	1
+挺難	des naf	1
+挺多	des taa	1
+停課	des xsz	2
+停用	des yyx	2
+挑大樑	deu dab lqs	1
+電	dev	11
+電子	dev ciq	2
+電子書	dev ciq oha	2
+電阻	dev cjq	4
+電阻箱	dev cjq sqs	2
+電組	dev coq	1
+電道	dev dau	1
+電池	dev dga	2
+電橋	dev ggj	3
+電學	dev gjk	3
+電話	dev gxb	1
+電路	dev loz	1
+電腦	dev nau	51
+電報	dev pam	2
+電影	dev qgw	2
+電梯	dev rea	1
+電示	dev uin	1
+電源	dev wbf	3
+電磁閥	dev zia bbt	0
+電磁閥了	dev zia bbt leu	1
+定	dex	15
+定長	dex dws	0
+定理	dex liq	1
+定律	dex lyt	1
+定義	dex wgz	30
+定語	dex wjq	1
+定位	dex yhn	1
+第	dez	18
+遞	dez	2
+遞增	dez cls	2
+第幾個	dez kjy kaz	1
+遞歸	dez kmh	7
+題目	dez mmk	2
+第二	dez nin	14
+第二題	dez nin dea	1
+第二捲	dez nin kvv	1
+第二季	dez nin kyn	1
+第二屆	dez nin kzn	6
+第二輪	dez nin lyf	1
+第二問	dez nin mmv	1
+第二年	dez nin nef	1
+第二套	dez nin ram	3
+第二次	dez nin vin	1
+第二帷	dez nin yhh	1
+第二維	dez nin yyh	1
+第一	dez qit	6
+第一章	dez qit aqs	1
+第一步	dez qit boz	2
+第一道	dez qit dau	2
+第一題	dez qit dea	1
+第一條	dez qit dej	1
+第一行	dez qit gas	1
+第一個	dez qit kaz	13
+第一卷	dez qit kvr	1
+第一卷	dez qit kvv	2
+第一季	dez qit kyn	1
+第一列	dez qit ltt	2
+第一名	dez qit mts	4
+第一年	dez qit nef	1
+第一次	dez qit vin	13
+第一次見	dez qit vin kev	1
+第一維	dez qit yyh	1
+第三	dez sad	3
+第三章	dez sad aqs	2
+第三部分	dez sad boq bmv	2
+第三條	dez sad dej	1
+第三裂	dez sad ltt	1
+第三名	dez sad mts	1
+第三年	dez sad nef	1
+第三人稱	dez sad nif eis	1
+第三方	dez sad pbs	5
+第三套	dez sad ram	1
+第三次	dez sad vin	4
+第四	dez sin	0
+第四針	dez sin aid	1
+第四部分	dez sin boq bmv	1
+第四個	dez sin kaz	1
+第四名	dez sin mts	2
+第四日	dez sin nit	1
+第七	dez vit	4
+第七名	dez vit mts	1
+第五條	dez woq dej	1
+第五年	dez woq nef	1
+締造者	dez zau aqq	2
+馳	dga	3
+踟躕	dga dla	1
+朝	dgj	10
+潮水	dgj oyy	1
+朝鮮	dgj stf	2
+呈	dgs	2
+程	dgs	22
+程度	dgs doz	2
+程序	dgs jhq	23
+程序員	dgs jhq ymf	2
+鄭	dgx	1
+鄭重其事	dgx dhs gka zkz	1
+鄭重其事	dgx dhw gka zkz	1
+鄭風	dgx pms	2
+重	dhs	15
+重複	dhs bmz	5
+重載	dhs cln	5
+重大	dhs dab	2
+重大唱	dhs dab eqx	1
+重學	dhs gjk	1
+重合	dhs glp	1
+重構	dhs kuz	14
+重碼	dhs mzq	1
+重設	dhs ott	3
+重複	dhs pmk	25
+重添	dhs red	4
+重新	dhs sif	17
+重修	dhs sna	1
+重寫	dhs sqq	2
+重點	dhs tee	1
+重啓	dhs xeq	1
+重	dhw	13
+重大	dhw dab	3
+重力	dhw lik	1
+重量	dhw lqs	3
+重碼	dhw mzq	2
+重任	dhw nic	1
+重複	dhw pmk	1
+重音	dhw qkd	2
+重要	dhw qtj	8
+重點	dhw tee	11
+重啓	dhw xeq	1
+地	din	62
+地址	din aiq	4
+地址欄	din aiq laf	0
+地址欄被	din aiq laf bgz	2
+地步	din boz	1
+地租	din coa	2
+地壇	din daf	2
+地圖	din doa	1
+地球	din gma	1
+地下	din gzq	3
+地下	din gzz	1
+地火	din hsq	6
+地上	din iqw	1
+地理	din liq	2
+地理誌	din liq aiz	1
+地名	din mts	1
+地面	din mtv	4
+地說	din oct	0
+地說不	din oct pma	2
+地方	din pbs	30
+地板	din pzr	1
+地鐵	din ret	3
+地產	din sdr	2
+地點	din tee	1
+地元	din wbf	1
+地獄	din whk	3
+地區	din xla	3
+地位	din yhn	15
+除	dja	15
+除了	dja leu	14
+除了提示	dja leu dea uin	1
+除非	dja pmh	1
+除去	dja xjz	1
+除以	dja yiq	3
+儲存	dja zof	3
+濁	djk	1
+撞	djx	6
+撞死	djx siy	1
+除	djz	2
+除以	djz yiq	1
+持	dka	4
+持參	dka vld	1
+沈	dkd	2
+沉澱	dkd dev	5
+沉着	dkd dwk	1
+沉默	dkd mlk	8
+沈不下	dkd pma gzz	1
+沉穩	dkd qor	2
+沉思	dkd sia	2
+陳	dkf	2
+陳平	dkf bgs	1
+塵埃	dkf qlh	1
+陳死	dkf siy	1
+陳雲	dkf ymf	1
+遲	dkh	2
+值	dkk	47
+直	dkk	12
+直至	dkk ain	2
+值恣	dkk cin	1
+直接	dkk ctp	102
+直腸	dkk dws	1
+直聘	dkk ftx	2
+直系	dkk gez	1
+直視	dkk iin	1
+直覺	dkk kjk	2
+直播	dkk psz	2
+直到	dkk tam	1
+值得	dkk tlk	1
+值爲	dkk yva	1
+值	dkz	2
+治	dkz	7
+治病	dkz bgx	1
+治療	dkz ltm	1
+廚房	dla bbs	3
+廚初	dla vja	2
+櫥窗	dla vjs	6
+櫥窗詞	dla vjs jia	1
+譚	dld	1
+譚浩強	dld gau gws	1
+擡	dlh	6
+臺	dlh	4
+臺獨	dlh duk	2
+臺詞	dlh jia	1
+檯面	dlh mtv	1
+臺式	dlh oik	1
+臺式機	dlh oik kjh	1
+臺灣	dlh qxf	33
+特	dlk	5
+特質	dlk ait	1
+特征	dlk ats	3
+特別	dlk bgt	18
+特別長	dlk bgt tww	0
+特別長的	dlk bgt tww tek	1
+特定	dlk dex	3
+特效	dlk gzm	1
+特殊	dlk ipa	7
+特意	dlk qkz	1
+特色	dlk skk	7
+特色寫	dlk skk sqq	1
+特性	dlk stx	0
+特多	dlk taa	1
+特點	dlk tee	1
+特有	dlk ymq	8
+代	dln	26
+袋	dln	2
+代碼	dln mzq	117
+代碼的	dln mzq tek	1
+代碼塊	dln mzq xxn	1
+代表	dln pgu	11
+代替	dln rez	10
+代數	dln slz	1
+代議制	dln wgz atb	1
+沓	dlp	1
+柱	dlq	1
+柱子	dlq ciq	1
+騰	dls	1
+騰飛	dls pmh	1
+騰訊	dls siv	1
+鄧	dlx	1
+鄧公	dlx kus	5
+鄧小平	dlx stu bgs	1
+待	dly	27
+殆	dly	1
+待做	dly coz	4
+怠惰	dly dsq	1
+待叶	dly gep	3
+待會	dly gsb	1
+待見	dly kev	2
+待改	dly kly	6
+待刪	dly szf	1
+待遇	dly wlz	3
+住	dlz	20
+住房	dlz bbs	2
+住夜	dlz yqz	1
+住在	dlz zly	1
+逐	dmk	3
+逐步	dmk boz	1
+逐行	dmk gas	1
+逐詞	dmk jia	4
+蟲	dms	1
+宙	dmz	1
+圖	doa	16
+塗	doa	2
+徒增	doa cls	1
+圖片	doa fev	20
+圖形	doa ges	2
+圖形化	doa ges hxz	1
+塗上	doa iqw	1
+圖像	doa jqw	5
+圖書	doa oha	4
+圖標	doa ptj	1
+圖巴	doa pza	1
+屠殺	doa sdt	1
+毒辣	dok lat	0
+毒辣的	dok lat tek	1
+隊	don	3
+隊列	don ltt	1
+隊伍	don woq	1
+肚	doq	1
+盾	dor	1
+疼愛	dos qln	1
+突	dot	1
+突出	dot eyt	1
+突破	dot fsz	6
+突然	dot ntf	8
+突飛猛進	dot pmh mzw civ	1
+度	doz	32
+度詞	doz jia	1
+度過	doz ksa	1
+團	dsf	2
+斷	dsr	4
+斷電	dsr dev	4
+斷點	dsr tee	6
+斷言	dsr wwf	2
+脫	dst	1
+奪目	dst mmk	1
+奪取	dst vpq	4
+段	dsv	5
+段段	dsv dsv	1
+段落	dsv lak	3
+段首	dsv onq	3
+昰	dtq	41
+昰您	dtq nkd	5
+昰不	dtq pma	2
+昰否	dtq pmq	5
+投	dua	4
+頭	dua	13
+投屏	dua bes	2
+頭疼	dua dos	1
+頭好暈	dua hau ymv	1
+頭上	dua iqw	1
+頭緒	dua jhq	2
+頭像	dua jqw	4
+投降	dua kjx	1
+投入	dua nip	4
+頭髮	dua pbt	1
+投考	dua xau	1
+獨	duk	6
+讀	duk	37
+讀者	duk aqq	1
+讀作	duk cak	2
+獨資	duk cih	1
+獨特	duk dlk	1
+獨處	duk ehq	3
+獨具	duk glz	1
+讀完	duk gsf	4
+讀後感	duk guz kle	1
+獨享	duk hww	1
+獨居	duk kja	1
+獨立	duk lip	13
+讀文件	duk mmf ggr	1
+讀書	duk oha	4
+獨身	duk oif	1
+讀博士	duk pak zkq	1
+獨一	duk qit	1
+讀音	duk qkd	4
+讀數	duk slz	2
+讀寫	duk sqq	1
+獨到	duk tam	1
+讀到	duk tam	1
+讀取	duk vpq	8
+讀研	duk wef	1
+讀起來	duk xkq llh	1
+獨自	duk zin	1
+同	dus	43
+同證	dus aix	1
+同志	dus aiz	14
+同步	dus boz	19
+同伴	dus bsr	1
+同行	dus gas	2
+同學	dus gjk	19
+同學們	dus gjk mof	1
+同時	dus iia	18
+同齡	dus les	1
+同齡人	dus les nif	1
+同理	dus liq	2
+同文	dus mmf	2
+同日	dus nit	1
+同聲	dus ots	1
+同半	dus psv	1
+同胞	dus pzj	2
+同一篇	dus qit ftf	4
+同一個	dus qit kaz	6
+同一律	dus qit lyt	1
+同於	dus qja	1
+同音	dus qkd	1
+童音	dus qkd	1
+童孫	dus sof	2
+同樂	dus wjk	1
+同款	dus xsr	1
+同于	dus yla	1
+同樣	dus yqx	6
+同事	dus zkz	1
+同在	dus zly	2
+同情	dus zts	1
+動	duw	19
+動作	duw cak	2
+動畫	duw gfz	4
+動詞	duw jia	7
+動似	duw jiq	1
+動力	duw lik	1
+動量	duw lqx	1
+動亂	duw lsv	2
+動物	duw mmt	3
+動能	duw nls	1
+動身	duw oif	2
+動手	duw onq	1
+動態	duw rln	4
+動員	duw ymf	3
+動靜	duw ztw	1
+洞	dux	1
+竇	duz	1
+豆腐	duz blq	0
+竇號	duz gam	1
+逗號	duz gam	4
+豆豉	duz itz	1
+錘	dva	1
+錘子	dva ciq	1
+傳	dvf	19
+傳道	dvf dau	1
+傳出	dvf eyt	1
+傳承	dvf iis	1
+傳頌	dvf jyx	1
+傳過	dvf ksz	1
+傳們	dvf mof	1
+傳入	dvf nip	9
+傳播	dvf psz	1
+傳統	dvf rox	17
+傳到	dvf tam	1
+傳	dvv	2
+傳到	dvv tam	1
+着	dwk	85
+着眼	dwk wdr	1
+場	dws	1
+長	dws	31
+長跑	dws bzj	3
+長足	dws cyk	1
+長醉	dws cyn	1
+長緻	dws dkn	1
+長途	dws doa	1
+長度	dws doz	7
+長車	dws eqa	1
+長篇	dws ftf	1
+長期	dws gka	1
+場合	dws glp	1
+長卷	dws gvf	1
+長袖	dws jnz	1
+場景	dws kgw	2
+長江	dws kjs	4
+場面	dws mtv	2
+場難句	dws naf klz	1
+長難句	dws naf klz	4
+長風	dws pms	2
+長鞭	dws ptf	1
+長安	dws qaf	2
+長音	dws qkd	3
+長寬	dws xsf	1
+長樣	dws yqx	1
+杖	dww	3
+丈夫	dww pla	5
+擇	dzk	12
+澤	dzk	1
+宅子	dzk ciq	4
+吹	eca	3
+吹噓	eca hja	1
+吹送	eca sux	1
+吹雲	eca ymf	1
+川	ecf	2
+穿	ecf	10
+穿着	ecf dwk	1
+穿行	ecf gas	1
+穿過	ecf ksz	2
+喘	ecr	1
+串	ecv	8
+處	ehq	5
+處罰	ehq bbt	1
+處理	ehq liq	16
+處理恐	ehq liq xhw	1
+處於	ehq qja	1
+處所	ehq sjq	1
+處于	ehq yla	2
+處	ehz	10
+稱	eis	1
+稱互	eis goz	1
+稱爲	eis yva	0
+稱爲所示	eis yva sjq uin	2
+稱	eix	7
+稱之爲	eix aia yva	1
+稱作	eix cak	2
+充	ens	8
+充分	ens bmv	3
+充電寶	ens dev pau	1
+充血	ens hrt	1
+充分	ens pmf	2
+充當	ens tas	1
+充實	ens uit	5
+充裕	ens ypz	2
+充錢	ens ztf	1
+銃	enx	1
+臭	enz	6
+車	eqa	8
+車子	eqa ciq	1
+車票	eqa ftm	2
+車禍	eqa gsq	1
+車速	eqa suk	1
+昌平	eqs bgs	1
+廠裏	eqw liq	2
+唱	eqx	17
+倡導	eqx dam	2
+唱片	eqx fev	0
+唱歌	eqx kaa	4
+唱個	eqx kaz	1
+斥	eqz	1
+尺	etk	2
+赤	etk	1
+尺度	etk doz	1
+闡	etr	6
+硟動	etv duw	1
+春	eyf	6
+春節	eyf cet	1
+春江	eyf kjs	1
+春秋	eyf vna	2
+觸	eyk	1
+觸發	eyk pbt	1
+衝	eys	12
+衝淡	eys dae	1
+衝突	eys dot	1
+衝塔	eys rap	3
+衝塔氽	eys rap ror	1
+出	eyt	92
+出節	eyt cet	1
+出租屋	eyt coa quk	1
+出臺	eyt dlh	1
+出場	eyt dws	1
+出處	eyt ehz	5
+出現	eyt gev	31
+出現出	eyt gev eyt	1
+出勤率	eyt gjf lyt	1
+出售	eyt inz	2
+出了	eyt kbt	1
+出國	eyt kpk	1
+出了	eyt leu	3
+出來	eyt llh	22
+出賣	eyt mdz	1
+出身	eyt oif	2
+出水	eyt oyy	2
+出發	eyt pbt	3
+出版	eyt pzr	2
+出町副下	eyt rer fmk gzz	1
+出生	eyt sgs	5
+出色	eyt skk	0
+出佔有	eyt ted ymq	1
+出的	eyt tek	1
+出錯	eyt voz	2
+出言	eyt wwf	1
+出去	eyt xjz	8
+出浴	eyt yyk	2
+出事	eyt zkz	2
+出錢	eyt ztf	1
+肺	fbb	1
+肺活量	fbb gst lqs	2
+汎	fbc	1
+泛型	fbc ges	1
+番	fbf	5
+翻	fbf	12
+翻唱	fbf eqx	1
+翻頁	fbf get	1
+番劇	fbf ggk	1
+翻開	fbf xlh	1
+翻譯	fbf ytk	33
+翻譯看	fbf ytk xav	1
+翻牆	fbf zqs	1
+芳	fbs	2
+芳香	fbs hws	1
+仿	fbw	2
+仿佛	fbw bmt	4
+彷彿	fbw fmt	1
+訪問	fbx mmv	19
+碰	fdx	4
+派	fdz	4
+派出	fdz eyt	1
+派上	fdz iqw	2
+批	fea	2
+批評	fea bgs	1
+批判	fea fsv	6
+批量	fea lqs	3
+劈尖	fek ctd	1
+霹靂	fek lek	1
+拼	fes	2
+拼接	fes ctp	3
+拼音	fes qkd	9
+拼寫	fes sqq	1
+拼運	fes ymv	2
+瞥一眼	fet qit wdr	1
+撇開	fet xlh	1
+片	fev	6
+片段	fev dsv	1
+片歌	fev kaa	1
+片面	fev mtv	2
+披	fga	2
+捧	fhw	1
+屁	fin	27
+屁股	fin koq	1
+屁字	fin ziz	1
+屁事	fin zkz	3
+匹	fit	2
+匹配	fit fon	16
+胖	fjx	4
+砯	fks	1
+撫	flq	1
+赴	flz	1
+紛奢	fmf oqa	1
+紛飛	fmf pmh	1
+氛圍	fmf ymh	1
+副	fmk	23
+覆	fmk	3
+副屏	fmk bes	6
+副翻譯	fmk fbf ytk	1
+副詞	fmk jia	0
+覆蓋	fmk kab	2
+費	fmn	13
+費勁	fmn ktx	2
+豐	fms	1
+豐富	fms pmz	6
+副	fmz	3
+副屏	fmz bes	2
+覆盤	fmz bsf	1
+噴霧式	fof mlz oik	0
+配	fon	31
+配上	fon iqw	3
+朏朒	fon nmk	1
+配不上	fon pma iqw	1
+配色	fon skk	1
+配速	fon suk	1
+配到	fon tam	1
+配置	fon tkz	20
+配對	fon ton	9
+普	foq	0
+浦	foq	1
+普魯東	foq loq tus	1
+普魯士	foq loq zkq	1
+普遍	foq pev	3
+普通	foq rus	1
+普通版	foq rus pzr	1
+普通神人	foq rus uif nif	1
+噴	fov	1
+噴出	fov eyt	3
+噴灌	fov ksv	1
+噴氣	fov xjn	1
+噴氣惱	fov xjn nau	1
+頗	fsa	1
+叵	fsq	2
+判	fsv	2
+胖	fsv	1
+判定	fsv dex	3
+判斷	fsv dsr	17
+判空	fsv xus	1
+破	fsz	9
+破除	fsz dja	1
+破舊	fsz gmz	1
+破壞	fsz gxn	4
+破壞	fsz kxn	1
+破裂	fsz ltt	2
+破案	fsz qav	3
+破事	fsz zkz	2
+偏	ftf	20
+篇	ftf	3
+偏振	ftf aiv	2
+篇章	ftf aqs	5
+篇目	ftf mmk	2
+篇名	ftf mts	1
+篇幅	ftf pkk	1
+偏心	ftf sid	0
+偏心差	ftf sid vda	1
+偏差	ftf vda	1
+飄	ftj	3
+漂亮	ftj lqx	1
+漂移	ftj yta	1
+辟	ftk	1
+辟尖	ftk ctd	1
+剽	ftm	1
+漂亮	ftm lqx	4
+騙	ftv	1
+騙人	ftv nif	2
+聘此	ftx vtq	1
+聘請	ftx vtw	6
+譬如	ftz nha	1
+攀	fzf	3
+拋	fzj	14
+泡	fzj	2
+泡泡浴	fzj bzj yyk	0
+泡泡浴拍	fzj bzj yyk fzk	1
+拋出	fzj eyt	3
+拋給	fzj kkp	2
+拋來	fzj llh	2
+泡沫	fzj mst	1
+拋開	fzj xlh	1
+拋在	fzj zly	2
+怕	fzk	2
+拍	fzk	52
+拍到	fzk tam	1
+炮	fzm	1
+亨	fzs	1
+烹	fzs	2
+烹飪	fzs nie	1
+怕	fzz	6
+怕重	fzz dhw	1
+怕人	fzz nif	2
+何	gaa	23
+荷塘	gaa das	10
+苛求	gaa gma	1
+荷香	gaa hws	2
+何時	gaa iia	22
+何時實踐	gaa iia uit ztr	1
+何嘗	gaa iqs	1
+何樂不爲	gaa lak pmt yva	1
+何年	gaa nef	1
+何人	gaa nif	2
+河南	gaa nld	1
+何必	gaa pit	1
+何所	gaa sjq	2
+何所憶	gaa sjq qkk	1
+何所思	gaa sjq sia	1
+何等	gaa tlw	2
+何以	gaa yiq	1
+何謂	gaa ymn	0
+何爲	gaa yva	1
+害	gab	5
+害怕	gab fzz	2
+害人	gab nif	2
+害我	gab waq	1
+酣戰	gad atv	0
+韓	gaf	1
+韓海蘇潮	gaf hly soa dgj	1
+寒光	gaf kss	2
+寒假	gaf kzq	8
+韓信	gaf siv	1
+寒秋	gaf vna	1
+毫	gaj	7
+毫米	gaj meq	2
+毫無	gaj mla	3
+毫秒	gaj mtu	1
+毫不	gaj pma	2
+鶴	gak	1
+號	gam	24
+行	gas	48
+行罷	gas bdq	1
+航道	gas dau	1
+行動	gas duw	5
+行號	gas gam	1
+航行	gas gas	1
+行會	gas gsb	1
+行剡	gas ite	1
+行了	gas leu	3
+行李	gas liq	2
+行路	gas loz	3
+行業	gas wwp	4
+行爲	gas yva	5
+曷	gat	1
+浩蕩	gau daw	1
+賀喜	gaz hkq	1
+賀蘭山	gaz laf sdf	1
+狂	gbs	2
+狂喜	gbs hkq	1
+狂歡	gbs hsf	1
+掘	gbt	2
+撅	gbt	2
+鞋	gda	1
+陷入	gdc nip	2
+鹹	gdd	2
+閑	gdf	2
+閑暇	gdf gzz	1
+閑語	gdf wjq	1
+嫺雅	gdf wzq	1
+核心	gdk sid	2
+峽	gdp	4
+狹窄	gdp czk	1
+狹隘	gdp qdz	3
+限	gdr	8
+限制	gdr atb	1
+限度	gdr doz	1
+幸	gdw	4
+倖免	gdw mgr	1
+幸福	gdw pmk	4
+幸運	gdw ymv	1
+倖存者	gdw zof aqq	1
+兮	gea	18
+嫌	ged	2
+嫌棄	ged xin	2
+弦	gef	3
+賢	gef	2
+俠	gep	1
+叶	gep	10
+協會	gep gsb	2
+型	ges	2
+形	ges	11
+型號	ges gaj	0
+型號出色	ges gaj eyt skk	1
+形形色色	ges ges skk skk	1
+形成	ges its	5
+形象	ges jqw	8
+形式	ges oik	19
+形勢	ges otb	1
+形態	ges rln	1
+形策	ges vdk	14
+形策課	ges vdk xsz	1
+形參	ges vld	1
+形狀	ges zwx	1
+頁	get	12
+頁面	get mtv	2
+頁碼	get mzq	1
+現	gev	32
+見	gev	1
+現代	gev dln	27
+現代化	gev dln hxz	1
+現代文	gev dln mmf	1
+現待	gev dly	1
+現場	gev dws	1
+現成	gev its	3
+現象	gev jqw	1
+現今	gev kkd	3
+現金	gev kkd	1
+現實	gev uit	2
+現有	gev ymq	1
+現在	gev zln	4
+現在	gev zly	79
+現在了	gev zly leu	1
+現存	gev zof	7
+系	gez	2
+繫	gez	1
+系列	gez ltt	4
+系統	gez rox	12
+劃	gfk	1
+獲	gfk	6
+獲獎	gfk cqw	1
+劃分	gfk pmf	1
+獲得	gfk tlk	9
+獲取	gfk vpq	37
+宏發	gfs pbt	1
+滑落	gft lak	1
+滑梯	gft rea	0
+滑梯寫	gft rea sqq	1
+滑塊	gft xon	1
+幻想	gfv sqw	2
+畫	gfz	19
+畫度	gfz doz	3
+畫出來	gfz eyt llh	1
+畫像	gfz jqw	1
+畫風	gfz pms	1
+畫師	gfz skh	1
+奇	gga	1
+騎	gga	4
+奇怪	gga kxn	6
+橋	ggj	1
+橋涵	ggj gld	1
+喬木	ggj muk	5
+劇	ggk	2
+劇烈	ggk ltt	1
+劇情	ggk zts	2
+技	ggq	4
+技出	ggq eyt	2
+技能	ggq nls	1
+技術	ggq uyt	25
+技巧	ggq xzu	3
+件	ggr	10
+鍵	ggr	17
+鍵政	ggr atx	3
+鍵盤	ggr bsf	9
+鍵值	ggr dkk	2
+鍵值對	ggr dkk ton	9
+競	ggx	1
+競爭	ggx cds	13
+競爭力	ggx cds lik	1
+競爭思想	ggx cds sia sqw	1
+競要	ggx qtm	1
+競賽	ggx sln	6
+騎	ggz	1
+局部	ghk buq	1
+局域網	ghk ykk mbw	4
+共	ghx	7
+共同	ghx dus	6
+共同體	ghx dus req	1
+共處	ghx ehq	1
+共和國	ghx gsa kpk	3
+共享	ghx hww	4
+共產主義	ghx sdr apq wgz	33
+共產黨	ghx sdr taw	41
+共產黨員	ghx sdr taw ymv	3
+共有	ghx ymq	3
+共用	ghx yyx	2
+佢	gja	10
+佢等	gja tlw	1
+勤	gjf	4
+勤樸	gjf boa	1
+勤勞	gjf laj	1
+勤奮	gjf pmv	3
+勤信	gjf siv	1
+祈	gjh	1
+祈使句	gjh skq klz	1
+祈寫	gjh sqq	1
+學	gjk	228
+學堂	gjk das	2
+學害	gjk gab	1
+學號	gjk gam	6
+學期	gjk gka	8
+學會	gjk gsb	6
+學校	gjk gzm	52
+學習	gjk jip	40
+學習通	gjk jip rus	8
+學檢查	gjk kge zza	1
+學過	gjk ksz	5
+學工	gjk kus	0
+學工號	gjk kus gam	2
+學家	gjk kza	1
+學歷	gjk lek	4
+學來	gjk llh	1
+學務	gjk mlz	1
+學文	gjk mmf	1
+學問	gjk mmv	1
+學報	gjk pam	1
+學不會	gjk pma gsb	10
+學爆	gjk pzm	1
+學生	gjk sgs	19
+學生證	gjk sgs aix	1
+學到	gjk tam	12
+學長	gjk tww	1
+學藝	gjk wtb	1
+學養	gjk yqw	1
+學院	gjk yvv	12
+巨	gjq	4
+拒之門外	gjq aia mof wsb	1
+巨大	gjq dab	3
+距今	gjq kkd	1
+距離	gjq lta	5
+距離感	gjq lta kle	1
+鉅額	gjq wzk	2
+近	gjr	10
+近代	gjr dln	1
+近期	gjr gka	1
+近視	gjr iin	2
+近來	gjr llh	1
+近日	gjr nit	1
+近于	gjr yla	1
+近	gjv	3
+項	gjw	9
+項目	gjw mmk	68
+巷	gjx	2
+詎	gjz	1
+其	gka	127
+期	gka	28
+其談	gka dad	1
+期間	gka kdf	5
+其竟	gka kgx	1
+期末	gka mst	14
+其妙	gka mtm	1
+其他	gka raa	25
+其它	gka raa	1
+其啁	gka tma	1
+其中	gka tms	9
+期中	gka tms	11
+期中考	gka tms xau	3
+其實	gka uit	18
+其次	gka vin	4
+期考	gka xau	6
+其餘	gka yha	3
+琴	gkd	1
+琴書	gkd oha	1
+極	gkk	8
+極大	gkk dab	1
+極限	gkk gdr	4
+極好	gkk ham	1
+極好	gkk hau	1
+極端	gkk tsf	11
+及	gkp	36
+及其	gkp gka	2
+及時	gkp iia	2
+及格	gkp kzk	6
+及格線	gkp kzk stv	1
+已	gkq	43
+已經	gkq kes	79
+已知	gkq tga	1
+已棄用	gkq xin yyx	1
+已有	gkq ymq	7
+僅	gkv	13
+忌	gkz	1
+含	gld	9
+含住	gld dlz	2
+涵蓋	gld kab	4
+函谷	gld kuk	1
+函數	gld slz	112
+函數成	gld slz its	1
+函數式	gld slz oik	1
+含義	gld wgz	1
+含于	gld yla	1
+含有	gld ymq	1
+痕跡	glf ctk	1
+孩子	glh ciq	1
+孩子們	glh ciq mof	1
+合	glp	30
+合照	glp atm	1
+合併	glp bdw	3
+合作	glp cak	3
+合乎	glp goa	1
+合理	glp liq	3
+合法	glp pbp	2
+很	glr	23
+狠	glr	15
+很復雜	glr bmk zlp	1
+很大	glr dab	3
+很長	glr dws	1
+很好	glr hau	3
+很像	glr jqw	1
+很高	glr kaj	2
+很難	glr naf	1
+很少	glr otu	1
+很想	glr sqw	2
+很多	glr taa	23
+很多對	glr taa ton	1
+很低	glr tea	1
+很神	glr uif	1
+很差	glr vda	1
+狠聰明	glr vus mgs	1
+很酷	glr xok	1
+很快	glr xxb	5
+很遠	glr ybv	1
+很有	glr ymq	1
+恆	gls	2
+恨	glv	2
+具	glz	4
+懼怕	glz fzk	2
+具論	glz lov	2
+具體	glz req	7
+具有	glz ymq	6
+仇	gma	1
+求	gma	35
+球	gma	1
+求之	gma aia	2
+求學	gma gjk	7
+求法	gma pbp	2
+羣	gmf	10
+羣衆	gmf anx	5
+羣主	gmf apq	3
+裙子	gmf ciq	1
+羣居	gmf kja	1
+羣裏	gmf liq	4
+羣名	gmf mts	1
+窮	gms	3
+窮困	gms xov	1
+舊	gmz	26
+舊址	gmz aiq	1
+舊主人	gmz apq nif	1
+舊時	gmz iia	1
+舊社會	gmz iqq gsb	1
+舊人	gmz nif	1
+舊版	gmz pzr	1
+舊版本	gmz pzr por	2
+乎	goa	14
+胡	goa	6
+糊塗	goa doa	1
+弧度	goa doz	2
+胡騎	goa gga	1
+胡歌	goa kaa	1
+狐狸	goa lia	1
+胡虜	goa loq	1
+糊弄	goa lux	2
+湖南	goa nld	1
+胡能	goa nls	1
+胡說	goa oct	3
+胡爲	goa yva	1
+胡爲乎	goa yva goa	1
+魂	gof	2
+魂靈	gof les	1
+回	goh	23
+回復	goh bmk	6
+回調	goh dej	3
+回調	goh dem	24
+回調涵蓋	goh dem gld kab	1
+回敬	goh kgx	4
+回歸	goh kmh	12
+回過	goh ksz	1
+回家	goh kza	15
+回了	goh leu	2
+回來	goh llh	5
+迴路	goh loz	3
+回味	goh mmn	1
+回聲	goh ots	1
+迴音	goh qkd	1
+回憶	goh qkk	1
+回應	goh qks	1
+回想	goh sqw	1
+回到	goh tam	3
+回答	goh tlp	9
+回去	goh xjz	6
+戶	goq	11
+混	gor	10
+混戰	gor atv	1
+混進	gor civ	1
+混高	gor kaj	1
+混了	gor leu	2
+混入	gor nip	1
+混輸	gor opa	2
+混寫	gor sqq	1
+混打	gor tzw	3
+匯總	goy cuw	2
+匯集	goy zip	1
+互傳	goz dvf	1
+互聯網	goz ltf mbw	5
+互弄	goz lux	1
+互相	goz sqs	5
+互想	goz sqw	3
+或	gpk	71
+或者	gpk aqq	25
+或許	gpk hjq	13
+或取	gpk vpq	4
+攜手	gra onq	2
+玄	grf	1
+玄虛	grf hja	1
+熒	grs	1
+穴	grt	1
+炫	grv	6
+縣	grv	13
+縣長	grv tww	1
+惠	grz	0
+惠及	grz gkp	1
+惠斯通	grz sta rus	3
+和	gsa	375
+和平	gsa bgs	4
+禾苗	gsa mgj	1
+和選修	gsa scr sna	1
+和訊	gsa siv	5
+和我	gsa waq	1
+會	gsb	260
+會話	gsb gxb	1
+會是	gsb itq	1
+會個	gsb kaz	7
+會個屁	gsb kaz fin	1
+會來	gsb llh	1
+會說	gsb oct	2
+會不會	gsb pma gsb	4
+會須	gsb spa	1
+會玩	gsb wsv	1
+會員	gsb ymf	1
+會有	gsb ymq	2
+會用	gsb yyx	5
+會在	gsb zly	2
+會從來	gsb zys llh	1
+完	gsf	58
+桓	gsf	1
+完整	gsf atw	8
+完備	gsf bkn	1
+完後	gsf guz	1
+完善	gsf itr	7
+完成	gsf its	1
+完成式	gsf its oik	0
+完了	gsf leu	4
+完美	gsf mky	3
+完全	gsf zcf	25
+完事	gsf zkz	7
+禍	gsq	2
+緩	gsr	1
+緩急	gsr kkp	1
+緩存	gsr zof	2
+皇	gss	1
+黃	gss	3
+黃牌	gss bda	1
+黃晉榮	gss civ yvs	30
+黃浦區	gss foq xla	2
+黃河	gss gaa	9
+黃鶴	gss gak	1
+黃金臺	gss kkd dlh	1
+黃老師	gss lau skh	1
+黃色	gss skk	1
+皇帝	gss tez	1
+活	gst	11
+活揄	gst duq	1
+活動	gst duw	16
+活着	gst dwk	6
+活量	gst lqx	1
+活人	gst nif	1
+活的	gst tek	1
+換	gsv	18
+換行	gsv gas	7
+換行符	gsv gas bla	5
+換成	gsv its	1
+換元	gsv wbf	1
+和	gsz	1
+歧視	gta iin	2
+翹課	gtj xsa	1
+侯	gua	1
+厚	guq	3
+紅	gus	5
+紅妝	gus cws	1
+紅火	gus hsq	1
+紅軍	gus kmf	1
+紅光	gus kss	1
+紅利	gus lin	2
+紅色	gus skk	5
+紅色的	gus skk tek	1
+紅點	gus tee	1
+紅燈	gus tls	1
+候	guz	4
+後	guz	131
+後者	guz aqq	1
+後排	guz bzh	1
+後臺	guz dlh	1
+後代	guz dln	6
+後期	guz gka	1
+後續	guz jyk	5
+後個	guz kaz	1
+後街	guz kda	1
+後來	guz llh	11
+後文	guz mmf	1
+後面	guz mtv	28
+後面的	guz mtv tek	1
+後世	guz otb	2
+後背	guz pon	1
+後半	guz psv	1
+後天	guz ref	2
+候選	guz scr	8
+候選了	guz scr leu	1
+後端	guz tsf	30
+後斷	guz tsv	1
+後綴	guz tvb	1
+後綴	guz tvt	1
+後有	guz ymq	1
+後事	guz zkz	2
+拳	gvf	3
+權	gvf	10
+權重	gvf dhs	12
+權重	gvf dhw	41
+權力	gvf lik	5
+權益	gvf qtk	3
+權中	gvf tms	1
+倦	gvv	2
+強	gws	14
+強制	gws atb	2
+強制性	gws atb stx	1
+強度	gws doz	2
+強行	gws gas	2
+強盛	gws itx	2
+強個	gws kaz	1
+強到	gws tam	1
+強硬	gws wdx	1
+健身	gwv oif	3
+健康	gwv xas	11
+健全	gwv zcf	1
+健狀	gwv zwx	1
+誩寫	gww sqq	1
+華	gxa	3
+華麗	gxa lez	1
+華中	gxa tms	1
+話	gxb	46
+話說	gxb oct	1
+環	gxf	3
+還	gxf	142
+鬟	gxf	1
+還昰	gxf dtq	1
+還會	gxf gsb	7
+還好	gxf ham	4
+還是	gxf itq	102
+環城	gxf its	9
+環境	gxf kgw	13
+還裏	gxf liq	2
+還沒	gxf mot	9
+還沒有	gxf mot ymq	1
+還南	gxf nld	1
+還能	gxf nls	12
+環繞	gxf ntm	1
+還不知道	gxf pma tga dau	1
+還不請	gxf pma vtw	1
+還要	gxf qtj	1
+還要	gxf qtm	17
+還需	gxf spa	2
+還想	gxf sqw	1
+還得	gxf tlk	10
+還差	gxf vda	1
+還原	gxf wbf	1
+還可	gxf xaq	1
+還可以	gxf xaq yiq	1
+還去	gxf xjz	3
+還有	gxf ymq	56
+還有點	gxf ymq tee	1
+還有可	gxf ymq xaq	1
+環材	gxf zlh	1
+還在	gxf zly	10
+懷	gxh	3
+懷裏	gxh liq	1
+懷念	gxh nec	7
+懷疑	gxh wka	5
+懷孕	gxh yix	1
+壞	gxn	9
+壞消息	gxn stj sik	1
+壞事	gxn zkz	1
+橫	gxs	5
+患	gxv	1
+患上	gxv iqw	1
+艦隊	gze don	2
+偕	gzh	1
+諧	gzh	2
+偕老	gzh lau	1
+爻	gzj	3
+效	gzm	17
+校	gzm	7
+校長	gzm dws	1
+效果	gzm ksq	1
+效率	gzm lyt	3
+校區	gzm xla	2
+校園	gzm ybf	2
+校運	gzm ymv	3
+下	gzq	6
+下週	gzq ana	1
+下載	gzq cln	6
+下載	gzq cly	1
+下滑	gzq gft	2
+下海	gzq hly	1
+下上	gzq iqw	1
+下降	gzq kjx	1
+下落	gzq lak	1
+下來	gzq llh	3
+下面	gzq mtv	1
+下手	gzq onq	2
+下班	gzq pzf	1
+下次	gzq vin	1
+下去	gzq xjz	2
+下課	gzq xsz	1
+下雨	gzq ylq	3
+行	gzs	5
+衡	gzs	4
+行政	gzs atx	1
+行道	gzs dau	1
+行動	gzs duw	1
+行李	gzs liq	1
+衡量	gzs lqs	2
+轄	gzt	1
+轄說	gzt oct	1
+下	gzz	47
+下，	gzz /	1
+下週	gzz ana	2
+夏州	gzz ana	1
+下載	gzz cly	1
+夏裝	gzz cws	2
+下場	gzz dws	1
+下降	gzz kjx	1
+夏利	gzz lin	1
+夏末	gzz mst	1
+下袂	gzz mtb	4
+下面	gzz mtv	13
+下標	gzz ptu	1
+下一步	gzz qit boz	1
+下一個	gzz qit kaz	3
+夏天	gzz ref	2
+下午	gzz woq	13
+好	ham	5
+耗	ham	2
+好奇	ham gga	1
+耗時	ham iia	3
+罕見	har kev	2
+炕上安鍋	has iqw qaf ksa	1
+喝	hat	5
+好	hau	118
+好煩	hau bbf	2
+好評	hau bgs	1
+好復雜	hau bmk zlp	1
+好甜	hau ded	1
+好地方	hau din pbs	1
+好奇	hau gga	1
+好學	hau gjk	1
+好壞	hau gxn	1
+好荒	hau hss	1
+好像	hau jqw	51
+好幾個	hau kjy kaz	1
+好幾百	hau kjy pzk	1
+好貴	hau kmn	1
+好久	hau kmq	3
+好果	hau ksq	1
+好傢伙	hau kza hsq	1
+好了	hau leu	4
+好冷	hau lew	1
+好亂	hau lsv	2
+好難	hau naf	5
+好少	hau otu	1
+好不好	hau pma hau	3
+好聽	hau res	1
+好心	hau sid	1
+好使	hau skq	5
+好些	hau sqa	1
+好寫	hau sqq	0
+好想	hau sqw	14
+好消息	hau stj sik	2
+好多	hau taa	28
+好的	hau tek	2
+好東西	hau tus sea	1
+好懂	hau tuw	13
+好玩	hau wsv	3
+好看	hau xaf	2
+好康	hau xas	4
+好喫到	hau xek tam	1
+好遠	hau ybr	3
+好用	hau yyx	1
+漢	hav	5
+漢子	hav ciq	1
+漢朝	hav dgj	1
+漢文	hav mmf	3
+漢英	hav qgs	1
+漢語	hav wjq	15
+漢譯	hav ytk	1
+漢字	hav ziz	4
+楦	hbv	1
+況	hbx	6
+顯	her	2
+顯出	her eyt	1
+顯視	her iin	1
+顯然	her ntf	1
+顯式	her oik	1
+顯著	her tjz	1
+顯示	her uin	29
+顯示器	her uin xkn	9
+顯眼	her wdr	1
+曉	heu	2
+犧牲	hga sgs	2
+險	hge	1
+戲	hgz	1
+胸	hhs	1
+兇險	hhs hge	1
+匈奴	hhs noa	1
+虛	hja	1
+虛步	hja boz	1
+虛假	hja kzq	1
+虛數	hja slz	1
+虛擬機	hja wkq kjh	2
+虛僞	hja wvz	2
+欣	hjf	2
+欣然	hjf ntf	4
+欣賞	hjf oqw	1
+希	hjh	2
+稀	hjh	1
+稀稀拉拉	hjh hjh llp llp	1
+希臘	hjh lap	2
+希望	hjh mbs	34
+許	hjq	10
+許下	hjq gzq	0
+許下要	hjq gzq qtm	1
+許世友	hjq otb ymq	5
+許多	hjq taa	12
+許多信	hjq taa siv	1
+吸	hkp	8
+吸塵器	hkp dkf xkn	1
+吸取	hkp vpq	6
+吸引	hkp yir	1
+喜	hkq	32
+喜號	hkq gam	1
+喜劇	hkq ggk	1
+喜歡	hkq hsf	6
+興	hks	1
+興奮	hks pmv	1
+興起	hks xkq	3
+興	hkx	2
+興趣	hkx vpz	1
+吁嗟	hla cqa	1
+嘿	hlk	2
+黑	hlk	7
+黑白	hlk bzk	1
+黑臉	hlk lde	1
+黑名單	hlk mts taf	1
+黑馬	hlk mzq	1
+黑人	hlk nif	10
+黑奴	hlk noa	1
+黑怒	hlk noz	2
+黑暗	hlk qlc	2
+黑山	hlk sdf	2
+黑色	hlk skk	5
+黑框	hlk xbs	1
+黑字	hlk ziz	1
+哈	hlp	1
+哈特	hlp dlk	0
+哈人	hlp nif	1
+哈爾濱	hlp ntq pif	1
+海	hly	10
+海戰	hly atv	1
+海峽	hly gdp	2
+海味	hly mmn	3
+海綿體	hly mtf req	1
+海外	hly wsb	1
+海員	hly ymf	1
+海洋	hly yqs	1
+休	hma	4
+休假	hma kzq	2
+休眠	hma mef	1
+休息	hma sik	1
+熏陶	hmf daj	1
+揮	hmh	1
+輝	hmh	1
+揮舞	hmh mlq	1
+朽	hmq	1
+朽敗	hmq bzb	3
+訓	hmv	1
+訓讀	hmv duk	1
+訓練	hmv lev	1
+呼	hoa	3
+昏	hof	3
+婚制	hof atb	3
+昏蛋	hof dar	1
+昏達	hof dat	1
+婚後	hof guz	1
+昏睡	hof icz	1
+婚嫁	hof kzz	2
+昏攣	hof lcf	1
+婚戀	hof lcv	18
+婚姻	hof qif	6
+灰	hoh	2
+灰谷	hoh kuk	1
+灰色	hoh skk	5
+虎	hoq	1
+忽	hot	1
+忽視	hot iin	1
+忽略	hot lqk	4
+忽人	hot nif	1
+忽然	hot ntf	2
+悔恨	hoy glv	1
+𢃤者	hpk aqq	1
+血	hrt	9
+血液	hrt ytk	1
+歡	hsf	2
+歡喜	hsf hkq	5
+歡喜給	hsf hkq kkp	1
+歡謔	hsf hwk	1
+歡樂	hsf lak	5
+歡笑	hsf stm	1
+歡迎	hsf wgs	4
+霍	hsk	2
+伙	hsq	1
+火	hsq	5
+伙伴	hsq bsr	1
+火子	hsq ciq	1
+火車	hsq eqa	1
+火力	hsq lik	1
+火速	hsq suk	3
+荒誕	hss dar	1
+荒地	hss din	1
+荒廢	hss pbb	1
+荒山	hss sdf	1
+豁達	hst dat	1
+喚	hsv	4
+慌	hsw	1
+貨	hsz	4
+貨真價實	hsz aif kzz uit	1
+貨幣	hsz btb	2
+貨物	hsz mmt	1
+齁	hua	7
+齁詞	hua jia	2
+毀掉	hvq dem	1
+毀滅	hvq mtt	5
+兄	hvs	3
+兄弟	hvs deq	1
+兄啊	hvs qaa	2
+鄉	hws	1
+香	hws	9
+香港	hws kjw	37
+香港國安法	hws kjw kpk qaf pbp	4
+香港腳	hws kjw kwk	1
+香粉	hws pmr	1
+獻	hwv	6
+獻給	hwv kkp	2
+憲法	hwv pbp	3
+獻于	hwv yla	1
+享	hww	1
+響	hww	3
+響，	hww /	1
+享受	hww inq	2
+響應	hww qks	2
+享用	hww yyx	1
+向	hwx	38
+嚮	hwx	1
+向下	hwx gzz	1
+向上	hwx iqw	2
+向講	hwx kjw	1
+向量	hwx lqx	1
+向日葵	hwx nit gyh	2
+向你	hwx nkq	1
+向心	hwx sid	1
+向我	hwx waq	2
+嚮往	hwx ybw	2
+花	hxa	18
+花椒	hxa ctj	1
+花活	hxa gst	4
+花名	hxa mts	1
+花朵	hxa tsq	1
+花月	hxa wbt	1
+花葉	hxa ytp	3
+化	hxz	23
+化肥	hxz bmh	1
+化作	hxz cak	1
+化學	hxz gjk	2
+化學家	hxz gjk kza	0
+化學家象	hxz gjk kza jqw	1
+化簡	hxz kdr	3
+化爲	hxz yva	1
+嚇	hzk	3
+嚇怕	hzk fzz	2
+嚇唬	hzk hzz	1
+嚇人	hzk nif	2
+哼	hzs	1
+瞎	hzt	10
+瞎說	hzt oct	1
+垂了	ica kbt	1
+垂天	ica ref	1
+叀	icv	1
+睡	icz	6
+睡着	icz dwk	1
+睡覺	icz kjk	6
+睡椅	icz qga	0
+睡椅我	icz qga waq	1
+睡我	icz waq	1
+瑞士人	icz zkq nif	1
+署	ihz	1
+時	iia	156
+時針	iia aid	1
+時鐘	iia ays	2
+時代	iia dln	21
+時期	iia gka	5
+時候	iia guz	100
+時間	iia kdf	47
+時間日期	iia kdf nit gka	1
+時隔	iia kdk	1
+時計	iia kez	1
+時光	iia kss	2
+時分	iia pmf	2
+時態	iia rln	1
+時區	iia xla	1
+時刻	iia xlk	3
+甚至時候	iic ain iia guz	4
+甚	iie	23
+甚至	iie ain	9
+甚誌	iie aiz	2
+甚疲	iie bga	1
+甚解	iie kdq	1
+甚久	iie kmq	2
+甚麼	iie msa	193
+甚麼英	iie msa qgs	1
+甚麼的	iie msa tek	1
+甚麼樣	iie msa yqx	1
+甚難	iie naf	2
+甚少	iie otm	1
+甚少	iie otu	7
+甚多	iie taa	4
+甚易	iie ytz	1
+晨	iif	2
+臣	iif	1
+殖民	iik mif	2
+殖民地	iik mif din	6
+植物	iik mmt	2
+視	iin	11
+視頻	iin bif	17
+視作	iin cak	1
+視覺	iin kjk	1
+視角	iin kjk	1
+視聽	iin rex	0
+視聽說	iin rex oct	1
+視野	iin yqq	1
+視爲	iin yva	3
+十	iip	12
+十進制	iip civ atb	2
+十度	iip doz	0
+十個	iip kaz	1
+十幾	iip kjh	1
+十里	iip liq	1
+十六屆	iip lnk kzn	1
+什麼	iip msa	45
+什麼車	iip msa eqa	0
+十名	iip mts	2
+十年	iip nef	6
+十二	iip nin	2
+十二轉	iip nin tvr	3
+十八	iip pdt	2
+十分	iip pmf	3
+十分之	iip pmf aia	3
+十一	iip qit	1
+十三條	iip sad dej	1
+十多	iip taa	1
+十千	iip vef	1
+十月	iip wbt	2
+十五	iip woq	4
+十五年	iip woq nef	1
+十字	iip ziz	1
+十字思	iip ziz sia	1
+市	iiq	5
+市場	iiq dws	2
+市民	iiq mif	6
+市人	iiq nif	1
+腎	iir	1
+腎盂炎	iir yla ygd	1
+承	iis	1
+承諾	iis nak	1
+承人	iis nif	1
+承人副	iis nif fmk	2
+承認	iis niv	1
+慎	iiv	1
+熟	ink	1
+熟練	ink lev	1
+熟肉	ink nnk	1
+熟悉	ink sit	3
+受	inq	6
+受阻	inq cjq	1
+受過	inq ksz	1
+受益	inq qtk	1
+受到	inq tam	2
+受用	inq yyx	2
+售	inz	2
+授	inz	6
+授衣	inz qjh	1
+授課	inz xsa	1
+殊	ipa	2
+茱莉亞	ipa lea qzz	0
+殊死	ipa siy	2
+樹	ipq	1
+豎	ipq	1
+豎屏	ipq bes	3
+豎瓶	ipq bes	1
+樹	ipz	14
+樹枝	ipz ata	1
+樹林	ipz lid	2
+樹叢	ipz zus	2
+社	iqq	5
+社吭	iqq gaw	1
+社會	iqq gsb	103
+社會主義	iqq gsb apq wgz	35
+社交	iqq kzj	8
+社死	iqq siy	1
+社牛	iqq wma	1
+社恐	iqq xhw	4
+社區	iqq xla	2
+嘗	iqs	12
+常	iqs	27
+裳	iqs	1
+常州市	iqs ana iiq	2
+常服	iqs bmk	1
+常來	iqs llh	1
+常量	iqs lqx	4
+常識性	iqs oik stx	1
+嘗試	iqs oiz	8
+常數	iqs slz	1
+常德	iqs tlk	1
+常用	iqs yyx	5
+上	iqw	216
+上週	iqw ana	11
+上週三	iqw ana sad	2
+上屏	iqw bes	1
+上屏後	iqw bes guz	1
+上臺	iqw dlh	1
+上傳	iqw dvf	3
+上限	iqw gdr	2
+上學期	iqw gjk gka	4
+上完	iqw gsf	2
+上還	iqw gxf	1
+上下	iqw gzz	1
+上下聞	iqw gzz mmf	1
+上個	iqw kaz	3
+上古	iqw koq	2
+上流	iqw lna	3
+上路	iqw loz	1
+上網	iqw mbw	2
+上面	iqw mtv	23
+上惱	iqw nau	1
+上升	iqw ois	2
+上手	iqw onq	2
+上方	iqw pbs	3
+上分	iqw pmf	1
+上班	iqw pzf	4
+上一	iqw qit	0
+上一部	iqw qit boq	1
+上一段	iqw qit dsv	1
+上天	iqw ref	2
+上點	iqw tee	1
+上的	iqw tek	13
+上述	iqw uyt	3
+上次	iqw vin	4
+上午	iqw woq	3
+上去	iqw xjz	4
+上課	iqw xsz	6
+上牀	iqw zws	3
+上牀我	iqw zws waq	1
+上	iqx	1
+尚	iqx	18
+尚書郎	iqx oha las	1
+尚存	iqx zof	1
+提	ita	1
+提出	ita eyt	1
+誓	itb	1
+逝	itb	1
+石	itk	4
+石頭	itk dua	1
+石磴	itk tlx	1
+是	itq	863
+是這種	itq aqz ayw	1
+是什麼車	itq iip msa eqa	3
+是個	itq kaz	3
+是該	itq klh	1
+是說	itq oct	1
+是不是	itq pma itq	8
+是不要	itq pma qtm	1
+是否	itq pmq	25
+是我	itq waq	2
+是爲	itq yva	1
+是在	itq zly	1
+善	itr	6
+善處	itr ehq	0
+城	its	8
+成	its	85
+成績	its cek	14
+成電	its dev	1
+成效	its gzm	4
+城鄉	its hws	1
+城市	its iiq	4
+城市化	its iiq hxz	1
+成果	its ksq	3
+城管	its ksr	2
+城溝	its kua	1
+成功	its kus	30
+城關	its kxf	1
+成了	its leu	4
+成力	its lik	1
+成立	its lip	3
+城裏	its liq	1
+誠然	its ntf	1
+成書	its oha	1
+成本	its por	3
+成對	its ton	2
+城闕	its xbt	1
+成爲	its yva	24
+成員	its yvf	15
+成員變量	its yvf pgv lqx	1
+成就	its znz	2
+成就感	its znz kle	0
+豉	itz	1
+純	iyf	11
+淳樸	iyf fjk	2
+純音	iyf qkd	2
+純音我	iyf qkd waq	1
+純愛	iyf qln	5
+純粹	iyf syn	6
+誰	iyh	11
+誰家	iyh kza	1
+誰人	iyh nif	1
+誰知	iyh tga	2
+誰懂	iyh tuw	1
+誰懂啊	iyh tuw qaa	1
+屬	iyk	9
+蜀道	iyk dau	3
+屬頭	iyk dua	1
+屬性	iyk stx	17
+屬于	iyk yla	13
+屬于是	iyk yla itq	4
+隋	jca	1
+隨	jca	5
+隨之	jca aia	3
+隨之在	jca aia zly	1
+隨便	jca btf	8
+隨着	jca dwk	13
+隨着給我	jca dwk kkp waq	7
+隨後	jca guq	1
+隨機	jca kjh	15
+隨機數	jca kjh slz	3
+隨手	jca onq	1
+隨意	jca qkz	0
+隨從	jca zys	3
+旋律	jcf lyt	1
+徐哥	jha kaa	2
+序	jhq	2
+序號	jhq gaj	1
+序列	jhq ltt	2
+敘說	jhq oct	1
+敘事	jhq zkz	1
+詞	jia	89
+辭	jia	3
+詞頻	jia bif	1
+辭藻	jia cau	1
+詞組	jia coq	2
+詞條	jia dej	1
+詞形	jia ges	10
+詞匯	jia goy	5
+詞句	jia klz	2
+詞表	jia pgu	3
+詞典	jia ter	7
+詞肚皮舞	jia toq bga mlq	1
+詞語	jia wjq	1
+詞語要	jia wjq qtm	1
+詞庫	jia xoz	5
+詞塊	jia xxn	7
+詞塊在	jia xxn zly	3
+尋	jid	4
+覃	jid	8
+尋找	jid czu	1
+覃昊	jid gau	1
+尋思	jid sia	1
+覃御栽	jid wjz clh	2
+習	jip	12
+習題	jip dea	1
+習近並	jip gjr bew	1
+習近平	jip gjr bgs	6
+習俗	jip jyk	8
+習慣	jip kxv	3
+習思想	jip sia sqw	12
+似	jiq	17
+已	jiq	1
+似乎	jiq goa	20
+嗣	jiz	3
+俟	jkq	2
+斜	jqa	2
+邪	jqa	3
+斜槓	jqa kjx	2
+斜率	jqa lyt	3
+邪說	jqa oct	1
+斜對面	jqa ton mtv	0
+斜對面請	jqa ton mtv vtw	1
+祥子	jqs ciq	1
+翔子	jqs ciq	1
+詳見	jqs kev	1
+翔安區	jqs qaf xla	1
+詳細	jqs sez	7
+詳情	jqs zts	1
+像	jqw	58
+象	jqw	9
+象征	jqw ats	2
+像是	jqw itq	3
+像歌詞	jqw kaa jia	1
+像個	jqw kaz	1
+像意	jqw qkz	1
+像她	jqw raa	1
+像忠字舞	jqw tms ziz mlq	1
+像我	jqw waq	3
+像樣	jqw yqx	1
+謝	jqz	11
+謝謝	jqz jqz	1
+謝毅波	jqz wjn psa	1
+夕	jtk	3
+席	jtk	1
+席上	jtk iqw	2
+羨	jtv	2
+羨慕	jtv moz	233
+循	jyf	1
+馴悍記	jyf gav kkz	1
+循環	jyf gxf	21
+俗	jyk	2
+續	jyk	4
+續航	jyk gas	1
+俗務	jyk mlz	1
+遂	jyn	8
+松	jys	2
+哥	kaa	2
+歌	kaa	23
+歌唱	kaa eqx	9
+歌喉	kaa gua	0
+歌喉了	kaa gua leu	1
+歌詞	kaa jia	2
+歌頌	kaa jyx	1
+歌舞	kaa mlq	2
+歌聲	kaa ots	2
+歌曲	kaa xhk	4
+蓋	kab	11
+蓋着	kab dwk	1
+甘露	kad loz	1
+敢	kae	6
+敢說	kae oct	2
+敢言	kae wwf	0
+乾	kaf	3
+干	kaf	1
+肝	kaf	9
+乾甚麼	kaf iic msa	2
+乾甚麼	kaf iie msa	2
+干涉	kaf itp	2
+干祿	kaf luk	1
+干涉	kaf tep	6
+干預	kaf yhz	2
+高	kaj	32
+高頻	kaj bif	2
+高大	kaj dab	1
+高談	kaj dad	1
+高唐	kaj das	1
+高堂	kaj das	1
+高達	kaj dat	1
+高度	kaj doz	3
+高強	kaj gws	1
+高強度	kaj gws doz	1
+高校	kaj gzm	1
+高興	kaj hks	1
+高興	kaj hkx	1
+高血壓	kaj hrt qzp	0
+高上	kaj iqw	2
+高尚	kaj iqx	1
+高級	kaj kkp	9
+高估	kaj koq	1
+高官	kaj ksf	1
+高了	kaj leu	1
+高亮	kaj lqx	3
+高樓	kaj lua	1
+高明	kaj mgs	2
+高二	kaj nin	1
+高深	kaj oid	2
+高手	kaj onq	1
+高一	kaj qit	1
+高鐵	kaj ret	3
+高三	kaj sad	3
+高山	kaj sdf	1
+高數	kaj slz	23
+高速	kaj suk	5
+高低	kaj tea	1
+高知	kaj tga	0
+高知商	kaj tga oqs	1
+高等	kaj tlw	42
+高等原來	kaj tlw wbf llh	1
+高中	kaj tms	26
+高中生	kaj tms sgs	0
+高中的	kaj tms tek	1
+高額	kaj wzk	2
+高雅	kaj wzq	1
+高考	kaj xau	20
+高牆	kaj zqs	1
+各	kak	29
+閣	kak	2
+各種	kak ayw	17
+胳膀	kak bas	1
+各地	kak din	1
+胳膊	kak fak	1
+各詞	kak jia	1
+各個	kak kaz	4
+各國	kak kpk	5
+各邦	kak pjs	1
+各半	kak psv	1
+各生	kak sgs	1
+閣鈔	kak vzj	1
+各位	kak yhn	2
+各自	kak zin	2
+各字母	kak ziz muq	1
+告	kam	3
+告訴	kam soz	17
+告訴我	kam soz waq	2
+趕	kar	1
+趕上	kar iqw	1
+趕緊	kar kir	3
+剛	kas	29
+崗	kas	6
+剛裝	kas cws	1
+鋼琴	kas gkd	3
+剛好	kas ham	5
+剛好	kas hau	1
+剛柔	kas nna	1
+剛說	kas oct	1
+剛體	kas req	1
+剛想	kas sqw	1
+崗位	kas yhn	4
+割	kat	6
+割讓	kat nqx	1
+割集	kat zip	3
+稿	kau	9
+幹	kav	12
+杆	kav	1
+幹掉	kav dem	1
+幹活	kav gst	2
+幹甚麼	kav iie msa	1
+幹什麼	kav iip msa	2
+幹嘛	kav mza	1
+個	kaz	197
+個子	kaz ciq	4
+個頭	kaz dua	1
+個人	kaz nif	15
+個數	kaz slz	1
+個性	kaz stx	11
+逛	kbw	6
+逛街	kbw kda	1
+規	kca	1
+規範	kca bbe	2
+規則	kca clk	5
+規定	kca dex	2
+規費	kca fmn	1
+規劃	kca gfk	10
+規律	kca lyt	5
+街	kda	1
+佳節	kda cet	1
+街道	kda dau	1
+減	kde	16
+減肥	kde bmh	1
+減負	kde bmq	1
+減緩	kde gsr	1
+減少	kde otm	5
+艱	kdf	1
+間	kdf	20
+間接	kdf ctp	2
+隔	kdk	8
+隔着	kdk dwk	3
+隔間	kdk kdf	1
+隔離	kdk lta	2
+革命	kdk mgx	22
+隔壁	kdk pek	3
+隔音	kdk qkd	1
+革新	kdk sif	1
+夾	kdp	6
+夾子	kdp ciq	1
+解	kdq	12
+解讀	kdq duk	2
+解惑	kdq gpk	1
+解下	kdq gzz	1
+解決	kdq krt	26
+解釋	kdq otk	49
+解釋器	kdq otk xkn	1
+解放	kdq pbx	16
+解脫	kdq rst	1
+解析	kdq sek	15
+解得	kdq tlk	1
+柬	kdr	2
+簡	kdr	5
+簡直	kdr dkk	5
+簡稱	kdr eis	1
+柬埔寨	kdr foq zzb	1
+簡諧	kdr gzh	3
+簡潔	kdr ket	1
+簡介	kdr kzn	9
+簡體	kdr req	1
+簡寫	kdr sqq	1
+簡單	kdr taf	7
+簡單的	kdr taf tek	1
+簡短	kdr tsr	22
+頡	kdt	1
+雞	kea	5
+雞蛋	kea dar	2
+雞毛	kea maj	1
+雞巴	kea pza	17
+雞丁	kea tes	1
+兼	ked	2
+兼職	ked aik	3
+兼併	ked bew	2
+蒹葭	ked kza	2
+兼得	ked tlk	1
+堅	kef	2
+肩	kef	2
+肩並肩	kef bew kef	1
+堅挺	kef des	2
+堅定	kef dex	1
+堅持	kef dka	14
+堅稱	kef eis	1
+堅實	kef uit	1
+肩寬	kef xsf	1
+擊	kek	4
+激	kek	1
+擊敗	kek bzb	4
+激進	kek civ	2
+激進派	kek civ fdz	3
+激動	kek duw	2
+激活	kek gst	2
+擊鼓	kek koq	1
+激烈	kek ltt	2
+激起	kek xkq	1
+激情	kek zts	2
+叫	kem	14
+叫作	kem cak	7
+叫喊	kem gde	1
+叫你	kem nkq	1
+叫法	kem pbp	1
+經	kes	14
+經濟	kes cez	7
+涇川	kes ecf	1
+經常	kes iqs	8
+經過	kes ksa	3
+經歷	kes lek	3
+經典	kes ter	6
+經驗	kes wgc	6
+經籍	kes ztk	1
+結	ket	2
+結局	ket ghk	1
+結合	ket glp	3
+結婚	ket hof	2
+結果	ket ksq	43
+結構	ket kuz	8
+結構體	ket kuz req	1
+結論	ket lov	9
+結尾	ket mmy	1
+結識	ket oik	2
+結叔	ket onk	2
+結束	ket oyk	7
+結束了	ket oyk leu	1
+繳	keu	1
+見	kev	39
+見證	kev aix	1
+見見	kev kev	0
+見過	kev ksz	4
+見舞	kev mlq	2
+見識	kev oik	2
+見到	kev tam	1
+見得	kev tlk	4
+見旺	kev ybx	1
+見異思遷	kev yiz sia vtf	3
+徑	kex	4
+係	kez	6
+繼	kez	2
+計	kez	15
+計劃	kez gfk	7
+計時	kez iia	2
+繼承	kez iis	8
+繼續	kez jyk	13
+計較	kez kjk	1
+計網	kez mbw	13
+計入	kez nip	1
+計應	kez qkx	2
+計數	kez slz	4
+計數器	kez slz xkn	1
+計算	kez ssv	13
+計算機	kez ssv kjh	20
+計算器	kez ssv xkn	1
+計科	kez xsa	2
+計院	kez yvv	5
+掛	kfz	16
+掛科	kfz xsa	1
+掛課	kfz xsz	1
+檢	kge	7
+臉	kge	1
+檢查	kge zza	26
+嬌弱	kgj nqk	1
+驕傲	kgj wam	4
+喬樂	kgj wzm	1
+京	kgs	4
+驚	kgs	2
+京華	kgs gxa	1
+驚險	kgs hge	1
+驚慌	kgs hsw	1
+驚嚇	kgs hzk	1
+驚奇	kgs kga	1
+驚訝	kgs wzz	1
+京爺	kgs yqa	2
+境	kgw	1
+景	kgw	9
+警告	kgw kok	4
+景觀	kgw ksf	1
+境界	kgw kzn	1
+景物	kgw mmt	2
+景點	kgw tee	2
+警察	kgw vdt	3
+景氣循環	kgw xjn jyf gxf	1
+竟	kgx	5
+鏡	kgx	2
+鏡頭	kgx dua	1
+竟竇	kgx duz	1
+敬語	kgx wjq	4
+寄	kgz	12
+供	khs	2
+供電	khs dev	2
+恭維	khs yyh	1
+鞏固	khw koz	2
+供	khx	4
+供電	khx dev	5
+軌	khy	1
+軌跡	khy ctk	1
+緊	kir	2
+緊密	kir mkt	1
+緊張	kir tws	1
+居	kja	7
+居然	kja ntf	36
+居中	kja tms	1
+居于	kja yla	1
+斤	kjf	0
+機	kjh	16
+機制	kjh atb	2
+幾道	kjh dau	0
+機杼	kjh djq	1
+幾乎	kjh goa	6
+機會	kjh gsb	5
+機上	kjh iqx	1
+機霸	kjh pzz	2
+機器	kjh xkn	4
+機器人	kjh xkn nif	1
+覺	kjk	16
+角	kjk	7
+角度	kjk doz	9
+角度制	kjk doz atb	1
+角動量	kjk duw lqs	1
+角動量	kjk duw lqx	2
+角落	kjk lak	2
+覺醒	kjk sew	1
+角色	kjk skk	1
+覺得	kjk tlk	21
+覺剎	kjk vzt	1
+覺悟	kjk woz	1
+既	kjn	30
+既然	kjn ntf	8
+既廢	kjn pbb	1
+既知	kjn tga	1
+既往	kjn ybw	2
+既有	kjn ymq	2
+既存	kjn zof	1
+舉	kjq	14
+舉出	kjq eyt	1
+舉行	kjq gas	1
+舉個	kjq kaz	2
+舉例	kjq ltb	2
+舉手	kjq onq	1
+謹慎	kjr iiv	1
+江	kjs	2
+江畔	kjs bsv	1
+江湖	kjs goa	1
+江天	kjs ref	1
+江山	kjs sdf	2
+江岸	kjs wav	1
+江月	kjs wbt	3
+講	kjw	39
+講足	kjw cyk	1
+講稿	kjw kau	14
+講解	kjw kdq	2
+講究	kjw kmz	2
+講夠	kjw kuz	1
+講加	kjw kza	1
+講理	kjw liq	1
+講法	kjw pbp	2
+講到	kjw tam	1
+講的	kjw tek	1
+講得	kjw tlk	1
+港區	kjw xla	1
+講座	kjw zsz	1
+降	kjx	7
+降塵	kjx dkf	1
+降序	kjx jhq	1
+降低	kjx tea	4
+幾	kjy	13
+幾周	kjy ana	1
+幾道	kjy dau	1
+幾題	kjy dea	2
+幾處	kjy ehq	1
+幾行	kjy gas	1
+幾乎	kjy goa	3
+幾時	kjy iia	6
+幾十	kjy iip	1
+幾個	kjy kaz	21
+幾個字	kjy kaz ziz	1
+幾句	kjy klz	2
+幾輪	kjy lyf	1
+幾率	kjy lyt	1
+幾年	kjy nef	4
+幾首	kjy onq	1
+幾遍	kjy pev	1
+幾分鐘	kjy pmf ays	2
+幾吧	kjy pza	1
+幾百	kjy pzk	5
+幾百年	kjy pzk nef	3
+幾百年町副	kjy pzk nef rer fmk	2
+幾天	kjy ref	7
+幾張	kjy tws	1
+幾長	kjy tww	1
+幾千	kjy vef	3
+幾千調	kjy vef dej	1
+幾千裏	kjy vef liq	2
+幾次	kjy vin	1
+幾次硟動裏	kjy vin etv duw liq	1
+幾口	kjy xuq	1
+幾位	kjy yhn	2
+幾集	kjy zip	2
+據	kjz	4
+據說	kjz oct	3
+其	kka	2
+基	kka	4
+基準	kka ayr	2
+基佐	kka caz	3
+基地	kka din	4
+基擡	kka dlh	1
+基本	kka por	17
+基本上	kka por iqw	1
+基因	kka qif	2
+基數	kka slz	1
+基督	kka tok	1
+基督教	kka tok kzm	5
+基礎	kka vjq	24
+基坑	kka xzs	1
+基于	kka yla	4
+禁	kkc	3
+禁止	kkc aiq	8
+禁慾	kkc yyk	2
+禁用	kkc yyx	4
+今	kkd	53
+金	kkd	7
+金苹果	kkd bgs ksq	1
+金子	kkd ciq	1
+金樽	kkd cof	2
+今學	kkd gjk	1
+今回	kkd goh	1
+金和	kkd gsa	1
+金工	kkd kus	1
+今晚	kkd mbr	8
+今年	kkd nef	2
+今日	kkd nit	7
+金柝	kkd rak	2
+今添	kkd red	1
+今天	kkd ref	45
+今天，	kkd ref /	2
+今天出	kkd ref eyt	1
+金額	kkd wzk	1
+今有	kkd ymq	1
+今夜	kkd yqz	1
+今就	kkd znz	1
+錦	kke	1
+巾	kkf	1
+肌	kkh	1
+飢	kkh	1
+肌肉	kkh nnk	1
+冀	kkn	3
+級	kkp	24
+給	kkp	97
+級別	kkp bgt	1
+給你	kkp nkq	21
+給他	kkp raa	4
+給它	kkp raa	1
+級數	kkp slz	4
+給我	kkp waq	46
+給予	kkp yhq	2
+給油	kkp yna	1
+給錢	kkp ztf	1
+己	kkq	31
+紀	kkq	5
+紀檢	kkq kge	2
+紀錄	kkq lyk	1
+紀律	kkq lyt	5
+紀念	kkq nec	3
+紀念日	kkq nec nit	1
+紀委	kkq qvq	1
+記	kkz	34
+記者	kkz aqq	2
+記住	kkz dlz	3
+記下	kkz gzq	1
+記錄	kkz lyk	19
+記錄隔	kkz lyk kdk	1
+記筆記	kkz pkt kkz	1
+記不	kkz pmt	1
+記性	kkz stx	1
+記得	kkz tlk	24
+記在	kkz zly	1
+拘泥	kla nea	1
+俱樂部	kla wjk buq	0
+俱樂部說	kla wjk buq oct	1
+淦	kld	1
+淦添	kld red	1
+感	kle	12
+感動	kle duw	5
+感受	kle inq	5
+感覺	kle kjk	33
+感人	kle nif	2
+感說	kle oct	1
+感傷	kle oqs	1
+感不	kle pma	1
+感嘆	kle raf	1
+感想	kle sqw	1
+感性	kle stx	1
+感到	kle tam	8
+根	klf	7
+跟	klf	20
+跟着	klf dwk	5
+根樹	klf ipz	1
+跟上	klf iqw	1
+根據	klf kjz	22
+根目錄	klf mmk lyk	2
+跟沒	klf mot	2
+跟你	klf nkq	1
+根本	klf por	29
+跟本就	klf por znz	1
+根包	klf pzj	2
+跟包	klf pzj	1
+根益	klf qtk	1
+跟他	klf raa	1
+跟我	klf waq	2
+該	klh	32
+該類	klh lyn	1
+該死	klh siy	1
+概	kln	7
+鈣	kln	9
+概括	kln kst	5
+概論	kln lov	1
+概率	kln lyt	3
+概念	kln nec	6
+概述	kln uyt	1
+概闊	kln xst	2
+蛤粉	klp pmr	1
+矩	klq	3
+矩陣	klq dkv	3
+矩形	klq ges	1
+改	kly	60
+改作	kly cak	1
+改進	kly civ	5
+改動	kly duw	2
+改完	kly gsf	3
+改完了	kly gsf leu	1
+改善	kly itr	5
+改成	kly its	9
+改革	kly kdk	6
+改覺	kly kjk	1
+改了	kly leu	5
+改良	kly lqs	2
+改變	kly pgv	10
+改於	kly qja	1
+改于	kly yla	1
+改爲	kly yva	3
+改用	kly yyx	2
+改造	kly zau	7
+句	klz	6
+句子	klz ciq	4
+句末	klz mst	1
+句庫	klz xoz	1
+鳩	kma	1
+君	kmf	15
+軍	kmf	5
+軍閥	kmf bbt	1
+君子	kmf ciq	2
+軍訓	kmf hmv	7
+軍民	kmf mif	1
+軍書	kmf oha	2
+君不見	kmf pma kev	6
+軍帖	kmf rep	2
+軍事	kmf zkz	1
+歸	kmh	18
+歸效	kmh gzm	1
+歸結	kmh ket	1
+歸根	kmh klf	3
+歸家	kmh kza	1
+歸來	kmh llh	2
+歸去	kmh xjz	1
+貴	kmn	7
+貴池	kmn daa	1
+貴樹	kmn ipz	1
+貴物	kmn mmt	10
+貴方	kmn pbs	1
+貴族	kmn zuk	7
+久	kmq	21
+九	kmq	8
+九折	kmq att	1
+九十	kmq iip	1
+九郎	kmq las	1
+九萬理	kmq mbv liq	1
+九百	kmq pzk	1
+九土	kmq roq	1
+九點	kmq tee	1
+九月	kmq wbt	2
+九月月	kmq wbt wbt	1
+久遠	kmq ybr	1
+宮	kms	2
+宮車	kms eqa	1
+宮保	kms pau	1
+鬼	kmy	2
+鬼蓄	kmy rmk	1
+救	kmz	4
+究	kmz	4
+究竟	kmz kgx	2
+救我	kmz waq	7
+姑	koa	2
+孤	koa	8
+孤舟	koa ana	1
+辜負	koa bmq	1
+孤獨	koa duk	1
+孤高	koa kaj	1
+孤孤單單	koa koa taf taf	1
+孤立	koa lip	1
+孤陋寡聞	koa luz kxq mmf	3
+孤兒	koa nta	1
+孤島	koa tau	1
+孤點	koa tee	1
+孤月	koa wbt	1
+估	koq	1
+古	koq	6
+股	koq	2
+鼓	koq	1
+古代	koq dln	7
+鼓吹	koq eca	2
+古畫	koq gfz	2
+估計	koq kez	10
+古來	koq llh	1
+古文	koq mmf	2
+古詩	koq oia	0
+古詩文	koq oia mmf	2
+古風	koq pms	1
+鼓搗	koq tau	6
+鼓點	koq tee	1
+古典	koq ter	6
+古董	koq tuw	3
+滾	kor	1
+滾輪	kor lyf	1
+攻	kos	1
+固	koz	7
+故	koz	25
+顧	koz	1
+故障	koz aqs	1
+固定	koz dex	1
+顧及	koz gkp	0
+故鄉	koz hws	1
+故向	koz hwx	1
+固辭	koz jia	1
+顧慮	koz lhz	1
+故甯	koz nex	2
+固然	koz ntf	1
+故土	koz roq	1
+顧客	koz xzk	1
+僱員	koz yvf	1
+僱傭	koz yys	14
+國	kpk	36
+國際	kpk ctb	9
+國度	kpk doz	1
+國旗	kpk gka	1
+國徽	kpk hmh	1
+國貨	kpk hsz	1
+國光	kpk kss	1
+國家	kpk kza	46
+國家這	kpk kza aqz	1
+國力	kpk lik	4
+國民	kpk mif	1
+國門	kpk mof	1
+國內	kpk non	5
+國風	kpk pms	3
+國安	kpk qaf	6
+國安法	kpk qaf pbp	16
+國粹	kpk syn	2
+國外	kpk wsb	3
+國慶	kpk xgx	1
+決	krt	12
+訣別	krt bgt	2
+決定	krt dex	8
+決裂	krt ltt	2
+決心	krt sid	1
+桂	krz	2
+桂地	krz din	1
+桂林	krz lid	2
+桂爺	krz yqa	20
+戈矛	ksa mma	1
+冠	ksf	2
+官	ksf	3
+觀	ksf	14
+觀後感	ksf guz kle	5
+觀感	ksf kle	1
+官階	ksf kzh	2
+官僚	ksf lej	1
+觀望	ksf mbs	1
+官網	ksf mbw	6
+冠冕堂皇	ksf mgr das gss	1
+觀念	ksf nec	11
+觀賞	ksf oqw	1
+官方	ksf pbs	2
+觀點	ksf tee	8
+觀看	ksf xaf	1
+郭	ksk	5
+果	ksq	7
+果斷	ksq dsr	1
+果樹	ksq ipq	1
+果然	ksq ntf	12
+管	ksr	15
+管家	ksr kza	3
+管理	ksr liq	8
+管理器	ksr liq xkn	1
+管用	ksr yyx	1
+光	kss	9
+光程	kss dgs	2
+光程差	kss dgs vda	1
+光明	kss mgs	3
+橫眉怒目	kss mkh noq mmk	3
+光熱	kss ntt	1
+光譜	kss poq	1
+光柵	kss szv	2
+光彩	kss vly	1
+光榮	kss yvs	1
+括	kst	7
+括號	kst gaj	6
+括號	kst gam	2
+括風	kst pms	2
+館	ksv	3
+灌注	ksv apz	1
+館眄	ksv mer	1
+冠冕	ksv mgr	1
+廣	ksw	6
+廣州	ksw ana	1
+廣州話	ksw ana gxb	1
+廣大	ksw dab	1
+廣告	ksw kam	3
+廣西	ksw sea	26
+廣東	ksw tus	1
+廣東話	ksw tus gxb	1
+廣韻	ksw ymv	1
+過	ksz	87
+過大	ksz dab	1
+過池	ksz dga	1
+過程	ksz dgs	7
+過程中	ksz dgs tms	1
+過度	ksz doz	1
+過後	ksz guq	1
+過上	ksz iqw	4
+過勞	ksz laj	1
+過濾	ksz lhz	2
+過來	ksz llh	5
+過馬路	ksz mzq loz	1
+過分	ksz pmf	2
+過多	ksz taa	1
+過剩	ksz uix	1
+過去	ksz xjq	1
+過去	ksz xjz	24
+過去式	ksz xjz oik	1
+過于	ksz yla	1
+過載	ksz zln	1
+頸	ktw	2
+谷	kuk	3
+谷歌	kuk kaa	1
+狗	kuq	14
+狗屁	kuq fin	5
+狗罕見	kuq har kev	1
+狗叫	kuq kem	1
+苟能	kuq nls	1
+狗都	kuq toa	3
+公	kus	3
+功	kus	3
+工	kus	14
+攻	kus	5
+公諸	kus aha	1
+工諸于	kus aha yla	1
+工整	kus atw	1
+公平	kus bgs	2
+工作	kus cak	31
+工作羣	kus cak gmf	1
+工資	kus cih	3
+公子	kus ciq	3
+工程	kus dgs	12
+工程師	kus dgs skh	2
+工圖	kus doa	1
+工團	kus dsf	2
+工廠	kus eqw	2
+工號	kus gam	3
+公共	kus ghx	4
+工具	kus glz	16
+功效	kus gzm	1
+功耗	kus ham	1
+功成	kus its	1
+攻城	kus its	1
+攻堅	kus kef	6
+攻擊	kus kek	1
+公交	kus kzj	3
+公交車	kus kzj eqa	1
+公教	kus kzm	1
+公里	kus liq	9
+公路	kus loz	1
+功率	kus lyt	1
+公網	kus mbw	4
+公民	kus mif	3
+工人	kus nif	13
+公認	kus niv	3
+工女	kus njq	1
+功能	kus nls	38
+功能性	kus nls stx	0
+功能性類	kus nls stx lyn	1
+公式	kus oik	9
+工商	kus oqs	1
+功夫	kus pla	1
+工夫	kus pla	3
+公佈	kus poz	3
+工選	kus scr	1
+公選課	kus scr xsz	1
+公司	kus sia	4
+功底	kus teq	1
+功德	kus tlk	1
+公妻	kus vea	1
+公妻製	kus vea atb	7
+公元前	kus wbf zef	0
+工業	kus wwp	13
+工業我	kus wwp waq	1
+公開	kus xlh	6
+工科	kus xsa	3
+貢獻	kux hwv	3
+夠	kuz	12
+構	kuz	5
+構成	kuz its	1
+構建	kuz kwv	1
+構造	kuz zau	3
+構造器	kuz zau xkn	2
+卷	kvr	14
+卷面	kvr mtv	1
+卷死	kvr siy	1
+卷	kvv	5
+劍	kwc	1
+劍閣	kwc kak	1
+卻	kwk	1
+腳	kwk	1
+腳步	kwk boz	3
+腳本	kwk por	13
+蹇落	kwr lak	2
+繮繩	kws uis	0
+繮繩作	kws uis cak	1
+疆域	kws ykk	1
+揭	kwt	1
+揭露	kwt loz	2
+揭示	kwt uin	1
+建	kwv	9
+建國	kwv kpk	2
+建立	kwv lip	13
+建設	kwv ott	18
+建議	kwv wgz	6
+瓜	kxa	1
+瓜分	kxa pmf	1
+關	kxf	9
+關評	kxf bgs	1
+關鍵	kxf ggf	7
+關鍵詞	kxf ggf jia	5
+關鍵字	kxf ggr ziz	11
+關乎	kxf goa	1
+關係	kxf kez	57
+關聯	kxf ltf	2
+關門	kxf mof	2
+關閉	kxf pez	2
+關山	kxf sdf	1
+關心	kxf sid	4
+關雎	kxf vha	1
+關于	kxf yla	26
+怪	kxn	6
+怪談	kxn dad	1
+怪不答	kxn pma tlp	1
+寡	kxq	1
+刮目	kxt mmk	1
+慣	kxv	2
+均	kyf	2
+均分	kyf pmf	1
+加	kza	94
+家	kza	7
+加之	kza aia	2
+加進	kza civ	2
+加載	kza cln	3
+加大	kza dab	2
+家庭	kza des	20
+家長	kza dws	3
+加劇	kza ggk	4
+加完	kza gsf	1
+加權	kza gvf	1
+加強	kza gws	12
+加強版	kza gws pzr	1
+加好	kza hau	1
+家鄉	kza hws	9
+加上	kza iqw	11
+加成	kza its	10
+嘉祥	kza jqs	1
+加簡	kza kdr	2
+家境	kza kgw	1
+加急	kza kkp	1
+家國	kza kpk	1
+家裏	kza liq	9
+加密	kza mkt	1
+家人們	kza nif mof	2
+加入	kza nip	7
+加不進	kza pma civ	1
+加不了	kza pma leu	1
+加班	kza pzf	3
+枷鎖	kza ssq	1
+加速	kza suk	1
+加速度	kza suk doz	7
+家中	kza tms	1
+家長	kza tww	2
+加考	kza xau	1
+加起來	kza xkq llh	2
+家園	kza ybf	1
+加以	kza yiq	5
+加油	kza yna	1
+家族	kza zuk	2
+犗	kzb	1
+鑑	kzc	1
+鑑定	kzc dex	2
+監視	kzc iin	1
+監工	kzc kus	1
+監控	kzc xjs	1
+監控室	kzc xjs oit	1
+皆	kzh	38
+街	kzh	1
+階段	kzh dsv	2
+皆是	kzh itq	2
+皆成	kzh its	1
+階級	kzh kkp	61
+階級對立	kzh kkp ton lip	1
+階梯	kzh rea	1
+交	kzj	26
+膠	kzj	2
+交談	kzj dad	1
+交互	kzj goz	11
+交換	kzj gsv	3
+交換律	kzj gsv lyt	1
+交上去	kzj iqw xjz	1
+交給	kzj kkp	1
+交給我	kzj kkp waq	1
+交卷	kzj kvv	5
+咬了	kzj leu	1
+交流	kzj lna	5
+交替	kzj rez	1
+交涉	kzj tep	1
+交差	kzj vda	2
+交往	kzj ybw	2
+交集	kzj zip	2
+交錢	kzj ztf	1
+格	kzk	10
+格子	kzk ciq	2
+格式	kzk oik	24
+格式化	kzk oik hxz	2
+教	kzm	36
+較	kzm	5
+教導	kzm dam	13
+教堂	kzm das	1
+教程	kzm dgs	3
+教行	kzm gas	1
+教學	kzm gjk	1
+教學樓	kzm gjk lua	1
+教學班	kzm gjk pzf	2
+教會	kzm gsb	4
+教皇	kzm gss	2
+教訓	kzm hmv	3
+教授	kzm inz	1
+較高	kzm kaj	1
+教官	kzm ksf	1
+教工	kzm kus	1
+教練	kzm lev	2
+教務處	kzm mlz ehq	0
+教室	kzm oit	4
+教室裏	kzm oit liq	1
+教師	kzm skh	7
+較多	kzm taa	1
+教示	kzm uin	1
+教我	kzm waq	14
+校驗	kzm wgc	1
+教育	kzm ynk	27
+教員	kzm yvf	9
+教材	kzm zlh	5
+介	kzn	1
+屆	kzn	3
+界	kzn	2
+介質	kzn ait	1
+戒酒	kzn cnq	1
+介紹	kzn itu	9
+界面	kzn mtv	12
+甲	kzp	4
+假	kzq	3
+假則表達式	kzq clk pgu dat oik	1
+假裝	kzq cws	1
+假名	kzq mts	5
+假如	kzq nha	1
+假設	kzq ott	1
+假想敵	kzq sqw dek	2
+假言	kzq wwf	1
+假言推理	kzq wwf roh liq	2
+假言三段論	kzq wwf sad dsv lov	5
+假言易位	kzq wwf ytk yhn	1
+庚	kzs	1
+更	kzs	4
+更漂亮	kzs ftj lqx	1
+更改	kzs kly	2
+更替	kzs rez	1
+更新	kzs sif	6
+更多	kzs taa	2
+尜	kzt	1
+搞	kzu	35
+搞定	kzu dex	10
+搞好	kzu ham	1
+搞了	kzu leu	0
+搞到	kzu tam	1
+梗	kzw	5
+更	kzx	41
+更正	kzx atx	2
+更大	kzx dab	2
+更其	kzx gka	2
+更好	kzx hau	2
+更是	kzx itq	3
+更像	kzx jqw	1
+更改	kzx kly	1
+更加	kzx kza	10
+更名	kzx mts	1
+更不用	kzx pma yyx	1
+更丑	kzx rmq	1
+更新	kzx sif	16
+更信	kzx siv	1
+更多	kzx taa	4
+更低	kzx tea	1
+更懂	kzx tuw	1
+更快	kzx xxb	3
+假	kzz	3
+駕照	kzz atm	1
+架子	kzz ciq	1
+價值	kzz dkk	2
+價值觀	kzz dkk ksf	2
+價格	kzz kzk	2
+假命題	kzz mgx dea	3
+假的	kzz tek	1
+駕馭	kzz wjz	1
+駕考	kzz xau	1
+羅	laa	2
+鑼	laa	1
+蘿蔔	laa blk	1
+羅曼	laa msf	2
+羅馬	laa mzq	7
+羅馬尼亞	laa mzq nkh qzz	2
+藍	lad	7
+藍綠	lad lyk	1
+藍色	lad skk	3
+攬	lae	1
+欄	laf	9
+蘭	laf	1
+勞	laj	4
+撈	laj	3
+勞者	laj aqq	1
+勞作	laj cak	2
+撈揄	laj duq	1
+勞動	laj duw	43
+勞動者	laj duw aqq	3
+勞工	laj kus	1
+樂	lak	17
+落	lak	3
+樂子	lak ciq	2
+落後	lak guz	1
+落入	lak nip	1
+落水	lak oyy	1
+樂趣	lak vpz	1
+落伍	lak woq	2
+洛克	lak xlk	0
+懶	lar	2
+懶惰	lar dsq	2
+懶狗	lar kuq	1
+懶得	lar tlk	1
+狼	las	1
+剌	lat	1
+喇	lat	2
+辣	lat	9
+辣椒	lat ctj	1
+佬	lau	27
+老	lau	15
+老大爺	lau dab yqa	2
+老調	lau dej	1
+老頭	lau dua	4
+老出	lau eyt	3
+老是	lau itq	8
+老古董	lau koq tuw	7
+老齡化	lau les hxz	1
+老人	lau nif	3
+老式	lau oik	1
+老夫	lau pla	1
+老夫老妻	lau pla lau vea	2
+老闆	lau pzr	1
+老師	lau skh	49
+佬妻	lau vea	1
+老妻	lau vea	1
+老友	lau ymq	1
+爛	lav	3
+爛尾樓	lav mmy lua	4
+爛屄	lav pih	2
+朗讀	law duk	2
+浪	lax	1
+浪費	lax fmn	8
+浪漫	lax msv	2
+邏輯	laz zip	4
+累	lcq	1
+劣	lct	1
+戀	lcv	2
+戀愛	lcv qln	4
+累	lcz	1
+累死	lcz siy	1
+臉	lde	4
+臉上	lde iqw	1
+黎明	lea mgs	2
+聊	lej	3
+聊天	lej ref	3
+鐐銬	lej xam	1
+歷	lek	2
+歷害	lek gab	2
+歷來	lek llh	1
+曆書	lek oha	1
+歷史	lek skq	20
+歷史上	lek skq iqw	1
+歷史久遠	lek skq kmq ybr	1
+料	lem	4
+料理	lem liq	2
+禮	leq	2
+禮節	leq cet	1
+禮品	leq fke	1
+禮尚往來	leq iqs ybw llh	1
+禮尚	leq iqx	1
+禮教	leq kzm	3
+禮物	leq mmt	1
+禮拜	leq pzn	2
+令	les	2
+零	les	9
+靈活	les gst	2
+零分	les pmf	1
+靈通	les rus	1
+零星	les ses	1
+零點	les tee	1
+戾	let	6
+了	leu	1318
+撩上	leu iqw	2
+瞭解	leu kdq	4
+了維羅納	leu yyh laa nlp	1
+練	lev	1
+練好	lev hau	0
+練習	lev jip	5
+鍊式	lev oik	1
+練複現	lev pmk gev	1
+冷	lew	3
+冷漠	lew mak	1
+冷點	lew tee	1
+冷靜	lew ztw	1
+另	lex	10
+令人	lex nif	7
+令人配	lex nif fon	1
+另一	lex qit	3
+另一臺	lex qit dlh	1
+另一個	lex qit kaz	8
+令我	lex waq	2
+另外	lex wsb	7
+另存爲	lex zof yva	3
+麗	lez	1
+旅	lhq	1
+旅遊	lhq yna	2
+慮	lhz	7
+濾	lhz	3
+臨時	lic iia	1
+林	lid	2
+臨	lid	2
+臨時	lid iia	2
+鄰	lif	3
+鄰國	lif kpk	0
+鄰家	lif kza	5
+梨	lih	1
+力	lik	69
+力度	lik doz	3
+力學	lik gjk	1
+力距	lik gjq	1
+力量	lik lqs	12
+力壓	lik qzp	1
+力扣	lik xuz	1
+利	lin	3
+利害	lin gab	3
+利己	lin kkq	7
+利滾利	lin kor lin	1
+利人	lin nif	2
+利益	lin qtk	11
+利器	lin xkn	2
+利于	lin yla	1
+利用	lin yyx	7
+立	lip	5
+粒	lip	5
+立即	lip cik	4
+立葺	lip cip	1
+立定	lip dex	1
+立住	lip dlz	1
+立場	lip dws	1
+立馬	lip mzq	1
+立法	lip pbp	1
+立刻	lip xlk	1
+李	liq	7
+裏	liq	271
+李總理	liq cuw liq	1
+里程	liq dgs	1
+裏番	liq fbf	1
+李強	liq gws	1
+李華	liq gxa	1
+理解	liq kdq	18
+李金羽	liq kkd ylq	1
+理工	liq kus	3
+理論	liq lov	5
+裏面	liq mtv	24
+理念	liq nec	6
+李富斌	liq pmz pkf	1
+李安	liq qaf	1
+李四	liq sin	3
+理想	liq sqw	6
+李斯	liq sta	1
+理性	liq stx	4
+李登輝	liq tls hmh	1
+理科	liq xsa	2
+理由	liq yna	2
+菱鏡	lis kgx	0
+栗	lit	2
+履行	liy gas	1
+嵐色	lld skk	1
+來	llh	239
+來這裏	llh aqz liq	2
+來回	llh goh	1
+來過	llh ksz	3
+來了	llh leu	2
+來拿	llh nza	0
+來拿義主	llh nza wgz apq	1
+來說	llh oct	6
+來勢洶洶	llh otb hhs hhs	1
+來到	llh tam	1
+來源	llh wbf	3
+來源于	llh wbf yla	1
+來用	llh yyx	1
+來自	llh zin	1
+勒	llk	1
+拉	llp	17
+拉力	llp lik	2
+拉隴	llp lyw	2
+拉屎	llp oiy	1
+垃圾	llp slp	4
+拉丁	llp tes	14
+拉丁隨意	llp tes jca qkz	1
+拉丁文	llp tes mmf	1
+拉丁姆	llp tes muq	2
+拉丁語	llp tes wjq	39
+拉丁語的	llp tes wjq tek	1
+拉張	llp tws	1
+拉語	llp wjq	2
+拉齊奧	llp zea qam	2
+劉	lna	3
+流	lna	12
+留	lna	1
+流傳	lna dvf	2
+流行	lna gas	3
+流下	lna gzq	1
+流下了	lna gzq leu	1
+留下	lna gzz	1
+流火	lna hsq	5
+流向	lna hwx	1
+留給	lna kkp	1
+瀏覽	lna lae	1
+瀏覽器	lna lae xkn	16
+流量	lna lqs	1
+流亡	lna mbs	2
+流式	lna oik	1
+留守	lna onq	1
+流水	lna oyy	6
+劉星海	lna ses hly	1
+流霜	lna sws	1
+六	lnk	7
+陸	lnk	10
+六種	lnk ayw	1
+六經	lnk kes	4
+六級	lnk kkp	2
+六國	lnk kpk	3
+六樓	lnk lua	1
+六年	lnk nef	1
+六天	lnk ref	1
+六色	lnk skk	1
+六點	lnk tee	2
+六月	lnk wbt	10
+六月四日	lnk wbt sin nit	2
+六圈	lnk xvf	1
+柳州	lnq ana	3
+柳高	lnq kaj	3
+雷	loh	2
+雷霆	loh des	1
+雷普	loh foq	2
+雷普哈特	loh foq hlp dlk	1
+雷姆	loh muq	2
+魯迅	loq syv	1
+論	lov	10
+論證	lov aix	4
+論是	lov itq	1
+論文	lov mmf	38
+論述	lov uyt	2
+路	loz	13
+露	loz	9
+露出	loz eyt	1
+路上	loz iqw	4
+路徑	loz kex	15
+露信息	loz siv sik	1
+路線	loz stv	9
+路的	loz tek	1
+路由	loz yna	3
+縷	lpq	1
+余	lqa	35
+余等	lqa tlw	1
+掠	lqk	1
+樑	lqs	2
+良	lqs	6
+量	lqs	1
+梁嘉誠	lqs kza its	1
+良心	lqs sid	1
+梁實秋	lqs uit vna	1
+良苦	lqs xoq	2
+兩	lqw	35
+兩週	lqw ana	3
+兩者	lqw aqq	1
+兩制	lqw atb	11
+兩制又要	lqw atb ymz qtj	1
+兩種	lqw ayw	2
+兩倍	lqw bly	2
+兩份	lqw bmv	1
+兩節	lqw cet	1
+兩節半	lqw cet psv	1
+兩段	lqw dsv	1
+兩篇	lqw ftf	1
+兩行	lqw gas	1
+兩件	lqw ggr	1
+兩回	lqw goh	1
+兩下	lqw gzz	2
+兩個	lqw kaz	51
+兩個人	lqw kaz nif	2
+兩個月	lqw kaz wbt	3
+兩句	lqw klz	2
+兩萬	lqw mbv	1
+兩碼	lqw mzq	3
+兩年	lqw nef	3
+兩人	lqw nif	1
+兩邊	lqw pef	3
+兩遍	lqw pev	1
+兩天	lqw ref	4
+兩三	lqw sad	2
+兩心	lqw sid	1
+兩數	lqw slz	1
+兩數組	lqw slz coq	2
+兩小時	lqw stu iia	1
+兩千	lqw vef	5
+兩千年	lqw vef nef	1
+兩次	lqw vin	9
+兩岸	lqw wav	4
+兩層	lqw zls	2
+兩情	lqw zts	1
+亮	lqx	3
+量	lqx	12
+亮相	lqx sqx	1
+螺螄粉	lsa skh pmr	2
+巒	lsf	2
+裸	lsq	1
+裸露	lsq loz	1
+裸分	lsq pmf	1
+裸考	lsq xau	2
+卵	lsr	1
+卵有	lsr ymq	1
+亂	lsv	8
+亂完	lsv gsf	1
+亂了	lsv leu	1
+亂倫	lsv lyf	1
+亂碼	lsv mzq	1
+亂七	lsv vit	1
+離	lta	4
+離鄉	lta hws	1
+離你	lta nkq	2
+離譜	lta poq	1
+離散性	lta sar stx	1
+離散	lta sav	17
+離我	lta waq	2
+離開	lta xlh	1
+例	ltb	7
+例子	ltb ciq	17
+例如	ltb nha	11
+例外	ltb wsb	1
+聯	ltf	1
+連	ltf	39
+連接	ltf ctp	5
+鏈接	ltf ctp	1
+連同	ltf dus	2
+連着	ltf dwk	4
+聯繫	ltf gez	2
+聯合	ltf glp	11
+聯合體	ltf glp req	1
+連上	ltf iqw	2
+連續	ltf jyk	10
+聯繫	ltf kez	4
+連連看	ltf ltf xaf	1
+聯盟	ltf mgs	1
+連任	ltf nic	2
+鏈表	ltf pgu	1
+連不上	ltf pma iqw	1
+連印歐	ltf qiv qua	1
+聯通	ltf rus	3
+聯想	ltf sqw	6
+連鎖店	ltf ssq tec	1
+連線	ltf stv	1
+連線題	ltf stv dea	1
+聯考	ltf xau	1
+連用	ltf yyx	0
+連用形	ltf yyx ges	1
+邐迤	ltq yta	1
+列	ltt	17
+裂	ltt	6
+列強	ltt gws	1
+列車	ltt kja	1
+列寧	ltt nes	2
+列表	ltt pgu	4
+列爲	ltt yva	1
+領	ltw	5
+領導	ltw dam	2
+領導人	ltw dam nif	1
+領會	ltw gsb	1
+領土	ltw roq	4
+領先	ltw sef	2
+領到	ltw tam	1
+領域	ltw ykk	5
+令人	ltx nif	2
+樓	lua	4
+鹿原	luk wbf	5
+攏	luw	1
+弄	lux	11
+弄混	lux gor	1
+弄得	lux tlk	3
+漏	luz	5
+漏洞	luz dux	3
+輪	lyf	7
+輪子	lyf ciq	2
+輪不到	lyf pma tam	1
+倫敦	lyf tof	2
+綠	lyk	3
+錄	lyk	14
+錄入	lyk nip	9
+錄音	lyk qkd	1
+綠色	lyk skk	1
+綠燈	lyk tls	1
+錄取	lyk vpq	1
+錄取率	lyk vpq lyt	1
+類	lyn	118
+類圖	lyn doa	8
+類型	lyn ges	48
+類似	lyn jiq	17
+類似于	lyn jiq yla	2
+類似用	lyn jiq yyx	1
+類像	lyn jqw	1
+類名	lyn mts	1
+淚人	lyn nif	2
+類人猿	lyn nif ybf	1
+淚水	lyn oyy	1
+類變量	lyn pgv lqs	1
+類中	lyn tms	1
+龍	lys	2
+龍哥	lys kaa	1
+律	lyt	11
+率	lyt	9
+壟斷	lyw dsr	2
+毛	maj	2
+毛澤東	maj dzk tus	5
+毛書	maj oha	1
+毛詩	maj oia	2
+毛粉	maj pmr	2
+莫	mak	9
+莫名	mak mts	2
+莫如	mak nha	1
+漠不	mak pma	1
+莫非	mak pmh	1
+摸索出	mak sak eyt	0
+莫使	mak skq	2
+幕牆	mak zqs	0
+冒泡	mam fzj	1
+冒號	mam gam	1
+冒險	mam hge	5
+忙	mas	3
+芒	mas	1
+芒種	mas ayw	1
+忙了	mas leu	1
+茫然	mas ntf	1
+晚	mbr	6
+晚飯	mbr bbr	3
+晚上	mbr iqw	17
+晚餐	mbr vaf	1
+晚課	mbr xsz	1
+晚自習	mbr zin jip	3
+亡	mbs	6
+襪子	mbt ciq	1
+萬	mbv	13
+萬股	mbv koq	1
+萬里	mbv liq	3
+萬物	mbv mmt	4
+萬一	mbv qit	1
+萬歲	mbv scb	1
+網	mbw	14
+網址	mbw aiq	2
+網盤	mbw bsf	1
+網費	mbw fmn	1
+網頁	mbw get	18
+網頁版	mbw get pzr	2
+網上	mbw iqw	8
+網管	mbw ksr	1
+網工	mbw kus	27
+網絡	mbw lak	18
+網絡廣告	mbw lak ksw kam	1
+網線	mbw stv	2
+網站	mbw tdc	20
+網眼	mbw wdr	1
+網課	mbw xsz	1
+網友	mbw ymq	1
+網易	mbw ytz	4
+忘	mbx	33
+望	mbx	4
+忘己	mbx kkq	1
+忘記	mbx kkz	22
+忘了	mbx leu	3
+忘字	mbx ziz	1
+䁲	mda	2
+脈	mdk	2
+麥	mdk	2
+買	mdq	32
+買過	mdq ksz	2
+買了	mdq leu	1
+買賣	mdq mdz	10
+買到	mdq tam	1
+賣	mdz	7
+賣布	mdz poz	5
+賣淫	mdz yid	4
+咪	mea	2
+迷迷糊糊	mea mea goa goa	1
+迷信	mea siv	1
+迷語	mea wjq	1
+迷語人	mea wjq nif	1
+迷誤	mea woz	1
+迷起	mea xkq	1
+米	meq	9
+米哈	meq hlp	0
+米哈遊	meq hlp yna	1
+米國	meq kpk	1
+米色	meq skk	1
+眄	mer	2
+冥	mes	3
+銘牌	mes bzh	1
+麪	mev	1
+麪餅	mev ptw	1
+茗	mew	1
+描	mgj	2
+描繪	mgj gsb	1
+描述	mgj uyt	5
+廟堂	mgm das	1
+靡	mgq	1
+免費	mgr fmn	1
+勉強	mgr gws	7
+勉爲其難	mgr yva gka naf	1
+明	mgs	28
+鳴	mgs	3
+明珠	mgs apa	2
+明白	mgs bzk	12
+明堂	mgs das	2
+明朝	mgs dgj	1
+明治	mgs dkz	2
+明顯	mgs her	2
+明鏡	mgs kgx	2
+明亮	mgs lqx	1
+明日	mgs nit	3
+明然	mgs ntf	1
+明天	mgs ref	20
+明星	mgs ses	1
+明清	mgs vts	0
+明確	mgs xjk	1
+命	mgx	12
+命題	mgx dea	12
+命令	mgx les	15
+命令行	mgx les gas	2
+命令行	mgx lex gas	1
+命名	mgx mts	1
+命運	mgx ymv	3
+民	mif	12
+民主	mif apq	3
+民主黨	mif apq taw	0
+民國	mif kpk	2
+民風	mif pms	2
+民生	mif sgs	13
+民心	mif sid	11
+民宿	mif snk	1
+民營	mif ycs	1
+民族	mif zuk	24
+繆	mim	5
+謬	mim	1
+蜜意	mit qkz	1
+閩	mkf	1
+敏感	mkr kle	2
+密	mkt	1
+密碼	mkt mzq	5
+密切	mkt vet	1
+美	mky	10
+鎂	mky	2
+美酒	mky cnq	1
+美團	mky dsf	1
+美好	mky hau	1
+美軍	mky kmf	4
+美國	mky kpk	17
+美國人	mky kpk nif	3
+美國犦	mky kpk pok	1
+美利堅	mky lin kef	1
+美文	mky mmf	1
+美味	mky mmn	3
+美滿	mky msr	1
+美人	mky nif	1
+美帝	mky tez	1
+美元	mky wbf	4
+無	mla	62
+無障礙	mla aqx wln	1
+無出	mla eyt	0
+無出路	mla eyt loz	2
+無妨	mla fbs	1
+無限	mla gdr	5
+無期	mla gka	1
+無窮	mla gms	5
+無窮小	mla gms stu	1
+無效	mla gzm	1
+無暇	mla gzz	1
+無成	mla its	1
+無序	mla jhq	2
+蕪詞	mla jia	1
+無力	mla lik	3
+無論	mla lov	2
+無路	mla loz	1
+無燎	mla ltj	1
+無味	mla mmn	2
+無奈何	mla nab gaa	1
+毋甯	mla nex	1
+無二	mla nin	1
+無能	mla nls	2
+無傷	mla oqs	1
+無法	mla pbp	7
+無邊	mla pef	1
+無邊出	mla pef eyt	1
+無標點	mla ptj tee	1
+無意義	mla qkz wgz	1
+無產者	mla sdr aqq	9
+無產階級	mla sdr kzh kkp	30
+無產階級高	mla sdr kzh kkp kaj	1
+無所	mla sjq	2
+無所憶	mla sjq qkk	1
+無所思	mla sjq sia	1
+無所謂	mla sjq ymn	2
+無需	mla spa	3
+無需他只	mla spa raa atq	1
+無線	mla stv	0
+無線鼠標	mla stv ohq ptj	1
+無知	mla tga	0
+無端	mla tsf	1
+無術	mla uyt	1
+無疑	mla wka	3
+無可	mla xaq	3
+無可專	mla xaq acf	1
+無以	mla yiq	0
+無以言	mla yiq wwf	1
+無謂	mla ymn	2
+無用	mla yyx	4
+無慈悲	mla zia pkh	3
+無情	mla zts	2
+無從	mla zys	2
+么任	mlk nic	1
+默認	mlk niv	16
+默認值	mlk niv dkk	1
+墨西哥	mlk sea kaa	1
+武	mlq	1
+舞	mlq	4
+武裝	mlq cws	1
+武功	mlq kus	1
+舞女	mlq njq	1
+武術	mlq uyt	1
+武器	mlq xkn	2
+𢮇	mly	2
+務	mlz	9
+霧	mlz	2
+矛	mma	1
+矛盾	mma dor	1
+謀遁	mma dov	1
+文	mmf	26
+紋	mmf	1
+聞	mmf	51
+文章	mmf aqs	4
+文壇	mmf daf	2
+聞題	mmf dea	1
+文件	mmf ggr	93
+文件夾	mmf ggr kdp	6
+文學	mmf gjk	5
+文具	mmf glz	7
+文獻	mmf hwv	13
+文華	mmf hxa	1
+文化	mmf hxz	23
+文化願	mmf hxz wbv	1
+文革	mmf kdk	7
+文明	mmf mgs	2
+文本	mmf por	7
+文案	mmf qav	1
+文山州	mmf sdf ana	1
+文思	mmf sia	1
+聞所未聞	mmf sjq mmn mmf	1
+聞到	mmf tam	2
+文檔	mmf tas	24
+聞黨	mmf taw	1
+文摘	mmf tdk	2
+聞知	mmf tga	1
+文藝	mmf wtb	3
+文庫	mmf xoz	1
+文科	mmf xsa	2
+文字	mmf ziz	8
+微	mmh	4
+微調	mmh dej	2
+微胖	mmh fjx	1
+微軟	mmh ncr	1
+微風	mmh pms	2
+微笑	mmh stm	2
+微存	mmh zof	3
+牧	mmk	0
+目	mmk	5
+牧之源	mmk aia wbf	1
+目光	mmk kss	4
+目錄	mmk lyk	10
+目標	mmk ptj	3
+目的	mmk tek	10
+目測	mmk vkk	1
+目前	mmk zef	8
+味	mmn	3
+未	mmn	34
+味道	mmn dau	2
+未填充	mmn def ens	1
+未定	mmn dex	1
+未定義	mmn dex wgz	1
+未完	mmn gsf	1
+未完成	mmn gsf its	1
+味效	mmn gzm	1
+未受	mmn inq	1
+未解	mmn kdq	1
+未來	mmn llh	12
+未免	mmn mgr	1
+未聲明	mmn ots mgs	1
+未掃描	mmn sau mgj	1
+未知	mmn tga	1
+未用	mmn yyx	1
+未曾	mmn zls	3
+吻	mmr	2
+夢囈	mms wtb	1
+勿	mmt	13
+物	mmt	10
+物質	mmt ait	11
+物種	mmt ayw	1
+物管	mmt ksr	1
+物價	mmt kzz	1
+物理	mmt liq	10
+物理性質	mmt liq stx ait	1
+物理實驗	mmt liq uit wgc	0
+勿忘	mmt mbx	2
+物體	mmt req	1
+問	mmv	22
+問題	mmv dea	73
+問號	mmv gam	2
+問候	mmv guz	2
+問過	mmv ksz	2
+問女	mmv njq	1
+問你	mmv nkq	3
+問新	mmv sif	1
+問到	mmv tam	1
+問錯人	mmv voz nif	1
+夢鄉	mmx hws	1
+尾	mmy	1
+莓	mmz	1
+摸	moa	2
+模範	moa bbe	2
+模仿	moa fbw	2
+模糊	moa goa	8
+模式	moa oik	11
+模板	moa pzr	10
+摸索	moa sak	1
+模擬	moa wkq	5
+模塊	moa xon	2
+模塊	moa xxn	18
+模塊化	moa xxn hxz	2
+們	mof	54
+門	mof	17
+門第	mof dez	1
+門類	mof lyn	1
+門錢	mof ztf	1
+梅	moh	1
+煤	moh	3
+梅特涅	moh dlk net	3
+枚舉	moh kjq	3
+梅蘭芳	moh laf fbs	1
+媒體	moh req	1
+妹	mon	2
+每	mon	1
+媽	moq	5
+媽有	moq ymq	1
+沒	mot	174
+沒電	mot dev	1
+沒甚麼	mot iie msa	1
+沒改	mot kly	2
+沒關	mot kxf	1
+沒加	mot kza	1
+沒了	mot leu	2
+沒問	mot mmv	1
+沒問題	mot mmv dea	1
+沒那麼	mot naa msa	1
+沒人	mot nif	3
+沒你	mot nkq	1
+沒能	mot nls	1
+沒說	mot oct	1
+沒收	mot ona	1
+沒法	mot pbp	3
+沒必要	mot pit qtj	2
+沒寫	mot sqq	2
+沒寫完	mot sqq gsf	1
+沒想到	mot sqw tam	3
+沒到	mot tam	1
+沒點	mot tee	2
+沒得	mot tlk	9
+沒錯	mot vak	1
+沒看	mot xav	0
+沒看的	mot xav tek	1
+沒有	mot ymq	184
+沒有人	mot ymq nif	1
+沒用	mot yyx	4
+沒用過	mot yyx ksz	1
+沒事	mot zkz	4
+沒錢	mot ztf	1
+每	moy	29
+每週	moy ana	1
+每逢	moy bhs	1
+每跑	moy bzj	1
+每節	moy cet	1
+每個	moy kaz	17
+每個人	moy kaz nif	4
+每個人是	moy kaz nif itq	1
+每隔	moy kdk	1
+每公里	moy kus liq	1
+每人	moy nif	2
+每日	moy nit	1
+每分鐘	moy pmf ays	1
+每一	moy qit	0
+每一節	moy qit cet	1
+每一個	moy qit kaz	6
+每天	moy ref	6
+每當	moy tas	1
+每次	moy vin	11
+每集	moy zip	1
+每字	moy ziz	2
+暮	moz	9
+暮色	moz skk	1
+麼	msa	52
+魔怔	msa ats	1
+摩根	msa klf	0
+魔改	msa kly	5
+摩托	msa rak	2
+磨刀	msa taj	1
+磨到	msa tam	1
+摩登	msa tls	1
+磨搓	msa vaa	1
+磨蹭	msa vlx	1
+磨牙	msa wza	1
+滿	msr	6
+滿足	msr cyk	4
+滿分	msr pmf	6
+滿意	msr qkz	1
+滿月	msr wbt	1
+滿腔	msr xjs	1
+滿課	msr xsz	1
+滿口	msr xuq	1
+抹	mst	3
+末	mst	22
+末尾	mst mmy	5
+漫	msv	3
+漫畫	msv gfz	4
+彌望	mta mbx	1
+瀰漫	mta msv	1
+袂	mtb	2
+棉	mtf	2
+妙	mtm	2
+妙處	mtm ehz	2
+咩	mtq	1
+弭謗	mtq pax	1
+名	mts	43
+名總是在	mts cuw itq zly	1
+名稱	mts eis	1
+名校	mts gzm	1
+名句	mts klz	2
+名門	mts mof	1
+名數字	mts slz ziz	1
+名單	mts taf	1
+名義	mts wgz	2
+名儗	mts wkz	1
+名言	mts wwf	1
+名譽	mts yhz	1
+名字	mts ziz	12
+滅	mtt	4
+滅亡	mtt mbs	6
+秒	mtu	16
+秒數	mtu slz	1
+面	mtv	23
+面子	mtv ciq	3
+面積	mtv ctk	5
+面向	mtv hwx	9
+面臨	mtv lid	2
+面飾	mtv oik	1
+面試	mtv oiz	1
+面餅	mtv ptw	1
+面板	mtv pzr	1
+面前	mtv zef	1
+詺	mtx	1
+木	muk	1
+木蘭	muk laf	9
+姆	muq	2
+某	muq	21
+畝	muq	1
+某種	muq ayw	1
+母子	muq ciq	1
+某處	muq ehq	2
+某處	muq ehz	1
+某個	muq kaz	3
+某列	muq ltt	3
+某表	muq pgu	2
+某表格	muq pgu kzk	1
+姆一個	muq qit kaz	1
+某些	muq sqa	2
+母親	muq vif	3
+母語	muq wjq	1
+蒙	mus	1
+蒙山	mus sdf	17
+茂	muz	1
+貿易	muz ytk	4
+嗎	mza	131
+嘛	mza	7
+媽	mza	2
+麻煩	mza bbf	10
+麻利	mza lin	1
+麻木	mza muk	2
+邁阿密	mzb qaa mkt	1
+蠻	mzf	1
+蠻多	mzf taa	2
+埋沒	mzh mot	1
+貓	mzj	5
+貓頭鷹	mzj dua qks	1
+貓娘	mzj nws	7
+茅廁	mzj vkz	1
+陌生	mzk sgs	1
+貌似	mzm jiq	1
+碼	mzq	27
+罵	mzq	2
+馬	mzq	5
+馬上	mzq iqw	1
+馬松壽	mzq jys inz	1
+馬公	mzq kus	2
+馬呂斯	mzq lhq sta	1
+馬路	mzq loz	2
+馬鹿	mzq luk	1
+碼農	mzq nos	1
+馬兒	mzq nta	2
+碼錶	mzq pgu	5
+馬原	mzq wbf	10
+瑪雅	mzq wzq	1
+馬克思	mzq xlk sia	8
+馬院	mzq yvv	1
+盲	mzs	1
+慢	mzv	6
+猛	mzw	2
+罵	mzz	15
+罵ᵗ	mzz `	1
+罵完	mzz gsf	1
+罵名	mzz mts	1
+那	naa	108
+那種	naa ayw	9
+那部分	naa boq bmv	1
+那是	naa itq	6
+那是這種	naa itq aqz ayw	1
+那個	naa kaz	25
+那屆	naa kzn	1
+那裏	naa liq	9
+那來	naa llh	1
+那麼	naa msa	18
+那麼多	naa msa taa	1
+那邊	naa pef	1
+那不	naa pma	1
+那幅圖	naa pmk doa	1
+那本	naa por	2
+那般	naa psf	1
+那一段	naa qit dsv	2
+那一首	naa qit onq	2
+那一套	naa qit ram	1
+那一到	naa qit tam	1
+那天	naa ref	2
+那些	naa sqa	4
+那些年	naa sqa nef	2
+那些人	naa sqa nif	1
+那寫	naa sqq	3
+那對	naa ton	1
+那次	naa vin	2
+那我	naa waq	2
+那也	naa yqq	2
+挪用	naa yyx	1
+那在	naa zly	1
+那就	naa znz	7
+那就當	naa znz tas	1
+那就有	naa znz ymq	1
+奈何	nab gaa	2
+難	naf	30
+難道	naf dau	12
+難度	naf doz	1
+難頭	naf dua	1
+難讀	naf duk	2
+難受	naf inq	3
+難句	naf klz	0
+難怪	naf kxn	6
+難搞	naf kzu	1
+難理解	naf liq kdq	1
+難耐	naf nln	1
+難崩	naf pls	1
+難於	naf qja	1
+難死	naf siy	1
+難得	naf tlk	1
+難看	naf xav	1
+難以	naf yiq	2
+難用	naf yyx	4
+諾	nak	1
+諾言	nak wwf	3
+哪	naq	8
+哪怕	naq fzk	2
+哪怕是	naq fzk itq	0
+哪個	naq kaz	20
+哪家	naq kza	2
+哪裏	naq liq	27
+哪來	naq llh	1
+哪邊	naq pef	1
+哪一	naq qit	1
+哪一種	naq qit ayw	1
+哪一個	naq qit kaz	8
+哪一任	naq qit nic	1
+哪一套	naq qit ram	1
+哪一天	naq qit ref	1
+哪天	naq ref	1
+哪些	naq sqa	13
+哪次	naq vin	1
+哪位	naq yhn	4
+哪有	naq ymq	3
+惱	nau	49
+腦	nau	6
+腦子	nau ciq	4
+惱𤢍	nau jcq	1
+腦癱	nau raf	5
+難	nav	1
+曩	naw	6
+軟	ncr	1
+軟件	ncr ggr	12
+軟工	ncr kus	4
+軟得	ncr tlk	1
+軟硬	ncr wdx	1
+誽	nda	1
+奶子	ndq ciq	1
+泥	nea	4
+泥棒	nea bjw	1
+泥漿	nea cqs	1
+泥巴	nea pza	3
+泥沙	nea sza	1
+念	nec	20
+拈輕	ned xts	1
+年	nef	95
+年份	nef bmv	1
+年代	nef dln	2
+年級	nef kkp	1
+年紀	nef kkq	4
+年齡	nef les	4
+年邁力衰	nef mzb lik shh	0
+年歲	nef scb	2
+年薪	nef sif	1
+年輕	nef xts	2
+年輕人	nef xts nif	2
+年前	nef zef	3
+寧	nes	2
+捏	net	3
+嬲	neu	1
+晛	nev	2
+擰	new	5
+甯	nex	3
+甯有	nex ymq	1
+甯靜	nex ztw	1
+粘貼	ngd rep	4
+如	nha	62
+如指諸掌	nha aiy aha aqw	1
+如罷	nha bdq	1
+如何	nha gaa	120
+如下	nha gzz	1
+如是	nha itq	1
+如是說	nha itq oct	0
+如是說必	nha itq oct pit	1
+如果	nha ksq	31
+如來	nha llh	2
+如且	nha vqq	1
+如且一旦	nha vqq qit tav	2
+如此	nha vtq	7
+如玉	nha whk	1
+汝	nhq	14
+而	nia	177
+而其	nia gka	1
+而後	nia guz	1
+而是	nia itq	7
+而人	nia nif	1
+而不是	nia pma itq	4
+而非	nia pmh	1
+而不是	nia pmt itq	1
+而印歐	nia qiv qua	1
+而死	nia siy	1
+而且	nia vqq	29
+而此	nia vtq	1
+而我	nia waq	8
+而已	nia yiq	1
+而又	nia ymz	2
+任	nic	5
+任何	nic gaa	8
+任務	nic mlz	1
+任詩經	nic oia kes	1
+任意	nic qkz	4
+任由	nic yna	1
+人	nif	273
+仁	nif	5
+人種	nif ayw	1
+人際	nif ctb	4
+人道	nif dau	1
+人稱	nif eis	2
+人品	nif fke	1
+人間	nif kdf	1
+人工	nif kus	3
+人家	nif kza	11
+人格	nif kzk	1
+人類	nif lyn	3
+人民	nif mif	39
+人文	nif mmf	3
+人們	nif mof	16
+人名	nif mts	1
+人鼠	nif ohq	1
+人聖母峯	nif otx muq fhs	1
+仁愛	nif qln	1
+人生	nif sgs	9
+人數	nif slz	1
+人口	nif xuq	11
+人員	nif ymf	1
+人才	nif zlh	1
+二	nin	25
+二者	nin aqq	3
+二者之間	nin aqq aia kdf	6
+二戰	nin atv	2
+二進制	nin civ atb	3
+二重	nin dhs	6
+二臺	nin dlh	1
+二十	nin iip	3
+二十大	nin iip dab	1
+二十三	nin iip sad	1
+二手	nin onq	2
+二分	nin pmf	1
+二分法	nin pmf pbp	1
+二本	nin por	2
+二百	nin pzk	0
+二百斤	nin pzk kjf	1
+二三	nin sad	1
+二次	nin vin	4
+二次元	nin vin wbf	6
+二創	nin vwx	1
+二叉	nin vza	1
+二元	nin wbf	1
+二維	nin yyh	2
+入	nip	30
+廿	nip	1
+入職	nip aik	1
+入學	nip gjk	1
+入門	nip mof	2
+入耳	nip niq	1
+入土	nip roq	1
+入黨	nip taw	1
+入口	nip xuq	4
+耳	niq	12
+耳機	niq kjh	4
+耳多	niq taa	1
+耳朵	niq tsq	1
+耳元	niq wbf	1
+忍	nir	4
+忍不了	nir pma leu	1
+仍	nis	4
+仍然	nis ntf	9
+日	nit	60
+日誌	nit aiz	2
+日子	nit ciq	4
+日期	nit gka	73
+日和	nit gsa	1
+日後	nit guz	3
+日常	nit iqs	2
+日光	nit kss	1
+日文	nit mmf	5
+日耳曼	nit niq mbv	1
+日日	nit nit	1
+日你媽	nit nkq mza	1
+日本	nit por	8
+日本語	nit por wjq	5
+日益	nit qtk	7
+日推	nit roh	1
+日新月異	nit sif wbt yiz	1
+日月	nit wbt	9
+日語	nit wjq	12
+認	niv	5
+認真	niv aif	2
+認同	niv dus	2
+認識	niv oik	6
+認可	niv xaq	2
+認爲	niv yva	10
+扔	nix	1
+女	njq	24
+女主	njq apq	3
+女子	njq ciq	2
+女裝	njq cws	1
+女孩子	njq glh ciq	1
+女高中生	njq kaj tms sgs	1
+女人	njq nif	2
+女兒	njq nta	2
+女生	njq sgs	2
+女性	njq stx	7
+女亦	njq ytk	1
+您	nkd	16
+您的	nkd tek	1
+拰	nke	3
+紉	nkf	1
+呢	nkh	47
+尼瑪	nkh mzq	1
+尼采	nkh vly	3
+你	nkq	272
+你真	nkq aif	1
+你這	nkq aqz	1
+你這樣	nkq aqz yqx	1
+你已經	nkq gkq kes	1
+你會	nkq gsb	1
+你好	nkq hau	2
+你是	nkq itq	8
+你是甚麼傻屄	nkq itq iie msa sxq pih	1
+你俟	nkq jkq	1
+你覺得	nkq kjk tlk	1
+你該	nkq klh	1
+你們	nkq mof	51
+你們說	nkq mof oct	3
+你沒有	nkq mot ymq	1
+你媽	nkq mza	2
+你呢	nkq nkh	2
+你說	nkq oct	2
+你說得	nkq oct tlk	4
+你說得對	nkq oct tlk ton	1
+你試着在	nkq oiz dwk zly	1
+你不能	nkq pma nls	1
+你要	nkq qtj	1
+你要	nkq qtm	1
+你太	nkq rab	1
+你想	nkq sqw	1
+你多	nkq taa	1
+你的	nkq tek	6
+你知我知	nkq tga waq tga	0
+你看	nkq xav	2
+你有點	nkq ymq tee	1
+你也是	nkq yqq itq	1
+你在	nkq zly	1
+你就	nkq znz	3
+你就是	nkq znz itq	2
+南	nld	15
+男	nld	3
+男主	nld apq	4
+男子	nld ciq	2
+南華	nld gxa	2
+南市	nld iiq	2
+南京	nld kgs	1
+南冥	nld mes	2
+南門	nld mof	1
+南畝	nld muq	1
+男人	nld nif	5
+男女	nld njq	3
+南方	nld pbs	2
+南北朝	nld plk dgj	1
+南山	nld sdf	1
+男生	nld sgs	1
+男性	nld stx	2
+男德	nld tlk	1
+南窗	nld vjs	1
+吶	nlp	1
+能	nls	211
+能鐘樓區	nls ays lua qua	1
+能調	nls dej	1
+能和	nls gsa	1
+能上	nls iqw	1
+能夠	nls kuz	3
+能力	nls lik	10
+能文能武	nls mmf nls mlq	3
+能編譯	nls pef ytk	1
+能不能	nls pma nls	60
+能不能僧侶	nls pma nls sls lhq	1
+能否	nls pmq	7
+能一起	nls qit xkq	1
+能寫	nls sqq	0
+能源	nls wbf	7
+能看到	nls xav tam	1
+能有	nls ymq	1
+能用	nls yyx	4
+乃	nly	4
+乃是	nly itq	1
+扭	nmq	1
+扭轉	nmq tvr	1
+柔	nna	1
+肉	nnk	7
+肉串	nnk ecv	1
+戎機	nns kjh	2
+奴	noa	3
+奴役	noa yck	2
+內	non	37
+內部	non buq	8
+內組	non coq	1
+內接	non ctp	0
+內接法	non ctp pbp	1
+內核	non gdk	15
+內向	non hwx	3
+內向	non oqx	0
+內向用	non oqx yyx	1
+內邊距	non pef gjq	2
+內置	non tkz	3
+內德	non tlk	1
+內義	non wgz	1
+內褲	non xoz	2
+內容	non yys	32
+內容有	non yys ymq	1
+內存	non zof	15
+內存條	non zof dej	1
+怒	noq	1
+努力	noq lik	25
+農	nos	5
+農曷	nos gat	1
+農管	nos ksr	1
+農民	nos mif	2
+農夫	nos pla	1
+農業	nos wwp	4
+農藥	nos yqk	1
+嫩	nov	1
+怒	noz	7
+儒家	npa kza	1
+乳化	npq hxz	4
+婼	nqa	6
+若	nqa	1
+弱	nqk	2
+若	nqk	31
+若至	nqk ain	1
+惹	nqq	1
+嚷	nqw	4
+讓	nqx	66
+讓人	nqx nif	3
+讓它	nqx raa	4
+讓我	nqx waq	16
+讓開	nqx xlh	1
+偌	nqz	1
+兒	nta	10
+兒子	nta ciq	1
+兒童	nta dus	2
+染污	nte qoa	1
+然	ntf	25
+然則	ntf clk	4
+然後	ntf guq	44
+然後	ntf guz	7
+然是	ntf itq	1
+然而	ntf nia	12
+然人	ntf nif	1
+繞	ntm	5
+爾	ntq	2
+爾來	ntq llh	1
+熱	ntt	5
+熱潮	ntt dgj	1
+熱忱	ntt iid	3
+熱狗	ntt kuq	1
+熱戀	ntt lcv	1
+熱鬧	ntt nzm	1
+熱愛	ntt qln	1
+熱情	ntt zts	1
+擾	ntu	1
+獳	nua	1
+娘	nws	3
+潤	nyv	9
+閏	nyv	1
+潤滑脂	nyv gft aih	1
+閏年	nyv nef	1
+冗餘	nyw yha	3
+拿	nza	21
+拿出來	nza eyt llh	1
+拿回	nza goh	2
+拿來	nza llh	12
+拿來主義	nza llh apq wgz	1
+拿不到	nza pma tam	1
+拿到	nza tam	3
+拿錢	nza ztf	2
+鬧	nzm	1
+鬧得	nzm tlk	0
+鬧得歡	nzm tlk hsf	1
+䋈	nzq	1
+絮	nzz	2
+稅	ocb	2
+說	oct	146
+說ᵈ	oct `d	1
+說道	oct dau	5
+說話	oct gxb	2
+說甚麼	oct iie msa	1
+說成	oct its	4
+說成示威	oct its uin qmh	1
+說過	oct ksz	1
+說了	oct leu	1
+說明	oct mgs	9
+說法	oct pbp	3
+說不上	oct pmt iqw	0
+說到	oct tam	1
+說的是	oct tek itq	2
+說得	oct tlk	4
+說得對	oct tlk ton	1
+說對	oct ton	1
+說錯	oct vak	1
+書	oha	20
+舒	oha	1
+舒服	oha bmk	1
+書局	oha ghk	3
+書香	oha hws	1
+書上	oha iqw	2
+書面	oha mtv	1
+舒適	oha otk	0
+書法	oha pbp	1
+書寫	oha sqq	1
+書店	oha tec	2
+書籍	oha ztk	1
+鼠	ohq	2
+暑假	ohq kzq	10
+鼠標	ohq ptj	4
+詩	oia	37
+詩詞	oia jia	1
+詩歌	oia kaa	6
+詩經	oia kes	76
+詩句	oia klz	1
+詩人	oia nif	1
+深	oid	7
+深似	oid jiq	1
+深藍	oid lad	1
+深意	oid qkz	1
+深夜	oid yqz	1
+深造	oid zau	1
+審	oie	3
+沈	oie	1
+審查	oie zza	1
+伸	oif	1
+身	oif	9
+身旁	oif bas	2
+身份證	oif bmv aix	1
+身子	oif ciq	1
+身上	oif iqw	4
+身高	oif kaj	1
+身臨	oif lid	1
+身無	oif mla	1
+伸手	oif onq	3
+身邊	oif pef	5
+身體	oif req	6
+身心	oif sid	1
+申請	oif vtw	3
+申請	oif zts	0
+屍體	oih req	1
+式	oik	32
+識	oik	5
+飾	oik	1
+識別	oik bgt	1
+識時務	oik iia mlz	1
+始	oiq	24
+始終	oiq ans	3
+始點	oiq tee	1
+勝	ois	3
+昇	ois	2
+升序	ois jhq	1
+升高	ois kaj	2
+升級	ois kkp	2
+失	oit	1
+室	oit	6
+失敗	oit bzb	6
+失掉	oit dem	1
+失傳	oit dvf	1
+失常	oit iqs	1
+室內	oit non	1
+失身份	oit oif pkf	1
+失意	oit qkz	1
+失去	oit xjz	5
+失去在	oit xjz zly	1
+勝	oix	2
+勝利	oix lin	4
+屎	oiy	22
+矢	oiy	1
+屎說	oiy oct	1
+屎山	oiy sdf	9
+試	oiz	57
+試證明	oiz aix mgs	1
+試題	oiz dea	1
+試着	oiz dwk	5
+試過	oiz ksa	3
+試論	oiz lov	1
+試一行	oiz qit gas	1
+收	ona	7
+收復	ona bmk	1
+收回	ona goh	2
+收穫	ona gsk	4
+收拾	ona iip	1
+收卷	ona kvr	1
+收錄	ona lyk	4
+收入	ona nip	1
+收到	ona tam	3
+收藏	ona zas	2
+叔	onk	2
+守	onq	4
+手	onq	42
+首	onq	11
+守正不撓	onq atx pmt nzj	1
+守住	onq dlz	1
+手段	onq dsv	5
+手動	onq duw	14
+手推車	onq eyh kja	0
+守恆	onq gls	2
+守時	onq iia	1
+手提式	onq ita oik	0
+手提式用	onq ita oik yyx	3
+手提式用山	onq ita oik yyx sdf	1
+手機	onq kjh	23
+手機版	onq kjh pzr	1
+手裏	onq liq	5
+手擼	onq loa	2
+首領	onq ltw	1
+首末	onq mst	1
+手錶	onq pgu	2
+首要	onq qtj	1
+首先	onq sef	8
+手寫	onq sqq	1
+手算	onq ssv	1
+首都	onq toa	1
+首次	onq vin	4
+手抄本	onq vzj por	2
+手剎車	onq vzt eqa	0
+手剎車他	onq vzt eqa raa	1
+首位	onq yhn	1
+首陽	onq yqs	1
+首字母	onq ziz muq	1
+獸	onz	6
+輸	opa	21
+輸出	opa eyt	27
+輸出述	opa eyt uyt	1
+輸入	opa nip	51
+輸入法	opa nip pbp	10
+輸入框	opa nip xbs	3
+輸	opz	1
+輸入	opz nip	1
+奢	oqa	1
+奢侈品	oqa etq fke	1
+啥	oqq	17
+舍	oqq	1
+啥時	oqq iia	3
+捨得	oqq tlk	1
+啥都	oqq toa	1
+捨棄	oqq xin	2
+舍友	oqq ymq	3
+啥也	oqq yqq	5
+商	oqs	0
+商品	oqs fke	3
+傷感	oqs kle	1
+商店	oqs tec	1
+商業	oqs wwp	2
+商科	oqs xsa	2
+商科者	oqs xsa aqq	1
+賞賜	oqw stz	2
+舍	oqz	2
+舍友	oqz ymq	10
+施捨	ota oqq	2
+世	otb	11
+勢	otb	11
+世道	otb dau	1
+世俗	otb jyk	1
+世紀	otb kkq	8
+世界	otb kzn	28
+勢力	otb lik	9
+閃電	ote dev	2
+燒	otj	2
+燒盡	otj cir	2
+燒唧	otj cit	1
+燒走	otj cuq	1
+燒光	otj kss	1
+燒烤	otj xau	1
+釋	otk	7
+適合	otk glp	1
+適量	otk lqs	1
+釋放	otk pbx	1
+適應	otk qks	1
+適應	otk qkx	2
+釋義	otk wgz	5
+適用	otk yyx	1
+少	otm	1
+攝影棚	otp qgw bds	0
+聲	ots	8
+聲明	ots mgs	30
+聲勢	ots otb	1
+聲音	ots qkd	2
+設	ott	15
+設備	ott bkn	5
+設定	ott dex	2
+設計	ott kez	2
+設施	ott ota	2
+設置	ott tkz	16
+設爲	ott yva	1
+少	otu	27
+少量	otu lqx	1
+少數	otu slz	2
+少錢	otu ztf	1
+聖	otx	2
+聖徒	otx doa	1
+聖賢	otx gef	1
+聖母峯	otx muq fhs	1
+聖水	otx oyy	1
+束	oyk	3
+束縛	oyk bbk	4
+水	oyy	31
+水平	oyy bgs	10
+水晶體	oyy cts req	0
+水晶體的	oyy cts req tek	1
+水着	oyy dwk	1
+水費	oyy fmn	1
+水果	oyy ksq	2
+水土	oyy roq	1
+水着	oyy twk	1
+水課	oyy xsz	5
+水泳	oyy yvx	1
+貝勒	pab llk	0
+貝多芬	pab taa fmf	1
+褒	paj	2
+博	pak	1
+博愛	pak qln	1
+博士	pak zkq	2
+報	pam	16
+報紙	pam atq	1
+報載	pam cln	2
+報道	pam dau	1
+報告	pam kam	4
+報名	pam mts	2
+報不完	pam pma gsf	1
+報應	pam qks	2
+報答	pam tlp	1
+報錯	pam voz	58
+報趣	pam vpz	1
+報考	pam xau	1
+幫	pas	33
+幫個忙	pas kaz mas	1
+幫了	pas kbt	1
+幫忙	pas mas	2
+幫你	pas nkq	7
+幫佔	pas ted	1
+幫我	pas waq	36
+幫助	pas zjz	3
+幫事	pas zkz	2
+保	pau	3
+寶	pau	4
+保障	pau aqx	7
+寶地	pau din	1
+保持	pau dka	2
+保護	pau goz	2
+保險	pau hge	1
+寶貴	pau kmn	1
+堡國	pau kpk	1
+保留	pau lna	5
+保守	pau onq	1
+保守主義	pau onq apq wgz	1
+寶島	pau tau	1
+寶庫	pau xoz	1
+保佑	pau ymz	3
+保存	pau zof	18
+榜	paw	1
+廢	pbb	12
+廢除	pbb dja	11
+廢話	pbb gxb	1
+廢物	pbb mmt	6
+廢棄	pbb xin	1
+廢器	pbb xkn	1
+法	pbp	66
+法辦	pbp bdv	1
+法則	pbp clk	1
+法向	pbp hwx	1
+法國	pbp kpk	28
+法國人	pbp kpk nif	4
+法國的	pbp kpk tek	1
+法律	pbp lyt	5
+法文	pbp mmf	1
+法門	pbp mof	1
+法語	pbp wjq	6
+法語中	pbp wjq tms	1
+法外	pbp wsb	1
+法科	pbp xsa	3
+反	pbr	19
+返	pbr	2
+反戰	pbr atv	3
+反正	pbr atx	15
+反動	pbr duw	7
+反串	pbr ecv	1
+返回	pbr goh	29
+返回值	pbr goh dkk	6
+反潰	pbr gon	1
+反向	pbr hwx	1
+反常	pbr iqs	2
+反斜槓	pbr jqa kjx	9
+反觀	pbr ksf	1
+反過來	pbr ksz llh	1
+反而	pbr nia	3
+反手	pbr onq	3
+反駁	pbr pjk	4
+反剝削	pbr pjk sqk	1
+反複	pbr pmk	1
+反映	pbr qaw	6
+反映	pbr qgx	1
+反應	pbr qkx	2
+反對	pbr ton	17
+反對黨	pbr ton taw	7
+反射	pbr uqz	3
+反抗	pbr xax	2
+反查	pbr zza	7
+方	pbs	18
+方針	pbs aid	7
+方便	pbs btf	3
+方便重	pbs btf dhw	1
+方程	pbs dgs	4
+方香	pbs hws	1
+方向	pbs hwx	9
+方面	pbs mtv	28
+方式	pbs oik	9
+方法	pbs pbp	80
+方案	pbs qav	4
+方言	pbs wwf	2
+方圓	pbs yvf	2
+發	pbt	47
+發票	pbt btm	1
+發棠	pbt das	1
+發達	pbt dat	1
+發電	pbt dev	2
+發動	pbt duw	1
+發臭	pbt enz	1
+發出	pbt eyt	1
+發現	pbt gev	38
+發行	pbt gzs	1
+發貨	pbt hsz	1
+發給	pbt kkp	1
+發給我	pbt kkp waq	1
+發光	pbt kss	1
+發過	pbt ksz	1
+發明	pbt mgs	3
+發明專利	pbt mgs acf lin	1
+發奮	pbt pmv	1
+發音	pbt qkd	4
+發生	pbt sgs	3
+發生過	pbt sgs ksz	1
+發送	pbt sux	1
+發到	pbt tam	3
+發癲	pbt tef	1
+發展	pbt tgr	41
+發展，	pbt tgr /	1
+發哲	pbt tgt	1
+發對	pbt ton	4
+發對的	pbt ton tek	1
+發言	pbt wwf	2
+發起人	pbt xkq nif	1
+發育	pbt ynk	1
+發揚	pbt yqs	1
+發財	pbt zlh	6
+發愁	pbt zma	1
+放	pbw	1
+放	pbx	37
+放進	pbx civ	1
+放大	pbx dab	3
+放出	pbx eyt	1
+放屁	pbx fin	4
+放學	pbx gjk	1
+放過	pbx ksz	2
+放假	pbx kzq	5
+放假	pbx kzz	1
+放慢	pbx mzv	3
+放哪	pbx naq	1
+放飛	pbx pmh	1
+放帶	pbx tab	1
+放到	pbx tam	6
+放器	pbx xkn	1
+放在	pbx zly	8
+擺	pdq	11
+擺者	pdq aqq	1
+擺哥	pdq kaa	2
+擺狗	pdq kuq	1
+擺爛	pdq lav	1
+擺弄	pdq lux	1
+擺設	pdq ott	1
+擺脫	pdq rst	1
+擺信	pdq siv	0
+擺信專	pdq siv acf	2
+擺信磚	pdq siv acf	4
+擺信科	pdq siv xsa	2
+擺信全	pdq siv zcf	1
+繃	pds	5
+繃不住了	pds pma dlz leu	1
+八	pdt	5
+扒	pdt	3
+八導	pdt dam	1
+八十	pdt iip	1
+八十度	pdt iip doz	1
+八股	pdt koq	2
+八股文	pdt koq mmf	2
+八桂	pdt krz	1
+八路軍	pdt loz kmf	2
+八千	pdt vef	1
+八月	pdt wbt	4
+扒枂	pdt wst	1
+庍	pdz	1
+邊	pef	13
+編程	pef dgs	34
+邊距	pef gjq	0
+邊爛	pef lav	1
+編碼	pef mzq	1
+編寫	pef sqq	1
+邊框	pef xbs	1
+邊區	pef xla	1
+邊緣	pef ycf	1
+編譯	pef ytk	59
+編譯器	pef ytk xkn	7
+編輯器	pef zip xkn	1
+壁	pek	2
+壁紙	pek atq	3
+扁	per	1
+遍	pev	7
+遍程	pev dgs	2
+遍歷	pev lek	12
+閉關	pez kxf	2
+閉門	pez mof	2
+閉包	pez pzj	1
+碧	pgk	1
+碧天	pgk ref	2
+彼	pgq	22
+彼時	pgq iia	1
+彼女	pgq njq	1
+兵	pgs	2
+別展	pgt tgr	1
+表	pgu	35
+表彰	pgu aqs	1
+表姐	pgu cqq	1
+表達	pgu dat	25
+表達式	pgu dat oik	11
+表弟	pgu deq	2
+表頭	pgu dua	1
+表現	pgu gev	11
+表是	pgu itq	2
+表決	pgu krt	1
+表格	pgu kzk	7
+表明	pgu mgs	2
+表名	pgu mts	4
+表單	pgu taf	2
+表示	pgu uin	13
+表述	pgu uyt	1
+表演	pgu yir	4
+表情	pgu zts	3
+變	pgv	31
+變長	pgv dws	0
+變形	pgv ges	1
+變化	pgv hxz	4
+變成	pgv its	21
+變高	pgv kaj	2
+變革	pgv kdk	1
+變格	pgv kzk	2
+變更	pgv kzs	1
+變量	pgv lqs	60
+變量名	pgv lqs mts	1
+變量	pgv lqx	1
+變體	pgv req	2
+變得	pgv tlk	1
+變寬	pgv xsf	2
+變位	pgv yhn	10
+變爲	pgv yva	3
+丙	pgw	2
+封	phs	3
+封裝	phs cws	7
+封建	phs kwv	17
+封建主	phs kwv apq	2
+封了	phs leu	1
+封面	phs mtv	1
+封起來	phs xkq llh	1
+封控	phs xux	1
+封王	phs ybs	1
+濱	pif	1
+賓	pif	1
+賓館	pif ksv	2
+賓語	pif wjq	4
+屄	pih	10
+屄站	pih tdc	8
+畀	pin	3
+必	pit	11
+畢	pit	1
+必將	pit cqs	3
+必定	pit dex	3
+必是	pit itq	1
+畢竟	pit kgx	3
+必然	pit ntf	11
+必不	pit pma	1
+必要	pit qtm	8
+必修	pit sna	0
+必修一	pit sna qit	2
+必須	pit spa	4
+必張柏芝	pit tws pzk aia	1
+畢業	pit wwp	12
+必有	pit ymq	2
+比	piy	81
+比較	piy kjk	11
+比較	piy kzm	2
+比較好	piy kzm hau	1
+比較課	piy kzm xsz	1
+比例	piy ltb	6
+比如	piy nha	5
+比你	piy nkq	8
+比分	piy pmf	1
+比賽	piy sln	2
+比對	piy ton	1
+比我	piy waq	28
+剝奪	pjk dst	5
+剝削	pjk sqk	22
+邦	pjs	1
+綁定	pjw dex	4
+斌	pkf	1
+悲	pkh	106
+悲詞	pkh jia	2
+悲傷	pkh oqs	1
+悲痛	pkh rux	1
+悲慘	pkh vle	1
+逼	pkk	1
+轡頭	pkn dua	2
+祕書長	pkn oha tww	0
+祕書長人	pkn oha tww nif	1
+冰冷	pks lew	2
+筆	pkt	3
+筆電	pkt dev	2
+筆畫	pkt gfz	1
+筆記	pkt kkz	7
+筆記本	pkt kkz por	4
+筆算	pkt ssv	1
+鄙薄	pky bak	3
+鄙視	pky iin	1
+鄙夫	pky pla	1
+夫	pla	6
+夫婦	pla bmq	1
+北	plk	8
+北市	plk iiq	2
+北京	plk kgs	23
+北冥	plk mes	1
+北門	plk mof	1
+北方	plk pbs	3
+北風	plk pms	1
+北信科	plk siv xsa	1
+北去	plk xjz	1
+北郵	plk yma	1
+府	plq	1
+斧	plq	1
+府井	plq ctw	2
+崩	pls	4
+付	plz	6
+賦	plz	18
+賦值	plz dkk	5
+付出	plz eyt	1
+付給	plz kkp	1
+賦給	plz kkp	2
+傅利葉	plz lin ytp	1
+付費	plz pkn	1
+不	pma	694
+不止	pma aiq	3
+不止是	pma aiq itq	1
+不指	pma aiy	1
+不支持	pma ata dka	4
+不正確	pma atx xjk	1
+不准	pma ayr	1
+不復	pma bmk	1
+不服	pma bmk	2
+不便	pma btv	1
+不進去	pma civ xjz	1
+不再	pma cln	1
+不做	pma coz	1
+不足	pma cyk	5
+不足壇	pma cyk daf	1
+不提醒	pma dea ses	2
+不定長	pma dex dws	1
+不重複	pma dhs pmk	1
+不住	pma dlz	2
+不斷	pma dsr	17
+不同	pma dus	8
+不同，	pma dus /	1
+不同的	pma dus tek	1
+不同于	pma dus yla	1
+不動	pma duw	3
+不充實	pma ens uit	2
+不出	pma eyt	1
+不配	pma fon	1
+不偏不倚	pma ftf pma qgq	1
+不行	pma gas	3
+不學	pma gjk	3
+不學了	pma gjk leu	1
+不學詩	pma gjk oia	2
+不近	pma gjv	1
+不及	pma gkp	1
+不僅	pma gkv	1
+不合理	pma glp liq	1
+不合法	pma glp pbp	5
+不求	pma gma	1
+不和	pma gsa	1
+不會	pma gsb	47
+不會被	pma gsb bgz	2
+不會是	pma gsb itq	1
+不會點擊率	pma gsb tee kek lyt	1
+不壞	pma gxn	1
+不效	pma gzm	1
+不行	pma gzs	1
+不好	pma hau	9
+不好使	pma hau skq	2
+不好寫	pma hau sqq	1
+不好用	pma hau yyx	1
+不希望	pma hjh mbs	2
+不許	pma hjq	1
+不喜歡	pma hkq hsf	1
+不上	pma iqw	3
+不是	pma itq	101
+不是一	pma itq qit	1
+不善	pma itr	1
+不像	pma jqw	24
+不像我	pma jqw waq	4
+不敢	pma kae	2
+不敢言	pma kae wwf	1
+不見	pma kev	2
+不愧	pma khn	2
+不覺	pma kjk	1
+不覺得	pma kjk tlk	1
+不禁	pma kkc	1
+不給	pma kkp	7
+不給我	pma kkp waq	2
+不記得	pma kkz tlk	2
+不改	pma kly	1
+不九	pma kmq	1
+不鬼	pma kmy	2
+不管	pma ksr	5
+不過	pma ksz	26
+不過上	pma ksz iqw	1
+不公佈	pma kus poz	1
+不夠	pma kuz	3
+不教	pma kzm	1
+不搞	pma kzu	1
+不搞了	pma kzu leu	1
+不勞	pma laj	1
+不了	pma leu	3
+不練好	pma lev hau	1
+不路線	pma loz stv	1
+不良	pma lqs	1
+不敏	pma mkr	1
+不瞢	pma mls	1
+不聞	pma mmf	6
+不年邁力衰	pma nef mzb lik shh	1
+不如	pma nha	25
+不如哪怕	pma nha naq fzk	1
+不認識	pma niv oik	2
+不袽	pma nja	1
+不能	pma nls	35
+不能寫	pma nls sqq	1
+不讓	pma nqx	1
+不讓它	pma nqx raa	1
+不然	pma ntf	4
+不熱	pma ntt	1
+不潤滑脂	pma nyv gft aih	1
+不說	pma oct	2
+不報	pma pam	1
+不必	pma pit	5
+不比	pma piy	1
+不複	pma pmk	1
+不案情	pma qav zts	1
+不影響	pma qgw hww	2
+不一定	pma qit dex	2
+不一樣	pma qit yqx	9
+不應	pma qks	2
+不要	pma qtm	20
+不太行	pma rab gas	2
+不退	pma ron	2
+不統一	pma rox qit	1
+不通	pma rus	2
+不通過	pma rus ksa	3
+不生成	pma sgs its	1
+不信	pma siv	1
+不所	pma sjq	1
+不使用	pma skq yyx	1
+不需	pma spa	1
+不需要	pma spa qtj	1
+不寫	pma sqq	4
+不寫了	pma sqq leu	2
+不想	pma sqw	17
+不想寫	pma sqw sqq	1
+不算	pma ssv	3
+不多	pma taa	1
+不到	pma tam	11
+不知	pma tga	13
+不知道	pma tga dau	20
+不得	pma tlk	9
+不得已	pma tlk gkq	3
+不得不	pma tlk pma	2
+不戴	pma tln	1
+不對	pma ton	9
+不懂	pma tuw	13
+不示	pma uin	1
+不乘	pma uix	1
+不錯	pma voz	1
+不清楚	pma vts vjq	6
+不我	pma waq	3
+不宜	pma wga	1
+不玩	pma wsv	3
+不言	pma wwf	1
+不靠譜	pma xam poq	1
+不可	pma xaq	2
+不可能	pma xaq nls	2
+不可以	pma xaq yiq	4
+不考	pma xau	1
+不看	pma xav	2
+不喫	pma xek	1
+不確定	pma xjk dex	3
+不去	pma xjz	4
+不起來	pma xkq llh	1
+不開門	pma xlh mof	1
+不遠	pma ybr	1
+不以	pma yiq	1
+不也	pma yqq	1
+不也是	pma yqq itq	3
+不亦	pma ytk	1
+不欲	pma yyk	1
+不用	pma yyx	38
+不在	pma zly	6
+不就	pma znz	2
+不就是	pma znz itq	3
+不存在	pma zof zly	3
+不存在泡	pma zof zly fzj	1
+不槎	pma zzq	1
+分	pmf	78
+分支	pmf ata	1
+分鐘	pmf ays	14
+分辨率	pmf bdv lyt	1
+分辨率	pmf bgr lyt	1
+分別	pmf bgt	2
+分子	pmf ciq	8
+分段	pmf dsv	1
+分配	pmf fon	5
+分配律	pmf fon lyt	2
+分配率	pmf fon lyt	2
+分號	pmf gam	1
+分劃板	pmf gfk pzr	1
+分化	pmf hxz	2
+分成	pmf its	1
+分割	pmf kat	1
+分隔	pmf kdk	3
+分光計	pmf kss kez	1
+分光鏡	pmf kss kgx	3
+分工	pmf kus	1
+分裂	pmf ltt	6
+分類	pmf lyn	2
+分文	pmf mmf	2
+分母	pmf muq	5
+分手	pmf onq	2
+分封	pmf phs	3
+分封制	pmf phs atb	1
+分半	pmf psv	1
+分陰	pmf qkd	1
+分壓	pmf qzp	1
+分析	pmf sek	15
+分數線	pmf slz stv	1
+分線	pmf stv	1
+分點	pmf tee	3
+扉	pmh	1
+非	pmh	53
+飛	pmh	10
+非凡	pmh bbd	1
+非但	pmh dav	1
+非漢字	pmh hav ziz	1
+非常	pmh iqs	4
+飛機	pmh kjh	1
+非法	pmh pbp	1
+非得	pmh tlk	1
+非空	pmh xus	1
+飛越	pmh ybt	1
+飛躍	pmh yqk	1
+非爲	pmh yva	1
+非爲	pmh yvz	2
+幅	pmk	1
+福	pmk	4
+複	pmk	12
+複製	pmk atb	21
+腹部	pmk buq	1
+複現	pmk gev	3
+複合	pmk glp	1
+複習	pmk jip	15
+複加	pmk kza	1
+複錄	pmk lyk	1
+複璧	pmk ptk	1
+複添	pmk red	3
+複選框	pmk scr xbs	1
+複數	pmk slz	1
+複蘇	pmk soa	1
+複雜	pmk zlp	8
+否	pmq	26
+否則	pmq clk	7
+否定	pmq dex	1
+粉	pmr	5
+粉白	pmr bzk	1
+粉飾	pmr oik	1
+瘋	pms	2
+風	pms	10
+風大	pms dab	1
+瘋狂	pms gbs	3
+風險	pms hge	1
+風尚	pms iqx	1
+風景	pms kgw	1
+風格	pms kzk	4
+風扇	pms otf	5
+風波	pms psa	1
+風衣	pms qjh	1
+風致	pms tkn	1
+風雅頌	pms wzq jyx	1
+風氣	pms xjn	1
+風雨	pms ylq	1
+弗	pmt	1
+弗拉芒	pmt llp mas	1
+不變	pmt pgv	3
+奮	pmv	4
+糞	pmv	2
+諷	pmx	2
+諷刺	pmx vtk	1
+匪	pmy	1
+富	pmz	6
+富強	pmz gws	1
+富貴	pmz kmn	2
+富起	pmz xkq	1
+奔突	pof dot	4
+奔突拉丁	pof dot llp tes	1
+奔流	pof lna	2
+奔放	pof pbx	2
+盃	poh	4
+杯子	poh ciq	1
+犦	pok	0
+背	pon	16
+輩	pon	1
+背井	pon ctw	1
+背着	pon dwk	3
+背後	pon guq	1
+背景	pon kgw	23
+背過	pon ksz	1
+背影	pon qgw	1
+背單	pon taf	1
+背單詞	pon taf jia	1
+補	poq	4
+補充	poq ens	5
+補錄	poq lyk	1
+補考	poq xau	2
+補課	poq xsz	1
+補全	poq zcf	21
+本	por	24
+本質	por ait	5
+本週	por ana	1
+本子	por ciq	2
+本地	por din	8
+本篇	por ftf	2
+本校	por gzm	3
+本來	por llh	9
+本輪	por lyf	1
+本物	por mmt	1
+本年	por nef	1
+本日	por nit	1
+本身	por oif	10
+本土	por roq	1
+本土詞	por roq jia	1
+本當	por tas	1
+本次	por vin	1
+本科	por xsa	6
+本就	por znz	1
+布	poz	5
+佈局	poz ghk	1
+佈置	poz tkz	1
+波	psa	10
+波動	psa duw	2
+波痕	psa glf	1
+波奇	psa kga	1
+波斯	psa sta	1
+波速	psa suk	1
+搬	psf	2
+般	psf	8
+搬家	psf kza	1
+搬到	psf tam	1
+搬東西	psf tus sea	2
+半	psv	31
+半個	psv kaz	3
+半個月	psv kaz wbt	1
+半徑	psv kex	1
+半價	psv kzz	1
+半面之舊	psv mtv aia gmz	1
+半本	psv por	1
+半天	psv ref	6
+半數	psv slz	1
+半小時	psv stu iia	1
+半島	psv tau	1
+播放	psz pbx	4
+卑鄙	pta pky	1
+蔽	ptb	2
+鞭	ptf	1
+標	ptj	4
+標誌	ptj aiz	1
+標識符	ptj aiz bla	1
+標註	ptj apz	3
+標準	ptj ayr	4
+標準庫	ptj ayr xoz	6
+標題	ptj dea	5
+標記	ptj kkz	3
+標明	ptj mgs	1
+標識	ptj oik	2
+標音	ptj qkd	1
+標點	ptj tee	2
+標籤	ptj vtd	6
+璧	ptk	1
+嫑	ptm	1
+標出	ptu eyt	1
+標示	ptu uin	1
+餅	ptw	0
+樸	puk	2
+吧	pza	25
+巴	pza	2
+巴哈	pza hlp	0
+巴哈姆特	pza hlp muq dlk	1
+巴赫	pza hzk	1
+巴黎	pza lea	1
+巴姆哈特	pza muq hlp dlk	1
+班	pzf	17
+班主任	pzf apq nic	6
+班主任是	pzf apq nic itq	1
+班羣	pzf gmf	2
+班上	pzf iqw	1
+班級	pzf kkp	1
+班固	pzf koz	1
+包	pzj	10
+包裝	pzj cws	5
+包含	pzj gld	5
+包括	pzj kst	7
+包圍	pzj ymh	1
+包養	pzj yqw	2
+伯	pzk	7
+百	pzk	9
+迫	pzk	1
+迫真	pzk aif	6
+柏舟	pzk ana	1
+百戰	pzk atv	1
+百步	pzk boz	1
+百度	pzk doz	6
+百度百科	pzk doz pzk xsa	1
+百家	pzk kza	4
+百里	pzk liq	1
+百萬	pzk mbv	1
+百萬之衆	pzk mbv aia anx	1
+百人	pzk nif	1
+百分之	pzk pmf aia	1
+百天	pzk ref	1
+百姓	pzk stx	4
+百千	pzk vef	1
+百科	pzk xsa	4
+爆	pzm	3
+爆發	pzm pbt	3
+爆殺	pzm sdt	1
+爆炸	pzm tzz	1
+拜	pzn	1
+拜託	pzn rak	1
+把	pzq	238
+把握	pzq qjk	1
+把它	pzq raa	2
+版	pzr	15
+板車	pzr eqa	1
+版本	pzr por	18
+捌	pzt	1
+飽	pzu	1
+飽頸	pzu ktw	1
+啊	qaa	34
+阿	qaa	1
+阿姊	qaa ciy	2
+阿扁	qaa ftf	1
+啊不	qaa pma	2
+阿巴	qaa pza	1
+阿姨	qaa yih	2
+阿爺	qaa yqa	2
+哎	qab	1
+安	qaf	5
+安排	qaf bzh	3
+鞍韉	qaf cef	2
+安裝	qaf cws	15
+鞍馬	qaf mzq	2
+安慰	qaf qmn	2
+安心	qaf sid	2
+安全	qaf zcf	13
+安全。	qaf zcf ..	1
+安靜	qaf ztw	8
+惡	qak	2
+惡化	qak hxz	1
+惡補	qak poq	1
+惡性	qak stx	3
+奧	qam	1
+澳門	qam mof	6
+閼	qat	1
+按	qav	27
+案	qav	1
+按照	qav atm	3
+按行	qav gas	1
+按下	qav gzq	2
+案例	qav ltb	3
+按鈕	qav nmq	16
+案情	qav zts	0
+宛然	qbr ntf	1
+怨	qbv	2
+怨憤	qbv bmr	1
+娃	qda	1
+娃娃	qda qda	1
+矮	qdq	1
+煙	qef	5
+燕	qef	1
+煙具	qef glz	1
+燕家	qef kza	1
+燕山	qef sdf	2
+煙燈	qef tls	1
+煙槍	qef vqs	1
+吆喊	qej gde	0
+宴席	qer jtk	0
+窈窕	qeu deu	1
+宴	qev	4
+掩耳	qge niq	1
+掩飾	qge oik	1
+掩蔽	qge ptb	1
+妖魔鬼怪	qgj msa kmy kxn	1
+夭遏	qgj qat	1
+妖冶	qgj yqq	1
+倚	qgq	5
+椅子	qgq ciq	1
+英	qgs	10
+英俊	qgs cyv	2
+英國	qgs kpk	10
+英文	qgs mmf	15
+英寸	qgs vov	1
+英語	qgs wjq	72
+英語課	qgs wjq xsa	1
+影	qgw	2
+影子	qgw ciq	1
+影響	qgw hww	22
+影響意義	qgw hww qkz wgz	1
+映	qgx	1
+映射	qgx uqz	6
+映射多種	qgx uqz taa ayw	1
+倚	qgz	1
+擁	qhw	1
+臃腫	qhw ayw	1
+擁護	qhw goz	5
+擁有	qhw ymq	4
+因	qif	15
+因素	qif soz	2
+因此	qif vtq	19
+因爲	qif yva	40
+幽僻	qij fek	2
+幽靈	qij les	11
+幽靜	qij ztw	1
+幼時	qim iia	1
+一	qit	164
+一週	qit ana	4
+一終	qit ans	1
+一主	qit apq	1
+一者	qit aqq	2
+一章	qit aqs	0
+一支	qit ata	1
+一整個	qit atw kaz	1
+一種	qit ayw	25
+一種幫我	qit ayw pas waq	2
+一旁	qit bas	2
+一瓶	qit bes	1
+一併	qit bew	1
+一併攝影棚	qit bew otp qgw bds	2
+一份	qit bmv	7
+一部	qit boq	4
+一簿分	qit boq bmv	1
+一部份	qit boq bmv	1
+一部分	qit boq bmv	3
+一步	qit boz	6
+一排	qit bzh	1
+一遭	qit caj	1
+一早上	qit cau iqw	1
+一節	qit cet	2
+一節課	qit cet xsz	1
+一箭	qit ctv	1
+一走	qit cuq	1
+一大段	qit dab dsv	1
+一大半	qit dab psv	1
+一大堆	qit dab toh	1
+一道	qit dau	4
+一題	qit dea	4
+一條	qit dej	7
+一定	qit dex	24
+一直	qit dkk	14
+一團	qit dsf	1
+一段	qit dsv	5
+一串	qit ecv	1
+一串串	qit ecv ecv	1
+一處	qit ehq	3
+一處町副	qit ehq rer fmk	1
+一處	qit ehz	2
+一番	qit fbf	1
+一批	qit fea	2
+一片	qit fev	7
+一篇	qit ftf	10
+一行	qit gas	3
+一頁	qit get	4
+一件	qit ggr	2
+一鍵	qit ggr	6
+一共	qit ghx	7
+一學期	qit gjk gka	1
+一項	qit gjw	2
+一期	qit gka	1
+一窶	qit glq	1
+一羣	qit gmf	2
+一會	qit gsb	5
+一下	qit gzq	41
+一下	qit gzz	6
+一下印歐	qit gzz qiv qua	1
+一向	qit hwx	1
+一時	qit iia	1
+一詞	qit jia	1
+一歌	qit kaa	1
+一干	qit kaf	1
+一個	qit kaz	316
+一個人	qit kaz nif	9
+一個半	qit kaz psv	1
+一個班	qit kaz pzf	1
+一個月	qit kaz wbt	2
+一臉的	qit kge tek	1
+一角錢	qit kjk ztf	2
+一根	qit klf	1
+一句	qit klz	5
+一句話	qit klz gxb	7
+一股	qit koq	1
+一國	qit kpk	17
+一國兩制	qit kpk lqw atb	4
+一鍋粥	qit ksa ank	1
+一家	qit kza	2
+一來	qit llh	1
+一路	qit loz	1
+一兩	qit lqw	0
+一兩叶	qit lqw gep	1
+一列	qit ltt	4
+一晚	qit mbr	0
+一晚上	qit mbr iqw	1
+一晚是	qit mbr itq	1
+一望	qit mbx	1
+一命	qit mgx	1
+一無	qit mla	3
+一物	qit mmt	1
+一摸	qit moa	3
+一模一樣	qit moa qit yqx	1
+一門	qit mof	6
+一門課	qit mof xsz	2
+一秒	qit mtu	2
+一面	qit mtv	2
+一年	qit nef	7
+一如	qit nha	2
+一人	qit nif	2
+一二	qit nin	1
+一二三	qit nin sad	0
+一二三四	qit nin sad sin	1
+一日	qit nit	2
+一說	qit oct	1
+一室	qit oit	1
+一首	qit onq	0
+一世	qit otb	1
+一聲	qit ots	1
+一方面	qit pbs mtv	1
+一遍	qit pev	11
+一封	qit phs	2
+一封信	qit phs siv	1
+一屄	qit pih	1
+一分	qit pmf	1
+一分鐘	qit pmf ays	1
+一幅	qit pmk	2
+一輩	qit pon	1
+一波	qit psa	3
+一番	qit psa	1
+一般	qit psf	26
+一般怕	qit psf fzz	1
+一般人	qit psf nif	1
+一半	qit psv	12
+一百	qit pzk	7
+一把	qit pzq	1
+一飲	qit qke	1
+一套	qit ram	1
+一天	qit ref	12
+一天半	qit ref psv	1
+一聽	qit res	1
+一推	qit roh	1
+一絲	qit sia	3
+一色	qit skk	2
+一些	qit sqa	33
+一些人	qit sqa nif	2
+一到	qit tam	0
+一旦	qit tav	7
+一點	qit tee	18
+一點天梯	qit tee ref rea	1
+一點點	qit tee tee	1
+一滴	qit tek	2
+一桌	qit tjk	1
+一致	qit tkn	2
+一中	qit tms	2
+一堆	qit toh	10
+一堆人	qit toh nif	1
+一對	qit ton	10
+一張	qit tws	3
+一千	qit vef	7
+一切	qit vet	44
+一切	qit vez	3
+一次	qit vin	29
+一次性	qit vin stx	1
+一眼	qit wdr	3
+一言	qit wwf	1
+一看	qit xav	1
+一曲	qit xhk	1
+一起	qit xkq	13
+一開始	qit xlh oiq	1
+一款	qit xsr	7
+一口	qit xuq	4
+一圈	qit xvf	9
+一塊	qit xxn	1
+一位	qit yhn	3
+一樣	qit yqx	74
+一夜	qit yqz	3
+一字	qit ziz	1
+一事	qit zkz	3
+一層	qit zls	2
+一叢	qit zus	2
+一從	qit zys	1
+印	qiv	8
+印度	qiv doz	1
+印象	qiv jqw	4
+印歐	qiv qua	11
+於	qja	10
+依	qjh	11
+衣	qjh	5
+依照	qjh atm	1
+衣服	qjh bmk	4
+衣着	qjh dwk	1
+依賴	qjh lab	9
+衣領	qjh ltw	1
+依然	qjh ntf	1
+依次	qjh vin	1
+依靠	qjh xam	2
+隱	qjr	1
+隱式	qjr oik	2
+隱飾	qjr oik	1
+隱蔽	qjr ptb	1
+隱藏	qjr zas	2
+醫學	qka gjk	1
+醫療	qka ltm	3
+醫務	qka mlz	1
+醫生	qka sgs	5
+醫術	qka uyt	1
+陰	qkd	5
+音	qkd	15
+音節	qkd cet	1
+音系	qkd gez	1
+音碼	qkd mzq	2
+音聲	qkd ots	1
+音標	qkd ptj	14
+陰天	qkd ref	2
+音義	qkd wgz	2
+音樂	qkd wjk	7
+飲	qke	3
+飲者	qke aqq	2
+飲酒	qke cnq	1
+飲式	qke oik	1
+飲食	qke uik	1
+億	qkk	2
+憶	qkk	34
+抑	qkk	3
+抑制	qkk atb	1
+憶得	qkk tlk	1
+應	qks	14
+應是	qks itq	2
+應急	qks kkp	1
+應根據	qks klf kjz	1
+應該	qks klh	38
+應當	qks tas	2
+應用	qks yyx	5
+乙	qkt	4
+應征	qkx ats	1
+應該	qkx klh	3
+應用	qkx yyx	3
+意	qkz	14
+意志	qkz aiz	8
+意大利	qkz dab lin	10
+意圖	qkz doa	4
+意度	qkz doz	1
+意見	qkz kev	1
+意味	qkz mmn	1
+意味深	qkz mmn oid	1
+意識	qkz oik	8
+意思	qkz sia	39
+意中人	qkz tms nif	2
+意願	qkz wbv	1
+意義	qkz wgz	18
+意爲	qkz yva	5
+暗	qlc	6
+暗地	qlc din	1
+暗視	qlc iin	1
+暗戀	qlc lcv	3
+暗示	qlc uin	1
+暗喻	qlc ypz	1
+俺	qle	1
+恩	qlf	5
+恩情	qlf zts	3
+哀	qlh	6
+愛	qln	22
+愛者	qln aqq	4
+愛遂	qln jyn	1
+愛國	qln kpk	4
+愛凌	qln lis	1
+愛而不得	qln nia pma tlk	1
+愛惜	qln stk	1
+愛黨	qln taw	1
+愛戴	qln tln	1
+愛情	qln zts	18
+愛情配色	qln zts fon skk	1
+愛情詩	qln zts oia	2
+愛靜	qln ztw	1
+挨	qly	2
+優	qma	1
+憂	qma	6
+優待	qma dly	1
+憂貨	qma hsz	1
+優化	qma hxz	4
+憂傷	qma oqs	1
+優勢	qma otb	3
+優於	qma qja	1
+優先	qma sef	14
+優先級	qma sef kkp	1
+憂心	qma sid	1
+優秀	qma snz	1
+優雅	qma wzq	3
+蘊含	qmf gld	0
+蘊含等值	qmf gld tlw dkk	10
+威	qmh	1
+喂	qmn	1
+畏	qmn	3
+蘊含	qmr gld	1
+蔚	qmt	9
+鬱	qmt	2
+尉氏	qmt itq	1
+嗚呼	qoa hoa	11
+污染	qoa ntc	2
+烏托邦	qoa rak pjs	1
+溫	qof	1
+溫度	qof doz	2
+溫柔	qof nna	1
+溫暖	qof nsr	1
+瘟疫	qof yck	1
+穩	qor	2
+穩定	qor dex	6
+穩固	qor koz	1
+窩	qsa	1
+涴	qsz	1
+厭學	qtc gjk	1
+要求	qtj gma	1
+腰間	qtj kdf	3
+益	qtk	27
+益害	qtk gab	1
+葽	qtm	1
+要	qtm	194
+要飯	qtm bbv	1
+要被	qtm bgq	1
+要號	qtm gam	2
+要求	qtm gma	16
+要和	qtm gsa	3
+要是	qtm itq	21
+要高	qtm kaj	0
+要命	qtm mgx	1
+要你	qtm nkq	2
+要不如	qtm pma nha	1
+要不然	qtm pma ntf	1
+要不要	qtm pma qtm	2
+要死	qtm siy	1
+要錢	qtm ztf	1
+區	qua	1
+歐	qua	1
+歐洲	qua ana	11
+歐洲們	qua ana mof	2
+歐盟	qua mgs	1
+嘔啞	qua qdk	1
+屋	quk	2
+屋裏	quk liq	1
+嘔	quq	1
+翁	qus	1
+委	qvq	4
+萎靡	qvz mgq	1
+萎縮	qvz smk	1
+焉	qwf	7
+約	qwk	6
+約定	qwk dex	2
+約會	qwk gsb	3
+約束	qwk oyk	2
+約束力	qwk oyk lik	1
+灣	qxf	3
+彎子	qxf ciq	0
+彎子要是	qxf ciq qtm itq	1
+彎路	qxf loz	4
+歪	qxh	0
+歪言推理	qxh wwf roh liq	1
+鴉片	qza fev	6
+咬牙齒	qzj wza eiq	0
+咬牙齒推翻	qzj wza eiq roh fbf	1
+鴨	qzp	2
+壓榨	qzp czz	1
+壓力	qzp lik	1
+鴨綠江	qzp lyk kjs	1
+壓迫	qzp pzk	5
+他	raa	184
+她	raa	12
+它	raa	20
+拖	raa	1
+他這	raa aqz	1
+他只	raa atq	3
+他噴霧式	raa fof mlz oik	1
+他鄉	raa hws	1
+他是	raa itq	2
+他們	raa mof	88
+她們	raa mof	3
+他們班	raa mof pzf	1
+他媽	raa mza	2
+他人	raa nif	5
+他說	raa oct	5
+他聖母峯	raa otx muq fhs	1
+他的	raa tek	13
+拖吊車	raa tem eqa	1
+拖欠	raa xwc	1
+他以	raa yiq	1
+他在	raa zly	1
+他就	raa znz	1
+太	rab	47
+太平	rab bgs	1
+太跑	rab bzj	1
+太大	rab dab	1
+太行	rab gas	0
+太君	rab kmf	1
+太累	rab lcq	1
+太慢	rab mzv	1
+太不	rab pma	1
+太抽象	rab rma jqw	1
+太息	rab sik	1
+太多	rab taa	5
+太低	rab tea	1
+太差	rab vda	1
+太酷	rab xok	2
+太遠	rab ybr	4
+太陽	rab yqs	8
+託	rak	1
+托盤	rak bsf	1
+套	ram	9
+套間	ram kdf	1
+套了	ram leu	1
+套娃	ram qda	1
+塔	rap	2
+坦然	rar ntf	4
+湯	ras	1
+湯姆	ras muq	1
+湯陰縣	ras qkd grf	1
+討	rau	1
+討論	rau lov	4
+討厭	rau qtc	12
+嘆	rav	2
+碳	rav	2
+嘆息	rav sik	2
+淌	raw	1
+躺	raw	1
+躺屍	raw oih	1
+躺在	raw zly	1
+梯子	rea ciq	1
+添	red	23
+添詞	red jia	1
+添加	red kza	29
+添到	red tam	1
+添油加醋	red yna kza voz	1
+天	ref	52
+天真	ref aif	1
+天主教	ref apq kzm	0
+天主教在	ref apq kzm zly	1
+天子	ref ciq	4
+天堂	ref das	2
+天池	ref dga	1
+天地	ref din	11
+天皇	ref gss	2
+天下	ref gzz	4
+天黑	ref hlk	2
+天上	ref iqw	4
+天國	ref kpk	1
+天光	ref kss	1
+天命	ref mgx	1
+天人	ref nif	1
+天書	ref oha	1
+天賦	ref plz	1
+天要高	ref qtm kaj	1
+天梯	ref rea	1
+天生	ref sgs	3
+天使	ref skq	6
+天知地知	ref tga din tga	0
+天知地知你知我知何謂無知	ref tga din tga nkq tga waq tga gaa ymn mla tga	1
+天寸	ref vov	1
+天克里斯	ref xlk liq sta	1
+天空	ref xus	1
+天才	ref zlh	1
+挑	rej	1
+挑戰	rej atv	1
+挑選	rej scr	2
+帖	rep	3
+貼	rep	2
+帖子	rep ciq	1
+貼吧	rep pza	2
+體	req	4
+體現	req gev	6
+體系	req gez	1
+體會	req gsb	8
+體臭	req hmz	1
+體香	req hws	1
+體感	req kle	2
+體味	req mmn	1
+體測	req vkk	3
+體位	req yhn	2
+體育	req ynk	1
+體裁	req zlh	3
+體裁出	req zlh eyt	1
+町副	rer fmk	2
+廳	res	1
+聽	res	5
+聽不懂	res pma tuw	1
+鐵	ret	1
+鐵路	ret loz	1
+鐵衣	ret qjh	1
+町	rew	0
+町一篇	rew qit ftf	1
+聽	rex	24
+聽見	rex kev	2
+聽講	rex kjw	2
+聽力	rex lik	4
+聽力力	rex lik lik	1
+聽聞	rex mmf	1
+聽你	rex nkq	1
+聽說	rex oct	3
+聽不出	rex pma eyt	1
+聽不過	rex pma ksz	1
+聽不懂	rex pma tuw	3
+聽到	rex tam	1
+聽得到	rex tlk tam	1
+聽得到嘛	rex tlk tam mza	1
+聽課	rex xsa	2
+替	rez	6
+涕	rez	1
+替代	rez dln	2
+替換	rez gsv	5
+超	rgj	8
+超出	rgj eyt	1
+超乎	rgj goa	2
+超時	rgj iia	5
+超紀錄	rgj kkq lyk	1
+超過	rgj ksa	3
+超過	rgj ksz	2
+超女	rgj njq	1
+超星	rgj ses	5
+撤銷	rgt stj	1
+徹底	rgt teq	3
+寵愛	rhw qln	1
+戳	rjk	1
+恥	rkq	3
+趁	rkv	2
+探	rlc	3
+探討	rlc rau	1
+探索	rlc sak	3
+探測	rlc vkk	1
+貪吃	rld kjt	1
+貪婪	rld lld	2
+貪得無厭	rld tlk mla qtc	1
+吞	rlf	1
+吞棗	rlf cau	1
+胎	rlh	1
+態	rln	3
+貸	rln	1
+態度	rln doz	1
+貸款	rln xsr	1
+踏	rlp	5
+抽	rma	7
+抽象	rma jqw	7
+抽離	rma lta	1
+抽取	rma vpq	1
+畜	rmk	1
+丑行	rmq gas	1
+推	roh	5
+推進	roh civ	9
+推特	roh dlk	5
+推翻	roh fbf	2
+推給	roh kkp	2
+推廣	roh ksw	2
+推理	roh liq	2
+推移	roh yta	1
+退	ron	3
+退出	ron eyt	3
+退貨	ron hsz	1
+退格	ron kzk	2
+吐	roq	3
+土	roq	3
+土埂	roq kzw	1
+土壤	roq nqw	1
+氽	ror	0
+統	rox	7
+統治	rox dka	2
+統值	rox dkk	1
+統治	rox dkz	24
+統治者	rox dkz aqq	2
+統計	rox kez	3
+統一	rox qit	32
+腿	roy	6
+兔	roz	4
+吐	roz	2
+吐撤	roz rgt	1
+湍	rsf	1
+妥	rsq	1
+脫	rst	7
+脫紙	rst atq	1
+脫貧	rst bkf	10
+脫稿	rst kau	4
+脫離	rst lta	10
+脫我	rst waq	1
+脫庫	rst xoz	1
+脫褲子	rst xoz ciq	2
+偷	rua	5
+偷懶	rua lar	1
+偷窺	rua xca	1
+鈄	ruq	1
+通	rus	11
+通航	rus gas	1
+通俗	rus jyk	2
+通過	rus ksa	31
+通過	rus ksz	7
+通關	rus kxf	1
+通識	rus oik	1
+通商	rus oqs	2
+通通	rus rus	1
+通往	rus ybw	2
+桶	ruw	1
+痛	rux	6
+痛下	rux gzq	1
+痛罵	rux mzz	1
+痛心	rux sid	3
+痛快	rux xxb	2
+透	ruz	3
+透過	ruz ksz	2
+透明	ruz mgs	1
+透徹	ruz rgt	1
+拆了	rzk kbt	1
+拆分	rzk pmf	3
+嗦	saa	3
+三	sad	36
+三芝	sad aia	0
+三芝日	sad aia nit	1
+三種	sad ayw	3
+三倍速	sad bly suk	1
+三部分	sad boq bmv	1
+三大	sad dab	1
+三重	sad dhs	1
+三拼	sad fes	14
+三拼倉速	sad fes vas suk	1
+三回	sad goh	4
+三話	sad gxb	1
+三十	sad iip	1
+三十六	sad iip lnk	1
+三十秒	sad iip mtu	1
+三十八	sad iip pdt	2
+三個	sad kaz	9
+三國	sad kpk	2
+三公里	sad kus liq	1
+三菱鏡	sad lis kgx	2
+三路	sad loz	1
+三目	sad mmk	3
+三門	sad mof	1
+三名	sad mts	1
+三秒	sad mtu	1
+三碼	sad mzq	4
+三罵	sad mzq	1
+三年	sad nef	7
+三年前	sad nef zef	1
+三日	sad nit	2
+三百	sad pzk	3
+三套	sad ram	0
+三天	sad ref	0
+三天前	sad ref zef	1
+三胎	sad rlh	1
+三通	sad rus	2
+三四	sad sin	5
+三千	sad vef	1
+三千茱莉亞	sad vef ipa lea qzz	1
+三千米	sad vef meq	1
+三次	sad vin	3
+三月	sad wbt	4
+三月三	sad wbt sad	1
+參事	sad zkz	1
+三層	sad zls	2
+騷擾	saj ntu	1
+索	sak	1
+索引	sak yir	6
+傘	sar	1
+散盡	sar cir	2
+散文	sar mmf	1
+桑	sas	3
+撒	sat	1
+掃	sau	7
+掃描	sau mgj	0
+掃一眼	sau qit wdr	1
+散	sav	1
+散步	sav boz	2
+嗓子	saw ciq	1
+喪	sax	1
+喪失	sax oit	1
+歲	scb	11
+歲月	scb wbt	2
+宣傳	scf dvf	1
+宣告	scf kam	1
+宣佈	scf poz	4
+宣言	scf wwf	24
+宣揚	scf yqs	1
+選	scr	16
+選題	scr dea	8
+選定	scr dex	1
+選着	scr dwk	1
+選擇	scr dzk	11
+選擇題	scr dzk dea	2
+選項	scr gjw	8
+選好	scr hau	1
+選一下	scr qit gzq	1
+選修	scr sna	3
+選中	scr tms	2
+選考	scr xau	1
+選課	scr xsz	7
+選自	scr zin	2
+雪	sct	4
+雪峯	sct fhs	0
+篩	sda	1
+篩選	sda scr	1
+山	sdf	6
+山河	sdf gaa	2
+山歌	sdf kaa	1
+山路	sdf loz	1
+山珍	sdf tkf	3
+山泉	sdf zcf	1
+霎	sdp	1
+產	sdr	2
+產品	sdr fke	7
+產量	sdr lqs	1
+產物	sdr mmt	4
+產生	sdr sgs	15
+產業	sdr wwp	1
+殺	sdt	6
+煞	sdt	1
+殺人	sdt nif	2
+曬幹	sdz kav	1
+西	sea	11
+西周	sea ana	1
+西晉	sea civ	1
+西大	sea dab	1
+西漢	sea hav	1
+西市	sea iiq	2
+西瓜	sea kxa	2
+西邊	sea pef	1
+西北	sea plk	2
+西班牙	sea pzf wza	2
+西語	sea wjq	1
+先	sef	45
+先週	sef ana	1
+先進	sef civ	4
+先輩	sef pon	1
+先生	sef sgs	1
+先死	sef siy	3
+先有	sef ymq	2
+先前	sef zef	3
+先秦	sef zif	1
+析	sek	1
+析構	sek kuz	1
+嘯	sem	1
+洗	seq	4
+洗澡	seq cau	2
+洗手檯	seq onq dlh	1
+星	ses	4
+星號	ses gam	1
+星期	ses gka	2
+星期二	ses gka nin	1
+星期三	ses gka sad	1
+星海	ses hly	0
+屑	set	55
+屑典	set ter	1
+先	sev	2
+先輩	sev pon	1
+先替	sev rez	1
+醒	sew	1
+醒目	sew mmk	2
+細	sez	4
+細節	sez cet	1
+細佬	sez lau	1
+細膩	sez nkn	1
+細說	sez oct	9
+細分	sez pmf	3
+細葉	sez ytp	1
+細嚼	sez zqk	0
+細嚼則	sez zqk clk	1
+鎩	sgb	1
+生	sgs	30
+生病	sgs bgx	2
+生出	sgs eyt	1
+生怕	sgs fzz	1
+生活	sgs gst	36
+生活中	sgs gst tms	1
+生效	sgs gzm	1
+生化	sgs hxz	1
+生成	sgs its	17
+生詞	sgs jia	7
+生命	sgs mgx	12
+生物	sgs mmt	2
+生物學	sgs mmt gjk	1
+生日	sgs nit	2
+生肉	sgs nnk	9
+生產	sgs sdr	49
+生產是	sgs sdr itq	1
+生產力	sgs sdr lik	1
+生產線	sgs sdr stv	1
+生小孩	sgs stu glh	1
+生長	sgs tww	1
+生涯	sgs wda	8
+生氣	sgs xjn	1
+生與死	sgs yhq siy	3
+生育	sgs ynk	1
+生存	sgs zof	12
+生存水	sgs zof oyy	1
+省	sgw	2
+省級	sgw kkp	1
+率先	shn sef	1
+帥	sht	1
+摔	sht	1
+摔在	sht zly	1
+司	sia	2
+思	sia	24
+絲	sia	2
+絲質	sia ait	1
+思政	sia atx	3
+思政課	sia atx xsa	3
+思政課	sia atx xsz	2
+思辨	sia bgr	2
+思潮	sia dgj	1
+絲毫	sia gaj	1
+絲滑	sia gft	1
+司詞	sia jia	1
+司機	sia kjh	1
+思路	sia loz	1
+思無邪	sia mla yqa	1
+思念	sia nec	6
+思想	sia sqw	41
+思考	sia xau	2
+思考題	sia xau dea	5
+思維	sia yyh	4
+心	sid	29
+心腸	sid dws	1
+心虛	sid hja	1
+心上	sid iqw	1
+心上人	sid iqw nif	1
+心善	sid itr	1
+心理	sid liq	8
+心目	sid mmk	2
+心聲	sid ots	1
+心按	sid qav	1
+心態	sid rln	1
+心痛	sid rux	1
+心碎	sid son	1
+心得	sid tlk	5
+心中	sid tms	3
+心切	sid vet	2
+心臟	sid zax	1
+新	sif	73
+辛	sif	3
+新主	sif apq	0
+新主人	sif apq nif	1
+薪資	sif cih	1
+新則	sif clk	1
+新增	sif cls	4
+新特性	sif dlk stx	1
+新宅子	sif dzk ciq	1
+新舊	sif gmz	1
+新校區	sif gzm xla	1
+新興	sif hks	1
+新時代	sif iia dln	3
+新詞	sif jia	1
+新歌	sif kaa	1
+新冠	sif ksv	3
+新館	sif ksv	1
+新功能	sif kus nls	1
+新疆	sif kws	4
+新建	sif kwv	4
+新加	sif kza	1
+新家	sif kza	1
+新加坡	sif kza fsa	0
+辛辣	sif lat	2
+新賣	sif mdz	1
+新聞	sif mmf	9
+新而	sif nia	1
+新人	sif nif	2
+新手機	sif onq kjh	1
+薪水	sif oyy	1
+新生	sif sgs	1
+新寫	sif sqq	2
+新的	sif tek	6
+新東西	sif tus sea	2
+新東西沒	sif tus sea mot	1
+辛苦	sif xoq	0
+辛苦了	sif xoq leu	1
+私	sih	6
+私人	sih nif	2
+私信	sih siv	1
+私有	sih ymq	10
+私有制	sih ymq atb	7
+息	sik	5
+熄	sik	1
+熄屏	sik bes	2
+熄火	sik hsq	1
+四	sin	33
+肆	sin	1
+四周	sin ana	1
+四終	sin ans	1
+四種	sin ayw	1
+四大件	sin dab ggr	1
+四導	sin dam	1
+四處	sin ehz	1
+四個	sin kaz	2
+四個人	sin kaz nif	1
+四級	sin kkp	21
+四句	sin klz	1
+四六級	sin lnk kkp	1
+四萬	sin mbv	1
+四面	sin mtv	4
+四年	sin nef	3
+四日	sin nit	8
+四方	sin pbs	1
+四遍	sin pev	1
+四百	sin pzk	1
+四千	sin vef	4
+四次	sin vin	1
+四月	sin wbt	2
+四五	sin woq	3
+四款	sin xsr	0
+四款仍然	sin xsr nis ntf	1
+膝	sit	2
+信	siv	23
+訊	siv	3
+信號	siv gam	1
+信時	siv iia	1
+迅雷	siv loh	1
+信任	siv nic	2
+信貸	siv rln	1
+信息	siv sik	26
+信色	siv skk	1
+信義	siv wgz	1
+信仰	siv www	5
+死	siy	31
+死別	siy bgt	1
+死後	siy guq	1
+死亡	siy mbs	13
+死人	siy nif	1
+死生	siy sgs	2
+死語言	siy wjq wwf	1
+死前	siy zef	1
+梳	sja	1
+朔	sjk	1
+朔氣	sjk xjn	1
+所	sjq	69
+所最	sjq csb	1
+所現	sjq gev	1
+所學	sjq gjk	1
+所售	sjq inz	1
+所感	sjq kle	1
+所列	sjq ltt	1
+所選	sjq scr	2
+所思	sjq sia	1
+所知	sjq tga	2
+所得	sjq tlk	1
+所示	sjq uin	0
+所餘	sjq yha	1
+所以	sjq yiq	53
+所謂	sjq ymn	7
+所有	sjq ymq	21
+所有制	sjq ymq atb	16
+所有物	sjq ymq mmt	3
+所欲	sjq yyk	1
+所在	sjq zly	3
+雙	sjs	5
+雙縫	sjs bhx	1
+雙重	sjs dhs	4
+雙重	sjs dhw	2
+雙橡園	sjs jqw ybf	1
+雙擊	sjs kek	1
+雙數	sjs slz	1
+雙語	sjs wjq	2
+森	skd	2
+蔘	skd	1
+師	skh	26
+師弟	skh deq	1
+師生	skh sgs	2
+色	skk	6
+色盲	skk mzs	1
+色彩	skk vly	1
+色情	skk zts	1
+澀	skp	2
+澀圖	skp doa	1
+使	skq	71
+史	skq	7
+史上	skq iqw	1
+史剛德	skq kas tlk	1
+使勁	skq ktx	3
+使命	skq mgx	3
+使得	skq tlk	1
+使用	skq yyx	42
+使用看	skq yyx xav	1
+塞	slk	8
+塞進	slk civ	2
+賽	sln	3
+賽跑	sln bzj	1
+賽博	sln pak	1
+數	slq	1
+僧侶	sls lhq	7
+數	slz	38
+數載	slz cly	1
+數組	slz coq	80
+數組中	slz coq tms	1
+數篇	slz ftf	1
+數學	slz gjk	72
+數學家	slz gjk kza	1
+數十	slz iip	1
+數十年	slz iip nef	1
+數據	slz kjz	76
+數據結構	slz kjz ket kuz	1
+數據庫	slz kjz xoz	73
+數句	slz klz	1
+數量	slz lqs	4
+數列	slz ltt	2
+數額	slz wzk	2
+數控	slz xjs	1
+數字	slz ziz	13
+數字鍵	slz ziz ggf	1
+搜	sma	22
+搜狗	sma kuq	1
+搜書	sma oha	2
+搜索	sma sak	4
+搜昂	sma was	1
+縮	smk	1
+縮進	smk civ	6
+縮寫	smk sqq	1
+縮小	smk stu	2
+修	sna	6
+饈	sna	2
+修正	sna atx	3
+修復	sna bmk	1
+修道	sna dau	1
+修完	sna gsf	1
+修改	sna kly	29
+修例	sna ltb	5
+修飾	sna oik	5
+修複	sna pmk	1
+羞澀	sna skp	1
+修養	sna yqw	1
+宿	snk	2
+宿舍	snk oqz	24
+秀	snz	1
+繡	snz	1
+蘇聯	soa ltf	2
+蘇俄	soa waa	2
+蘇維埃	soa yyh qlh	1
+孫	sof	3
+孫笑川	sof stm ecf	1
+損害	sor gab	1
+損失	sor oit	2
+宋	sox	11
+宋浩	sox gau	1
+素	soz	3
+素ᵗ	soz `	2
+素質	soz ait	1
+素撲	soz fuk	1
+塑造	soz zau	3
+素材	soz zlh	1
+需	spa	19
+須	spa	3
+需求	spa gma	3
+需要	spa qtj	26
+尠	spz	1
+些	sqa	16
+削	sqk	1
+寫	sqq	298
+寫作	sqq cak	3
+寫進	sqq civ	1
+寫道	sqq dau	1
+寫重構	sqq dhs kuz	1
+寫代碼	sqq dln mzq	1
+寫出	sqq eyt	2
+寫完	sqq gsf	5
+寫好	sqq ham	1
+寫上	sqq iqw	7
+寫上我	sqq iqw waq	1
+寫成	sqq its	1
+寫了	sqq kbt	1
+寫夠	sqq kuz	1
+寫了	sqq leu	3
+寫網頁	sqq mbw get	1
+寫入	sqq nip	4
+寫法	sqq pbp	17
+寫反	sqq pbr	2
+寫意	sqq qkz	1
+寫死	sqq siy	3
+寫到	sqq tam	1
+寫得	sqq tlk	3
+寫錯	sqq voz	1
+寫字	sqq ziz	2
+寫字樓	sqq ziz lua	0
+寫字樓學	sqq ziz lua gjk	1
+寫在	sqq zly	3
+相	sqs	16
+箱	sqs	0
+相除	sqs dja	1
+相投	sqs dua	1
+相同	sqs dus	6
+相仿	sqs fbw	1
+相亥	sqs gly	1
+相互	sqs goz	3
+相似	sqs jiq	6
+相減	sqs kde	1
+相隔	sqs kdk	4
+相見	sqs kev	3
+相繼	sqs kez	1
+湘江	sqs kjs	1
+相關	sqs kxf	7
+相適應	sqs otk qks	0
+相比	sqs piy	6
+相應	sqs qks	2
+相愛	sqs qln	2
+相思	sqs sia	3
+相信	sqs siv	4
+相當	sqs tas	3
+相當于	sqs tas yla	1
+相等	sqs tlw	4
+相對	sqs ton	7
+相乘	sqs uis	1
+相遇	sqs wlz	2
+相位	sqs yhn	2
+相異	sqs yiz	1
+想	sqw	96
+想做	sqw coz	1
+想學	sqw gjk	0
+想和	sqw gsa	1
+想和訊	sqw gsa siv	1
+想象	sqw jqw	6
+想減	sqw kde	1
+想你	sqw nkq	1
+想你了	sqw nkq leu	1
+想讓	sqw nqx	1
+想法	sqw pbp	5
+想必	sqw pit	4
+想要	sqw qtj	6
+想要的	sqw qtj tek	1
+想要	sqw qtm	1
+想聽	sqw res	1
+想信	sqw siv	1
+想寫	sqw sqq	0
+想到	sqw tam	6
+想當	sqw tas	1
+想看	sqw xav	6
+想喫	sqw xek	1
+想去	sqw xjz	1
+想起	sqw xkq	8
+想起來	sqw xkq llh	1
+相位	sqx yhn	4
+瀉	sqz	1
+𣩡	ssb	1
+酸	ssf	2
+瑣	ssq	6
+鎖	ssq	2
+算	ssv	46
+蒜	ssv	2
+算是	ssv itq	6
+算了	ssv leu	3
+算法	ssv pbp	38
+算不算	ssv pma ssv	1
+算數	ssv slz	1
+算得	ssv tlk	0
+算得上	ssv tlk iqw	1
+斯	sta	24
+斯題	sta dea	1
+斯番	sta fbf	2
+斯感	sta kle	1
+斯通	sta rus	0
+纖塵	std dkf	1
+消	stj	1
+消掉	stj dem	1
+消除	stj dja	1
+消持	stj dka	1
+銷路	stj loz	1
+消磨	stj msa	1
+消滅	stj mtt	43
+消失	stj oit	16
+消費者	stj pkn aqq	1
+消息	stj sik	4
+惜	stk	3
+昔	stk	11
+昔時	stk iia	2
+笑	stm	6
+笑談	stm dad	1
+笑死	stm siy	3
+笑我	stm waq	2
+徙	stq	2
+璽	stq	3
+癬	str	1
+泄	stt	1
+泄漏	stt luz	1
+小	stu	72
+小白	stu bzk	1
+小組	stu coq	7
+小姐	stu cqq	4
+小弟	stu deq	2
+小號	stu gam	1
+小學	stu gjk	8
+小學期	stu gjk gka	1
+小學生	stu gjk sgs	1
+小球	stu gma	1
+小火	stu hsq	1
+小伙子	stu hsq ciq	1
+小時	stu iia	28
+小時候	stu iia guz	1
+小鬼	stu kmy	2
+小括號	stu kst gaj	1
+小李	stu liq	2
+小劉	stu lna	4
+小路	stu loz	1
+小類	stu lyn	2
+小網站	stu mbw tdc	1
+小麥	stu mdk	2
+小農	stu nos	3
+小說	stu oct	5
+小於	stu qja	5
+小丑	stu rmq	1
+小心	stu sid	5
+小數	stu slz	3
+小寫	stu sqq	2
+小小	stu stu	2
+小屌	stu teu	1
+小鳥	stu teu	1
+小初高	stu vja kaj	1
+小康	stu xas	1
+小王	stu ybs	1
+小王住	stu ybs dlz	3
+小助手	stu zjz onq	1
+線	stv	5
+線程	stv dgs	8
+鮮活	stv gst	1
+線下	stv gzz	1
+線性	stv stx	1
+姓	stx	2
+性	stx	23
+性質	stx ait	10
+性別	stx bgt	1
+性交	stx kzj	1
+性格	stx kzk	4
+性教育	stx kzm ynk	2
+姓名	stx mts	5
+性能	stx nls	1
+賜予	stz yhq	1
+速	suk	7
+速度	suk doz	5
+速成	suk its	2
+速通	suk rus	1
+速食店	suk uik tec	0
+速食店是	suk uik tec itq	1
+忪	sus	1
+檧	suw	1
+送	sux	11
+送來	sux llh	6
+送兒	sux nta	1
+送到	sux tam	2
+送中	sux tms	1
+送去	sux xjz	3
+傻	sxq	3
+耍	sxq	3
+傻子	sxq ciq	1
+傻屄	sxq pih	46
+刷	sxt	3
+刷新	sxt sif	2
+詢	syf	4
+雖	syh	12
+雖然	syh ntf	25
+沙	sza	3
+紗	sza	1
+沙皇	sza gss	3
+沙拉	sza llp	4
+衫	szd	1
+刪	szf	25
+刪罷	szf bdq	1
+刪除	szf dja	18
+刪除線	szf dja stv	1
+刪了	szf leu	2
+刪表	szf pgu	3
+稍	szu	12
+稍微	szu mmh	4
+稍等	szu tlw	2
+稍有	szu ymq	1
+多	taa	157
+多種	taa ayw	0
+多裝	taa cws	1
+多條	taa dej	1
+多行	taa gas	4
+多好多	taa hau taa	1
+多詞	taa jia	1
+多個	taa kaz	1
+多國	taa kpk	1
+多了	taa leu	2
+多鄰國	taa lif kpk	1
+多年	taa nef	2
+多少	taa otm	18
+多半	taa psv	1
+多於	taa qja	6
+多態	taa rln	2
+多選	taa scr	1
+多數	taa slz	2
+多寫	taa sqq	1
+多線程	taa stv dgs	9
+多次	taa vin	1
+多此	taa vtq	1
+多餘	taa yha	6
+多用	taa yyx	1
+多字	taa ziz	1
+多層	taa zls	1
+多就	taa znz	1
+帶	tab	16
+帶專	tab acf	9
+帶飯	tab bbv	1
+帶走	tab cuq	2
+帶頭	tab dua	1
+帶着	tab dwk	1
+帶來	tab llh	3
+帶路	tab loz	1
+帶不動	tab pma duw	1
+帶不懂	tab pma tuw	1
+帶我	tab waq	12
+帶伍	tab woq	1
+帶有	tab ymq	3
+擔	tac	3
+擔子	tac ciq	1
+擔	tad	1
+擔心	tad sid	3
+擔當	tad tas	1
+膽	tae	1
+膽戰心驚	tae atv sid kgs	1
+單	taf	35
+單縫	taf bhx	1
+單獨	taf duk	1
+單車	taf eqa	1
+單休	taf hma	1
+單是	taf itq	1
+單純	taf iyf	2
+單純翻譯	taf iyf fbf ytk	1
+單詞	taf jia	106
+單詞表	taf jia pgu	1
+單個	taf kaz	3
+丹麥	taf mdk	2
+單兒	taf nta	1
+單然	taf ntf	1
+單選	taf scr	1
+單選框	taf scr xbs	1
+單雪	taf sct	1
+單數	taf slz	2
+單等	taf tlw	1
+單射	taf uqz	2
+單元格	taf wbf kzk	1
+單語	taf wjq	5
+單語各	taf wjq kak	1
+丹丘	taf xma	1
+單位	taf yhn	2
+單字	taf ziz	1
+刀	taj	2
+倒	tam	1
+到	tam	236
+到這	tam aqz	2
+到達	tam dat	4
+到頭	tam dua	1
+到頭來	tam dua llh	4
+到處	tam ehq	13
+到處	tam ehz	1
+到時候	tam iia guz	1
+倒是	tam itq	1
+到了	tam leu	1
+到來	tam llh	5
+倒流	tam lna	1
+到晚	tam mbr	1
+到手	tam onq	1
+到點	tam tee	6
+到底	tam teq	1
+到我	tam waq	1
+到位	tam yhn	1
+倒也	tam yqq	2
+檔	tas	1
+當	tas	117
+當衆	tas anx	2
+當政	tas atx	3
+當作	tas cak	7
+當作	tas coz	1
+當堂課	tas das xsa	1
+當地	tas din	1
+當代	tas dln	2
+當昰	tas dtq	1
+當場	tas dws	3
+當戶	tas goq	1
+當下	tas gzq	1
+當時	tas iia	11
+當成	tas its	2
+當今	tas kkd	3
+當你	tas nkq	3
+當兒	tas nta	1
+當然	tas ntf	12
+當天	tas ref	3
+當相適應	tas sqs otk qks	1
+當中	tas tms	1
+當初	tas vja	3
+當窗	tas vjs	1
+當我	tas waq	17
+當爲	tas yva	1
+當前	tas zef	30
+倒	tau	6
+島	tau	9
+倒是	tau itq	2
+倒掛	tau kfz	1
+倒霉	tau moh	1
+倒數	tau slz	1
+倒置	tau tkz	1
+旦	tav	6
+黨	taw	14
+黨史	taw skq	1
+黨員	taw ymf	1
+站	tdc	8
+站起來	tdc xkq llh	1
+站在	tdc zly	1
+摘	tdk	2
+摘帽	tdk mam	2
+摘要	tdk qtj	3
+低	tea	6
+低下	tea gzq	1
+低級	tea kkp	4
+低級趣味	tea kkp vpz mmn	6
+低人	tea nif	1
+低能	tea nls	1
+低於	tea qja	2
+墊	tec	1
+佔	ted	10
+佔據	ted kjz	1
+佔領	ted ltw	2
+佔中	ted tms	4
+佔位	ted yhn	8
+佔位符	ted yhn bla	2
+佔有	ted ymq	20
+佔用	ted yyx	1
+點	tee	104
+點子	tee ciq	1
+點進	tee civ	1
+點出	tee eyt	1
+點號	tee gam	3
+點擊	tee kek	6
+點擊率	tee kek lyt	0
+點名	tee mts	1
+顛	tef	1
+顛倒	tef tam	1
+凋	tej	1
+雕像	tej jqw	1
+的	tek	3955
+的、寫	tek ,, sqq	1
+的副詞	tek fmk jia	1
+的酣戰真實	tek gad atv aif uit	1
+的話	tek gxb	1
+的確	tek xjk	2
+的引發出	tek yir pbt eyt	1
+吊	tem	1
+釣魚	tem wja	1
+涉	tep	3
+涉及	tep gkp	4
+底	teq	10
+底部	teq buq	1
+底下	teq gzz	2
+詆毀	teq hvq	1
+底數	teq slz	1
+底層	teq zls	3
+典	ter	2
+丁	tes	3
+丁真	tes aif	7
+叮囑	tes ayk	2
+釘子	tes ciq	1
+丁點	tes tee	1
+屌	teu	4
+鳥	teu	15
+唸	tev	1
+鼎	tew	1
+頂角	tew kjk	3
+頂點	tew tee	1
+頂層	tew zls	1
+訂閱	tex yct	3
+帝	tez	1
+帝鄉	tez hws	1
+帝國	tez kpk	7
+知	tga	48
+知之	tga aia	1
+知導	tga dam	1
+知道	tga dau	50
+知道了	tga dau leu	2
+知頭	tga dua	5
+知乎	tga goa	6
+知網	tga mbw	11
+知識	tga oik	18
+知識是	tga oik itq	1
+知不知道	tga pma tga dau	2
+知點	tga tee	2
+沾	tgd	2
+朝	tgj	6
+展	tgr	6
+展覽	tgr lae	1
+輾轉	tgr tvr	1
+展示	tgr uin	10
+展開	tgr xlh	1
+展矣	tgr ykq	1
+哲	tgt	1
+哲學	tgt gjk	19
+智	tgz	1
+智力	tgz lik	2
+智能	tgz nls	4
+智商	tgz oqs	1
+追	thh	1
+追求	thh gma	4
+追加	thh kza	1
+追溯	thh soz	5
+丟	tij	3
+丟失	tij oit	1
+豬	tja	1
+豬肉	tja nnk	2
+豬羊	tja yqs	2
+桌子	tjk ciq	3
+卓爾不羣	tjk ntq pma gmf	2
+桌墊	tjk tec	1
+著	tjz	4
+著作	tjz cak	3
+著作家	tjz cak kza	2
+戡	tke	3
+珍	tkf	2
+致	tkn	3
+致富	tkn pmz	1
+鎮	tkv	3
+鎮壓	tkv qzp	1
+置	tkz	9
+置換	tkz gsv	14
+蛛絲	tla sia	1
+呆	tlh	3
+呆着	tlh dwk	2
+得	tlk	150
+德	tlk	3
+得出	tlk eyt	2
+得抗	tlk gas	1
+得好	tlk hau	2
+德國	tlk kpk	32
+德國人	tlk kpk nif	2
+德國貝勒	tlk kpk pab llk	1
+得過	tlk ksz	1
+得來	tlk llh	3
+德文	tlk mmf	2
+德摩根	tlk msa klf	5
+得意	tlk qkz	3
+德意志	tlk qkz aiz	3
+得到	tlk tam	8
+戴	tln	1
+戴着	tln dwk	1
+戴上	tln iqw	2
+答	tlp	3
+答辯	tlp bgr	1
+答題	tlp dea	1
+答題卡	tlp dea xzq	1
+答案	tlp qav	11
+燈	tls	3
+登	tls	1
+登峯造極	tls fhs zau gkk	1
+燈紅	tls gus	1
+登錄	tls lyk	6
+燈塔	tls rap	1
+燈踏	tls rlp	1
+等	tlw	55
+等值	tlw dkk	0
+等待	tlw dly	2
+等號	tlw gam	1
+等候	tlw guz	1
+等級	tlw kkp	2
+等價	tlw kzz	6
+等你	tlw nkq	6
+等於	tlw qja	4
+等死	tlw siy	1
+等到	tlw tam	12
+等等	tlw tlw	1
+等我	tlw waq	1
+等于	tlw yla	4
+凳	tlx	1
+啁	tma	4
+中	tms	355
+忠	tms	1
+中止	tms aiq	1
+中指	tms aiy	1
+中途	tms doa	2
+中出	tms eyt	1
+中學	tms gjk	3
+中和	tms gsa	1
+中華	tms gxa	7
+中環	tms gxf	3
+中華	tms hxa	5
+中間	tms kdf	5
+中見	tms kev	1
+中級	tms kkp	1
+中古	tms koq	7
+中國	tms kpk	49
+中國語	tms kpk wjq	1
+中括號	tms kst gaj	21
+中括號	tms kst gam	4
+中文	tms mmf	4
+中年	tms nef	5
+中人	tms nif	1
+中二	tms nin	1
+中世紀	tms otb kkq	5
+中心	tms sid	2
+中小學	tms stu gjk	1
+中的	tms tek	2
+中午	tms woq	4
+中考	tms xau	2
+中位	tms yhn	2
+中位數	tms yhn slz	1
+中也	tms yqq	1
+中葉	tms ytp	1
+忠字舞	tms ziz mlq	1
+都	toa	268
+都會	toa gsb	6
+都是	toa itq	75
+都是基督	toa itq kka tok	1
+都你	toa nkq	1
+都能	toa nls	6
+都說	toa oct	2
+都不	toa pmt	2
+都要	toa qtj	1
+都要	toa qtm	10
+都算	toa ssv	1
+都懂	toa tuw	0
+都去	toa xjz	1
+都有	toa ymq	4
+都用	toa yyx	1
+都在	toa zly	3
+墩	tof	1
+堆	toh	7
+督	tok	1
+對	ton	151
+對着	ton dwk	1
+對話	ton gxb	1
+對詞	ton jia	2
+對象	ton jqw	53
+對角	ton kjk	1
+對了	ton leu	1
+對立	ton lip	16
+對味	ton mmn	2
+對嗎	ton mza	1
+對方	ton pbs	2
+對比	ton piy	6
+對付	ton plz	1
+對不對	ton pma ton	4
+對應	ton qkx	3
+對數	ton slz	7
+對得	ton tlk	1
+對對碰	ton ton fdx	0
+對哦	ton waa	1
+對我	ton waq	2
+對于	ton yla	19
+對事件	ton zkz ggr	1
+睹	toq	1
+賭	toq	2
+肚皮舞	toq bga mlq	0
+賭球	toq gma	1
+冬天	tos ref	1
+頓	tov	1
+妒	toz	1
+端	tsf	12
+端詳	tsf jqs	1
+端口	tsf xuq	5
+朵	tsq	2
+短	tsr	3
+短時間	tsr iia kdf	1
+短袖	tsr jnz	1
+短信	tsr siv	2
+短笑	tsr stm	1
+短褲	tsr xoz	1
+短缺	tsr xrt	1
+短暫	tsr zac	1
+鍛鍊	tsv lev	2
+斗酒	tuq cnq	1
+抖冷	tuq lew	1
+東	tus	5
+東周	tus ana	2
+東部	tus buq	1
+東側	tus ckk	2
+東市	tus iiq	2
+東格	tus kzk	1
+東南	tus nld	2
+東方明珠	tus pbs mgs apa	1
+東北	tus plk	1
+東三省	tus sad sgw	1
+東西	tus sea	87
+東細	tus sez	5
+懂	tuw	37
+懂了	tuw leu	1
+懂兩	tuw lqw	1
+懂點	tuw tee	1
+懂得	tuw tlk	1
+懂得都懂	tuw tlk toa tuw	1
+凍	tux	2
+棟	tux	1
+鬥	tuz	5
+鬥爭	tuz cds	19
+轉	tvr	41
+轉專業	tvr acf wwp	1
+轉動	tvr duw	3
+轉洞	tvr dux	1
+轉行	tvr gas	1
+轉回	tvr goh	2
+轉換	tvr gsv	2
+轉向	tvr hwx	1
+轉成	tvr its	10
+轉發	tvr pbt	1
+轉變	tvr pgv	1
+轉椅	tvr qga	1
+轉生	tvr sgs	1
+轉到	tvr tam	1
+轉置	tvr tkz	1
+轉義	tvr wgz	22
+轉運	tvr ymv	1
+綴	tvt	1
+輟	tvt	5
+輟辣	tvt lat	1
+轉	tvv	2
+轉速	tvv suk	1
+轉義	tvv wgz	2
+爹	twa	13
+着忙	twk mas	1
+張	tws	2
+張大千	tws dab vef	1
+張柏芝	tws pzk aia	0
+張三	tws sad	8
+張雪峯	tws sct fhs	1
+長	tww	12
+長大	tww dab	0
+長大後	tww dab guz	1
+長着	tww dwk	3
+長城	tww its	0
+長城次	tww its vin	1
+長見識	tww kev oik	1
+長相	tww sqs	1
+長想	tww sqw	1
+長得	tww tlk	3
+漲	twx	2
+帳號	twx gaj	1
+帳号	twx gam	1
+賬戶	twx goq	2
+漲見識	twx kev oik	1
+賬單	twx taf	1
+打	tzw	61
+打敗	tzw bzb	1
+打斷	tzw dsr	1
+打斷的	tzw dsr tek	1
+打破	tzw fsz	1
+打擊	tzw kek	1
+打過	tzw ksz	1
+打工	tzw kus	2
+打交	tzw kzj	1
+打膠	tzw kzj	1
+打亂	tzw lsv	1
+打擾	tzw ntu	2
+打包	tzw pzj	1
+打印	tzw qiv	5
+打探	tzw rlc	1
+打算	tzw ssv	7
+打到	tzw tam	1
+打倒	tzw tau	2
+打開	tzw xlh	8
+打字	tzw ziz	14
+打在	tzw zly	1
+炸彈	tzz daf	1
+炸毀	tzz hvq	2
+炸包	tzz pzj	1
+神	uif	6
+神奇	uif gga	3
+神人	uif nif	1
+神聖	uif otx	5
+神祕	uif pkn	3
+神神	uif uif	1
+食	uik	6
+食堂	uik das	3
+食料	uik lem	1
+食物	uik mmt	2
+示	uin	28
+示例	uin ltb	1
+示波器	uin psa xkn	2
+示威	uin qmh	2
+乘	uis	2
+乘除	uis djz	1
+乘車	uis eqa	2
+乘化	uis hxz	1
+乘涼	uis lqs	1
+乘法	uis pbp	1
+乘方	uis pbs	1
+乘以	uis yiq	1
+實	uit	16
+實戰	uit atv	1
+實作業本	uit cak wwp por	1
+實際	uit ctb	8
+實醮	uit ctm	1
+實行	uit gas	5
+實現	uit gev	53
+實權	uit gvf	2
+實話	uit gxb	19
+實時	uit iia	6
+實時歷史	uit iia lek skq	1
+實習	uit jip	1
+實例	uit ltb	12
+實施	uit ota	7
+實參	uit vld	1
+實驗	uit wgc	23
+實驗室	uit wgc oit	1
+實用	uit yyx	13
+實在	uit zly	3
+實踐	uit ztr	15
+剩	uix	5
+剩飯	uix bbr	1
+剩下	uix gzq	5
+剩下	uix gzz	1
+剩菜	uix vln	1
+剩餘	uix yha	1
+蛇	uqa	3
+射	uqz	2
+射在	uqz zly	1
+朮	uyt	1
+術	uyt	17
+述	uyt	3
+術語	uyt wjq	1
+順	uyv	4
+順便	uyv btf	1
+順豐	uyv fms	4
+順序	uyv jhq	4
+順利	uyv lin	1
+順心	uyv sid	1
+順帶	uyv tab	1
+順帶時候	uyv tab iia guz	1
+順着	uyv twk	1
+餐	vaf	1
+餐廳	vaf res	1
+餐店	vaf tec	1
+操	vaj	12
+操作	vaj cak	34
+操作符	vaj cak bla	1
+操心	vaj sid	1
+錯	vak	1
+錯綜	vak cox	1
+操	vam	1
+倉	vas	4
+滄海	vas hly	1
+倉頡	vas kdt	12
+蒼茫	vas mas	2
+倉速	vas suk	2
+蒼蒼	vas vas	1
+倉庫	vas xoz	10
+艹	vau	1
+草	vau	9
+草稿	vau kau	1
+草人	vau nif	0
+草擬	vau wkq	2
+差	vda	17
+差別	vda bgt	1
+差值	vda dkk	1
+差距	vda gjq	1
+差旅	vda lhq	1
+差別	vda pgt	0
+差別民主黨	vda pgt mif apq taw	1
+差不多	vda pma taa	9
+差生	vda sgs	6
+差點	vda tee	2
+差錯	vda voz	1
+差遠	vda ybr	1
+差集	vda zip	6
+冊	vdk	2
+策	vdk	8
+策勛	vdk hmf	2
+插	vdp	3
+插進	vdp civ	1
+插頭	vdp dua	1
+插件	vdp ggr	14
+插入	vdp nip	8
+插座	vdp zsz	1
+察	vdt	1
+擦	vdt	1
+擦身	vdt oif	1
+差	vdz	1
+妻	vea	2
+妻子	vea ciq	6
+千	vef	6
+千金	vef kkd	3
+千古	vef koq	1
+千里	vef liq	2
+千里眼	vef liq wdr	1
+千萬	vef mbv	1
+千萬人	vef mbv nif	2
+千米	vef meq	3
+千年	vef nef	1
+千分之一	vef pmf aia qit	1
+千百萬	vef pzk mbv	1
+千差萬別	vef vda mbv bgt	1
+戚墅堰	vek ihq qgv	1
+青	ves	6
+青春	ves eyf	8
+青霧	ves mlz	1
+青年	ves nef	10
+青年節	ves nef cet	1
+青年人	ves nef nif	1
+青少年	ves otm nef	2
+青楓	ves pms	1
+青天	ves ref	4
+青絲	ves sia	2
+切	vet	4
+切換	vet gsv	2
+切向	vet hwx	1
+切實	vet uit	1
+沁	vic	2
+侵犯	vid bbe	2
+侵略	vid lqk	1
+寢	vie	2
+親	vif	4
+親屬	vif iyk	1
+親密	vif mkt	3
+親身	vif oif	1
+親愛	vif qln	1
+親戚	vif vek	2
+親切	vif vet	1
+親眼	vif wdr	1
+次	vin	61
+次重音	vin dhw qkd	1
+次善處	vin itr ehq	1
+次嗎	vin mza	1
+次方	vin pbs	1
+次數	vin slz	13
+次課	vin xsz	1
+七	vit	7
+七個	vit kaz	1
+七年	vit nef	1
+七八	vit pdt	2
+七八十	vit pdt iip	1
+七天	vit ref	2
+七彩	vit vly	1
+七月	vit wbt	12
+親	viv	2
+初	vja	35
+初步	vja boz	1
+初曾	vja cls	1
+初值	vja dkk	2
+初學者	vja gjk aqq	1
+初稿	vja kau	1
+初見	vja kev	1
+初級	vja kkp	1
+初林	vja lid	1
+初文	vja mmf	1
+初年	vja nef	1
+初始	vja oiq	3
+初始化	vja oiq hxz	10
+初一	vja qit	1
+初添	vja red	3
+初探	vja rlc	2
+初生	vja sgs	1
+初速度	vja suk doz	2
+初中	vja tms	10
+初看	vja xav	1
+娕	vjk	2
+齪	vjk	1
+楚	vjq	3
+礎	vjq	1
+窗	vjs	1
+窗口	vjs xuq	9
+測	vkk	13
+測量	vkk lqs	1
+測試	vkk oiz	13
+測算	vkk ssv	1
+測速	vkk suk	7
+襯衫	vkv szd	1
+廁所	vkz sjq	3
+參	vld	5
+參軍	vld kmf	1
+參加	vld kza	14
+參數	vld slz	19
+參考	vld xau	3
+參與	vld yhq	5
+慘	vle	2
+慘痛	vle rux	2
+猜	vlh	2
+猜碼	vlh mzq	2
+猜想	vlh sqw	1
+猜到	vlh tam	2
+菜	vln	2
+菜單	vln taf	4
+菜鳥	vln teu	1
+彩	vly	2
+踩	vly	1
+彩色	vly skk	1
+採取	vly vpq	6
+採用	vly yyx	4
+秋	vna	2
+䞭	vnz	1
+村	vof	1
+催	voh	1
+催進	voh civ	1
+催殘	voh zaf	1
+猝死	vot siy	1
+寸	vov	3
+醋	voz	1
+錯	voz	21
+措支剌	voz ata lat	1
+錯辣	voz lat	1
+錯亂	voz lsv	1
+措施	voz ota	7
+錯誤	voz woz	53
+錯誤的	voz woz tek	1
+錯位	voz yhn	2
+趨	vpa	3
+趨向	vpa hwx	3
+趨勢	vpa otb	1
+趨于	vpa yla	1
+取	vpq	61
+取整	vpq atw	2
+取值	vpq dkk	1
+取出	vpq eyt	4
+取出我且	vpq eyt waq vqq	1
+取消	vpq stj	4
+取到	vpq tam	1
+取得	vpq tlk	4
+娶	vpz	1
+趣	vpz	8
+趣味	vpz mmn	2
+且	vqq	32
+搶	vqs	1
+槍彈	vqs dav	1
+槍炮	vqs fzm	2
+槍擊	vqs kek	1
+搶	vqw	6
+雌	vta	2
+簽	vtd	1
+簽署	vtd ihz	1
+遷	vtf	3
+刺	vtk	2
+刺激	vtk kek	1
+此	vtq	78
+此種	vtq ayw	1
+此條	vtq dej	1
+此圖	vtq doa	1
+此處	vtq ehq	4
+此恨	vtq glv	1
+此後	vtq guz	3
+此時	vtq iia	4
+此句	vtq klz	1
+此論	vtq lov	1
+此輪	vtq lyf	3
+此次	vtq vin	1
+此外	vtq wsb	1
+此刻	vtq xlk	3
+淺	vtr	7
+淺深	vtr oid	1
+淺析	vtr sek	1
+圊	vts	1
+清	vts	13
+清白	vts bzk	2
+清淡	vts dae	1
+清朝	vts dgj	3
+清香	vts hws	1
+清香我	vts hws waq	1
+清流	vts lna	1
+清撤	vts rgt	1
+清晰	vts sek	1
+清醒	vts sew	1
+清楚	vts vjq	3
+清空	vts xus	4
+悄	vtu	1
+請	vtw	67
+請求	vtw gma	12
+請教	vtw kzm	1
+請問	vtw mmv	1
+請你	vtw nkq	6
+請輸入	vtw opa nip	1
+請先	vtw sef	1
+請用	vtw yyx	1
+聰明	vus mgs	17
+湊	vuz	1
+創	vws	1
+創建	vws kwv	8
+創造	vws zau	1
+闖	vww	1
+闖入	vww nip	1
+創作	vwx cak	1
+創建	vwx kwv	23
+創造	vwx zau	7
+促進	vyk civ	5
+促使	vyk skq	1
+抄	vzj	13
+炒	vzu	4
+哦	waa	10
+俄國	waa kpk	1
+峨嵋	waa mkh	1
+哦英語	waa qgs wjq	1
+俄烏	waa qoa	1
+哦喲	waa qwk	3
+傲	wam	3
+傲嬌	wam kgj	1
+傲溫	wam qof	1
+我	waq	1233
+我真	waq aif	0
+我真的	waq aif tek	1
+我這	waq aqz	1
+我這個	waq aqz kaz	1
+我這家	waq aqz kza	2
+我只想	waq atq sqw	1
+我罷	waq bdq	1
+我爸	waq bsq	1
+我將	waq cqs	8
+我將使	waq cqs skq	2
+我裝	waq cws	3
+我大概	waq dab kln	1
+我填了	waq def leu	1
+我調一下	waq dej qit gzz	1
+我現在	waq gev zly	1
+我已經	waq gkq kes	1
+我和	waq gsa	1
+我會	waq gsb	1
+我還	waq gxf	12
+我好	waq hau	2
+我好慌	waq hau hsw	1
+我希望	waq hjh mbs	2
+我喜歡	waq hkq hsf	1
+我嘗試	waq iqs oiz	1
+我是	waq itq	35
+我是你	waq itq nkq	0
+我是你爹	waq itq nkq twa	1
+我居然	waq kja ntf	1
+我覺得	waq kjk tlk	2
+我講的	waq kjw tek	1
+我記得	waq kkz tlk	2
+我國	waq kpk	10
+我更	waq kzx	1
+我來	waq llh	1
+我連	waq ltf	7
+我們	waq mof	185
+我們組	waq mof coq	1
+我們們	waq mof mof	1
+我們鼠	waq mof ohq	2
+我們班	waq mof pzf	2
+我媽	waq mza	3
+我慢	waq mzv	1
+我認爲	waq niv yva	2
+我能	waq nls	3
+我讓	waq nqx	1
+我說	waq oct	4
+我說得	waq oct tlk	1
+我聖母峯	waq otx muq fhs	3
+我不會	waq pma gsb	2
+我不要	waq pma qtm	1
+我把	waq pzq	3
+我要	waq qtj	23
+我要	waq qtm	1
+我要是	waq qtm itq	2
+我超	waq rgj	67
+我先	waq sef	2
+我需要	waq spa qtj	1
+我寫	waq sqq	1
+我想	waq sqw	13
+我想學	waq sqw gjk	1
+我黨	waq taw	8
+我的	waq tek	41
+我都	waq toa	6
+我對	waq ton	5
+我對于	waq ton yla	1
+我誤	waq woz	4
+我誤成就感	waq woz its znz kle	1
+我悟了	waq woz leu	3
+我可以	waq xaq yiq	1
+我看見	waq xav kev	1
+我去	waq xjz	5
+我卻	waq xwk	1
+我往	waq ybw	1
+我與	waq yhq	4
+我以	waq yiq	1
+我以爲	waq yiq yva	1
+我有	waq ymq	3
+我又	waq ymz	2
+我也	waq yqq	17
+我也不知道	waq yqq pma tga dau	4
+我也不知頭	waq yqq pma tga dua	1
+我用	waq yyx	8
+我自己	waq zin kkq	2
+我事	waq zkz	1
+我才	waq zlh	1
+我在	waq zly	12
+我就	waq znz	4
+我從	waq zys	1
+岸	wav	1
+餓	waz	6
+餓國	waz kpk	1
+餓了	waz leu	1
+餓死	waz siy	1
+元	wbf	10
+原	wbf	18
+源	wbf	17
+原則	wbf clk	1
+源代碼	wbf dln mzq	5
+源頭	wbf dua	1
+原處	wbf ehz	1
+原是	wbf itq	2
+原理	wbf liq	10
+原來	wbf llh	46
+元明	wbf mgs	0
+元明清	wbf mgs vts	1
+原明清	wbf mgs vts	1
+源碼	wbf mzq	7
+原始	wbf oiq	2
+源表	wbf pgu	1
+原本	wbf por	4
+原因	wbf qif	5
+原帖	wbf rep	1
+原先	wbf sef	2
+原生	wbf sgs	3
+元素	wbf soz	16
+原著	wbf tjz	3
+元神	wbf uif	1
+原神	wbf uif	13
+原有	wbf ymq	4
+源自	wbf zin	5
+元字符	wbf ziz bla	2
+原在	wbf zly	1
+原罪	wbf zoy	1
+阮	wbr	1
+月	wbt	51
+月份	wbt bmv	3
+月光	wbt kss	5
+月亮	wbt lqx	2
+月份	wbt pkf	1
+月色	wbt skk	2
+月底	wbt teq	1
+願	wbv	11
+願望	wbv mbs	1
+願望	wbv mbx	1
+願意	wbv qkz	3
+崖	wda	1
+眼	wdr	1
+眼睛	wdr cts	2
+眼瞎	wdr hzt	2
+眼熟	wdr ink	1
+眼鏡	wdr kgx	2
+眼光	wdr kss	9
+眼裏	wdr liq	4
+眼中	wdr tms	1
+眼看	wdr xaf	1
+眼前	wdr zef	2
+硬	wdx	2
+硬盤	wdx bsf	6
+硬件	wdx ggr	1
+硬是	wdx itq	1
+研	wef	3
+研究	wef kmz	15
+研究生	wef kmz sgs	3
+研發	wef pbt	3
+儀	wga	1
+宜	wga	20
+儀節	wga cet	1
+儀器	wga xkn	2
+驗證	wgc aix	2
+驗收	wgc ona	1
+逆	wgk	3
+逆時針	wgk iia aid	1
+逆天	wgk ref	3
+迎	wgs	1
+迎來	wgs llh	3
+迎	wgx	1
+義	wgz	35
+議題	wgz dea	3
+議會	wgz gsb	2
+議論	wgz lov	1
+義務	wgz mlz	3
+義妹	wgz mon	1
+玉	whk	4
+玉盤	whk bsf	1
+玉夢	whk mmx	3
+魚	wja	14
+魚和	wja gsa	1
+魚翅	wja otz	3
+魚翅ˇ	wja otz `o	1
+樂意於	wjk qkz qja	1
+毅	wjn	1
+語	wjq	70
+語系	wjq gez	4
+語句	wjq klz	31
+語句句	wjq klz klz	1
+語文	wjq mmf	7
+語法	wjq pbp	15
+語標	wjq ptj	23
+衙蠹	wjq toz	2
+語言	wjq wwf	38
+語族	wjq zuk	4
+御	wjz	4
+御栽	wjz clh	5
+御免	wjz mgr	1
+疑	wka	2
+疑似	wka jiq	3
+銀行	wkf gas	2
+銀夢	wkf mmx	1
+擬	wkq	1
+擬定	wkq dex	2
+凝	wks	1
+愚蠢	wla eyr	4
+礙	wln	1
+遇	wlz	2
+寓意	wlz qkz	1
+遇到	wlz tam	2
+牛	wma	3
+牛仔	wma ciq	7
+牛子	wma ciq	2
+牛比	wma pin	2
+牛逼	wma pkk	7
+吾	woa	34
+梧州	woa ana	1
+吾這種	woa aqz ayw	1
+吾生產	woa sgs sdr	1
+吾心	woa sid	1
+五	woq	19
+伍	woq	2
+午	woq	4
+午飯	woq bbr	2
+五大	woq dab	1
+五代十國	woq dln iip kpk	1
+午後	woq guz	1
+五華	woq hxa	1
+五常	woq iqs	1
+五六	woq lnk	2
+五碼	woq mzq	1
+五年	woq nef	5
+五年前	woq nef zef	2
+五筆	woq pkt	1
+五一	woq qit	5
+五四	woq sin	3
+五點鐘	woq tee ays	1
+五月	woq wbt	7
+五顏	woq wzf	1
+五塊錢	woq xxn ztf	1
+悟	woz	3
+誤	woz	6
+誤解	woz kdq	2
+誤報	woz pam	3
+誤差	woz vda	5
+外	wsb	16
+外部類	wsb boq lyn	1
+外部	wsb buq	2
+外接	wsb ctp	2
+外道	wsb dau	0
+外地	wsb din	5
+外鍵	wsb ggr	1
+外化	wsb hxz	2
+外國	wsb kpk	2
+外國語	wsb kpk wjq	1
+外觀	wsb ksf	1
+外賣	wsb mdz	8
+外文	wsb mmf	1
+外面	wsb mtv	3
+外哪怕是	wsb naq fzk itq	1
+外人	wsb nif	5
+外放	wsb pbx	1
+外邊距	wsb pef gjq	1
+外包	wsb pzj	1
+外衣	wsb qjh	2
+外套	wsb ram	1
+外置	wsb tkz	1
+外德	wsb tlk	1
+外義	wsb wgz	2
+外語	wsb wjq	14
+外層	wsb zls	1
+𠂬	wsq	1
+玩	wsv	50
+玩具	wsv glz	1
+玩家	wsv kza	1
+玩法	wsv pbp	1
+玩遊戲	wsv yna hgz	1
+臥室	wsz oit	1
+偶然	wuq ntf	1
+偶爾	wuq ntq	2
+危	wva	2
+危害	wva gab	1
+危險	wva hge	1
+危機	wva kjh	2
+僞善	wvz itr	1
+刈	wwb	3
+艾麗思	wwb lez sia	1
+嚴	wwd	5
+嚴重	wwd dhs	3
+嚴幾道	wwd kjh dau	1
+嚴格	wwd kzk	8
+言	wwf	29
+言之	wwf aia	19
+言辭	wwf jia	1
+言論	wwf lov	2
+言語	wwf wjq	2
+言外之意	wwf wsb aia qkz	1
+虐	wwk	1
+業	wwp	3
+仰	www	2
+仰止	www aiq	1
+瓦	wxq	1
+瓦解	wxq kdq	3
+呀	wza	1
+岩	wzd	1
+顏	wzf	3
+顏色	wzf skk	7
+額	wzk	3
+額圖	wzk doa	1
+額度	wzk doz	1
+額外	wzk wsb	1
+樂	wzm	6
+樂曲	wzm xhk	1
+雅	wzq	2
+雅安	wzq qaf	1
+雅思	wzq sia	1
+雅樂	wzq wzm	1
+磕	xab	4
+坩	xad	1
+靠	xam	12
+靠譜	xam poq	1
+靠右	xam ymq	1
+可	xaq	56
+可持續	xaq dka jyk	1
+可讀性	xaq duk stx	1
+可怕	xaq fzk	1
+可汗	xaq gaf	4
+可行	xaq gas	1
+可恨	xaq glv	3
+可視化	xaq iin hxz	1
+可是	xaq itq	6
+可見	xaq kev	5
+可見性	xaq kev stx	1
+可憐	xaq lef	5
+可能	xaq nls	34
+可能性	xaq nls stx	3
+可少	xaq otu	1
+可變	xaq pgv	1
+可變長	xaq pgv dws	1
+可不可以	xaq pma xaq yiq	1
+可否	xaq pmq	1
+可惡	xaq qak	1
+可愛	xaq qln	6
+可恥	xaq rkq	2
+可寫	xaq sqq	1
+可惜	xaq stk	3
+可笑	xaq stm	3
+可靠	xaq xam	1
+可以	xaq yiq	123
+可謂	xaq ymn	1
+可育	xaq ynk	3
+可移植	xaq yta dkz	1
+康	xas	4
+渴	xat	1
+磕頭	xat dua	1
+烤	xau	1
+考	xau	51
+考場	xau dws	3
+考完	xau gsf	2
+考上	xau iqw	2
+考級	xau kkp	1
+考究	xau kmz	1
+考慮	xau lhz	7
+考量	xau lqs	1
+考申請	xau oif zts	1
+考式	xau oik	1
+考試	xau oiz	15
+考到	xau tam	1
+考研	xau wef	6
+考前	xau zef	1
+看	xav	193
+看這	xav aqz	1
+看重	xav dhw	2
+看待	xav dly	4
+看着	xav dwk	3
+看出	xav eyt	1
+看片	xav fev	2
+看完	xav gsf	5
+看視頻	xav iin bif	1
+看成	xav its	1
+看堅	xav kef	1
+看見	xav kev	10
+看光	xav kss	4
+看過	xav ksz	5
+看了	xav leu	13
+看來	xav llh	6
+看你	xav nkq	1
+看書	xav oha	1
+看舒適	xav oha otk	1
+看法	xav pbp	2
+看不出	xav pma eyt	1
+看不出來	xav pma eyt llh	1
+看不見見	xav pma kev kev	1
+看不懂	xav pma tuw	18
+看不懂了	xav pma tuw leu	1
+看不我	xav pma waq	1
+看不順眼	xav pmt uyv wdr	1
+看一看	xav qit xaf	1
+看到	xav tam	21
+看得	xav tlk	1
+看懂	xav tuw	1
+看我	xav waq	2
+看起來	xav xkq llh	2
+看齊	xav zez	1
+抗	xax	2
+匡	xbs	1
+框	xbs	12
+框架	xbs kzz	7
+勸	xbv	1
+勸退	xbv ron	3
+傾	xcs	8
+傾向	xcs hwx	1
+恰好	xdp ham	1
+謙虛	xed hja	2
+牽	xef	1
+喫	xek	33
+喫飯	xek bbr	2
+喫個	xek kaz	1
+喫到	xek tam	2
+喫苦	xek xoq	1
+啓	xeq	1
+啓動	xeq duw	3
+啓蒙	xeq mus	2
+啓用	xeq yyx	1
+契合	xet glp	1
+契闊	xet xst	2
+卿	xgs	1
+曲	xhk	4
+曲折	xhk att	4
+曲子	xhk ciq	1
+曲奇	xhk gga	1
+曲奇餅	xhk gga ptw	1
+曲面	xhk mtv	1
+曲哲	xhk tgt	1
+恐	xhw	1
+恐怖	xhw foz	2
+恐怕	xhw fzz	3
+恐懼	xhw glz	1
+棄	xin	6
+棄婦	xin bmq	1
+棄用	xin yyx	6
+殼	xjk	3
+確	xjk	2
+確定	xjk dex	0
+確認	xjk niv	2
+確守	xjk onq	1
+確信	xjk siv	2
+確實	xjk uit	2
+確鑿	xjk zak	1
+氣	xjn	14
+氣壯	xjn cwx	1
+氣墊	xjn tec	4
+氣昂昂	xjn was was	1
+腔	xjs	1
+乞	xjt	1
+契約	xjt qwk	1
+乞食	xjt uik	1
+豈	xjy	4
+豈敢	xjy kae	1
+豈非	xjy pmh	1
+豈曰	xjy ybt	1
+去	xjz	119
+去適用於	xjz atk yyx qja	3
+去罷	xjz bdq	2
+去盪	xjz daw	2
+去掉	xjz dem	1
+去向	xjz hwx	2
+去過	xjz ksz	1
+去了	xjz leu	3
+去年	xjz nef	10
+去死	xjz siy	2
+去死罷	xjz siy bdq	1
+去死吧	xjz siy pza	1
+去玩	xjz wsv	1
+欺負	xka bmq	3
+器	xkn	28
+起	xkq	25
+起步	xkq boz	5
+起火	xkq hsq	1
+起來	xkq llh	37
+起名	xkq mts	4
+起碼	xkq mzq	1
+起始	xkq oiq	2
+起初	xkq vja	1
+起源	xkq wbf	6
+起可以	xkq xaq yiq	1
+區	xla	3
+區別	xla bgt	17
+驅動	xla duw	2
+區分	xla pmf	1
+砍	xle	2
+開	xlh	30
+開頭	xlh dua	6
+開着	xlh dwk	3
+開唱	xlh eqx	1
+開衝	xlh eys	1
+開學	xlh gjk	9
+開懷	xlh gxh	1
+開個	xlh kaz	1
+開國	xlh kpk	1
+開卷	xlh kvr	1
+開關	xlh kxf	2
+開門	xlh mof	1
+開始	xlh oiq	50
+開屎	xlh oiy	1
+開水	xlh oyy	2
+開發	xlh pbt	26
+開發者	xlh pbt aqq	2
+開放	xlh pbx	6
+開擺	xlh pdq	8
+開展	xlh tgr	1
+開抄	xlh vzj	1
+開考	xlh xau	1
+開啓	xlh xeq	1
+開墾	xlh xlr	1
+開口	xlh xuq	5
+克	xlk	1
+刻	xlk	5
+克服	xlk bmk	2
+克里斯	xlk liq sta	0
+克思	xlk sia	1
+慨	xln	1
+溘謝	xlp jqz	3
+啃	xlr	4
+懇求	xlr gma	1
+肯定	xlw dex	4
+丘	xma	2
+邱	xma	1
+邱尚熠	xma iqx yip	1
+蚯蚓	xma yir	1
+屈	xmt	2
+屈指	xmt aiy	1
+屈折	xmt att	1
+屈原	xmt wbf	1
+枯松	xoa jys	1
+枯燥	xoa sau	4
+恢復	xoh bmk	3
+酷	xok	1
+苦	xoq	7
+苦悶	xoq mov	1
+苦難	xoq naf	1
+苦手	xoq onq	1
+苦一苦	xoq qit xoq	1
+苦痛	xoq rux	1
+苦思	xoq sia	1
+苦笑	xoq stm	1
+困	xov	2
+困惑	xov gpk	1
+困境	xov kgw	1
+困難	xov naf	2
+庫	xoz	56
+褲子	xoz ciq	3
+褲袋	xoz dln	1
+苦笑	xoz stm	1
+缺	xrt	8
+缺乏	xrt bbp	1
+缺陷	xrt gdc	1
+缺少	xrt otm	2
+科	xsa	13
+課	xsa	2
+課堂	xsa das	1
+科技	xsa ggq	5
+科學	xsa gjk	11
+科目	xsa mmk	1
+科班	xsa pzf	1
+科一	xsa qit	1
+科委	xsa qvq	1
+寬	xsf	4
+擴大	xsk dab	1
+擴及	xsk gkp	2
+擴寫	xsk sqq	3
+擴張	xsk tws	3
+擴寬	xsk xsf	2
+闊	xst	2
+曠	xsx	1
+曠課	xsx xsa	6
+課	xsz	78
+課堂	xsz das	4
+課程	xsz dgs	12
+課學	xsz gjk	1
+課上	xsz iqw	2
+課間	xsz kdf	1
+課文	xsz mmf	2
+課內	xsz non	5
+課內實踐	xsz non uit ztr	1
+課本	xsz por	3
+課前	xsz zef	4
+企圖	xtq doa	5
+企業	xtq wwp	5
+輕	xts	2
+輕關	xts kxf	1
+輕聲	xts ots	1
+輕小說	xts stu oct	4
+輕點	xts tee	1
+哭	xuk	2
+口	xuq	8
+口袋	xuq dln	1
+口頭	xuq dua	3
+扣費	xuq fmn	1
+口感	xuq kle	1
+口物	xuq mmt	1
+口水	xuq oyy	1
+口音	xuq qkd	1
+口語	xuq wjq	5
+空	xus	14
+空指針	xus aiy aid	2
+空白	xus bzk	3
+空值	xus dkk	4
+空頭	xus dua	1
+空行	xus gas	19
+空話	xus gxb	2
+空虛	xus hja	6
+空詞塊	xus jia xxn	1
+空間	xus kdf	4
+空格	xus kzk	10
+空裏	xus liq	1
+空百	xus pzk	1
+空想	xus sqw	1
+空中	xus tms	1
+空氣	xus xjn	2
+空有	xus ymq	1
+空前	xus zef	1
+空字符	xus ziz bla	1
+孔	xuw	1
+孔子	xuw ciq	2
+孔祥熙	xuw jqs hka	1
+控	xux	1
+控制	xux atb	7
+控制檯	xux atb dlh	20
+控告	xux kam	1
+控訴	xux soz	1
+扣	xuz	1
+虧	xva	2
+圈	xvf	3
+圈子	xvf ciq	2
+圈裏	xvf liq	1
+欠	xwc	1
+欠薪	xwc sif	1
+卻	xwk	51
+卻是	xwk itq	2
+卻在	xwk zly	1
+誇	xxa	2
+跨	xxa	1
+快	xxb	34
+快遞	xxb deq	1
+快樂	xxb lak	1
+快了	xxb leu	3
+快速	xxb suk	2
+快點	xxb tee	3
+快捷	xxb ztp	1
+快捷鍵	xxb ztp ggf	1
+塊	xxn	19
+胯	xxz	1
+跨	xxz	4
+跨度	xxz doz	1
+跨過	xxz ksz	1
+嵌入式	xzd nip oik	1
+嵌套	xzd ram	2
+敲	xzj	9
+敲完	xzj gsf	1
+敲門	xzj mof	1
+客戶	xzk goq	2
+客觀	xzk ksf	2
+客廳	xzk res	2
+卡	xzq	2
+卡住	xzq dlz	1
+卡着	xzq dwk	1
+卡頓	xzq tov	1
+坑	xzs	9
+楷	xzy	5
+園	ybf	3
+袁	ybf	2
+園子	ybf ciq	18
+園們	ybf mof	1
+園中	ybf tms	10
+遠	ybr	10
+遠征	ybr ats	1
+遠道	ybr dau	1
+遠處	ybr ehz	2
+遠近	ybr gjr	1
+遠見	ybr kev	1
+遠離	ybr lta	1
+遠方	ybr pbs	2
+遠超	ybr rgj	1
+遠空	ybr xux	1
+遠揚	ybr yqs	1
+遠在	ybr zly	2
+王	ybs	6
+王者	ybs aqq	1
+王牌	ybs bzh	1
+王子	ybs ciq	2
+王朝	ybs dgj	2
+王程	ybs dgs	1
+王侯將相	ybs gua cqs sqs	2
+王源	ybs wbf	1
+王爺	ybs yqa	1
+曰	ybt	25
+越	ybt	17
+越大	ybt dab	1
+越出	ybt eyt	1
+越好	ybt ham	1
+越是	ybt itq	4
+越高	ybt kaj	1
+越久	ybt kmq	1
+越界	ybt kzn	2
+越來	ybt llh	2
+越來越	ybt llh ybt	13
+越南	ybt nld	3
+越多	ybt taa	1
+往	ybw	25
+往上	ybw iqw	3
+往裏	ybw liq	5
+往年	ybw nef	2
+往複	ybw pmk	1
+往事	ybw zkz	1
+蠵	yca	1
+銳利	ycb lin	8
+緣	ycf	5
+沿着	ycf dwk	0
+沿着給我	ycf dwk kkp waq	1
+緣故	ycf koz	1
+疫苗	yck mgj	2
+營	ycs	1
+悅	yct	2
+閱	yct	3
+閱讀	yct duk	6
+緣	ycv	2
+穎	ycw	1
+炎黃子孫	ygd gss ciq sof	1
+與	yha	1
+餘	yha	14
+餘者	yha aqq	1
+餘杭區	yha gas qua	1
+餘數	yha slz	1
+餘額	yha wzk	4
+帷	yhh	1
+位	yhn	7
+位數	yhn slz	2
+位置	yhn tkz	6
+位我	yhn waq	1
+予	yhq	4
+與	yhq	139
+與之	yhq aia	2
+與子	yhq ciq	1
+與其	yhq gka	1
+與君	yhq kmf	1
+與余	yhq lqa	1
+與你	yhq nkq	1
+與爾	yhq ntq	1
+與否	yhq pmq	2
+與使	yhq skq	2
+與此	yhq vtq	1
+預	yhz	1
+預訂	yhz dew	1
+預期	yhz gka	1
+預設	yhz ott	1
+預先	yhz sef	1
+預知	yhz tga	1
+預測	yhz vkk	1
+預言	yhz wwf	1
+預科	yhz xsa	3
+怡	yia	1
+頤	yia	6
+淫亂	yid lsv	1
+夷	yih	1
+姨太	yih rab	2
+翼	yik	3
+肄業	yin wwp	4
+以	yiq	149
+已	yiq	1
+以專題	yiq acf dea	1
+以便	yiq btf	1
+已極	yiq gkk	1
+以及	yiq gkp	26
+以後	yiq guz	9
+以下	yiq gzz	1
+以上	yiq iqw	11
+已經	yiq kes	15
+以顧及	yiq koz gkp	1
+以來	yiq llh	11
+以內	yiq non	2
+以此	yiq vtq	1
+以外	yiq wsb	5
+以養人	yiq yqw nif	1
+以爲	yiq yva	33
+以前	yiq zef	31
+引	yir	3
+演	yir	2
+演進	yir civ	1
+引導	yir dam	1
+引號	yir gam	1
+演號	yir gam	1
+引擎	yir ggs	1
+演講	yir kjw	8
+引人	yir nif	1
+引入	yir nip	6
+引發	yir pbt	2
+引發出	yir pbt eyt	0
+演變	yir pgv	1
+引體	yir req	3
+引體向上	yir req hwx iqw	1
+演示	yir uin	1
+演藝	yir wtb	1
+引起	yir xkq	1
+引用	yir yyx	12
+溢出	yit eyt	10
+逸出功	yit eyt kus	3
+異	yiz	2
+食	yiz	3
+異步	yiz boz	34
+異地	yiz din	1
+異或	yiz gpk	1
+異常	yiz iqs	8
+異教	yiz kzm	2
+異世界	yiz otb kzn	4
+異端	yiz tsf	1
+異口	yiz xuq	1
+域	ykk	1
+矣	ykq	50
+矣。	ykq ..	1
+于	yla	96
+于是	yla itq	7
+于此	yla vtq	1
+于樂	yla wjk	1
+于役	yla yck	1
+宇	ylq	1
+雨	ylq	1
+雨露	ylq loz	1
+羽毛	ylq maj	2
+宇內	ylq non	1
+尤	yma	9
+郵遞員	yma deq ymf	1
+郵費	yma fmn	2
+尤其	yma gka	2
+郵箱	yma sqs	1
+尤爲	yma yva	1
+雲	ymf	8
+雲翻	ymf fbf	1
+雲霞	ymf gza	1
+雲龍	ymf lys	1
+雲霧	ymf mlz	1
+雲霧瀰漫	ymf mlz mta msv	1
+雲月	ymf wbt	1
+云云	ymf ymf	2
+圍	ymh	1
+韋	ymh	0
+違章者	ymh aqs aqq	1
+違背	ymh bon	1
+圍剿	ymh ctu	3
+違規	ymh kca	3
+韋國清	ymh kpk vts	4
+韋洛克	ymh lak xlk	1
+圍繞	ymh ntm	2
+違法	ymh pbp	2
+韋應物	ymh qks mmt	1
+胃	ymn	6
+謂	ymn	3
+胃口	ymn xuq	1
+友	ymq	16
+右	ymq	1
+有	ymq	494
+有朋	ymq bls	1
+有道理	ymq dau liq	1
+有着	ymq dwk	5
+右鍵	ymq ggr	1
+有效	ymq gzm	2
+友好	ymq ham	1
+有時	ymq iia	6
+有時候	ymq iia guz	2
+有序	ymq jhq	5
+有個	ymq kaz	8
+有機會	ymq kjh gsb	1
+有幾個	ymq kjy kaz	1
+有關	ymq kxf	2
+有了	ymq leu	1
+有無	ymq mla	5
+有問題	ymq mmv dea	1
+有沒	ymq mot	2
+有沒有	ymq mot ymq	51
+有麼	ymq msa	1
+有如	ymq nha	1
+有人	ymq nif	16
+有影響	ymq qgw hww	1
+有一	ymq qit	1
+有一個	ymq qit kaz	1
+有意	ymq qkz	1
+有益	ymq qtk	1
+有益于	ymq qtk yla	6
+有益有	ymq qtk ymq	1
+有色	ymq skk	1
+有些	ymq sqa	13
+有線	ymq stv	2
+有點	ymq tee	33
+有的	ymq tek	1
+有得	ymq tlk	2
+右端	ymq tsf	1
+有褍	ymq tsf	1
+有端聯想	ymq tsf ltf sqw	1
+有錯	ymq voz	1
+有趣	ymq vpz	1
+友元	ymq wbf	1
+有可能	ymq xaq nls	1
+有用	ymq yyx	7
+有用嗎	ymq yyx mza	1
+有在	ymq zly	1
+熊	yms	3
+雄	yms	1
+熊掌	yms aqw	1
+雄雉	yms dky	1
+雄赳赳	yms kiu kiu	1
+熊概	yms kln	1
+熊貓	yms mgj	2
+暈	ymv	1
+運	ymv	3
+運動	ymv duw	15
+運費	ymv fmn	2
+運河	ymv gaa	2
+運行	ymv gas	34
+運球	ymv gma	1
+運命	ymv mgx	1
+運輸	ymv opa	1
+暈死	ymv siy	1
+運算	ymv ssv	5
+運算符	ymv ssv bla	2
+運氣	ymv xjn	7
+運用	ymv yyx	1
+運用於	ymv yyx qja	2
+偉大	ymy dab	6
+又	ymz	193
+右	ymz	14
+又ˇˇ	ymz `o `o	1
+又稱	ymz eix	1
+又臭	ymz enz	1
+又出	ymz eyt	2
+又或許	ymz gpk hjq	1
+又是	ymz itq	12
+又叫	ymz kem	1
+又講	ymz kjw	1
+又來自由	ymz llh zin yna	1
+又如	ymz nha	2
+又能	ymz nls	1
+又說	ymz oct	1
+右邊	ymz pef	3
+又要	ymz qtj	20
+又要	ymz qtm	2
+又得	ymz tlk	6
+又可	ymz xaq	1
+又可以	ymz xaq yiq	2
+又去	ymz xjz	1
+又有	ymz ymq	16
+又在	ymz zly	25
+油	yna	0
+猶	yna	6
+由	yna	45
+遊	yna	2
+遊蕩	yna daw	3
+油田	yna def	1
+油豆腐	yna duz blq	1
+由豆腐	yna duz blq	1
+遊行	yna gas	1
+遊戲	yna hga	33
+遊戲庫	yna hga xoz	1
+遊逛	yna kbw	1
+猶如	yna nha	4
+油然而生	yna ntf nia sgs	1
+由此	yna vtq	4
+悠遠	yna ybr	1
+由于	yna yla	11
+游泳	yna yvx	1
+育	ynk	4
+誘姦	ynq kzf	1
+誘人	ynq nif	1
+逾	ypa	3
+愉快	ypa xxb	1
+庾	ypq	1
+愈	ypq	5
+愈加	ypq kza	1
+喻	ypz	2
+爺	yqa	12
+爺孃	yqa nws	6
+爺釀	yqa nwx	2
+藥	yqk	2
+躍	yqk	2
+藥房	yqk bbs	1
+鑰匙	yqk ita	1
+藥娘	yqk nws	3
+藥劑師	yqk zez skh	1
+也	yqq	400
+野	yqq	4
+也將	yqq cqs	1
+也和	yqq gsa	3
+也許	yqq hjq	7
+也是	yqq itq	36
+也像	yqq jqw	1
+野雞	yqq kea	1
+野郎	yqq las	1
+也沒有	yqq mot ymq	1
+野蠻	yqq mzf	3
+野馬	yqq mzq	1
+也能	yqq nls	4
+野獸	yqq onz	3
+也少	yqq otu	1
+也不行	yqq pma gas	1
+也要	yqq qtj	10
+野心狼	yqq sid las	1
+野草	yqq vau	23
+也可	yqq xaq	1
+也有	yqq ymq	13
+野有死麕	yqq ymq siy khf	1
+也事	yqq zkz	1
+也在	yqq zly	1
+也就	yqq znz	2
+楊	yqs	2
+羊	yqs	2
+陽	yqs	3
+洋貨	yqs hsz	1
+楊氏	yqs itq	1
+羊肝	yqs kaf	2
+陽肝	yqs kaf	1
+楊柳	yqs lnq	2
+羊毛	yqs maj	1
+洋文	yqs mmf	1
+陽朔	yqs sjk	1
+揚棄	yqs xin	1
+楊器	yqs xkn	1
+癢	yqw	4
+養	yqw	3
+養料	yqw lem	2
+養人	yqw nif	2
+養育	yqw ynk	1
+樣	yqx	13
+樣子	yqx ciq	8
+樣例	yqx ltb	1
+樣式	yqx oik	1
+夜	yqz	6
+夜間	yqz kdf	1
+夜裏	yqz liq	1
+夜晚	yqz mbr	1
+移	yta	3
+移除	yta dja	1
+移動	yta duw	2
+移植	yta iik	1
+迤邐	yta ltq	1
+移民	yta mif	3
+移開	yta xlh	1
+搖	ytj	4
+搖擺	ytj pdq	1
+亦	ytk	65
+易	ytk	1
+譯	ytk	2
+譯文	ytk mmf	1
+亦然	ytk ntf	1
+亦始	ytk oiq	1
+亦非	ytk pmh	1
+液態	ytk rln	1
+亦須	ytk spa	1
+亦可	ytk xaq	1
+易位	ytk yhn	0
+亦有	ytk ymq	1
+葉	ytp	4
+葉子	ytp ciq	13
+葉子是示威	ytp ciq itq uin qmh	1
+衍射	ytr uqz	2
+贏	yts	2
+贏得	yts tlk	1
+易	ytz	4
+易道	ytz dau	1
+易燃	ytz ntf	1
+易得	ytz tlk	1
+潙	yva	8
+爲	yva	138
+爲之	yva aia	4
+爲準	yva ayr	1
+爲什麼	yva iip msa	15
+爲了	yva leu	2
+爲力	yva lik	1
+爲例	yva ltb	7
+爲由	yva yna	1
+衛風	yvb pms	2
+衛生	yvb sgs	1
+員	yvf	12
+圓	yvf	9
+圓頻率	yvf bif lyt	1
+圓角	yvf kjk	1
+圓舞曲	yvf mlq xhk	1
+員中	yvf tms	1
+蔿	yvq	3
+榮	yvs	2
+院	yvv	2
+院子	yvv ciq	1
+永	yvw	1
+永裝	yvw cws	1
+永恆	yvw gls	6
+永遠	yvw ybr	6
+詠歎	yvx rav	1
+爲	yvz	51
+爲甚麼	yvz iic msq	2
+爲什麼	yvz iip msa	55
+爲什麼之	yvz iip msa aia	1
+爲什麼要	yvz iip msa qtm	1
+爲了	yvz leu	15
+爲我	yvz waq	2
+唯	yyh	11
+維	yyh	3
+維持	yyh dka	3
+維護	yyh goz	1
+維基	yyh kka	1
+維羅納	yyh laa nlp	0
+遺留	yyh lna	2
+遺物	yyh mmt	1
+唯一	yyh qit	5
+維新	yyh sif	2
+唯恐	yyh xhw	1
+惟有	yyh ymq	1
+遺存	yyh zof	1
+欲	yyk	27
+浴缸	yyk kas	1
+允許	yyr hjq	4
+容	yys	7
+容羣	yys gmf	1
+熔岩	yys wzd	4
+容克	yys xlk	2
+容易	yys ytk	9
+勇猛	yyw mzw	2
+用	yyx	501
+用着	yyx dwk	1
+用場	yyx dws	2
+用回	yyx goh	4
+用戶	yyx goq	31
+用戶名	yyx goq mts	2
+用互	yyx goz	1
+用漢語	yyx hav wjq	1
+用虎	yyx hoq	1
+用上	yyx iqw	1
+用詞	yyx jia	1
+用過	yyx ksz	7
+用功	yyx kus	3
+用公元前	yyx kus wbf zef	1
+用來	yyx llh	13
+用腦	yyx nau	1
+用法	yyx pbp	4
+用不了	yyx pma leu	2
+用心	yyx sid	2
+用到	yyx tam	10
+用的	yyx tek	1
+用去	yyx xjz	1
+用以	yyx yiq	4
+用以始	yyx yiq oiq	1
+用于	yyx yla	5
+暫	zac	3
+暫時	zac iia	2
+慚	zad	1
+殘	zaf	1
+殘羹	zaf kzs	1
+殘疾人	zaf zit nif	1
+槽	zaj	1
+昨	zak	6
+昨年	zak nef	1
+昨天	zak ref	5
+昨夜	zak yqz	3
+造	zau	7
+造車	zau eqa	2
+造成	zau its	1
+造詞	zau jia	1
+全	zcf	44
+泉	zcf	1
+全ᵗ	zcf `	1
+全屏	zcf bes	2
+全部	zcf boq	6
+全部	zcf buq	3
+全程	zcf dgs	1
+全稱	zcf eis	1
+全拼	zcf fes	2
+全票	zcf ftm	1
+全局	zcf ghk	24
+全市	zcf iiq	3
+全市的	zcf iiq tek	1
+全是	zcf itq	1
+全角	zcf kjk	1
+全國	zcf kpk	5
+全家	zcf kza	1
+全面	zcf mtv	1
+全碼	zcf mzq	4
+全惱	zcf nau	5
+全年	zcf nef	1
+全年給	zcf nef kkp	1
+全日	zcf nit	1
+全然	zcf ntf	1
+全世界	zcf otb kzn	3
+全班	zcf pzf	1
+全體	zcf req	5
+全選	zcf scv	1
+全新	zcf sif	5
+全都	zcf toa	3
+泉涌	zcf yyw	1
+全自動	zcf zin duw	2
+全在	zcf zly	1
+絕	zct	5
+絕導	zct dam	1
+絕望	zct mbs	1
+絕對	zct ton	3
+絕對值	zct ton dkk	1
+絕對不可能	zct ton pma xaq nls	1
+齊	zea	1
+齊諧	zea gzh	1
+前	zef	61
+前者	zef aqq	1
+前排	zef bzh	3
+前進	zef civ	1
+前提	zef dea	1
+前提引入	zef dea yir nip	10
+前途	zef doa	3
+前途出	zef doa eyt	1
+前期	zef gka	1
+前後	zef guz	6
+前後端	zef guz tsf	5
+前個	zef kaz	1
+前景	zef kgw	6
+前幾天	zef kjy ref	1
+前兩	zef lqw	0
+前兩列	zef lqw ltt	1
+前列腺	zef ltt stv	1
+前棉	zef mtf	1
+前面	zef mtv	12
+前年	zef nef	1
+前身	zef oif	2
+前半段	zef psv dsv	1
+前三	zef sad	0
+前三碼	zef sad mzq	3
+前線	zef stv	1
+前端	zef tsf	39
+前以	zef yiq	1
+寂寞	zek mak	3
+截	zet	2
+截圖	zet doa	1
+截距	zet gjq	1
+磁	zia	2
+磁屏	zia bes	1
+慈善	zia itr	1
+秦	zif	14
+秦人	zif nif	1
+垐	zik	3
+自	zin	27
+自主	zin apq	6
+自主研發	zin apq wef pbt	4
+自製	zin atb	2
+自准法	zin ayr pbp	2
+自拔	zin bdt	1
+自增	zin cls	3
+自找	zin czu	1
+自定義	zin dex wgz	10
+自治區	zin dka xla	1
+自動	zin duw	40
+自動化	zin duw hxz	1
+自吹	zin eca	1
+自處	zin ehq	1
+自豪	zin gaj	1
+自學	zin gjk	4
+自詡	zin hlq	2
+自習	zin jip	3
+自習課	zin jip xsz	1
+自已	zin jiq	1
+自減	zin kde	1
+自己	zin kkq	149
+自己隨着	zin kkq jca dwk	1
+自己的	zin kkq tek	2
+自古	zin koq	1
+自利	zin lin	1
+自理	zin liq	1
+自律	zin lyt	3
+自然	zin ntf	13
+自然是	zin ntf itq	0
+自身	zin oif	5
+自保	zin pau	1
+自發性	zin pbt stx	1
+自卑	zin pta	1
+自愛	zin qln	2
+自慰	zin qmn	1
+自殺	zin sdt	2
+自私	zin sih	5
+自修	zin sna	2
+自帶	zin tab	6
+嫉妒	zin toz	2
+自我	zin waq	3
+自以爲是	zin yiq yva itq	1
+自由	zin yna	46
+自由把	zin yna pzq	1
+自裁	zin zlh	1
+自從	zin zys	3
+集	zip	12
+集合	zip glp	2
+集會	zip gsb	15
+集體	zip req	2
+集中	zip tms	3
+集中消滅	zip tms stj mtt	1
+疾病	zit bgx	1
+字	ziz	49
+字符	ziz bla	33
+字符串	ziz bla ecv	41
+字跡	ziz ctk	2
+字段	ziz dsv	2
+字串	ziz ecv	2
+字母	ziz muq	18
+字體	ziz req	15
+字數	ziz slz	4
+字眼	ziz wdr	1
+字樣	ziz yqx	1
+助	zjz	8
+助學	zjz gjk	1
+助力	zjz lik	1
+助手	zjz onq	1
+助于	zjz yla	1
+岑	zkd	1
+仕	zkq	1
+士	zkq	1
+士別	zkq bgt	2
+事	zkz	45
+事件	zkz ggr	48
+事後	zkz guz	1
+事例	zkz ltb	2
+事實	zkz uit	10
+事業	zkz wwp	7
+事情	zkz zts	6
+雛	zla	2
+才	zlh	6
+纔	zlh	71
+裁	zlh	1
+纔會	zlh gsb	1
+纔是	zlh itq	12
+纔怪	zlh kxn	1
+才能	zlh nls	3
+纔能	zlh nls	47
+纔能過	zlh nls ksz	1
+纔能六種	zlh nls lnk ayw	2
+才能夠	zlh nls xua	1
+財富	zlh pmz	3
+財布	zlh poz	1
+財產	zlh sdr	34
+纔對	zlh ton	1
+纔去	zlh xjz	1
+裁員	zlh ymf	1
+賊	zlk	2
+在	zln	2
+雜	zlp	1
+雜誌	zlp aiz	1
+雜物	zlp mmt	1
+雜魚	zlp wja	1
+層	zls	3
+曾	zls	8
+曾經	zls kes	11
+曾能	zls nls	1
+層次	zls vin	1
+層層	zls zls	1
+在	zly	584
+在這	zly aqz	3
+在鋦	zly khk	1
+在家	zly kza	1
+在哪	zly naq	2
+在線	zly stv	2
+在此	zly vtq	1
+在我	zly waq	2
+在我這	zly waq aqz	1
+在于	zly yla	4
+在就是	zly znz itq	1
+愁	zma	4
+就	znz	396
+就昰	znz dtq	1
+就會	znz gsb	9
+就會有	znz gsb ymq	1
+就好	znz hau	2
+就好了	znz hau leu	1
+就是	znz itq	95
+就像	znz jqw	11
+就叫	znz kem	0
+就跟	znz klf	3
+就來	znz llh	1
+就能	znz nls	3
+就把	znz pzq	3
+就要	znz qtj	10
+就算	znz ssv	3
+就當	znz tas	0
+就得	znz tlk	2
+就業	znz wwp	13
+就可以	znz xaq yiq	1
+就有	znz ymq	2
+就有了	znz ymq leu	2
+就用	znz yyx	1
+就事	znz zkz	1
+徂	zoa	6
+存	zof	32
+存進	zof civ	2
+存進去	zof civ xjz	2
+存活	zof gst	1
+存豁	zof hst	1
+存高	zof kaj	1
+存摺	zof llp	0
+存摺自由	zof llp zin yna	1
+存放	zof pbx	3
+存到	zof tam	5
+存在	zof zly	21
+存在着	zof zly dwk	1
+摧	zoh	1
+摧殘	zoh zaf	1
+粗	zoq	2
+粗心	zoq sid	1
+罪過	zoy ksa	2
+罪名	zoy mts	3
+罪狀	zoy zwx	2
+牆	zqs	2
+牆外	zqs wsb	1
+佯言	zqs wwf	1
+𤜼	zrf	2
+坐	zsq	9
+坐着	zsq dwk	1
+坐車	zsq eqa	1
+坐牢	zsq laj	2
+坐落	zsq lak	1
+坐標	zsq ptj	3
+坐位	zsq yhn	1
+坐在	zsq zly	5
+座	zsz	1
+座位	zsz yhn	1
+潛	ztc	1
+潛移默化	ztd yta mlk hxz	1
+漸	zte	7
+漸變	zte pgv	1
+錢	ztf	14
+錢包	ztf pzj	1
+樵	ztj	1
+踐	ztr	2
+踐踏	ztr rlp	3
+情	zts	11
+請	zts	1
+情節	zts cet	2
+情形	zts ges	1
+情懷	zts gxh	1
+情況	zts hbx	6
+情緒	zts jhq	1
+情景	zts kgw	2
+情感	zts kle	1
+晴朗	zts law	1
+情侶	zts lhq	1
+情詩	zts oia	3
+情商	zts oqs	1
+情慾	zts yyk	1
+情狀	zts zwx	1
+靜	ztw	5
+靜穆	ztw mmk	5
+靜女	ztw njq	3
+靜態	ztw rln	10
+淨	ztx	2
+族	zuk	4
+叢	zus	1
+牀	zws	3
+牀上	zws iqw	2
+牀位	zws yhn	1
+狀況	zwx hbx	1
+狀態	zwx rln	6
+狀語	zwx wjq	1
+撰寫	zxr sqq	2
+萃也	zyn yqq	1
+從	zys	132
+從頭	zys dua	2
+從句	zys klz	2
+從古	zys koq	1
+從零	zys les	1
+從零開始	zys les xlh oiq	1
+從來	zys llh	21
+從令	zys lts	1
+從而	zys nia	3
+從人	zys nif	1
+從不	zys pmt	1
+從小	zys stu	3
+從中	zys tms	1
+從對對碰	zys ton ton fdx	1
+從此	zys vtq	3
+從事	zys zkz	2
+查	zza	17
+查證	zza aix	1
+查找	zza czu	9
+查重	zza dhs	8
+查重	zza dhw	3
+查處	zza ehq	1
+查出	zza eyt	1
+查詞	zza jia	8
+查尋	zza jid	6
+查詢	zza syf	3
+查到	zza tam	1
+查錯	zza voz	1
+查看	zza xaf	12
+查查	zza zza	1
+棧	zzv	1
+「	{	4

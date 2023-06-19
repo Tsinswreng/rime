@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Apr 20 18:11:07 2023"
+  modified_time: "Sun Jun 18 10:39:50 2023"
   rime_version: 1.5.3
 engine:
   "cangjie7-1":
@@ -35,6 +35,7 @@ patch:
     - {schema: hirakana}
     - {schema: katakana}
     - {schema: zyenphengToIpa}
+    - {schema: saffes}
 switcher:
   hotkeys:
     - {"Control+grave": commit_code}

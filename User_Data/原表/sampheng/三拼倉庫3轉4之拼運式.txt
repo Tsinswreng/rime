@@ -1,0 +1,12 @@
+- xform/(..)e(..)$/$1ɾ$2/
+- xform/(..)d(..)$/$1ḟ$2/
+- xform/(..)c(..)$/$1ⱱ$2/
+- xform/(..)r(..)$/$1ə$2/
+- xform/(..)f(..)$/$1ð$2/
+- xform/(..)v(..)$/$1ç$2/
+- xform/ɾ/r/
+- xform/ḟ/f/
+- xform/ⱱ/v/
+- xform/ə/e/
+- xform/ð/d/
+- xform/ç/c/

@@ -1,11 +1,12 @@
-#23.05.02-0957
+#23.06.18-1035
+#中古三拼4
 
 # Rime schema
 # encoding: utf-8
 # [23.06.16-2328,]<bug>{輸「mgsmmf<」旹、欲得「明紋」、肰輔助碼ˉ「<」ˋ不效。}
 schema:
-  schema_id: sadfes3-0
-  name: sadfes3-0
+  schema_id: saffes
+  name: saffes
   version: "" #
   author: Tsinswreng Gw'ang<2290019838@qq.com>
   #description: |-
@@ -14,7 +15,7 @@ schema:
   #供輸入之反查(segmentors, translator, recognizer)(recognizer`看ᵗtag`異於segmentors與translator厎):
   #recognizer中每項ᵗ正則表達式必須獨一無二、否則衝突?
     - nonKanji
-    - sadfesKzaVassuk
+    - saffesVassuk
     - cangjie7-1
     - cangjie7-1ForLookUp #全以大寫字母開頭、無前綴
     - hirakana
@@ -73,7 +74,7 @@ engine:
     - affix_segmentor@katakana
     - affix_segmentor@terra_pinyin
     - ascii_segmentor # 標識西文段落〔譬如在西文模式下〕字母直接上屛
-    #- affix_segmentor@sadfesKzaVassuk
+    #- affix_segmentor@saffesVassuk
     - affix_segmentor@cangjie7-1
     #- affix_segmentor@cangjie7-1ForLookUp 
     - affix_segmentor@emoji
@@ -95,7 +96,7 @@ engine:
     - table_translator@chineseDict
     - table_translator@nonKanji
     - script_translator@nonKanji
-    - script_translator@sadfesKzaVassuk
+    - script_translator@saffesVassuk
     - table_translator@emoji
     - script_translator@emoji
     - script_translator@terra_pinyin
@@ -108,7 +109,7 @@ engine:
     #- uniquifier
     #- reverse_lookup_filter@kana
     - reverse_lookup_filter@bsoc
-    - reverse_lookup_filter@sadfespz
+    - reverse_lookup_filter@saffespz
     - reverse_lookup_filter@terra_pinyinForDisplay
     - reverse_lookup_filter@dkzp
     - reverse_lookup_filter@starostin
@@ -143,8 +144,8 @@ speller:
 
 translator:
   #tag: global
-  dictionary: sadfes3-0 #sadfesKzaVassuk #sadfes3-0 #假言推理
-  prism: sadfes3-0
+  dictionary: saffes 
+  prism: saffes
   initial_quality: 99 #設定此翻譯器出字優先級
   user_dict: chineseDict
   spelling_hints: 8
@@ -204,7 +205,7 @@ chineseDict:
 
 abc_segmentor:
   extra_tags:
-    #- sadfesKzaVassuk 勿以此叶混輸 否則輸詞旹 縱未用輔助碼 其候選欄中ᵗ詞ˋ亦可能源從三拼倉速.dict洏非三拼.dict 可試ˌ關˪filter中ᵗuniquifier後試輸 「貴物」 一詞 可見兩「貴物」于候選欄 其一源從三拼, 另一源自三拼倉速 又因今尚未叶 三拼倉速與三拼共用戶詞典 故
+    #- saffesVassuk 勿以此叶混輸 否則輸詞旹 縱未用輔助碼 其候選欄中ᵗ詞ˋ亦可能源從三拼倉速.dict洏非三拼.dict 可試ˌ關˪filter中ᵗuniquifier後試輸 「貴物」 一詞 可見兩「貴物」于候選欄 其一源從三拼, 另一源自三拼倉速 又因今尚未叶 三拼倉速與三拼共用戶詞典 故
     - nonKanji
     #- cangjie7-1
     #- hirakana
@@ -279,10 +280,10 @@ cangjie7-1:
 #     #- reverse_lookup  # 與（反查碼）混打
 #     - reverse_lookup
 
-sadfesKzaVassuk:
-  tag: sadfesKzaVassuk
+saffesVassuk:
+  tag: saffesVassuk
   #tag: global
-  dictionary: sadfesKzaVassuk
+  dictionary: saffesVassuk
   prefix: ""
   #suffix: "%"
   tips: 〔三拼倉速〕
@@ -320,7 +321,7 @@ terra_pinyin:
 #tupa_reverse_lookup:
   #tags: [ luna_pinyin, jyut6ping3 ]
   #overwrite_comment: false
-  #dictionary: sadfes2.0 #tupa_unspaced
+  #dictionary: #tupa_unspaced
   #comment_format:
     #- xform/=/ /
 
@@ -513,8 +514,8 @@ dkzp:
     - xform/ʔ$/ˀ/
 
 
-sadfespz: #v23.03.15-2003
-  dictionary: zyenpheng #zyenphengToIpa #sadfes2.4-b #sadfes2.0
+saffespz: #v23.03.15-2003
+  dictionary: zyenpheng #zyenphengToIpa 
   #prefix: "`"
   #suffix: "'"
   overwrite_comment: true
@@ -642,6 +643,8 @@ sadfespz: #v23.03.15-2003
     - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
     - xform/い/ɨ/
     - xform/えだ/ə/
+    
+
     - xform/^ʰʉ/hʉ/
     - xform/ʷəj/ōj/
 
@@ -654,9 +657,9 @@ sadfespz: #v23.03.15-2003
     
     #- xlit/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
  
-# sadfes3-0:
-#   tag: sadfes3-0
-#   dictionary: sadfes3-0
+# saffes:
+#   tag: saffes
+#   dictionary: saffes
 #   prefix: ":"
 #   suffix: ""
 #   tips: 〔倉頡〕
@@ -683,7 +686,7 @@ recognizer:
   patterns:
     #unicode: "^U.*$"
     #translator: "^[a-z]+$"
-    sadfesKzaVassuk: "^[a-zA-Z<>]*$"
+    saffesVassuk: "^[a-zA-Z<>]*$"
     cangjie7-1: "^[a-z,\\.]+[1890;]*$" 
     hirakana: "^'[a-z]+$" 
     katakana: "^\"[a-zA-Z]+$" 
