@@ -3,3 +3,8 @@
 build/
 *.log
 *.userdb/
+User_Data/*.userdb/*
+*.old
+*/LOG
+*/CURRENT
+.ldb
